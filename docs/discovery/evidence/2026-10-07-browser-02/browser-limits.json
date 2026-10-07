@@ -1,0 +1,24 @@
+{
+  "observed_at": "2026-10-07T17:45:37.351Z",
+  "source_urls": [
+    "https://sterlingandwilsondc.com/",
+    "https://sterlingandwilsondc.com/smart-operations/"
+  ],
+  "capture_count": 24,
+  "award_next": {
+    "tag": "A",
+    "role": "button",
+    "href": null,
+    "tabIndex": 0,
+    "keyboard": "Playwright press Enter timed out; focus remained on project Next slide; keyboard activation not verified",
+    "pointer": "Click completed; screenshot/state captured; autoplay prevents deterministic transition attribution"
+  },
+  "mobile_escape": "Immediate transition snapshot retained popup; settled Close visibility false and focus returned to trigger",
+  "limits": [
+    "No full focus trap traversal",
+    "No deterministic carousel autoplay isolation",
+    "No screenshots at all routes or widths",
+    "Read-only page DOM; no copied/executed site JavaScript locally",
+    "No enquiries, uploads, owner decisions or migration parity tested"
+  ]
+}

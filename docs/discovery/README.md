@@ -8,6 +8,8 @@ The Phase 0 helpers use Python's standard library and curl; no app dependencies.
 
 Supplement: evidence/2026-10-07-gap-closure-01/ records 21 additional PDF availability checks, three homepage variants and careers destination. `gap_closure.py` collects this fixed scope once into a new directory and refuses overwrite; do not rerun collection. `python docs/discovery/gap_closure.py --apply` merges saved supplemental evidence offline and preserves source timestamps/approval fields. If rebuilding the original manifests with build_manifests.py, run this offline apply afterwards to restore supplemental columns/records. url_variants.csv is a separate alias manifest, not new content routes. OWNER-DECISIONS.md records the pending owner questions.
 
+Browser supplement: evidence/2026-10-07-browser-02/ holds 24 mobile/tablet JPEG/AX pairs, controlled FAQ trials and corrected title interpretation. `python docs/discovery/merge_browser_evidence.py` merges this saved evidence offline. Regeneration order: build_manifests.py, gap_closure.py --apply, merge_browser_evidence.py. Use explicit UTF-8 for all JSON/CSV reads; default Windows decoding caused an erroneous mojibake finding. Record settled visibility and focus after animation, not merely transient AX node presence. Browser snapshots and HTTP checks do not establish owner acceptance.
+
 ## Protocol
 
 Record observation date, exact source URL, access method and evidence location for every item. Empty manifests mean not yet audited, not no pages found.

@@ -1,0 +1,352 @@
+[
+  {
+    "name": "home-mobile-initial",
+    "source_url": "https://sterlingandwilsondc.com/",
+    "observed_at": "2026-10-07T17:41:17.889Z",
+    "action": "Set viewport to 390x844; inspect title and navigation",
+    "evidence": [
+      "docs/discovery/evidence/2026-10-07-browser-02/home-mobile-initial.ax.txt",
+      "docs/discovery/evidence/2026-10-07-browser-02/home-mobile-initial.jpg"
+    ],
+    "viewport": {
+      "width": 390,
+      "height": 844
+    }
+  },
+  {
+    "name": "home-mobile-menu-open",
+    "source_url": "https://sterlingandwilsondc.com/",
+    "observed_at": "2026-10-07T17:41:24.637Z",
+    "action": "Focus unnamed menu link and press Enter",
+    "evidence": [
+      "docs/discovery/evidence/2026-10-07-browser-02/home-mobile-menu-open.ax.txt",
+      "docs/discovery/evidence/2026-10-07-browser-02/home-mobile-menu-open.jpg"
+    ],
+    "viewport": {
+      "width": 390,
+      "height": 844
+    }
+  },
+  {
+    "name": "home-mobile-menu-tab",
+    "source_url": "https://sterlingandwilsondc.com/",
+    "observed_at": "2026-10-07T17:41:32.149Z",
+    "action": "Press Tab after menu opening; inspect focus",
+    "evidence": [
+      "docs/discovery/evidence/2026-10-07-browser-02/home-mobile-menu-tab.ax.txt",
+      "docs/discovery/evidence/2026-10-07-browser-02/home-mobile-menu-tab.jpg"
+    ],
+    "viewport": {
+      "width": 390,
+      "height": 844
+    }
+  },
+  {
+    "name": "home-mobile-services-enter",
+    "source_url": "https://sterlingandwilsondc.com/",
+    "observed_at": "2026-10-07T17:41:33.416Z",
+    "action": "Focus Services and press Enter",
+    "evidence": [
+      "docs/discovery/evidence/2026-10-07-browser-02/home-mobile-services-enter.ax.txt",
+      "docs/discovery/evidence/2026-10-07-browser-02/home-mobile-services-enter.jpg"
+    ],
+    "viewport": {
+      "width": 390,
+      "height": 844
+    }
+  },
+  {
+    "name": "home-mobile-menu-escape",
+    "source_url": "https://sterlingandwilsondc.com/",
+    "observed_at": "2026-10-07T17:41:34.596Z",
+    "action": "Press Escape after expanding Services",
+    "evidence": [
+      "docs/discovery/evidence/2026-10-07-browser-02/home-mobile-menu-escape.ax.txt",
+      "docs/discovery/evidence/2026-10-07-browser-02/home-mobile-menu-escape.jpg"
+    ],
+    "viewport": {
+      "width": 390,
+      "height": 844
+    }
+  },
+  {
+    "name": "home-mobile-escape-settled",
+    "source_url": "https://sterlingandwilsondc.com/",
+    "observed_at": "2026-10-07T17:41:45.740Z",
+    "action": "Inspect post-Escape visibility after previous transition snapshot",
+    "evidence": [
+      "docs/discovery/evidence/2026-10-07-browser-02/home-mobile-escape-settled.ax.txt",
+      "docs/discovery/evidence/2026-10-07-browser-02/home-mobile-escape-settled.jpg"
+    ],
+    "viewport": {
+      "width": 390,
+      "height": 844
+    }
+  },
+  {
+    "name": "home-tablet-initial",
+    "source_url": "https://sterlingandwilsondc.com/",
+    "observed_at": "2026-10-07T17:41:59.570Z",
+    "action": "Set viewport to 768x1024; inspect tablet menu",
+    "evidence": [
+      "docs/discovery/evidence/2026-10-07-browser-02/home-tablet-initial.ax.txt",
+      "docs/discovery/evidence/2026-10-07-browser-02/home-tablet-initial.jpg"
+    ],
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    }
+  },
+  {
+    "name": "home-tablet-menu-open",
+    "source_url": "https://sterlingandwilsondc.com/",
+    "observed_at": "2026-10-07T17:42:04.524Z",
+    "action": "Focus Menu Toggle and press Enter",
+    "evidence": [
+      "docs/discovery/evidence/2026-10-07-browser-02/home-tablet-menu-open.ax.txt",
+      "docs/discovery/evidence/2026-10-07-browser-02/home-tablet-menu-open.jpg"
+    ],
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    }
+  },
+  {
+    "name": "home-tablet-services-enter",
+    "source_url": "https://sterlingandwilsondc.com/",
+    "observed_at": "2026-10-07T17:42:11.390Z",
+    "action": "Focus tablet Services and press Enter",
+    "evidence": [
+      "docs/discovery/evidence/2026-10-07-browser-02/home-tablet-services-enter.ax.txt",
+      "docs/discovery/evidence/2026-10-07-browser-02/home-tablet-services-enter.jpg"
+    ],
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    }
+  },
+  {
+    "name": "home-tablet-services-escape",
+    "source_url": "https://sterlingandwilsondc.com/",
+    "observed_at": "2026-10-07T17:42:11.979Z",
+    "action": "Press Escape from expanded tablet Services",
+    "evidence": [
+      "docs/discovery/evidence/2026-10-07-browser-02/home-tablet-services-escape.ax.txt",
+      "docs/discovery/evidence/2026-10-07-browser-02/home-tablet-services-escape.jpg"
+    ],
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    }
+  },
+  {
+    "name": "home-tablet-menu-closed",
+    "source_url": "https://sterlingandwilsondc.com/",
+    "observed_at": "2026-10-07T17:42:44.448Z",
+    "action": "Press Enter on Menu Toggle to close main dropdown",
+    "evidence": [
+      "docs/discovery/evidence/2026-10-07-browser-02/home-tablet-menu-closed.ax.txt",
+      "docs/discovery/evidence/2026-10-07-browser-02/home-tablet-menu-closed.jpg"
+    ],
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    }
+  },
+  {
+    "name": "home-tablet-project-next-enter",
+    "source_url": "https://sterlingandwilsondc.com/",
+    "observed_at": "2026-10-07T17:42:45.721Z",
+    "action": "Press Enter on project Next slide; autoplay prevents causal slide timing guarantee",
+    "evidence": [
+      "docs/discovery/evidence/2026-10-07-browser-02/home-tablet-project-next-enter.ax.txt",
+      "docs/discovery/evidence/2026-10-07-browser-02/home-tablet-project-next-enter.jpg"
+    ],
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    }
+  },
+  {
+    "name": "home-tablet-award-enter-failed",
+    "source_url": "https://sterlingandwilsondc.com/",
+    "observed_at": "2026-10-07T17:43:05.315Z",
+    "action": "Playwright award Next press timed out; do not infer a successful keyboard activation",
+    "evidence": [
+      "docs/discovery/evidence/2026-10-07-browser-02/home-tablet-award-enter-failed.ax.txt",
+      "docs/discovery/evidence/2026-10-07-browser-02/home-tablet-award-enter-failed.jpg"
+    ],
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    }
+  },
+  {
+    "name": "home-tablet-award-next-click",
+    "source_url": "https://sterlingandwilsondc.com/",
+    "observed_at": "2026-10-07T17:43:06.852Z",
+    "action": "Pointer click on award Next after failed keyboard attempt",
+    "evidence": [
+      "docs/discovery/evidence/2026-10-07-browser-02/home-tablet-award-next-click.ax.txt",
+      "docs/discovery/evidence/2026-10-07-browser-02/home-tablet-award-next-click.jpg"
+    ],
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    }
+  },
+  {
+    "name": "home-mobile-project-next-enter",
+    "source_url": "https://sterlingandwilsondc.com/",
+    "observed_at": "2026-10-07T17:43:10.042Z",
+    "action": "Mobile project Next slide Enter",
+    "evidence": [
+      "docs/discovery/evidence/2026-10-07-browser-02/home-mobile-project-next-enter.ax.txt",
+      "docs/discovery/evidence/2026-10-07-browser-02/home-mobile-project-next-enter.jpg"
+    ],
+    "viewport": {
+      "width": 390,
+      "height": 844
+    }
+  },
+  {
+    "name": "smart-mobile-initial",
+    "source_url": "https://sterlingandwilsondc.com/smart-operations/",
+    "observed_at": "2026-10-07T17:43:22.672Z",
+    "action": "Navigate to Smart Operations at 390x844; inspect FAQ",
+    "evidence": [
+      "docs/discovery/evidence/2026-10-07-browser-02/smart-mobile-initial.ax.txt",
+      "docs/discovery/evidence/2026-10-07-browser-02/smart-mobile-initial.jpg"
+    ],
+    "viewport": {
+      "width": 390,
+      "height": 844
+    }
+  },
+  {
+    "name": "smart-mobile-faq-enter",
+    "source_url": "https://sterlingandwilsondc.com/smart-operations/",
+    "observed_at": "2026-10-07T17:43:47.092Z",
+    "action": "Focus first FAQ DIV and press Enter",
+    "evidence": [
+      "docs/discovery/evidence/2026-10-07-browser-02/smart-mobile-faq-enter.ax.txt",
+      "docs/discovery/evidence/2026-10-07-browser-02/smart-mobile-faq-enter.jpg"
+    ],
+    "viewport": {
+      "width": 390,
+      "height": 844
+    }
+  },
+  {
+    "name": "smart-mobile-faq-space",
+    "source_url": "https://sterlingandwilsondc.com/smart-operations/",
+    "observed_at": "2026-10-07T17:43:48.374Z",
+    "action": "Press Space on first FAQ DIV",
+    "evidence": [
+      "docs/discovery/evidence/2026-10-07-browser-02/smart-mobile-faq-space.ax.txt",
+      "docs/discovery/evidence/2026-10-07-browser-02/smart-mobile-faq-space.jpg"
+    ],
+    "viewport": {
+      "width": 390,
+      "height": 844
+    }
+  },
+  {
+    "name": "smart-mobile-faq-click",
+    "source_url": "https://sterlingandwilsondc.com/smart-operations/",
+    "observed_at": "2026-10-07T17:43:49.855Z",
+    "action": "Click first FAQ header",
+    "evidence": [
+      "docs/discovery/evidence/2026-10-07-browser-02/smart-mobile-faq-click.ax.txt",
+      "docs/discovery/evidence/2026-10-07-browser-02/smart-mobile-faq-click.jpg"
+    ],
+    "viewport": {
+      "width": 390,
+      "height": 844
+    }
+  },
+  {
+    "name": "smart-mobile-faq-settled",
+    "source_url": "https://sterlingandwilsondc.com/smart-operations/",
+    "observed_at": "2026-10-07T17:44:11.121Z",
+    "action": "Inspect FAQ after pointer transition",
+    "evidence": [
+      "docs/discovery/evidence/2026-10-07-browser-02/smart-mobile-faq-settled.ax.txt",
+      "docs/discovery/evidence/2026-10-07-browser-02/smart-mobile-faq-settled.jpg"
+    ],
+    "viewport": {
+      "width": 390,
+      "height": 844
+    }
+  },
+  {
+    "name": "smart-mobile-faq-enter-controlled",
+    "source_url": "https://sterlingandwilsondc.com/smart-operations/",
+    "observed_at": "2026-10-07T17:44:15.055Z",
+    "action": "Enter test after observed closed FAQ state",
+    "evidence": [
+      "docs/discovery/evidence/2026-10-07-browser-02/smart-mobile-faq-enter-controlled.ax.txt",
+      "docs/discovery/evidence/2026-10-07-browser-02/smart-mobile-faq-enter-controlled.jpg"
+    ],
+    "trial": {
+      "before": true,
+      "closedBeforeEnter": true,
+      "afterEnter": true
+    },
+    "viewport": {
+      "width": 390,
+      "height": 844
+    }
+  },
+  {
+    "name": "smart-mobile-faq-space-controlled",
+    "source_url": "https://sterlingandwilsondc.com/smart-operations/",
+    "observed_at": "2026-10-07T17:44:32.630Z",
+    "action": "Space test after observed closed FAQ state",
+    "evidence": [
+      "docs/discovery/evidence/2026-10-07-browser-02/smart-mobile-faq-space-controlled.ax.txt",
+      "docs/discovery/evidence/2026-10-07-browser-02/smart-mobile-faq-space-controlled.jpg"
+    ],
+    "trial": {
+      "closedBeforeSpace": true,
+      "afterSpace": true
+    },
+    "viewport": {
+      "width": 390,
+      "height": 844
+    }
+  },
+  {
+    "name": "smart-tablet-faq-initial",
+    "source_url": "https://sterlingandwilsondc.com/smart-operations/",
+    "observed_at": "2026-10-07T17:44:33.231Z",
+    "action": "Inspect FAQ after tablet resize",
+    "evidence": [
+      "docs/discovery/evidence/2026-10-07-browser-02/smart-tablet-faq-initial.ax.txt",
+      "docs/discovery/evidence/2026-10-07-browser-02/smart-tablet-faq-initial.jpg"
+    ],
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    }
+  },
+  {
+    "name": "smart-tablet-faq-enter-controlled",
+    "source_url": "https://sterlingandwilsondc.com/smart-operations/",
+    "observed_at": "2026-10-07T17:44:35.344Z",
+    "action": "Enter test from observed closed FAQ on tablet",
+    "evidence": [
+      "docs/discovery/evidence/2026-10-07-browser-02/smart-tablet-faq-enter-controlled.ax.txt",
+      "docs/discovery/evidence/2026-10-07-browser-02/smart-tablet-faq-enter-controlled.jpg"
+    ],
+    "trial": {
+      "before": true,
+      "closedBeforeEnter": true,
+      "afterEnter": true
+    },
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    }
+  }
+]

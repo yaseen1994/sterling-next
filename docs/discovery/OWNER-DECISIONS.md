@@ -2,6 +2,8 @@
 
 Requested 2026-10-07; all items below remain pending. No reply or approval has been inferred. Reply by ID; engineering will record explicit answers and update proposed scope. No credentials or personal applicant data are needed.
 
+Browser-pass review, 2026-10-07: no explicit D1–D8 answers received. D8 should use the latest REPORT.md qualifications: settled mobile Escape and controlled first-FAQ keyboard trials succeed in this sample; the earlier failures are not definitive. Do not approve a correction solely from the superseded observations. No acceptance status changed.
+
 - **D1 — Routes and content:** Review REPORT.md findings 1–3 and routes.csv. For held routes choose retain, exact redirect target, or retire/status; confirm copy, business metrics, projects, leadership, addresses, policies and missing critical pages. Page names alone are not disposition evidence.
 - **D2 — Media rights:** Confirm permission for logos, photographs, client media, Livvic font, hero video, PDFs and press clippings, or provide a clean sourcing plan. Availability/hash checks do not establish rights or safety.
 - **D3 — Editing:** Identify editors, update frequency and workflows for projects, news/events/blogs, careers and PDFs. Is developer-managed content acceptable, or is nontechnical editing required? CMS/database choice remains open until this is answered.

@@ -1,0 +1,14 @@
+{
+  "verified_at_utc": "2026-10-07T17:49:43+00:00",
+  "result": "pass",
+  "checks": [
+    "Original 191 and prior supplement 27 indexed evidence files unchanged; sizes/hashes pass",
+    "24 unique dated JPEG/AX pairs; two evidenced routes and requested mobile/tablet viewports",
+    "Five manifests: counts, unique keys, dates/methods/references; every previous field and approval preserved",
+    "Browser UTF-8 title/codepoints match all three unchanged UTF-8 variant evidence titles; default-decoding report corrected",
+    "Controlled mobile Enter/Space and tablet Enter FAQ trials each record closed-before/open-after visibility",
+    "Four helper syntax checks; browser offline merge idempotent; no application package exists"
+  ],
+  "new_evidence_files_indexed": 53,
+  "limits": "Self-review; no full focus trap/ARIA, deterministic carousel/reduced-motion behavior, all-route parity, media/security/rights, owner-only requirements or owner acceptance verified; award Enter tool timeout recorded"
+}
