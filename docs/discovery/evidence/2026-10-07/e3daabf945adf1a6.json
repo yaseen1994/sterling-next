@@ -1,0 +1,22 @@
+{
+  "source_url": "https://sterlingandwilsondc.com/wp-sitemap-taxonomies-category-1.xml",
+  "observed_at_utc": "2026-10-07T04:08:42+00:00",
+  "completed_at_utc": "2026-10-07T04:08:43+00:00",
+  "access_method": "curl.exe public HTTPS GET; no site code executed",
+  "discovered_from": [
+    "https://sterlingandwilsondc.com/wp-sitemap.xml"
+  ],
+  "http_status": 200,
+  "effective_url": "https://sterlingandwilsondc.com/wp-sitemap-taxonomies-category-1.xml",
+  "content_type": "application/xml; charset=UTF-8",
+  "curl_exit_code": 0,
+  "error": "",
+  "response_headers": [
+    "HTTP/1.1 200 OK",
+    "Date: Wed, 07 Oct 2026 04:08:43 GMT",
+    "Content-Type: application/xml; charset=UTF-8"
+  ],
+  "size_bytes": 267,
+  "response_sha256": "121ed4320d1375cef86b0a61a937757ea03be6d0dcffac3bbc8997f51eef0d1d",
+  "xml_text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<?xml-stylesheet type=\"text/xsl\" href=\"https://sterlingandwilsondc.com/wp-sitemap.xsl\" ?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"><url><loc>https://sterlingandwilsondc.com/category/blog/</loc></url></urlset>\n"
+}

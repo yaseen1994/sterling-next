@@ -1,0 +1,111 @@
+Browser tab: 1, Title: "Design & Build – Sterling & Wilson Data Center", URL: "https://sterlingandwilsondc.com/design-build/".
+0 AXWebArea Design & Build – Sterling & Wilson Data Center, URL: sterlingandwilsondc.com/design-build/
+	1 container
+		2 link Description: Skip to content, Value: sterlingandwilsondc.com/design-build/#content
+		3 container
+			4 link sterlingandwilsondc.com/
+			5 container Menu
+				6 content list menu-1-7cec98b
+					7 link Description: Home, Value: sterlingandwilsondc.com/
+					8 link (collapsed) Description: About Us, Value: sterlingandwilsondc.com/about-us/, ID: sm-17913466826683838-1, Secondary Actions: Expand
+					9 link Description: Projects, Value: sterlingandwilsondc.com/projects/
+					10 link (collapsed) Description: Services, Value: sterlingandwilsondc.com/design-build/#, ID: sm-17913466826683838-3, Secondary Actions: Expand
+					11 link (collapsed) Description: Media, Value: sterlingandwilsondc.com/design-build/#, ID: sm-17913466826683838-5, Secondary Actions: Expand
+					12 link Description: Careers, Value: sterlingandwilsondc.com/careers/
+					13 link Description: Contact, Value: sterlingandwilsondc.com/contact/
+		14 heading Design & Build, Value: 2
+			15 text Design & Build
+		16 container
+			17 container
+				18 heading Built for PERFORMANCE. Delivered with PRECISION., Value: 2
+					19 text Built for
+					20 text PERFORMANCE.
+					21 text Delivered with
+					22 text PRECISION.
+			23 container
+				24 text At Sterling & Wilson Data Center, we deliver turnkey design and build solutions that combine engineering excellence with execution speed. From greenfield projects to brownfield upgrades, our integrated approach ensures every element – from Civil Works and MEP to HVAC, IBMS, and Fire Safety – is seamlessly designed, installed, and commissioned. With dedicated in-house experts and trusted partners, we manage the full project lifecycle – design, procurement, construction, testing, and handover – ensuring every data center is built to perform from day one. Our solutions are scalable, compliant, and future-ready – tailored to meet the growing demands of hyperscale, edge, enterprise, and colocation facilities. From concept to commissioning, we build data centers that deliver reliability, efficiency, and long-term value.
+		25 container
+			26 heading Our EPC Advantage, Value: 2
+				27 text Our EPC Advantage
+		28 container
+			29 container
+				30 text Certified Design Excellence  for Tier-IV compliant designs
+			31 container
+				32 text Complete EPC Ownership  from concept to commissioning
+			33 container
+				34 text Seamless MEP + Civil Integration  under one roof
+			35 container
+				36 text Accelerated Build Timelines  with modular delivery
+			37 container
+				38 text Future-Ready Infrastructure  that scales with your growth
+		39 container
+			40 container
+				41 heading From Vision to Reality, Value: 1
+					42 text From Vision to Reality
+				43 heading Explore the data centers we’ve brought to life, Value: 3
+					44 text Explore the data centers we’ve brought to life
+				45 text Explore our success stories – see how we’ve transformed complex challenges into state-of-the-art, high-performance data centers.
+				46 link Description: View projects, Value: sterlingandwilsondc.com/projects/
+			47 container
+				48 content list
+					49 container swiper-wrapper-7c9103f325f63ad49
+						58 container 1 / 6
+							59 link Description: Global Colocation Data Center Pune, India, 2021, Value: sterlingandwilsondc.com/portfolios/global-colocation-data-center-pune-india-2021/
+						60 container 2 / 6
+							61 link Description: Bhamashah State Data Center Jaipur, India, 2019, Value: sterlingandwilsondc.com/portfolios/bhamashah-state-data-center-jaipur-india/
+						62 container 3 / 6
+							63 link Description: Raxio Data Center Kinshasa, DR Congo, 2024, Value: sterlingandwilsondc.com/portfolios/raxio-dr-congo/
+				64 button Previous slide
+					65 image Capa_1
+				66 button Next slide
+					67 image Capa_1
+		68 container
+			69 heading Let’s Build the Future of Data Infrastructure, Value: 2
+				70 text Let’s Build the Future of Data Infrastructure
+			71 heading From concept to completion — our experts are here to guide you, Value: 3
+				72 text From concept to completion — our experts are here to guide you
+			73 link Description: Enquire Now, Value: sterlingandwilsondc.com/contact/
+		74 container
+			75 container
+				76 link sterlingandwilsondc.com/
+				77 container
+					78 text Your trusted partner in designing, building
+					79 text and managing world-class data centers
+			80 container
+				81 heading About Us, Value: 2
+					82 text About Us
+				83 content list
+					84 link Description: Overview, Value: sterlingandwilsondc.com/about-us/
+					85 link Description: Awards & Recognitions, Value: sterlingandwilsondc.com/awards-recognitions/
+					86 link Description: Leadership, Value: sterlingandwilsondc.com/leadership/
+					87 link Description: Industry Memberships and Recognitions, Value: sterlingandwilsondc.com/industry-memberships-and-recognitions/
+				88 heading Projects, Value: 2
+					89 link Description: Projects, Value: sterlingandwilsondc.com/projects/
+			90 container
+				91 heading Services, Value: 2
+					92 text Services
+				93 content list
+					94 link Description: Design & Build, Value: sterlingandwilsondc.com/design-build/
+					95 link Description: Modular Construction, Value: sterlingandwilsondc.com/modular-construction/
+					96 link Description: Smart Operations, Value: sterlingandwilsondc.com/smart-operations/
+					97 link Description: Sustainable Execution, Value: sterlingandwilsondc.com/sustainable-execution/
+					98 link Description: O&M Services, Value: sterlingandwilsondc.com/om-services/
+			99 container
+				100 heading Media, Value: 2
+					101 text Media
+				102 content list
+					103 link Description: News & Press Release, Value: sterlingandwilsondc.com/news-press-release/
+					104 link Description: Events, Value: sterlingandwilsondc.com/events/
+				105 heading Careers, Value: 2
+					106 link Description: Careers, Value: sterlingandwilsondc.com/careers/
+				107 heading Contact, Value: 2
+					108 link Description: Contact, Value: sterlingandwilsondc.com/contact/
+			109 container
+				110 heading Let’s Connect, Value: 2
+					111 text Let’s Connect
+				112 link Description: Linkedin-in, Value: linkedin.com/company/sterling-and-wilson-data-center/
+				113 content list
+					114 link Description: Privacy Policy, Value: sterlingandwilsondc.com/privacy-policy/
+					115 link Description: HSE Policy, Value: sterlingandwilsondc.com/wp-content/uploads/2025/12/SW-HSE-Policy-June-2025.pdf
+
+The focused UI element is 0 AXWebArea Design & Build – Sterling & Wilson Data Center, URL: sterlingandwilsondc.com/design-build/

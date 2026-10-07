@@ -1,0 +1,22 @@
+{
+  "source_url": "https://sterlingandwilsondc.com/wp-sitemap-posts-teams-1.xml",
+  "observed_at_utc": "2026-10-07T04:08:40+00:00",
+  "completed_at_utc": "2026-10-07T04:08:41+00:00",
+  "access_method": "curl.exe public HTTPS GET; no site code executed",
+  "discovered_from": [
+    "https://sterlingandwilsondc.com/wp-sitemap.xml"
+  ],
+  "http_status": 200,
+  "effective_url": "https://sterlingandwilsondc.com/wp-sitemap-posts-teams-1.xml",
+  "content_type": "application/xml; charset=UTF-8",
+  "curl_exit_code": 0,
+  "error": "",
+  "response_headers": [
+    "HTTP/1.1 200 OK",
+    "Date: Wed, 07 Oct 2026 04:08:41 GMT",
+    "Content-Type: application/xml; charset=UTF-8"
+  ],
+  "size_bytes": 1147,
+  "response_sha256": "579c18f02785094ae0e98e29c6e682f631f1e6eae7e274879a97b369fdfd9a0f",
+  "xml_text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<?xml-stylesheet type=\"text/xsl\" href=\"https://sterlingandwilsondc.com/wp-sitemap.xsl\" ?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"><url><loc>https://sterlingandwilsondc.com/teams/prasanna-sarambale/</loc><lastmod>2025-07-09T06:56:28+00:00</lastmod></url><url><loc>https://sterlingandwilsondc.com/teams/rajeev-roy/</loc><lastmod>2025-07-09T06:56:17+00:00</lastmod></url><url><loc>https://sterlingandwilsondc.com/teams/ravindra-bapat/</loc><lastmod>2025-07-09T06:55:02+00:00</lastmod></url><url><loc>https://sterlingandwilsondc.com/teams/p-v-prasanth/</loc><lastmod>2025-07-09T06:56:55+00:00</lastmod></url><url><loc>https://sterlingandwilsondc.com/teams/ninad-bhise/</loc><lastmod>2025-07-09T06:56:55+00:00</lastmod></url><url><loc>https://sterlingandwilsondc.com/teams/rahul-deshpande/</loc><lastmod>2025-07-09T06:57:04+00:00</lastmod></url><url><loc>https://sterlingandwilsondc.com/teams/ranjit-gajare/</loc><lastmod>2025-07-09T06:57:14+00:00</lastmod></url><url><loc>https://sterlingandwilsondc.com/teams/awadhesh-sharma/</loc><lastmod>2025-07-09T06:57:25+00:00</lastmod></url></urlset>\n"
+}

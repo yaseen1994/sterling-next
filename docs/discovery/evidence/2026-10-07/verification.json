@@ -1,0 +1,23 @@
+{
+  "verified_at_utc": "2026-10-07T04:29:39+00:00",
+  "result": "pass",
+  "manifest_counts": {
+    "routes.csv": 85,
+    "seo.csv": 72,
+    "assets.csv": 742,
+    "interactions.csv": 111
+  },
+  "evidence_files_indexed": 191,
+  "checks": [
+    "routes.csv: schema, unique keys, timestamps/methods and evidence references pass",
+    "seo.csv: schema, unique keys, timestamps/methods and evidence references pass",
+    "assets.csv: schema, unique keys, timestamps/methods and evidence references pass",
+    "interactions.csv: schema, unique keys, timestamps/methods and evidence references pass",
+    "All 68 sitemap URLs reconciled; exactly three content 404s; eight hashed checks",
+    "All 18 main routes have desktop evidence; every JPEG signature/AX file exists",
+    "Screenshot format mismatch found in first check and corrected to JPEG extensions before delivery",
+    "No route disposition or media permission marked accepted",
+    "Both audit helpers pass Python syntax compilation; no app checks applicable"
+  ],
+  "limitations": "No app lint/typecheck/build/test scripts exist. No form submission, media decoding/content review, malware scan, external link completeness, owner-only SEO checks or owner acceptance."
+}

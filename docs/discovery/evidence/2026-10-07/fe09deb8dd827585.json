@@ -1,0 +1,22 @@
+{
+  "source_url": "https://sterlingandwilsondc.com/wp-sitemap-posts-portfolios-1.xml",
+  "observed_at_utc": "2026-10-07T04:08:26+00:00",
+  "completed_at_utc": "2026-10-07T04:08:26+00:00",
+  "access_method": "curl.exe public HTTPS GET; no site code executed",
+  "discovered_from": [
+    "https://sterlingandwilsondc.com/wp-sitemap.xml"
+  ],
+  "http_status": 200,
+  "effective_url": "https://sterlingandwilsondc.com/wp-sitemap-posts-portfolios-1.xml",
+  "content_type": "application/xml; charset=UTF-8",
+  "curl_exit_code": 0,
+  "error": "",
+  "response_headers": [
+    "HTTP/1.1 200 OK",
+    "Date: Wed, 07 Oct 2026 04:08:27 GMT",
+    "Content-Type: application/xml; charset=UTF-8"
+  ],
+  "size_bytes": 3170,
+  "response_sha256": "b9cc1178fa1f4b90be03051bca256872d48c5b584439462babb0dd857a086ab0",
+  "xml_text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<?xml-stylesheet type=\"text/xsl\" href=\"https://sterlingandwilsondc.com/wp-sitemap.xsl\" ?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"><url><loc>https://sterlingandwilsondc.com/portfolios/global-colocation-data-center-pune-india-2021/</loc><lastmod>2025-08-07T07:17:25+00:00</lastmod></url><url><loc>https://sterlingandwilsondc.com/portfolios/bhamashah-state-data-center-jaipur-india/</loc><lastmod>2025-07-24T11:48:32+00:00</lastmod></url><url><loc>https://sterlingandwilsondc.com/portfolios/raxio-dr-congo/</loc><lastmod>2025-07-24T11:49:12+00:00</lastmod></url><url><loc>https://sterlingandwilsondc.com/portfolios/hyperscaler-data-center-hyderabad-india/</loc><lastmod>2025-07-24T11:50:25+00:00</lastmod></url><url><loc>https://sterlingandwilsondc.com/portfolios/edgnex-data-center-dammam-ksa-2021/</loc><lastmod>2025-07-24T11:51:07+00:00</lastmod></url><url><loc>https://sterlingandwilsondc.com/portfolios/telecom-egypt-cloud-hub-dc-cairo-egypt/</loc><lastmod>2025-09-25T06:44:15+00:00</lastmod></url><url><loc>https://sterlingandwilsondc.com/portfolios/vodafone-india-limited-chennai-india/</loc><lastmod>2025-07-24T11:52:19+00:00</lastmod></url><url><loc>https://sterlingandwilsondc.com/portfolios/hyperscaler-data-center-mumbai-india-2021/</loc><lastmod>2025-07-24T11:53:54+00:00</lastmod></url><url><loc>https://sterlingandwilsondc.com/portfolios/global-colocation-data-center-chennai-india/</loc><lastmod>2025-07-24T11:55:18+00:00</lastmod></url><url><loc>https://sterlingandwilsondc.com/portfolios/global-colocation-data-center-navi-mumbai-india/</loc><lastmod>2025-07-24T11:55:46+00:00</lastmod></url><url><loc>https://sterlingandwilsondc.com/portfolios/mainone-dc-accra-ghana/</loc><lastmod>2025-07-24T11:56:15+00:00</lastmod></url><url><loc>https://sterlingandwilsondc.com/portfolios/national-securities-depository-ltd-nsdl-bangalore-india/</loc><lastmod>2025-09-25T12:07:41+00:00</lastmod></url><url><loc>https://sterlingandwilsondc.com/portfolios/national-stock-exchange-chennai-india/</loc><lastmod>2025-07-31T12:24:09+00:00</lastmod></url><url><loc>https://sterlingandwilsondc.com/portfolios/telecom-egypt-nn1-cairo-egypt/</loc><lastmod>2025-07-24T11:58:49+00:00</lastmod></url><url><loc>https://sterlingandwilsondc.com/portfolios/national-information-center-nic-hyderabad-india/</loc><lastmod>2025-07-24T11:59:27+00:00</lastmod></url><url><loc>https://sterlingandwilsondc.com/portfolios/vodafone-vois-cairo-egypt/</loc><lastmod>2025-07-24T11:59:51+00:00</lastmod></url><url><loc>https://sterlingandwilsondc.com/portfolios/colocation-data-center-navi-mumbai-india-2025/</loc><lastmod>2025-07-24T12:00:18+00:00</lastmod></url><url><loc>https://sterlingandwilsondc.com/portfolios/faisal-islamic-bank-cairo-egypt/</loc><lastmod>2025-07-24T12:03:55+00:00</lastmod></url><url><loc>https://sterlingandwilsondc.com/portfolios/etisalat-db-telecom-mumbai-jaipur-ahmedabad-lucknow-ambala-india/</loc><lastmod>2025-07-24T12:04:30+00:00</lastmod></url><url><loc>https://sterlingandwilsondc.com/portfolios/software-technology-parks-of-india-stpi/</loc><lastmod>2025-07-24T12:05:52+00:00</lastmod></url></urlset>\n"
+}

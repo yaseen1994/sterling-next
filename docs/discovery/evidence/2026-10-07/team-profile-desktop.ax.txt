@@ -1,0 +1,61 @@
+Browser tab: 1, Title: "Prasanna Sarambale – Sterling & Wilson Data Center", URL: "https://sterlingandwilsondc.com/teams/prasanna-sarambale/".
+1 AXWebArea Prasanna Sarambale – Sterling & Wilson Data Center, URL: sterlingandwilsondc.com/teams/prasanna-sarambale/
+	2 container
+		3 link Description: Skip to content, Value: sterlingandwilsondc.com/teams/prasanna-sarambale/#content
+		4 container
+			5 link sterlingandwilsondc.com/
+			6 container Menu
+				7 content list menu-1-7cec98b
+					8 link Description: Home, Value: sterlingandwilsondc.com/
+					9 link (collapsed) Description: About Us, Value: sterlingandwilsondc.com/about-us/, ID: sm-17913467388016016-1, Secondary Actions: Expand
+					10 link Description: Projects, Value: sterlingandwilsondc.com/projects/
+					11 link (collapsed) Description: Services, Value: sterlingandwilsondc.com/teams/prasanna-sarambale/#, ID: sm-17913467388016016-3, Secondary Actions: Expand
+					12 link (collapsed) Description: Media, Value: sterlingandwilsondc.com/teams/prasanna-sarambale/#, ID: sm-17913467388016016-5, Secondary Actions: Expand
+					13 link Description: Careers, Value: sterlingandwilsondc.com/careers/
+					14 link Description: Contact, Value: sterlingandwilsondc.com/contact/
+		15 heading Prasanna Sarambale, Value: 1
+			16 text Prasanna Sarambale
+		17 container
+			18 container
+				19 link sterlingandwilsondc.com/
+				20 container
+					21 text Your trusted partner in designing, building
+					22 text and managing world-class data centers
+			23 container
+				24 heading About Us, Value: 2
+					25 text About Us
+				26 content list
+					27 link Description: Overview, Value: sterlingandwilsondc.com/about-us/
+					28 link Description: Awards & Recognitions, Value: sterlingandwilsondc.com/awards-recognitions/
+					29 link Description: Leadership, Value: sterlingandwilsondc.com/leadership/
+					30 link Description: Industry Memberships and Recognitions, Value: sterlingandwilsondc.com/industry-memberships-and-recognitions/
+				31 heading Projects, Value: 2
+					32 link Description: Projects, Value: sterlingandwilsondc.com/projects/
+			33 container
+				34 heading Services, Value: 2
+					35 text Services
+				36 content list
+					37 link Description: Design & Build, Value: sterlingandwilsondc.com/design-build/
+					38 link Description: Modular Construction, Value: sterlingandwilsondc.com/modular-construction/
+					39 link Description: Smart Operations, Value: sterlingandwilsondc.com/smart-operations/
+					40 link Description: Sustainable Execution, Value: sterlingandwilsondc.com/sustainable-execution/
+					41 link Description: O&M Services, Value: sterlingandwilsondc.com/om-services/
+			42 container
+				43 heading Media, Value: 2
+					44 text Media
+				45 content list
+					46 link Description: News & Press Release, Value: sterlingandwilsondc.com/news-press-release/
+					47 link Description: Events, Value: sterlingandwilsondc.com/events/
+				48 heading Careers, Value: 2
+					49 link Description: Careers, Value: sterlingandwilsondc.com/careers/
+				50 heading Contact, Value: 2
+					51 link Description: Contact, Value: sterlingandwilsondc.com/contact/
+			52 container
+				53 heading Let’s Connect, Value: 2
+					54 text Let’s Connect
+				55 link Description: Linkedin-in, Value: linkedin.com/company/sterling-and-wilson-data-center/
+				56 content list
+					57 link Description: Privacy Policy, Value: sterlingandwilsondc.com/privacy-policy/
+					58 link Description: HSE Policy, Value: sterlingandwilsondc.com/wp-content/uploads/2025/12/SW-HSE-Policy-June-2025.pdf
+
+The focused UI element is 1 AXWebArea Prasanna Sarambale – Sterling & Wilson Data Center, URL: sterlingandwilsondc.com/teams/prasanna-sarambale/

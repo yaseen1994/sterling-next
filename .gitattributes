@@ -1,0 +1,2 @@
+# Keep dated public evidence byte-for-byte, including captured whitespace.
+docs/discovery/evidence/** -text -whitespace

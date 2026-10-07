@@ -1,0 +1,27 @@
+{
+  "source_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/Our-Company.jpg",
+  "observed_at_utc": "2026-10-07T04:13:59+00:00",
+  "completed_at_utc": "2026-10-07T04:14:00+00:00",
+  "access_method": "curl.exe public HTTPS GET; no site code executed",
+  "discovered_from": [
+    "https://sterlingandwilsondc.com/",
+    "https://sterlingandwilsondc.com/elementor-hf/my-custom-footer/",
+    "https://sterlingandwilsondc.com/home-copy/",
+    "https://sterlingandwilsondc.com/home-duplicate/"
+  ],
+  "http_status": 200,
+  "effective_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/Our-Company.jpg",
+  "content_type": "image/jpeg",
+  "curl_exit_code": 0,
+  "error": "",
+  "response_headers": [
+    "HTTP/1.1 200 OK",
+    "Date: Wed, 07 Oct 2026 04:14:00 GMT",
+    "Last-Modified: Wed, 06 Aug 2025 11:05:38 GMT",
+    "Content-Length: 86587",
+    "Content-Type: image/jpeg"
+  ],
+  "size_bytes": 86587,
+  "response_sha256": "a07a6d9a912e5c9cb07b26cac152764c3994e55ebe9d5fa3a006ca8121d2d63b",
+  "first_16_bytes_hex": "ffd8ffe000104a464946000102010060"
+}

@@ -1,0 +1,354 @@
+Browser tab: 1, Title: "Events – Sterling & Wilson Data Center", URL: "https://sterlingandwilsondc.com/events/".
+1 AXWebArea Events – Sterling & Wilson Data Center, URL: sterlingandwilsondc.com/events/
+	2 container
+		3 link Description: Skip to content, Value: sterlingandwilsondc.com/events/#content
+		4 container
+			5 link sterlingandwilsondc.com/
+			6 container Menu
+				7 content list menu-1-7cec98b
+					8 link Description: Home, Value: sterlingandwilsondc.com/
+					9 link (collapsed) Description: About Us, Value: sterlingandwilsondc.com/about-us/, ID: sm-1791346742788579-1, Secondary Actions: Expand
+					10 link Description: Projects, Value: sterlingandwilsondc.com/projects/
+					11 link (collapsed) Description: Services, Value: sterlingandwilsondc.com/events/#, ID: sm-1791346742788579-3, Secondary Actions: Expand
+					12 link (collapsed) Description: Media, Value: sterlingandwilsondc.com/events/#, ID: sm-1791346742788579-5, Secondary Actions: Expand
+					13 link Description: Careers, Value: sterlingandwilsondc.com/careers/
+					14 link Description: Contact, Value: sterlingandwilsondc.com/contact/
+		15 heading Events, Value: 2
+			16 text Events
+		17 container
+			18 container
+				19 container Slides
+					20 container swiper-wrapper-1f1badaf671041fa
+						21 container 2 / 2
+							22 image Panel Discussion
+						23 container 1 / 2
+							24 image 2
+						25 container 2 / 2
+							26 image Panel Discussion
+						27 container 1 / 2
+							28 image 2
+					29 button Previous slide
+					30 button Next slide
+				31 container
+					32 text Prasanna Sarambale spearheads AI and Digital Infrastructure discussion at Singularity Summit 2026
+					33 content list
+						34 text April 2026
+					35 content list
+						36 text Mumbai, India
+					37 text Prasanna Sarambale, CEO – Sterling & Wilson Data Center recently participated in the Singularity Summit, engaging with global industry leaders and technology experts on the future of AI-driven infrastructure, digital transformation, and next-generation data centres.
+					38 text The summit provided valuable insights into emerging trends shaping hyperscale, sustainable, and AI-ready digital infrastructure ecosystems worldwide.
+			39 container
+				40 container Slides
+					41 container swiper-wrapper-ec540e1a4658c74a
+						42 container 2 / 2
+							43 image feb
+						44 container 1 / 2
+							45 image feb
+						46 container 2 / 2
+							47 image feb
+						48 container 1 / 2
+							49 image feb
+					50 button Previous slide
+					51 button Next slide
+				52 container
+					53 text Capacity Middle East 2026
+					54 content list
+						55 text February 2026
+					56 content list
+						57 text Dubai, UAE
+					58 text Sterling & Wilson Data Center participated in Capacity Middle East 2026, marking three days of industry engagement in Dubai.
+					59 text The team connected with key stakeholders, explored collaboration opportunities, and exchanged insights on evolving telecom and digital infrastructure trends in the region.
+			60 container
+				61 container Slides
+					62 container swiper-wrapper-e3adf3dcb97ecab2
+						63 container 2 / 2
+							64 image jan
+						65 container 1 / 2
+							66 image jan
+						67 container 2 / 2
+							68 image jan
+						69 container 1 / 2
+							70 image jan
+					71 button Previous slide
+					72 button Next slide
+				73 container
+					74 text Data Center Nation Riyadh 2026
+					75 content list
+						76 text January 2026
+					77 content list
+						78 text Riyadh, Saudi Arabia
+					79 container
+						80 text Sterling & Wilson Data Center participated in a panel discussion on “Future-Proof Delivery: The New Execution Model for High-Speed, High-Quality Data Centre Builds .”  and showcased its solutions at the event.
+					81 text The event continues to be a key meeting point for hyperscalers, investors, and enterprise data centre end-users in Saudi Arabia, enabling meaningful conversations around the future of digital infrastructure.
+			82 container
+				83 container Slides
+					84 container swiper-wrapper-8d2ef2dc45bcb555
+						85 container 2 / 2
+							86 image novem
+						87 container 1 / 2
+							88 image novem
+						89 container 2 / 2
+							90 image novem
+						91 container 1 / 2
+							92 image novem
+					93 button Previous slide
+					94 button Next slide
+				95 container
+					96 text AfricaCom 2025
+					97 content list
+						98 text November 2025
+					99 content list
+						100 text Cape Town, South Africa
+					101 text Sterling & Wilson Data Center participated in AfricaCom 2025 – Africa Tech Festival, held at Cape Town International Convention Centre. The event enabled meaningful engagement with industry leaders driving Africa’s digital transformation.
+					102 text Discussions focused on turnkey, sustainable, and secure data centre solutions aligned with the continent’s evolving infrastructure needs.
+			103 container
+				104 container Slides
+					105 container swiper-wrapper-cb5e101f4b2aad3a
+						106 container 2 / 2
+							107 image oct-1
+						108 container 1 / 2
+							109 image oct-1
+						110 container 2 / 2
+							111 image oct-1
+						112 container 1 / 2
+							113 image oct-1
+					114 button Previous slide
+					115 button Next slide
+				116 container
+					117 text Data Centre World Asia 2025
+					118 content list
+						119 text October 2025
+					120 content list
+						121 text Marina Bay Sands, Singapore
+					122 container
+						123 text Sterling & Wilson Data Center exhibited at Data Centre World Asia 2025, held at
+						124 text Marina Bay Sands. As the Media & Speaker Lounge Sponsor, the team supported a
+						125 text space for meaningful engagement with global industry leaders.
+						126 text The event enabled key conversations, knowledge exchange, and showcased our
+						127 text focus on sustainable and scalable data centre solutions for the region.
+			128 container
+				129 container Slides
+					130 container swiper-wrapper-28b604a7f206142a
+						131 container 11 / 11
+							132 image 44
+						133 container 1 / 11
+							134 image 34
+						135 container 2 / 11
+							136 image 35
+						137 container 3 / 11
+							138 container 36
+						139 container 4 / 11
+							140 container 37
+						141 container 5 / 11
+							142 container 38
+						143 container 6 / 11
+							144 container 39
+						145 container 7 / 11
+							146 container 40
+						147 container 8 / 11
+							148 container 41
+						149 container 9 / 11
+							150 container 42
+						151 container 10 / 11
+							152 container 43
+						153 container 11 / 11
+							154 image 44
+						155 container 1 / 11
+							156 image 34
+					157 button Previous slide
+					158 button Next slide
+				159 container
+					160 text SWDC’s Resurgence Leadership Conclave 2025
+					161 content list
+						162 text 27 Feb 2025
+					163 content list
+						164 text Lotus Ballroom, Jio World Convention Center, Mumbai
+					165 text SWDC launched the Resurgence Leadership Conclave 2025 – an initiative focused on resilience, innovation, and leadership in the data center industry. The event brought together industry leaders and stakeholders for insightful discussions and strategic collaboration, setting the tone for a transformative future.
+			166 container
+				167 container Slides
+					168 container swiper-wrapper-10b355110cd1e10827a
+						169 container 10 / 10
+							170 image 27
+						171 container 1 / 10
+							172 image 18
+						173 container 2 / 10
+							174 image 19
+						175 container 3 / 10
+							176 container 20
+						177 container 4 / 10
+							178 container 21
+						179 container 5 / 10
+							180 container 22
+						181 container 6 / 10
+							182 container 23
+						183 container 7 / 10
+							184 container 24
+						185 container 8 / 10
+							186 container 25
+						187 container 9 / 10
+							188 container 26
+						189 container 10 / 10
+							190 image 27
+						191 container 1 / 10
+							192 image 18
+					193 button Previous slide
+					194 button Next slide
+				195 container
+					196 text Capacity Middle East 2025
+					197 content list
+						198 text 4 to 6 Feb 2025
+					199 content list
+						200 text Grand HyattDubai – Conference & Exhibition Center, UAE
+					201 text Sterling & Wilson Data Center participated in Capacity Middle East 2025 in Dubai, marking three impactful days of industry engagement. The team connected with key stakeholders, explored collaboration opportunities, and discussed emerging telecom and data infrastructure trends.
+			202 container
+				203 container Slides
+					204 container swiper-wrapper-56d81f6d7e1f2f67
+						205 container 6 / 6
+							206 image 33
+						207 container 1 / 6
+							208 image 28
+						209 container 2 / 6
+							210 image 29
+						211 container 3 / 6
+							212 container 30
+						213 container 4 / 6
+							214 container 31
+						215 container 5 / 6
+							216 container 32
+						217 container 6 / 6
+							218 image 33
+						219 container 1 / 6
+							220 image 28
+					221 button Previous slide
+					222 button Next slide
+				223 container
+					224 text Data Center Nation Riyadh 2025
+					225 content list
+						226 text 21 Jan 2025
+					227 content list
+						228 text Mandarin Oriental Al Faisaliah, Saudi Arabia
+					229 text SWDC joined as Platinum Sponsor and led a panel on “Bringing Predictability to Data Center Project Development,” focusing on AI, sustainability, and streamlined contracting. We created a positive impact at this event, which is one of the most influential meeting points for hyperscalers, investors and enterprise data center end-users in Saudi Arabia.
+			230 container
+				231 container Slides
+					232 container swiper-wrapper-fa1e7b7feb55eb32
+						233 container 7 / 7
+							234 image 11
+						235 container 1 / 7
+							236 image 5
+						237 container 2 / 7
+							238 image 6
+						239 container 3 / 7
+						240 container 4 / 7
+							241 container 8
+						242 container 5 / 7
+							243 container 9
+						244 container 6 / 7
+							245 container 10
+						246 container 7 / 7
+							247 image 11
+						248 container 1 / 7
+							249 image 5
+					250 button Previous slide
+					251 button Next slide
+				252 container
+					253 text AIDC Expo 2024
+					254 content list
+						255 text 17 to 20 Nov 2024
+					256 content list
+						257 text Egypt International Exhibition Center, New Cairo
+					258 text We participated in the AI, Data Centers and Cloud Conference and Exhibition (AIDC) 2024, a premier event focusing on AI, Data Centers and Cloud. Ranjit Gajare, Head Data Center, International BD & Sales participated in a panel discussion on “The Future of Modern & Mega Data Centres” alongside other leading personalities from the DC industry.
+			259 container
+				260 container Slides
+					261 container swiper-wrapper-b73040be11b84e3b
+						262 container 6 / 6
+							263 image 17
+						264 container 1 / 6
+							265 image 12
+						266 container 2 / 6
+							267 image 13
+						268 container 3 / 6
+							269 container 14
+						270 container 4 / 6
+							271 container 15
+						272 container 5 / 6
+							273 container 16
+						274 container 6 / 6
+							275 image 17
+						276 container 1 / 6
+							277 image 12
+					278 button Previous slide
+					279 button Next slide
+				280 container
+					281 text Data Centre World Asia 2024
+					282 content list
+						283 text 9 to 10 Oct 2024
+					284 content list
+						285 text Marina Bay Sands Expo & Convention Centre, Singapore
+					286 text Sterling & Wilson Data Centeralong with its sister company,Sterling Generators jointly participated as a Gold Sponsorin South East Asia’s largest Data Centre exhibition – Data Centre World Asia. It was agreat opportunity for both the teams to network and meet key clients and partners. Mr. Prasanna Sarambale, CEO, SWDC delivered a keynote presentation at the event and delved upon the important topic of “Deploying Data Centres in Emerging Markets”.
+			287 container
+				288 container Slides
+					289 container swiper-wrapper-2aabec183f190cc4
+						290 container 4 / 4
+							347 image 4
+						291 container 1 / 4
+							348 image 1
+						292 container 2 / 4
+							349 image 2
+						293 container 3 / 4
+						294 container 4 / 4
+							350 image 4
+						295 container 1 / 4
+							351 image 1
+					296 button Previous slide
+					297 button Next slide
+				298 container
+					299 text International Telecoms Week (ITW) 2024
+					300 content list
+						301 text 10 to 12 Sep 2024
+					302 content list
+						303 text Radisson Blu Hotel, Nairobi, Kenya
+					304 text SWDC team engaged with customers and industry leaders at the International Telecoms Week (ITW). The event provided a platform for meaningful connections and insights with the key stakeholders, showcasing the team’s commitment to innovation and excellence in meeting the evolving demands of the data infrastructure industry.
+		305 container
+			306 container
+				307 link sterlingandwilsondc.com/
+				308 container
+					309 text Your trusted partner in designing, building
+					310 text and managing world-class data centers
+			311 container
+				312 heading About Us, Value: 2
+					313 text About Us
+				314 content list
+					315 link Description: Overview, Value: sterlingandwilsondc.com/about-us/
+					316 link Description: Awards & Recognitions, Value: sterlingandwilsondc.com/awards-recognitions/
+					317 link Description: Leadership, Value: sterlingandwilsondc.com/leadership/
+					318 link Description: Industry Memberships and Recognitions, Value: sterlingandwilsondc.com/industry-memberships-and-recognitions/
+				319 heading Projects, Value: 2
+					320 link Description: Projects, Value: sterlingandwilsondc.com/projects/
+			321 container
+				322 heading Services, Value: 2
+					323 text Services
+				324 content list
+					325 link Description: Design & Build, Value: sterlingandwilsondc.com/design-build/
+					326 link Description: Modular Construction, Value: sterlingandwilsondc.com/modular-construction/
+					327 link Description: Smart Operations, Value: sterlingandwilsondc.com/smart-operations/
+					328 link Description: Sustainable Execution, Value: sterlingandwilsondc.com/sustainable-execution/
+					329 link Description: O&M Services, Value: sterlingandwilsondc.com/om-services/
+			330 container
+				331 heading Media, Value: 2
+					332 text Media
+				333 content list
+					334 link Description: News & Press Release, Value: sterlingandwilsondc.com/news-press-release/
+					335 link Description: Events, Value: sterlingandwilsondc.com/events/
+				336 heading Careers, Value: 2
+					337 link Description: Careers, Value: sterlingandwilsondc.com/careers/
+				338 heading Contact, Value: 2
+					339 link Description: Contact, Value: sterlingandwilsondc.com/contact/
+			340 container
+				341 heading Let’s Connect, Value: 2
+					342 text Let’s Connect
+				343 link Description: Linkedin-in, Value: linkedin.com/company/sterling-and-wilson-data-center/
+				344 content list
+					345 link Description: Privacy Policy, Value: sterlingandwilsondc.com/privacy-policy/
+					346 link Description: HSE Policy, Value: sterlingandwilsondc.com/wp-content/uploads/2025/12/SW-HSE-Policy-June-2025.pdf
+
+The focused UI element is 1 AXWebArea Events – Sterling & Wilson Data Center, URL: sterlingandwilsondc.com/events/

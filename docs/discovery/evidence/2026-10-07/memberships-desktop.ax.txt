@@ -1,0 +1,132 @@
+Browser tab: 1, Title: "Industry Memberships and Recognitions – Sterling & Wilson Data Center", URL: "https://sterlingandwilsondc.com/industry-memberships-and-recognitions/".
+1 AXWebArea Industry Memberships and Recognitions – Sterling & Wilson Data Center, URL: sterlingandwilsondc.com/industry-memberships-and-recognitions/
+	2 container
+		3 link Description: Skip to content, Value: sterlingandwilsondc.com/industry-memberships-and-recognitions/#content
+		4 container
+			5 link sterlingandwilsondc.com/
+			6 container Menu
+				7 content list menu-1-7cec98b
+					8 link Description: Home, Value: sterlingandwilsondc.com/
+					9 link (collapsed) Description: About Us, Value: sterlingandwilsondc.com/about-us/, ID: sm-17913468343058406-1, Secondary Actions: Expand
+					10 link Description: Projects, Value: sterlingandwilsondc.com/projects/
+					11 link (collapsed) Description: Services, Value: sterlingandwilsondc.com/industry-memberships-and-recognitions/#, ID: sm-17913468343058406-3, Secondary Actions: Expand
+					12 link (collapsed) Description: Media, Value: sterlingandwilsondc.com/industry-memberships-and-recognitions/#, ID: sm-17913468343058406-5, Secondary Actions: Expand
+					13 link Description: Careers, Value: sterlingandwilsondc.com/careers/
+					14 link Description: Contact, Value: sterlingandwilsondc.com/contact/
+		15 heading Industry Memberships and Recognitions, Value: 2
+			16 text Industry Memberships and Recognitions
+		17 container
+			18 container
+				19 heading Our Industry Memberships & Recognitions, Value: 2
+					20 text Our Industry
+					21 text Memberships &
+					22 text Recognitions
+			23 text Sterling and Wilson Data Center is associated with several industry bodies and forums that support knowledge sharing, best- practice adoption, and continuous improvement within the data centre ecosystem. These affiliations contribute to our alignment with recognised standards and professional networks across the sector.
+		24 container
+			25 container
+				26 heading Data Center Ambassador – Government of Maharashtra, Value: 2
+					27 text Data Center Ambassador – Government of Maharashtra
+				28 container
+					29 text Mr Prasanna Sarambale, CEO of Sterling and Wilson Data Center, has been appointed as the Honorary Ambassador for Data Centre and Digital Infrastructure by the Government of Maharashtra.
+					30 text This appointment facilitates structured engagement and collaboration in support of data centre development and digital infrastructure initiatives.
+			31 container
+				32 link sterlingandwilsondc.com/industry-memberships-and-recognitions/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjMwOTg3IiwidG9nZ2xlIjpmYWxzZX0%3D
+				33 link linkedin.com/in/prasannasarambale/
+				34 heading Prasanna Sarambale, Value: 2
+					35 link Description: Prasanna Sarambale, Value: sterlingandwilsondc.com/industry-memberships-and-recognitions/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjMwOTg3IiwidG9nZ2xlIjpmYWxzZX0%3D
+				36 heading Chief Executive Officer, Value: 2
+					37 link Description: Chief Executive Officer, Value: sterlingandwilsondc.com/industry-memberships-and-recognitions/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjMwOTg3IiwidG9nZ2xlIjpmYWxzZX0%3D
+				38 heading View profile, Value: 2
+					39 link Description: View profile, Value: sterlingandwilsondc.com/industry-memberships-and-recognitions/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjMwOTg3IiwidG9nZ2xlIjpmYWxzZX0%3D
+		40 container
+			41 heading Industry Memberships, Value: 2
+				42 text Industry Memberships
+			43 text Our memberships represent our participation in established industry association and our commitment to remaining informed about developments across the data centre domain.
+		44 container
+			45 container
+				46 container
+					47 heading ADCA - Africa Datacenter Association, Value: 2
+						48 text ADCA - Africa Datacenter Association
+					49 text Our membership in the Africa Datacenter Association (ADCA) provides access to regional insights and industry collaboration opportunities across the African data centre landscape.
+			50 container
+				51 container
+					52 heading Bombay Chamber of Commerce & Industry, Value: 2
+						53 text Bombay Chamber of Commerce & Industry
+					54 text As a member of the Bombay Chamber of Commerce &amp; Industry, we engage with one of the oldest and most established industry bodies supporting business and infrastructure development.
+			55 container
+				56 container
+					57 heading British Safety Council, Value: 2
+						58 text British Safety Council
+					59 container
+						60 text Sterling & Wilson Data Center is a member of the  British Safety Council , supporting high standards of health, safety, and wellbeing at the workplace.
+			61 container
+				62 container
+					63 heading Confederation of Indian Industry (CII), Value: 2
+						64 text Confederation of Indian Industry (CII)
+					65 text Our membership with the Confederation of Indian Industry (CII) enables participation in policy dialogues, industry events, and knowledge-sharing platforms.
+			66 container
+				67 container
+					68 heading DCAP - Datacenter Association of the Philippines, Value: 2
+						69 text DCAP - Datacenter Association of the Philippines
+					70 text Through membership in the Datacenter Association of the Philippines (DCAP), we stay connected with developments and best practices within the Philippines’ data centre sector.
+			71 container
+				72 container
+					73 heading GDCA - Gulf Datacenter Association, Value: 2
+						74 text GDCA - Gulf Datacenter Association
+					75 text Membership with the Gulf Datacenter Association (GDCA) supports our engagement with evolving frameworks and initiatives across the Gulf region’s digital infrastructure environment.
+			76 container
+				77 container
+					78 heading National Safety Council (NSC), India, Value: 2
+						79 text National Safety Council (NSC), India
+					80 container
+						81 text We are a member of the  National Safety Council (NSC), India , an autonomous body under the Ministry of Labour and Employment, Government of India.
+			82 container
+				83 container
+					84 heading Open Compute Project (OCP) – Open Community Member, Value: 2
+						85 text Open Compute Project (OCP) – Open Community Member
+					86 text Sterling and Wilson Data Center is an Open Compute Project (OCP) Open Community Member, providing us with access to collaborative forums and discussions related to open-hardware innovation and data centre efficiency..
+			87 text These associations reflect our commitment to maintaining awareness of industry developments and contributing to collaborative knowledge-sharing within the data centre sector.
+		88 container
+			89 container
+				90 link sterlingandwilsondc.com/
+				91 container
+					92 text Your trusted partner in designing, building
+					93 text and managing world-class data centers
+			94 container
+				95 heading About Us, Value: 2
+					96 text About Us
+				97 content list
+					98 link Description: Overview, Value: sterlingandwilsondc.com/about-us/
+					99 link Description: Awards & Recognitions, Value: sterlingandwilsondc.com/awards-recognitions/
+					100 link Description: Leadership, Value: sterlingandwilsondc.com/leadership/
+					101 link Description: Industry Memberships and Recognitions, Value: sterlingandwilsondc.com/industry-memberships-and-recognitions/
+				102 heading Projects, Value: 2
+					103 link Description: Projects, Value: sterlingandwilsondc.com/projects/
+			104 container
+				105 heading Services, Value: 2
+					106 text Services
+				107 content list
+					108 link Description: Design & Build, Value: sterlingandwilsondc.com/design-build/
+					109 link Description: Modular Construction, Value: sterlingandwilsondc.com/modular-construction/
+					110 link Description: Smart Operations, Value: sterlingandwilsondc.com/smart-operations/
+					111 link Description: Sustainable Execution, Value: sterlingandwilsondc.com/sustainable-execution/
+					112 link Description: O&M Services, Value: sterlingandwilsondc.com/om-services/
+			113 container
+				114 heading Media, Value: 2
+					115 text Media
+				116 content list
+					117 link Description: News & Press Release, Value: sterlingandwilsondc.com/news-press-release/
+					118 link Description: Events, Value: sterlingandwilsondc.com/events/
+				119 heading Careers, Value: 2
+					120 link Description: Careers, Value: sterlingandwilsondc.com/careers/
+				121 heading Contact, Value: 2
+					122 link Description: Contact, Value: sterlingandwilsondc.com/contact/
+			123 container
+				124 heading Let’s Connect, Value: 2
+					125 text Let’s Connect
+				126 link Description: Linkedin-in, Value: linkedin.com/company/sterling-and-wilson-data-center/
+				127 content list
+					128 link Description: Privacy Policy, Value: sterlingandwilsondc.com/privacy-policy/
+					129 link Description: HSE Policy, Value: sterlingandwilsondc.com/wp-content/uploads/2025/12/SW-HSE-Policy-June-2025.pdf
+
+The focused UI element is 1 AXWebArea Industry Memberships and Recognitions – Sterling & Wilson Data Center, URL: sterlingandwilsondc.com/industry-memberships-and-recognitions/

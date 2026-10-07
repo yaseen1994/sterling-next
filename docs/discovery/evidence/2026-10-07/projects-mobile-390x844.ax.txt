@@ -1,0 +1,153 @@
+Browser tab: 1, Title: "Projects – Sterling & Wilson Data Center", URL: "https://sterlingandwilsondc.com/projects/".
+1 AXWebArea Projects – Sterling & Wilson Data Center, URL: sterlingandwilsondc.com/projects/
+	2 container
+		3 link Description: Skip to content, Value: sterlingandwilsondc.com/projects/#content
+		4 container
+			5 link sterlingandwilsondc.com/
+			161 link sterlingandwilsondc.com/projects/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1ODYzIiwidG9nZ2xlIjpmYWxzZX0%3D
+		15 heading Projects, Value: 2
+			16 text Projects
+		17 container
+			18 content list
+				19 container
+					20 link sterlingandwilsondc.com/portfolios/global-colocation-data-center-pune-india-2021/
+					21 heading Global Colocation Data Center Pune, India, 2021, Value: 3
+						22 link Description: Global Colocation Data Center Pune, India, 2021, Value: sterlingandwilsondc.com/portfolios/global-colocation-data-center-pune-india-2021/
+					23 link Description: Read more about Global Colocation Data Center <br><span class="gray">Pune, India, 2021</span>, Value: sterlingandwilsondc.com/portfolios/global-colocation-data-center-pune-india-2021/
+				24 container
+					25 link sterlingandwilsondc.com/portfolios/bhamashah-state-data-center-jaipur-india/
+					26 heading Bhamashah State Data Center Jaipur, India, 2019, Value: 3
+						27 link Description: Bhamashah State Data Center Jaipur, India, 2019, Value: sterlingandwilsondc.com/portfolios/bhamashah-state-data-center-jaipur-india/
+					28 link Description: Read more about Bhamashah State Data Center <br><span class="gray">Jaipur, India, 2019</span>, Value: sterlingandwilsondc.com/portfolios/bhamashah-state-data-center-jaipur-india/
+				29 container
+					30 link sterlingandwilsondc.com/portfolios/raxio-dr-congo/
+					31 heading Raxio Data Center Kinshasa, DR Congo, 2024, Value: 3
+						32 link Description: Raxio Data Center Kinshasa, DR Congo, 2024, Value: sterlingandwilsondc.com/portfolios/raxio-dr-congo/
+					33 link Description: Read more about Raxio Data Center<br><span class="gray">Kinshasa, DR Congo, 2024</span>, Value: sterlingandwilsondc.com/portfolios/raxio-dr-congo/
+				34 container
+					35 link sterlingandwilsondc.com/portfolios/hyperscaler-data-center-hyderabad-india/
+					36 heading Hyperscaler Data Center Hyderabad, India, Value: 3
+						37 link Description: Hyperscaler Data Center Hyderabad, India, Value: sterlingandwilsondc.com/portfolios/hyperscaler-data-center-hyderabad-india/
+					38 link Description: Read more about Hyperscaler Data Center <br><span class="gray">Hyderabad, India</span>, Value: sterlingandwilsondc.com/portfolios/hyperscaler-data-center-hyderabad-india/
+				39 container
+					40 link sterlingandwilsondc.com/portfolios/edgnex-data-center-dammam-ksa-2021/
+					41 heading Edgnex Data Center Dammam, KSA, 2021, Value: 3
+						42 link Description: Edgnex Data Center Dammam, KSA, 2021, Value: sterlingandwilsondc.com/portfolios/edgnex-data-center-dammam-ksa-2021/
+					43 link Description: Read more about Edgnex Data Center <br><span class="gray">Dammam, KSA, 2021</span>, Value: sterlingandwilsondc.com/portfolios/edgnex-data-center-dammam-ksa-2021/
+				44 container
+					45 link sterlingandwilsondc.com/portfolios/telecom-egypt-cloud-hub-dc-cairo-egypt/
+					46 heading Telecom Egypt Cloud Hub DC Cairo, Egypt, 2021, Value: 3
+						47 link Description: Telecom Egypt Cloud Hub DC Cairo, Egypt, 2021, Value: sterlingandwilsondc.com/portfolios/telecom-egypt-cloud-hub-dc-cairo-egypt/
+					48 link Description: Read more about Telecom Egypt Cloud Hub DC <br><span class="gray">Cairo, Egypt, 2021</span>, Value: sterlingandwilsondc.com/portfolios/telecom-egypt-cloud-hub-dc-cairo-egypt/
+				49 container
+					50 link sterlingandwilsondc.com/portfolios/vodafone-india-limited-chennai-india/
+					51 heading Vodafone India Limited Chennai, India, 2016, Value: 3
+						52 link Description: Vodafone India Limited Chennai, India, 2016, Value: sterlingandwilsondc.com/portfolios/vodafone-india-limited-chennai-india/
+					53 link Description: Read more about Vodafone India Limited <br><span class="gray">Chennai, India, 2016</span>, Value: sterlingandwilsondc.com/portfolios/vodafone-india-limited-chennai-india/
+				54 container
+					55 link sterlingandwilsondc.com/portfolios/hyperscaler-data-center-mumbai-india-2021/
+					56 heading Hyperscaler Data Center Mumbai, India, 2021, Value: 3
+						57 link Description: Hyperscaler Data Center Mumbai, India, 2021, Value: sterlingandwilsondc.com/portfolios/hyperscaler-data-center-mumbai-india-2021/
+					58 link Description: Read more about Hyperscaler Data Center <br><span class="gray">Mumbai, India, 2021</span>, Value: sterlingandwilsondc.com/portfolios/hyperscaler-data-center-mumbai-india-2021/
+				59 container
+					60 link sterlingandwilsondc.com/portfolios/global-colocation-data-center-chennai-india/
+					61 heading Global Colocation Data Center Chennai, India, 2021, Value: 3
+						62 link Description: Global Colocation Data Center Chennai, India, 2021, Value: sterlingandwilsondc.com/portfolios/global-colocation-data-center-chennai-india/
+					63 link Description: Read more about Global Colocation Data Center <br><span class="gray">Chennai, India, 2021</span>, Value: sterlingandwilsondc.com/portfolios/global-colocation-data-center-chennai-india/
+				64 container
+					65 link sterlingandwilsondc.com/portfolios/global-colocation-data-center-navi-mumbai-india/
+					66 heading Global Colocation Data Center Navi Mumbai, India, 2023, Value: 3
+						67 link Description: Global Colocation Data Center Navi Mumbai, India, 2023, Value: sterlingandwilsondc.com/portfolios/global-colocation-data-center-navi-mumbai-india/
+					68 link Description: Read more about Global Colocation Data Center <br><span class="gray">Navi Mumbai, India, 2023</span>, Value: sterlingandwilsondc.com/portfolios/global-colocation-data-center-navi-mumbai-india/
+				69 container
+					70 link sterlingandwilsondc.com/portfolios/mainone-dc-accra-ghana/
+					71 heading MainOne DC Accra, Ghana, 2021, Value: 3
+						72 link Description: MainOne DC Accra, Ghana, 2021, Value: sterlingandwilsondc.com/portfolios/mainone-dc-accra-ghana/
+					73 link Description: Read more about MainOne DC <br><span class="gray">Accra, Ghana, 2021</span>, Value: sterlingandwilsondc.com/portfolios/mainone-dc-accra-ghana/
+				74 container
+					75 link sterlingandwilsondc.com/portfolios/national-securities-depository-ltd-nsdl-bangalore-india/
+					76 heading National Securities & Depository Ltd. (NSDL) Bengaluru, India, 2018, Value: 3
+						77 link Description: National Securities & Depository Ltd. (NSDL) Bengaluru, India, 2018, Value: sterlingandwilsondc.com/portfolios/national-securities-depository-ltd-nsdl-bangalore-india/
+					78 link Value: sterlingandwilsondc.com/portfolios/national-securities-depository-ltd-nsdl-bangalore-india/, Description: Read more about National Securities & Depository Ltd. (NSDL) <br><span class="gray">Bengaluru, India, 2018</span>
+				79 container
+					80 link …
+					81 heading National Stock Exchange Chennai, India, 2017, Value: 3
+						82 link Description: National Stock Exchange Chennai, India, 2017, Value: …
+					83 link Description: Read more about National Stock Exchange <br><span class="gray">Chennai, India, 2017</span>, Value: …
+				84 container
+					85 link …
+					86 heading Telecom Egypt NN1 Cairo, Egypt, 2021, Value: 3
+						87 link Description: Telecom Egypt NN1 Cairo, Egypt, 2021, Value: …
+					88 link Description: Read more about Telecom Egypt NN1 <br><span class="gray">Cairo, Egypt, 2021</span>, Value: …
+				89 container
+					90 link …
+					91 heading National Information Center (NIC) Hyderabad, India, 2021, Value: 3
+						92 link Description: National Information Center (NIC) Hyderabad, India, 2021, Value: …
+					93 link Value: …, Description: Read more about National Information Center (NIC) <br><span class="gray">Hyderabad, India, 2021</span>
+				94 container
+					95 link …
+					96 heading Vodafone VOIS Cairo, Egypt, 2023, Value: 3
+						97 link Description: Vodafone VOIS Cairo, Egypt, 2023, Value: …
+					98 link Description: Read more about Vodafone VOIS <br><span class="gray">Cairo, Egypt, 2023</span>, Value: …
+				99 container
+					100 link …
+					101 heading Colocation Data Center Navi Mumbai, India, 2025, Value: 3
+						102 link Description: Colocation Data Center Navi Mumbai, India, 2025, Value: …
+					103 link Description: Read more about Colocation Data Center <br><span class="gray">Navi Mumbai, India, 2025</span>, Value: …
+				104 container
+					105 link …
+					106 heading Faisal Islamic Bank Cairo, Egypt, 2020, Value: 3
+						107 link Description: Faisal Islamic Bank Cairo, Egypt, 2020, Value: …
+					108 link Description: Read more about Faisal Islamic Bank <br><span class="gray">Cairo, Egypt, 2020</span>, Value: …
+				109 container
+					110 link …
+					111 heading Etisalat DB Telecom Mumbai, Jaipur, Ahmedabad, Lucknow & Ambala, India, 2009, Value: 3
+						112 link Description: Etisalat DB Telecom Mumbai, Jaipur, Ahmedabad, Lucknow & Ambala, India, 2009, Value: …
+					113 link Value: …, Description: Read more about Etisalat DB Telecom <br><span class="gray">Mumbai, Jaipur, Ahmedabad, Lucknow & Ambala, India, 2009</span>
+				114 container
+					115 link …
+					116 heading Software Technology Parks of India (STPI) Bhubaneshwar, India, 2022, Value: 3
+						117 link Description: Software Technology Parks of India (STPI) Bhubaneshwar, India, 2022, Value: …
+					118 link Value: …, Description: Read more about Software Technology Parks of India (STPI)<br><span class="gray">Bhubaneshwar, India, 2022</span>
+		119 container
+			120 container
+				121 link …
+				162 text Your trusted partner in designing, building and managing world-class data centers
+			125 container
+				126 heading About Us, Value: 2
+					127 text About Us
+				128 content list
+					129 link Description: Overview, Value: …
+					130 link Description: Awards & Recognitions, Value: …
+					131 link Description: Leadership, Value: …
+					132 link Description: Industry Memberships and Recognitions, Value: …
+				133 heading Projects, Value: 2
+					134 link Description: Projects, Value: …
+			135 container
+				136 heading Services, Value: 2
+					137 text Services
+				138 content list
+					139 link Description: Design & Build, Value: …
+					140 link Description: Modular Construction, Value: …
+					141 link Description: Smart Operations, Value: …
+					142 link Description: Sustainable Execution, Value: …
+					143 link Description: O&M Services, Value: …
+			144 container
+				145 heading Media, Value: 2
+					146 text Media
+				147 content list
+					148 link Description: News & Press Release, Value: …
+					149 link Description: Events, Value: …
+				150 heading Careers, Value: 2
+					151 link Description: Careers, Value: …
+				152 heading Contact, Value: 2
+					153 link Description: Contact, Value: …
+			154 container
+				155 heading Let’s Connect, Value: 2
+					156 text Let’s Connect
+				157 link Description: Linkedin-in, Value: …
+				158 content list
+					159 link Description: Privacy Policy, Value: …
+					160 link Description: HSE Policy, Value: …
+
+The focused UI element is 1 AXWebArea Projects – Sterling & Wilson Data Center, URL: sterlingandwilsondc.com/projects/

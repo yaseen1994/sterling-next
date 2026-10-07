@@ -1,5 +1,13 @@
 # Phase 0 evidence protocol
 
+## Current audit
+
+2026-10-07: [public discovery report](REPORT.md), four populated CSV manifests and dated [evidence](evidence/2026-10-07/coverage.json). Observed does not mean owner approved. Empty SEO cells mean absent in fetched source; blank asset hashes mean not downloaded, and blank targets on held routes mean no disposition chosen. Existing CSV columns are retained; date/method/evidence and status details are appended where needed.
+
+The Phase 0 helpers use Python's standard library and curl; no app dependencies. `python docs/discovery/build_manifests.py` regenerates manifests offline. Network collection is explicitly bounded/read-only: `python docs/discovery/audit_public.py --fetch`, or `--resource-checks`. Do not rerun dated collection over the accepted snapshot; use a new dated evidence directory for a later audit. Generated manifests remain proposals until owner acceptance.
+
+## Protocol
+
 Record observation date, exact source URL, access method and evidence location for every item. Empty manifests mean not yet audited, not no pages found.
 
 Discover sitemap/robots, navigation/footer links, internal links, downloads and indexed pages. Reconcile all sources. Search indexes are incomplete and do not replace a crawl. Distinguish public coverage from owner-only Search Console/analytics/server data. Report inaccessible URLs and untested interactions.

@@ -1,0 +1,75 @@
+Browser tab: 1, Title: "Privacy Policy – Sterling & Wilson Data Center", URL: "https://sterlingandwilsondc.com/privacy-policy/".
+1 AXWebArea Privacy Policy – Sterling & Wilson Data Center, URL: sterlingandwilsondc.com/privacy-policy/
+	2 container
+		3 link Description: Skip to content, Value: sterlingandwilsondc.com/privacy-policy/#content
+		4 container
+			5 link sterlingandwilsondc.com/
+			6 container Menu
+				7 content list menu-1-7cec98b
+					8 link Description: Home, Value: sterlingandwilsondc.com/
+					9 link (collapsed) Description: About Us, Value: sterlingandwilsondc.com/about-us/, ID: sm-17913469556428582-1, Secondary Actions: Expand
+					10 link Description: Projects, Value: sterlingandwilsondc.com/projects/
+					11 link (collapsed) Description: Services, Value: sterlingandwilsondc.com/privacy-policy/#, ID: sm-17913469556428582-3, Secondary Actions: Expand
+					12 link (collapsed) Description: Media, Value: sterlingandwilsondc.com/privacy-policy/#, ID: sm-17913469556428582-5, Secondary Actions: Expand
+					13 link Description: Careers, Value: sterlingandwilsondc.com/careers/
+					14 link Description: Contact, Value: sterlingandwilsondc.com/contact/
+		15 heading Privacy Policy, Value: 2
+			16 text Privacy Policy
+		17 container
+			18 container
+				19 heading Privacy Policy, Value: 1
+					20 text Privacy Policy
+			21 container eael-adv-accordion-16943ff
+				22 text Sterling & Wilson Data Center Pvt. Ltd. Privacy Policy
+				23 text What User Data We Collect
+				24 text Why We Collect Your Data
+				25 text Safeguarding and Securing the Data
+				26 text Links to Other Websites
+				27 text Restricting the Collection of your Personal Data
+				28 text Acceptance of Privacy Policy
+				29 text Third Parties and business partners
+				30 text Accountability of data privacy and grievance redressal
+		31 container
+			32 container
+				33 link sterlingandwilsondc.com/
+				34 container
+					35 text Your trusted partner in designing, building
+					36 text and managing world-class data centers
+			37 container
+				38 heading About Us, Value: 2
+					39 text About Us
+				40 content list
+					41 link Description: Overview, Value: sterlingandwilsondc.com/about-us/
+					42 link Description: Awards & Recognitions, Value: sterlingandwilsondc.com/awards-recognitions/
+					43 link Description: Leadership, Value: sterlingandwilsondc.com/leadership/
+					44 link Description: Industry Memberships and Recognitions, Value: sterlingandwilsondc.com/industry-memberships-and-recognitions/
+				45 heading Projects, Value: 2
+					46 link Description: Projects, Value: sterlingandwilsondc.com/projects/
+			47 container
+				48 heading Services, Value: 2
+					49 text Services
+				50 content list
+					51 link Description: Design & Build, Value: sterlingandwilsondc.com/design-build/
+					52 link Description: Modular Construction, Value: sterlingandwilsondc.com/modular-construction/
+					53 link Description: Smart Operations, Value: sterlingandwilsondc.com/smart-operations/
+					54 link Description: Sustainable Execution, Value: sterlingandwilsondc.com/sustainable-execution/
+					55 link Description: O&M Services, Value: sterlingandwilsondc.com/om-services/
+			56 container
+				57 heading Media, Value: 2
+					58 text Media
+				59 content list
+					60 link Description: News & Press Release, Value: sterlingandwilsondc.com/news-press-release/
+					61 link Description: Events, Value: sterlingandwilsondc.com/events/
+				62 heading Careers, Value: 2
+					63 link Description: Careers, Value: sterlingandwilsondc.com/careers/
+				64 heading Contact, Value: 2
+					65 link Description: Contact, Value: sterlingandwilsondc.com/contact/
+			66 container
+				67 heading Let’s Connect, Value: 2
+					68 text Let’s Connect
+				69 link Description: Linkedin-in, Value: linkedin.com/company/sterling-and-wilson-data-center/
+				70 content list
+					71 link Description: Privacy Policy, Value: sterlingandwilsondc.com/privacy-policy/
+					72 link Description: HSE Policy, Value: sterlingandwilsondc.com/wp-content/uploads/2025/12/SW-HSE-Policy-June-2025.pdf
+
+The focused UI element is 1 AXWebArea Privacy Policy – Sterling & Wilson Data Center, URL: sterlingandwilsondc.com/privacy-policy/

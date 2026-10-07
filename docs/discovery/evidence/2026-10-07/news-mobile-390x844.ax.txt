@@ -1,0 +1,100 @@
+Browser tab: 1, Title: "News & Press Release – Sterling & Wilson Data Center", URL: "https://sterlingandwilsondc.com/news-press-release/".
+1 AXWebArea News & Press Release – Sterling & Wilson Data Center, URL: sterlingandwilsondc.com/news-press-release/
+	2 container
+		3 link Description: Skip to content, Value: sterlingandwilsondc.com/news-press-release/#content
+		4 container
+			5 link sterlingandwilsondc.com/
+			132 link sterlingandwilsondc.com/news-press-release/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1ODYzIiwidG9nZ2xlIjpmYWxzZX0%3D
+		15 heading News & Press Release, Value: 2
+			16 text News & Press Release
+		17 content list
+			18 link Description: In the News, Value: sterlingandwilsondc.com/news-press-release/#in-the-news
+			19 link Description: Press Release, Value: sterlingandwilsondc.com/news-press-release/#press
+		20 container
+			21 heading In the News, Value: 2
+				22 text In the News
+			23 container eael-filter-gallery-wrapper-6c97b77
+				133 button 2023 , ID: fg-filter-trigger
+					134 text 2023
+					135 text 
+				27 container
+					122 container
+						123 heading Value: 2, 12 September 2023 Sterling and Wilson signs MoU with DataVolt to construct state-of-the-art data centers | CNBC TV18
+							124 text 12 September 2023
+							125 text Sterling and Wilson signs MoU with DataVolt to construct state-of-the-art data centers | CNBC TV18
+						126 link Description: Read More, Value: cnbctv18.com/business/companies/sterling-and-wilson-signs-mou-with-datavolt-to-construct-state-of-the-art-data-centers-17784751.htm
+					127 container
+						128 heading Value: 2, 15 April 2023 Sterling & Wilson sees 25% growth every year in data centre biz order book | Financial Express
+							129 text 15 April 2023
+							130 text Sterling & Wilson sees 25% growth every year in data centre biz order book | Financial Express
+						131 link Description: Read More, Value: financialexpress.com/business/industry-sterling-amp-wilson-sees-25-growth-every-year-in-data-centre-biz-order-book-3047727/
+		38 container
+			39 heading Press Release, Value: 2
+				40 text Press Release
+			41 container eael-filter-gallery-wrapper-82738dd
+				42 button 2024 , ID: fg-filter-trigger
+					43 text 2024
+					136 text 
+				45 container
+					46 container
+						47 heading 28 October 2024 INTRO Technology, SWDC ink MoU for contracting and construction at Kemet Data Center, Value: 2
+							48 text 28 October 2024
+							49 text INTRO Technology, SWDC ink MoU for contracting and construction at Kemet Data Center
+						50 link Description: Read More, Value: sterlingandwilsondc.com/wp-content/uploads/2025/06/Final_Press-Release-INTRO-Technology-SWDC-ink-MoU-for-contracting-and-construction-at-Kemet-Data-Center-28OCT-2024.pdf
+					51 container
+						52 heading Value: 2, 8 October 2024 Sterling and Wilson Data Centers, Maerifa Solutions Partner to Leverage the Growing Potential of AI Data Centers in Key Markets
+							53 text 8 October 2024
+							54 text Sterling and Wilson Data Centers, Maerifa Solutions Partner to Leverage the Growing Potential of AI Data Centers in Key Markets
+						55 link Description: Read More, Value: sterlingandwilsondc.com/wp-content/uploads/2025/07/Final_Press-Release_Sterling-and-Wilson-Data-Centers-Maerifa-Solutions-Partner-to-Leverage-the-Growing-Potential-of-AI-Data-Centers-in-Key-Markets.pdf
+					56 container
+						57 heading Value: 2, 28 August 2024 Sterling and Wilson successfully completes Greenfield Data Center in Democratic Republic of Congo
+							58 text 28 August 2024
+							59 text Sterling and Wilson successfully completes Greenfield Data Center in Democratic Republic of Congo
+						60 link Description: Read More, Value: sterlingandwilsondc.com/wp-content/uploads/2025/07/Final_Press-Release-Sterling-and-Wilson-successfully-completes-Greenfield-Data-Center-in-Democratic-Republic-of-Congo.pdf
+					61 container
+						62 heading Value: 2, 20 March 2024 Sterling and Wilson brings in strategic investors to unlock the true potential of its Data Centre business
+							63 text 20 March 2024
+							64 text Sterling and Wilson brings in strategic investors to unlock the true potential of its Data Centre business
+						65 link Description: Read More, Value: sterlingandwilsondc.com/wp-content/uploads/2025/07/Sterling-and-Wilson-brings-in-strategic-investors-to-unlock-the-true-potential-of-its-Data-Centre-business.pdf
+		66 container
+			67 container
+				68 link sterlingandwilsondc.com/
+				137 text Your trusted partner in designing, building and managing world-class data centers
+			72 container
+				73 heading About Us, Value: 2
+					74 text About Us
+				75 content list
+					76 link Description: Overview, Value: sterlingandwilsondc.com/about-us/
+					77 link Description: Awards & Recognitions, Value: sterlingandwilsondc.com/awards-recognitions/
+					78 link Description: Leadership, Value: sterlingandwilsondc.com/leadership/
+					79 link Description: Industry Memberships and Recognitions, Value: sterlingandwilsondc.com/industry-memberships-and-recognitions/
+				80 heading Projects, Value: 2
+					81 link Description: Projects, Value: sterlingandwilsondc.com/projects/
+			82 container
+				83 heading Services, Value: 2
+					84 text Services
+				85 content list
+					86 link Description: Design & Build, Value: sterlingandwilsondc.com/design-build/
+					87 link Description: Modular Construction, Value: sterlingandwilsondc.com/modular-construction/
+					88 link Description: Smart Operations, Value: sterlingandwilsondc.com/smart-operations/
+					89 link Description: Sustainable Execution, Value: sterlingandwilsondc.com/sustainable-execution/
+					90 link Description: O&M Services, Value: sterlingandwilsondc.com/om-services/
+			91 container
+				92 heading Media, Value: 2
+					93 text Media
+				94 content list
+					95 link Description: News & Press Release, Value: sterlingandwilsondc.com/news-press-release/
+					96 link Description: Events, Value: sterlingandwilsondc.com/events/
+				97 heading Careers, Value: 2
+					98 link Description: Careers, Value: sterlingandwilsondc.com/careers/
+				99 heading Contact, Value: 2
+					100 link Description: Contact, Value: sterlingandwilsondc.com/contact/
+			101 container
+				102 heading Let’s Connect, Value: 2
+					103 text Let’s Connect
+				104 link Description: Linkedin-in, Value: linkedin.com/company/sterling-and-wilson-data-center/
+				105 content list
+					106 link Description: Privacy Policy, Value: sterlingandwilsondc.com/privacy-policy/
+					107 link Description: HSE Policy, Value: sterlingandwilsondc.com/wp-content/uploads/2025/12/SW-HSE-Policy-June-2025.pdf
+
+The focused UI element is 1 AXWebArea News & Press Release – Sterling & Wilson Data Center, URL: sterlingandwilsondc.com/news-press-release/

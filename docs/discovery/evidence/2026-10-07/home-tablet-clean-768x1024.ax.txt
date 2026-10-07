@@ -1,0 +1,183 @@
+Browser tab: 1, Title: "Sterling & Wilson Data Center – Your trusted partner in designing, building and managing world-class data centers", URL: "https://sterlingandwilsondc.com/".
+1 AXWebArea URL: sterlingandwilsondc.com/, Sterling & Wilson Data Center – Your trusted partner in designing, building and managing world-class data centers
+	2 container
+		3 link Description: Skip to content, Value: sterlingandwilsondc.com/#content
+		4 container
+			5 link sterlingandwilsondc.com/
+			6 button (collapsed) Description: Menu Toggle, Secondary Actions: Expand
+		7 heading Value: 2, Sterling & Wilson Data Center Pvt. Ltd. is one of India’s leading Data Center EPC specialists with projects across India, Africa and the Middle East. Sterling & Wilson Data Center Pvt. Ltd. is one of India’s leading Data Center EPC specialists with projects across India, Africa and the Middle East. Sterling & Wilson Data Center Pvt. Ltd. is one of India’s leading Data Center EPC specialists with projects across India, Africa and the Middle East. Sterling & Wilson Data Center Pvt. Ltd. is one of India’s leading Data Center EPC specialists with projects across India, Africa and the Middle East.
+			8 container
+				9 text Sterling & Wilson Data Center Pvt. Ltd. is one of India’s leading Data Center EPC specialists with projects across India, Africa and the Middle East. Sterling & Wilson Data Center Pvt. Ltd. is one of India’s leading Data Center EPC specialists with projects across India, Africa and the Middle East. Sterling & Wilson Data Center Pvt. Ltd. is one of India’s leading Data Center EPC specialists with projects across India, Africa and the Middle East. Sterling & Wilson Data Center Pvt. Ltd. is one of India’s leading Data Center EPC specialists with projects across India, Africa and the Middle East.
+		10 container
+			11 container
+				12 heading Engineering the Future of Data Centers, Value: 2
+					13 text Engineering the Future of Data Centers
+				14 container
+					15 text Sterling & Wilson Data Center (SWDC) is one of India’s leading Data Center EPC specialists with 30 cutting-edge projects delivered  across India, Africa  and  the Middle East since  2015 – setting new benchmarks in speed, scale, and reliability.
+				16 link Description: Know more, Value: sterlingandwilsondc.com/about-us/
+		17 container
+			18 container
+				19 heading Services, Value: 1
+					20 text Services
+				21 heading Your Trusted Partner for High-Performance Data Center Infrastructure, Value: 3
+					22 text Your Trusted Partner for High-Performance Data Center Infrastructure
+			23 container
+				24 container
+					25 image
+					26 text Design & Build High availability infrastructure across Civil, MEP, HVAC, IBMS, and Fire Systems. Engineered for speed, scalability, and flawless delivery from design to handover.
+					27 link Description: Know more, Value: sterlingandwilsondc.com/design-build/
+				28 container
+					29 image
+					30 text Modular Construction Prefab MEP modules using DfMA for rapid, clean, and reliable deployment ensuring 50% faster builds with factory-grade quality and minimal site disruption.
+					31 link Description: Know more, Value: sterlingandwilsondc.com/modular-construction/
+				32 container
+					33 image
+					34 text Smart Operations AI-powered SmartSense ensures real-time visibility and predictive performance with smarter monitoring, lower downtime and maximum efficiency.
+					35 link Description: Know more, Value: sterlingandwilsondc.com/smart-operations/
+				36 container
+					37 image
+					38 text Sustainable Execution Net Zero, ESG, and LCA strategies woven into every layer of delivery that are built to comply, designed to conserve and future ready.
+					39 link Description: Know more, Value: sterlingandwilsondc.com/sustainable-execution/
+				40 container
+					41 image
+					42 text O&M Services Round-the-clock operations and maintenance for peak lifecycle performance facilitating strong support and zero compromise on uptime.
+					43 link Description: Know more, Value: sterlingandwilsondc.com/om-services/
+		44 container
+			45 container
+				46 heading Our Company, Value: 1
+					47 text Our Company
+				48 heading Powering the Future of Data Centers, Value: 3
+					49 text Powering the Future of Data Centers
+				50 text At SWDC, we don’t just build data centers – we engineer them for performance, sustainability, and scale. With deep domain expertise, precision engineering, and a commitment to 100% uptime, we’re shaping the future of mission-critical infrastructure.
+				51 link Description: Know more, Value: sterlingandwilsondc.com/about-us/
+		52 container
+			53 container
+				54 heading Measurable Impact, Value: 1
+					55 text Measurable Impact
+				56 heading Milestones that reflect our scale, safety, and expertise, Value: 3
+					57 text Milestones that reflect our scale, safety, and expertise
+			58 container
+				59 container
+					60 text 0 +
+					61 container
+						62 text Data Centers
+						63 text Delivered
+				64 container
+					65 text 0  +MW
+					66 container
+						67 text IT Load
+						68 text Executed
+				69 container
+					70 text 0  Million+
+					71 container
+						72 text Safe Work Hours
+						73 text Globally (FY 2021-25)
+				74 container
+					75 text 0 + 
+					76 container
+						77 text Design &
+						78 text Engineering Experts
+				79 container
+					80 text 0 +
+					81 container
+						82 text Full-Time
+						83 text Professionals
+		84 container portfolios
+			85 container
+				86 container
+					87 heading Projects, Value: 1
+						88 text Projects
+					89 heading From Blueprint to Reality, Value: 3
+						90 text From Blueprint to Reality
+					91 text Explore our success stories – see how we’ve transformed complex challenges into state-of-the-art, high-performance data centers.
+					92 link Description: View projects, Value: sterlingandwilsondc.com/projects/
+				93 container
+					94 content list
+						95 container swiper-wrapper-6d016c32fa370699
+							100 container 3 / 6
+								101 link Description: Raxio Data Center Kinshasa, DR Congo, 2024, Value: sterlingandwilsondc.com/portfolios/raxio-dr-congo/
+							102 container 4 / 6
+								103 link Description: Hyperscaler Data Center Hyderabad, India, Value: sterlingandwilsondc.com/portfolios/hyperscaler-data-center-hyderabad-india/
+							104 container 5 / 6
+								105 link Description: Edgnex Data Center Dammam, KSA, 2021, Value: sterlingandwilsondc.com/portfolios/edgnex-data-center-dammam-ksa-2021/
+							106 container 6 / 6
+								107 link Description: Telecom Egypt Cloud Hub DC Cairo, Egypt, 2021, Value: sterlingandwilsondc.com/portfolios/telecom-egypt-cloud-hub-dc-cairo-egypt/
+							108 container 1 / 6
+								109 link Description: Global Colocation Data Center Pune, India, 2021, Value: sterlingandwilsondc.com/portfolios/global-colocation-data-center-pune-india-2021/
+							110 container 2 / 6
+								111 link Description: Bhamashah State Data Center Jaipur, India, 2019, Value: sterlingandwilsondc.com/portfolios/bhamashah-state-data-center-jaipur-india/
+					112 button Previous slide
+						113 image Capa_1
+					114 button Next slide
+						115 image Capa_1
+		116 container
+			117 container
+				118 heading Awards & Recognitions, Value: 1
+					119 text Awards & Recognitions
+				120 heading Proud to be recognized for excellence in execution, innovation, and safety, Value: 3
+					121 text Proud to be recognized for excellence in execution, innovation, and safety
+			122 container
+				123 container premium-carousel-01a432c
+					124 button Previous
+					125 container
+						185 link Description: 5, Value: sterlingandwilsondc.com/wp-content/uploads/2025/06/BSDC-4-Million-Safe-Man-Hours.jpg
+						186 link Description: 8, Value: sterlingandwilsondc.com/wp-content/uploads/2025/06/2-Million_BSDC.jpeg
+					128 button Next
+				129 link Description: View awards, Value: sterlingandwilsondc.com/awards-recognitions/
+		130 container
+			131 container
+				132 heading Client Testimonials, Value: 1
+					133 text Client Testimonials
+				134 heading Hear from the businesses that trust us to power their digital backbone, Value: 3
+					135 text Hear from the businesses that trust us to
+					136 text power their digital backbone
+		137 container
+			138 heading Our Presence, Value: 1
+				139 text Our Presence
+			140 heading Delivering critical infrastructure across India, Africa and the Middle East, Value: 3
+				141 text Delivering critical infrastructure across India, Africa and the Middle East
+		142 image Sticky Icon
+		143 container
+			144 container
+				145 link sterlingandwilsondc.com/
+				146 container
+					147 text Your trusted partner in designing, building
+					148 text and managing world-class data centers
+			149 container
+				150 heading About Us, Value: 2
+					151 text About Us
+				152 content list
+					153 link Description: Overview, Value: sterlingandwilsondc.com/about-us/
+					154 link Description: Awards & Recognitions, Value: sterlingandwilsondc.com/awards-recognitions/
+					155 link Description: Leadership, Value: sterlingandwilsondc.com/leadership/
+					156 link Description: Industry Memberships and Recognitions, Value: sterlingandwilsondc.com/industry-memberships-and-recognitions/
+				157 heading Projects, Value: 2
+					158 link Description: Projects, Value: sterlingandwilsondc.com/projects/
+			159 container
+				160 heading Services, Value: 2
+					161 text Services
+				162 content list
+					163 link Description: Design & Build, Value: sterlingandwilsondc.com/design-build/
+					164 link Description: Modular Construction, Value: sterlingandwilsondc.com/modular-construction/
+					165 link Description: Smart Operations, Value: sterlingandwilsondc.com/smart-operations/
+					166 link Description: Sustainable Execution, Value: sterlingandwilsondc.com/sustainable-execution/
+					167 link Description: O&M Services, Value: sterlingandwilsondc.com/om-services/
+			168 container
+				169 heading Media, Value: 2
+					170 text Media
+				171 content list
+					172 link Description: News & Press Release, Value: sterlingandwilsondc.com/news-press-release/
+					173 link Description: Events, Value: sterlingandwilsondc.com/events/
+				174 heading Careers, Value: 2
+					175 link Description: Careers, Value: sterlingandwilsondc.com/careers/
+				176 heading Contact, Value: 2
+					177 link Description: Contact, Value: sterlingandwilsondc.com/contact/
+			178 container
+				179 heading Let’s Connect, Value: 2
+					180 text Let’s Connect
+				181 link Description: Linkedin-in, Value: linkedin.com/company/sterling-and-wilson-data-center/
+				182 content list
+					183 link Description: Privacy Policy, Value: sterlingandwilsondc.com/privacy-policy/
+					184 link Description: HSE Policy, Value: sterlingandwilsondc.com/wp-content/uploads/2025/12/SW-HSE-Policy-June-2025.pdf
+
+The focused UI element is 1 AXWebArea URL: sterlingandwilsondc.com/, Sterling & Wilson Data Center – Your trusted partner in designing, building and managing world-class data centers

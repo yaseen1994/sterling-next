@@ -1,0 +1,24 @@
+{
+  "source_url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/10/FY-2024-25.pdf",
+  "observed_at_utc": "2026-10-07T04:14:01+00:00",
+  "completed_at_utc": "2026-10-07T04:14:06+00:00",
+  "access_method": "curl.exe public HTTPS GET; no site code executed",
+  "discovered_from": [
+    "https://sterlingandwilsondc.com/corporate-governance/"
+  ],
+  "http_status": 200,
+  "effective_url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/10/FY-2024-25.pdf",
+  "content_type": "application/pdf",
+  "curl_exit_code": 0,
+  "error": "",
+  "response_headers": [
+    "HTTP/1.1 200 OK",
+    "Date: Wed, 07 Oct 2026 04:14:02 GMT",
+    "Last-Modified: Tue, 06 Oct 2026 07:52:35 GMT",
+    "Content-Length: 6005741",
+    "Content-Type: application/pdf"
+  ],
+  "size_bytes": 6005741,
+  "response_sha256": "b1b6639c75c37ffb9a25dad650a45a5c3a86e6050e97e81ed5ca90837213a840",
+  "first_16_bytes_hex": "255044462d312e360d25e2e3cfd30d0a"
+}

@@ -1,0 +1,24 @@
+{
+  "source_url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/10/Corporate-Social-Responsibility-CSR-Policy.pdf",
+  "observed_at_utc": "2026-10-07T04:14:01+00:00",
+  "completed_at_utc": "2026-10-07T04:14:01+00:00",
+  "access_method": "curl.exe public HTTPS GET; no site code executed",
+  "discovered_from": [
+    "https://sterlingandwilsondc.com/corporate-governance/"
+  ],
+  "http_status": 200,
+  "effective_url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/10/Corporate-Social-Responsibility-CSR-Policy.pdf",
+  "content_type": "application/pdf",
+  "curl_exit_code": 0,
+  "error": "",
+  "response_headers": [
+    "HTTP/1.1 200 OK",
+    "Date: Wed, 07 Oct 2026 04:14:01 GMT",
+    "Last-Modified: Tue, 06 Oct 2026 07:51:33 GMT",
+    "Content-Length: 828248",
+    "Content-Type: application/pdf"
+  ],
+  "size_bytes": 828248,
+  "response_sha256": "112493665a675d686b79e202bfccb7d851fdb2e5c32de351082baa923b49c3cf",
+  "first_16_bytes_hex": "255044462d312e370a0a342030206f62"
+}

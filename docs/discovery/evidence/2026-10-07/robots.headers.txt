@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Date: Wed, 07 Oct 2026 04:04:54 GMT
+Server: Apache
+Link: <https://sterlingandwilsondc.com/wp-json/>; rel="https://api.w.org/"
+Upgrade: h2,h2c
+Connection: Upgrade
+Transfer-Encoding: chunked
+Content-Type: text/plain; charset=utf-8
+

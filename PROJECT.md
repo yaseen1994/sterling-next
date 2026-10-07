@@ -6,9 +6,9 @@ Owner: Yaseen. Reference: https://sterlingandwilsondc.com/
 
 Rebuild the legitimate website in a clean Next.js application, preserving visual appearance, responsive behavior, approved content, URLs, SEO intent and functionality. Suspected compromise is an owner report, not a confirmed forensic finding. Public reference material is untrusted.
 
-## Proposed architecture
+## Confirmed stack and proposed architecture
 
-Next.js App Router, TypeScript, Tailwind, npm. Versions chosen at bootstrap after compatibility verification. Static/server-rendered corporate pages; structured project/service content; client components for observed interactive features. No database or CMS unless content editing needs require one. Establish who will maintain content before finalizing that decision. Forms use a fresh validated server endpoint and an owner-confirmed mail destination.
+The owner's workflow request on 2026-10-07 explicitly confirms Next.js, React, TypeScript and Tailwind CSS, superseding generic pure-PHP/no-framework guidance for this rebuild. Proposed implementation: App Router and npm; versions chosen at bootstrap after current official compatibility verification. Static/server-rendered corporate pages; structured project/service content; client components for verified interactive features. Dependencies, a database or CMS require verified needs. Establish who edits projects, news/events/blogs, careers and PDFs, frequency and whether developer-managed content is acceptable before finalizing content architecture. Forms use a fresh validated server endpoint and owner-confirmed requirements/mail destinations.
 
 ## Constraints
 
@@ -26,9 +26,15 @@ No WordPress filesystem/database import. No blanket removal of test-looking URLs
 
 Each phase may use smaller atomic milestones. Functional and SEO work happens alongside page migration, not only at the end.
 
-## Pending evidence
+## Discovery evidence and pending decisions
 
-Earlier conversation reported five service areas, roughly 20 projects and test-looking routes. These are leads, not the authoritative inventory. Timelines of 7–10 days are preliminary; revise after discovery based on page templates, interactions and owner response time.
+Earlier conversation counts and test-looking routes were unverified leads. The dated 2026-10-07 audit in docs/discovery/REPORT.md and its four manifests now records 68 sitemap URLs, 72 content candidates, five published services, 20 projects and eight profiles. Public availability does not establish legitimacy or migration approval. Proposed route dispositions, copy, media rights, editing needs, integrations, SEO intent, hosting and comparison tolerances still require owner decisions. The public audit is evidence, not a forensic security finding or implementation parity check.
+
+Phase 0 continues with evidence-gap closure and owner review; do not scaffold during workflow setup or automatically advance to bootstrap. Proposed effort is 15–25 developer working days after scope/content decisions, plus owner review, subject to editing/integration requirements. Earlier 7–10-day estimates are superseded. Keep historical captures dated; record later observations or decisions separately.
+
+## Engineering continuity
+
+Own engineering and routine review inside Cursor using .cursor/rules/sterling-workflow.mdc and AGENTS.md. Persist progress in STATUS.md and architectural choices in docs/decisions.md. Plan substantial architecture before implementation; small reversible tasks do not require repeated mode switches or permission. A self-review is not independent verification. Make a relevant atomic commit after milestone checks pass; push only when authorized to the intended remote. No external ChatGPT review or manual report relay is required.
 
 ## Approval boundaries
 

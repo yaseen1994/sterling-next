@@ -1,0 +1,182 @@
+Browser tab: 1, Title: "About Us – Sterling & Wilson Data Center", URL: "https://sterlingandwilsondc.com/about-us/".
+1 AXWebArea About Us – Sterling & Wilson Data Center, URL: sterlingandwilsondc.com/about-us/
+	2 container
+		3 link Description: Skip to content, Value: sterlingandwilsondc.com/about-us/#content
+		4 container
+			5 link sterlingandwilsondc.com/
+			6 container Menu
+				7 content list menu-1-7cec98b
+					8 link Description: Home, Value: sterlingandwilsondc.com/
+					9 link (collapsed) Description: About Us, Value: sterlingandwilsondc.com/about-us/, ID: sm-17913466720617007-1, Secondary Actions: Expand
+					10 link Description: Projects, Value: sterlingandwilsondc.com/projects/
+					11 link (collapsed) Description: Services, Value: sterlingandwilsondc.com/about-us/#, ID: sm-17913466720617007-3, Secondary Actions: Expand
+					12 link (collapsed) Description: Media, Value: sterlingandwilsondc.com/about-us/#, ID: sm-17913466720617007-5, Secondary Actions: Expand
+					13 link Description: Careers, Value: sterlingandwilsondc.com/careers/
+					14 link Description: Contact, Value: sterlingandwilsondc.com/contact/
+		15 heading About Us, Value: 2
+			16 text About Us
+		17 container
+			18 container
+				19 heading We don’t just build DATA CENTERS, we engineer them for the FUTURE, Value: 2
+					20 text We don’t just build
+					21 text DATA CENTERS,
+					22 text we engineer them
+					23 text for the FUTURE
+			24 container
+				25 text Sterling & Wilson Data Center Pvt. Ltd. (SWDC) began its journey as part of Sterling & Wilson Pvt. Ltd., drawing from its nearly century long legacy of engineering excellence. After several successful years together, SWDC was carved out as a dedicated entity, bringing sharper focus, marquee investors, and accelerated global expansion.
+				26 text We deliver end-to-end, high-performance, and sustainable data center infrastructure for hyperscalers, BFSI, government, telecom, and colocation clients across global markets including India, the Middle East, and Africa.
+				27 text Our offerings span the full lifecycle – from design & build, modular construction, and AI-powered smart operations, to sustainability execution and round-the-clock O&M services – enabling speed, intelligence, and reliability at every stage.
+				28 text Backed by a robust order book, a growing global footprint, and a team with decades of deep domain expertise, SWDC is poised to lead the next leap in data center innovation.
+		29 container
+			30 heading What sets us apart, Value: 2
+				31 text What sets us apart
+		32 container
+			33 container
+				34 container
+					35 heading Unrivalled Execution Track Record, Value: 3
+						36 text Unrivalled Execution Track Record
+					37 text We have consistently delivered 100% system uptime across all projects - including the successful execution and handover of three data centers during the COVID-19 pandemic.
+				38 container
+					39 heading Industry-Leading Expertise, Value: 3
+						40 text Industry-Leading Expertise
+					41 text Our in-house team comprises 65+ design engineers, certified professionals, and a dedicated ISAT team, ensuring full compliance with various industry standards.
+			42 container
+				43 container
+					44 heading Innovation-Driven Approach, Value: 3
+						45 text Innovation-Driven Approach
+					46 text We specialize in energy-efficient, sustainable, and prefabricated modular data center solutions that accelerate deployment and optimize costs.
+				47 container
+					48 heading Global Footprint, Value: 3
+						49 text Global Footprint
+					50 text With growing presence in key markets like KSA and DRC - and expansion into Southern Africa, we’re positioned to support the 6 GW capacity boom across India and MEA over the next five years.
+		51 container
+			52 container
+				53 heading HSSE Standards, Value: 2
+					54 text HSSE Standards
+				55 heading Health, Safety, Sustainability and Environment Commitment, Value: 3
+					56 text Health, Safety, Sustainability and Environment Commitment
+				57 text At Sterling & Wilson Data Center (SWDC), we are committed to maintaining the highest standards of health, safety, and environmental responsibility across all operations.
+				58 text Our integrated  management system, aligned with ISO 45001:2018 and ISO 14001:2015, ensures a structured and compliant approach to risk management, regulatory adherence, and continuous improvement. It defines clear roles and responsibilities across the organization and reinforces our focus on safe, sustainable, and efficient project delivery. This commitment reflects our responsibility to our people, our clients, and the environment.
+			59 container
+				60 container Slides
+					61 container swiper-wrapper-3ebff1673ff59df6
+						62 container 1 / 7
+							157 image 1
+						63 container 2 / 7
+							158 image 2
+						64 container 3 / 7
+						65 container 4 / 7
+						66 container 5 / 7
+						67 container 6 / 7
+						68 container 7 / 7
+							159 image 7
+						69 container 1 / 7
+							160 image 1
+						70 container 2 / 7
+							161 image 2
+						71 container 3 / 7
+						72 container 4 / 7
+						73 container 5 / 7
+						74 container 6 / 7
+						75 container 7 / 7
+							162 image 7
+						76 container 1 / 7
+						77 container 2 / 7
+						78 container 3 / 7
+						79 container 4 / 7
+						80 container 5 / 7
+						81 container 6 / 7
+						82 container 7 / 7
+					83 button Previous slide
+					84 button Next slide
+				85 container Slides Slides
+					86 container swiper-wrapper-157a5823af62f0c8
+						87 container 1 / 7
+							163 image 1
+						88 container 2 / 7
+							164 image 2
+						89 container 3 / 7
+							165 image 3
+						90 container 4 / 7
+							166 image 4
+						91 container 5 / 7
+							167 image 5
+						92 container 6 / 7
+							168 image 6
+						93 container 7 / 7
+							169 image 7
+						94 container 1 / 7
+							170 image 1
+						95 container 2 / 7
+							171 image 2
+						96 container 3 / 7
+							172 image 3
+						97 container 4 / 7
+							173 image 4
+						98 container 5 / 7
+							174 image 5
+						99 container 6 / 7
+							175 image 6
+						100 container 7 / 7
+							176 image 7
+						101 container 1 / 7
+							177 image 1
+						102 container 2 / 7
+							178 image 2
+						103 container 3 / 7
+							179 image 3
+						104 container 4 / 7
+						105 container 5 / 7
+						106 container 6 / 7
+						107 container 7 / 7
+		108 container
+			109 heading Leading with Purpose, Value: 2
+				110 text Leading with Purpose
+			111 heading Strategic minds. Proven leadership. Unmatched delivery, Value: 3
+				112 text Strategic minds. Proven leadership. Unmatched delivery
+			113 text Behind every successful project is a team of seasoned leaders and industry experts who guide our strategy, innovation, and execution. Meet the minds shaping the future of data center infrastructure at SWDC.
+			114 link Description: Explore Our Leadership Team, Value: sterlingandwilsondc.com/leadership/
+		115 container
+			116 container
+				117 link sterlingandwilsondc.com/
+				118 container
+					119 text Your trusted partner in designing, building
+					120 text and managing world-class data centers
+			121 container
+				122 heading About Us, Value: 2
+					123 text About Us
+				124 content list
+					125 link Description: Overview, Value: sterlingandwilsondc.com/about-us/
+					126 link Description: Awards & Recognitions, Value: sterlingandwilsondc.com/awards-recognitions/
+					127 link Description: Leadership, Value: sterlingandwilsondc.com/leadership/
+					128 link Description: Industry Memberships and Recognitions, Value: sterlingandwilsondc.com/industry-memberships-and-recognitions/
+				129 heading Projects, Value: 2
+					130 link Description: Projects, Value: sterlingandwilsondc.com/projects/
+			131 container
+				132 heading Services, Value: 2
+					133 text Services
+				134 content list
+					135 link Description: Design & Build, Value: sterlingandwilsondc.com/design-build/
+					136 link Description: Modular Construction, Value: sterlingandwilsondc.com/modular-construction/
+					137 link Description: Smart Operations, Value: sterlingandwilsondc.com/smart-operations/
+					138 link Description: Sustainable Execution, Value: sterlingandwilsondc.com/sustainable-execution/
+					139 link Description: O&M Services, Value: sterlingandwilsondc.com/om-services/
+			140 container
+				141 heading Media, Value: 2
+					142 text Media
+				143 content list
+					144 link Description: News & Press Release, Value: sterlingandwilsondc.com/news-press-release/
+					145 link Description: Events, Value: sterlingandwilsondc.com/events/
+				146 heading Careers, Value: 2
+					147 link Description: Careers, Value: sterlingandwilsondc.com/careers/
+				148 heading Contact, Value: 2
+					149 link Description: Contact, Value: sterlingandwilsondc.com/contact/
+			150 container
+				151 heading Let’s Connect, Value: 2
+					152 text Let’s Connect
+				153 link Description: Linkedin-in, Value: linkedin.com/company/sterling-and-wilson-data-center/
+				154 content list
+					155 link Description: Privacy Policy, Value: sterlingandwilsondc.com/privacy-policy/
+					156 link Description: HSE Policy, Value: sterlingandwilsondc.com/wp-content/uploads/2025/12/SW-HSE-Policy-June-2025.pdf
+
+The focused UI element is 1 AXWebArea About Us – Sterling & Wilson Data Center, URL: sterlingandwilsondc.com/about-us/

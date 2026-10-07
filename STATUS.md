@@ -2,9 +2,23 @@
 
 Updated: 2026-10-07
 
-Completed: reusable repository documentation starter and local setup guide.
-Not completed: local Windows setup, GitHub connection, authoritative live audit, application scaffold, UI, tests, hosting or deployment.
-Current milestone: Phase 0 discovery.
-Next action: set up the intended repository and capture public-site evidence.
-Blockers: no confirmed repository connection; owner-only SEO/hosting/email information remains unavailable.
-Acceptance: migration specification not yet produced or approved.
+Completed: repository baseline read; Phase 0 public discovery audit and four dated manifests populated. All 68 sitemap URLs fetched; 72 content URLs reconciled (69 final 200 responses including one existing redirect; three 404s). Five services, 20 projects, eight profiles verified. 43 browser states across 21 routes, including desktop main-route coverage and representative tablet/mobile behavior. 742 resource references; eight availability/hash/signature checks; zero assets approved for reuse.
+
+Repository: C:\Projects\React\sterling-next; main tracks origin/main at https://github.com/yaseen1994/sterling-next.git. Existing documentation baseline: 17b4085f4c2bc4821b2c2d67823f209c42ff44b3. Audit initially observed no remote; later origin appeared without this audit configuring it. Workflow setup verified configured Git identity and zero local tracking-ref divergence before its documentation commit, without fetching. Remote authentication/reachability untested; no push authorized or performed. Use git log/status for current commit/state.
+
+Workflow setup: concise alwaysApply Cursor rule in .cursor/rules/sterling-workflow.mdc; AGENTS, PROJECT and decisions synchronized. Owner explicitly confirmed Next.js/React/TypeScript/Tailwind, resolving generic PHP/no-framework guidance. Existing dated discovery package preserved as pending owner review. Setup is documentation only; current engineering/acceptance context is recorded below.
+
+Setup verification: 30-line rule frontmatter has description and alwaysApply: true; continuity documents exist; all four manifest counts, dates/methods and local evidence paths rechecked; all 191 indexed evidence sizes/SHA-256 hashes match; both helper files parse as Python; documentation diff reviewed and git diff --check passes. No application package exists, so app lint/typecheck/build/tests do not apply. Relevant workflow and discovery files form one documentation baseline commit; no push performed.
+
+Baseline review caught intentional whitespace in previously untracked browser/header captures and Windows Git line-ending conversion warnings. Scoped .gitattributes preserves evidence bytes and captured whitespace; authored documentation still receives normal whitespace checks. Evidence contents/hashes are unchanged.
+
+Evidence/specification: docs/discovery/REPORT.md; routes.csv, seo.csv, assets.csv, interactions.csv; docs/discovery/evidence/2026-10-07/ (source records, screenshots, browser observations, coverage and access log). Audit helpers collect public GETs and rebuild CSVs offline; no application dependency introduced.
+
+Verification: CSV schemas/unique keys/dates/methods and all local evidence references pass; all 68 sitemap URLs reconciled; eight resource hashes checked; all 18 main routes have desktop captures; JPEG signatures/accessibility snapshots present. Python helper syntax and git diff whitespace checks pass. Results: docs/discovery/evidence/2026-10-07/verification.json; evidence hash index in index.csv. Source and live behavior distinguished; no exact parity, forensic compromise, asset safety, form delivery or owner approval claimed. Application checks unavailable because no application exists.
+
+Not completed: application scaffold/UI, implementation tests/build, full route-by-route responsive/accessibility QA, complete media validation/licensing, owner-only SEO/mail/editing requirements, hosting or deployment. No WordPress source changes, real enquiries, uploads or production DNS changes.
+
+Current milestone: workflow setup complete; Phase 0 public audit delivered, evidence-gap closure and owner review/acceptance pending. Rule files are configured on disk; activation in a running Cursor session has not been observed.
+Next action: continue Phase 0 from the existing audit. Owner reviews REPORT.md questions, held route dispositions and representative desktop/mobile evidence; confirms content/media, editing needs, integrations, SEO inputs, hosting and comparison criteria. Engineering can close documented public evidence gaps within discovery; owner-only facts require answers or explicit acceptance of their absence. Do not bootstrap until material Phase 0 decisions are resolved and the next milestone is authorized.
+Access limitations: web-tool timeouts/local sandbox proxy refusal bypassed with authorized read-only direct requests; browser timeouts recovered. Search results do not prove indexation. External flows, HTTP/www/query/feed/author variants and owner-only Search Console/analytics/logs/hosting/email information remain unverified.
+Acceptance: workflow setup and public discovery implemented and self-reviewed; no independent verification or owner acceptance claimed. Planning range 15–25 developer working days after scope/content decisions, plus owner review; re-estimate after editing/integration requirements and signoff.

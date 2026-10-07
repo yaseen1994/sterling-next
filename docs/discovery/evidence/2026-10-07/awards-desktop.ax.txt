@@ -1,0 +1,117 @@
+Browser tab: 1, Title: "Awards & Recognitions – Sterling & Wilson Data Center", URL: "https://sterlingandwilsondc.com/awards-recognitions/".
+1 AXWebArea Awards & Recognitions – Sterling & Wilson Data Center, URL: sterlingandwilsondc.com/awards-recognitions/
+	2 container
+		3 link Description: Skip to content, Value: sterlingandwilsondc.com/awards-recognitions/#content
+		4 container
+			5 link sterlingandwilsondc.com/
+			6 container Menu
+				7 content list menu-1-7cec98b
+					8 link Description: Home, Value: sterlingandwilsondc.com/
+					9 link (collapsed) Description: About Us, Value: sterlingandwilsondc.com/about-us/, ID: sm-17913468301208145-1, Secondary Actions: Expand
+					10 link Description: Projects, Value: sterlingandwilsondc.com/projects/
+					11 link (collapsed) Description: Services, Value: sterlingandwilsondc.com/awards-recognitions/#, ID: sm-17913468301208145-3, Secondary Actions: Expand
+					12 link (collapsed) Description: Media, Value: sterlingandwilsondc.com/awards-recognitions/#, ID: sm-17913468301208145-5, Secondary Actions: Expand
+					13 link Description: Careers, Value: sterlingandwilsondc.com/careers/
+					14 link Description: Contact, Value: sterlingandwilsondc.com/contact/
+		15 heading Awards & Recognitions, Value: 2
+			16 text Awards & Recognitions
+		17 container
+			18 container
+				19 heading Awards & Recognitions, Value: 1
+					20 text Awards & Recognitions
+			21 container
+				22 container
+					23 link sterlingandwilsondc.com/wp-content/uploads/2026/09/SWDC-Awards.png
+					24 heading EPC Contractor of the Year – Data Center Segment at Construction Week India Awards 2026, Value: 3
+						25 text EPC Contractor of the Year – Data Center Segment at Construction Week India Awards 2026
+				26 container
+					27 link sterlingandwilsondc.com/wp-content/uploads/2026/06/britishes.png
+					28 heading British Safety Council International Safety Award 2026, Value: 3
+						29 text British Safety Council International Safety Award 2026
+				30 container
+					31 link sterlingandwilsondc.com/wp-content/uploads/2026/06/OHSSAI-Safety-Awards.png
+					32 heading OHSSAI Safety Award for LS&W JV HYD 01 at HSE Excellence & ESG Global Awards 2025, Value: 3
+						33 text OHSSAI Safety Award for LS&W JV HYD 01 at HSE Excellence & ESG Global Awards 2025
+				34 container
+					35 link sterlingandwilsondc.com/wp-content/uploads/2025/07/Gold-Award-1.png
+					36 heading Value: 3, Gold Award by Apex India Green Leaf Award 2024 for Environmental Excellence at Hyperscaler Data Center, Hyderabad
+						37 text Gold Award by Apex India Green Leaf Award 2024 for Environmental Excellence at Hyperscaler Data Center, Hyderabad
+			38 container
+				39 container
+					40 link sterlingandwilsondc.com/wp-content/uploads/2025/07/Gold-Award-1.png
+					41 heading Value: 3, Gold Award by Apex India Green Leaf Award 2024 for Environmental Excellence at Hyperscaler Data Center, Hyderabad
+						42 text Gold Award by Apex India Green Leaf Award 2024 for Environmental Excellence at Hyperscaler Data Center, Hyderabad
+				43 container
+					44 link sterlingandwilsondc.com/wp-content/uploads/2025/07/Platinum-Award-1.png
+					45 heading Platinum Award by 9th Apex India OHS Award 2024 for Hyperscaler Data Center, Hyderabad, Value: 3
+						46 text Platinum Award by 9th Apex India OHS Award 2024 for Hyperscaler Data Center, Hyderabad
+				47 container
+					48 link sterlingandwilsondc.com/wp-content/uploads/2025/06/Damman-Data-Centre.jpg
+					49 heading 1 million LTI-free man-hours at the Dammam Data Center project, Saudi Arabia, Value: 3
+						50 text 1 million LTI-free man-hours at the
+						51 text Dammam Data Center project, Saudi Arabia
+				52 container
+					53 link sterlingandwilsondc.com/wp-content/uploads/2026/06/certificate1.png
+					54 heading 4 million LTI-free safe man-hours at the Bhamashah State Data Center project, Rajasthan, Value: 3
+						55 text 4 million LTI-free safe man-hours at the
+						56 text Bhamashah State Data Center project, Rajasthan
+			57 container
+				58 container
+					59 link sterlingandwilsondc.com/wp-content/uploads/2026/06/certificate1.png
+					60 heading 4 million LTI-free safe man-hours at the Bhamashah State Data Center project, Rajasthan, Value: 3
+						61 text 4 million LTI-free safe man-hours at the
+						62 text Bhamashah State Data Center project, Rajasthan
+				63 container
+					64 link sterlingandwilsondc.com/wp-content/uploads/2025/06/2-Million_BSDC.jpeg
+					65 heading 2 million LTI-free safe man-hours at the Bhamashah State Data Center project, Rajasthan, Value: 3
+						66 text 2 million LTI-free safe man-hours at the
+						67 text Bhamashah State Data Center project, Rajasthan
+				68 container
+					69 link sterlingandwilsondc.com/wp-content/uploads/2025/06/1-Million_BSDC.jpeg
+					70 heading 1 million LTI-free manhours at the Bhamashah State Data Center project, Rajasthan, Value: 3
+						71 text 1 million LTI-free manhours at the
+						72 text Bhamashah State Data Center project, Rajasthan
+		73 container
+			74 container
+				75 link sterlingandwilsondc.com/
+				76 container
+					77 text Your trusted partner in designing, building
+					78 text and managing world-class data centers
+			79 container
+				80 heading About Us, Value: 2
+					81 text About Us
+				82 content list
+					83 link Description: Overview, Value: sterlingandwilsondc.com/about-us/
+					84 link Description: Awards & Recognitions, Value: sterlingandwilsondc.com/awards-recognitions/
+					85 link Description: Leadership, Value: sterlingandwilsondc.com/leadership/
+					86 link Description: Industry Memberships and Recognitions, Value: sterlingandwilsondc.com/industry-memberships-and-recognitions/
+				87 heading Projects, Value: 2
+					88 link Description: Projects, Value: sterlingandwilsondc.com/projects/
+			89 container
+				90 heading Services, Value: 2
+					91 text Services
+				92 content list
+					93 link Description: Design & Build, Value: sterlingandwilsondc.com/design-build/
+					94 link Description: Modular Construction, Value: sterlingandwilsondc.com/modular-construction/
+					95 link Description: Smart Operations, Value: sterlingandwilsondc.com/smart-operations/
+					96 link Description: Sustainable Execution, Value: sterlingandwilsondc.com/sustainable-execution/
+					97 link Description: O&M Services, Value: sterlingandwilsondc.com/om-services/
+			98 container
+				99 heading Media, Value: 2
+					100 text Media
+				101 content list
+					102 link Description: News & Press Release, Value: sterlingandwilsondc.com/news-press-release/
+					103 link Description: Events, Value: sterlingandwilsondc.com/events/
+				104 heading Careers, Value: 2
+					105 link Description: Careers, Value: sterlingandwilsondc.com/careers/
+				106 heading Contact, Value: 2
+					107 link Description: Contact, Value: sterlingandwilsondc.com/contact/
+			108 container
+				109 heading Let’s Connect, Value: 2
+					110 text Let’s Connect
+				111 link Description: Linkedin-in, Value: linkedin.com/company/sterling-and-wilson-data-center/
+				112 content list
+					113 link Description: Privacy Policy, Value: sterlingandwilsondc.com/privacy-policy/
+					114 link Description: HSE Policy, Value: sterlingandwilsondc.com/wp-content/uploads/2025/12/SW-HSE-Policy-June-2025.pdf
+
+The focused UI element is 1 AXWebArea Awards & Recognitions – Sterling & Wilson Data Center, URL: sterlingandwilsondc.com/awards-recognitions/

@@ -1,0 +1,23 @@
+{
+  "source_url": "https://sterlingandwilsondc.com/robots.txt",
+  "observed_at_utc": "2026-10-07T04:07:36+00:00",
+  "completed_at_utc": "2026-10-07T04:07:37+00:00",
+  "access_method": "curl.exe public HTTPS GET; no site code executed",
+  "discovered_from": [
+    "audit seed"
+  ],
+  "http_status": 200,
+  "effective_url": "https://sterlingandwilsondc.com/robots.txt",
+  "content_type": "text/plain; charset=utf-8",
+  "curl_exit_code": 0,
+  "error": "",
+  "response_headers": [
+    "HTTP/1.1 200 OK",
+    "Date: Wed, 07 Oct 2026 04:07:37 GMT",
+    "Link: <https://sterlingandwilsondc.com/wp-json/>; rel=\"https://api.w.org/\"",
+    "Content-Type: text/plain; charset=utf-8"
+  ],
+  "size_bytes": 124,
+  "response_sha256": "5ce87b758503e1bfd1c6a8126b90c17013783db9712a5f6590cfe49bcfa7df4a",
+  "text": "User-agent: *\nDisallow: /wp-admin/\nAllow: /wp-admin/admin-ajax.php\n\nSitemap: https://sterlingandwilsondc.com/wp-sitemap.xml\n"
+}

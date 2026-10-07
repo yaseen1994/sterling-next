@@ -1,0 +1,116 @@
+Browser tab: 1, Title: "Careers – Sterling & Wilson Data Center", URL: "https://sterlingandwilsondc.com/careers/".
+1 AXWebArea Careers – Sterling & Wilson Data Center, URL: sterlingandwilsondc.com/careers/
+	2 container
+		3 link Description: Skip to content, Value: sterlingandwilsondc.com/careers/#content
+		4 container
+			5 link sterlingandwilsondc.com/
+			6 container Menu
+				7 content list menu-1-7cec98b
+					8 link Description: Home, Value: sterlingandwilsondc.com/
+					9 link (collapsed) Description: About Us, Value: sterlingandwilsondc.com/about-us/, ID: sm-17913462626913757-1, Secondary Actions: Expand
+					10 link Description: Projects, Value: sterlingandwilsondc.com/projects/
+					11 link (collapsed) Description: Services, Value: sterlingandwilsondc.com/careers/#, ID: sm-17913462626913757-3, Secondary Actions: Expand
+					12 link (collapsed) Description: Media, Value: sterlingandwilsondc.com/careers/#, ID: sm-17913462626913757-5, Secondary Actions: Expand
+					13 link Description: Careers, Value: sterlingandwilsondc.com/careers/
+					14 link Description: Contact, Value: sterlingandwilsondc.com/contact/
+		15 heading Careers, Value: 2
+			16 text Careers
+		17 container
+			18 heading Life at Sterling & Wilson Data Center, Value: 1
+				19 text Life at Sterling & Wilson Data Center
+			20 heading Join a team that’s building data centers across the world., Value: 3
+				21 text Join a team that’s building data centers across the world.
+			22 text Be a part of a legacy engineering firm with a proven track record and strong leadership. With 15+ specialised functions, we offer diverse roles, defined career paths, and the opportunity to build deep expertise, take ownership, and accelerate your growth.
+			23 container
+				24 container
+					25 text 1
+					26 heading Global Presence, Value: 3
+						27 text Global Presence
+					28 text Collaborate with leading hyperscalers, colocation providers, and experts from around the world. Work with a multicultural team on complex, cutting-edge infrastructure, fueling both personal and professional development.
+				29 container
+					30 text 2
+					31 heading End-to-End Project Experience, Value: 3
+						32 text End-to-End Project Experience
+					33 text From design and engineering to execution and commissioning, gain hands-on experience across the entire project lifecycle. At SWDC, you’ll evolve across functions, roles, and phases of mission-critical infrastructure delivery.
+				34 container
+					35 text 3
+					36 heading Celebrating Excellence, Value: 3
+						37 text Celebrating Excellence
+					38 text We believe in recognizing those who drive our success. Through initiatives like our Hall of Fame, peer-to-peer appreciation programs, and spot awards, your contributions will always be seen and celebrated.
+				39 container
+					40 text 4
+					41 heading Culture That Empowers, Value: 3
+						42 text Culture That Empowers
+					43 text At SWDC, transparency, collaboration, and accountability form the foundation of our work culture. We foster an environment where innovation thrives, ideas are valued, and every team member is encouraged to make an impact.
+			44 container
+				45 container
+					46 text 0 +
+					47 container
+						48 text design and
+						49 text engineering team
+				50 container
+					51 text 0 +
+					52 container
+						53 text full-time
+						54 text professionals
+				55 container
+					56 text 0
+					57 container
+						58 text data centers
+						59 text delivered
+				60 container
+					61 text 0 +
+					62 container
+						63 text years of
+						64 text engineering excellence
+		65 container join-our-team
+			66 container
+				67 container
+					68 heading Current Opportunities, Value: 2
+						69 text Current  Opportunities
+					70 text Discover opportunities to grow with Sterling & Wilson Data Center. Join us in building the future of digital infrastructure.
+					71 link Description: Apply Now, Value: sterlingone.darwinbox.in/ms/candidatev2/a688b512869b6c/careers/home
+		72 container
+			73 container
+				74 link sterlingandwilsondc.com/
+				75 container
+					76 text Your trusted partner in designing, building
+					77 text and managing world-class data centers
+			78 container
+				79 heading About Us, Value: 2
+					80 text About Us
+				81 content list
+					82 link Description: Overview, Value: sterlingandwilsondc.com/about-us/
+					83 link Description: Awards & Recognitions, Value: sterlingandwilsondc.com/awards-recognitions/
+					84 link Description: Leadership, Value: sterlingandwilsondc.com/leadership/
+					85 link Description: Industry Memberships and Recognitions, Value: sterlingandwilsondc.com/industry-memberships-and-recognitions/
+				86 heading Projects, Value: 2
+					87 link Description: Projects, Value: sterlingandwilsondc.com/projects/
+			88 container
+				89 heading Services, Value: 2
+					90 text Services
+				91 content list
+					92 link Description: Design & Build, Value: sterlingandwilsondc.com/design-build/
+					93 link Description: Modular Construction, Value: sterlingandwilsondc.com/modular-construction/
+					94 link Description: Smart Operations, Value: sterlingandwilsondc.com/smart-operations/
+					95 link Description: Sustainable Execution, Value: sterlingandwilsondc.com/sustainable-execution/
+					96 link Description: O&M Services, Value: sterlingandwilsondc.com/om-services/
+			97 container
+				98 heading Media, Value: 2
+					99 text Media
+				100 content list
+					101 link Description: News & Press Release, Value: sterlingandwilsondc.com/news-press-release/
+					102 link Description: Events, Value: sterlingandwilsondc.com/events/
+				103 heading Careers, Value: 2
+					104 link Description: Careers, Value: sterlingandwilsondc.com/careers/
+				105 heading Contact, Value: 2
+					106 link Description: Contact, Value: sterlingandwilsondc.com/contact/
+			107 container
+				108 heading Let’s Connect, Value: 2
+					109 text Let’s Connect
+				110 link Description: Linkedin-in, Value: linkedin.com/company/sterling-and-wilson-data-center/
+				111 content list
+					112 link Description: Privacy Policy, Value: sterlingandwilsondc.com/privacy-policy/
+					113 link Description: HSE Policy, Value: sterlingandwilsondc.com/wp-content/uploads/2025/12/SW-HSE-Policy-June-2025.pdf
+
+The focused UI element is 1 AXWebArea Careers – Sterling & Wilson Data Center, URL: sterlingandwilsondc.com/careers/

@@ -1,0 +1,647 @@
+[
+  {
+    "observed_at_utc": "2026-10-07T04:08:42.477Z",
+    "source_url": "https://sterlingandwilsondc.com/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "action": "Focus Services link and press Enter",
+    "findings": "Five service links exposed; trigger aria-expanded=true and receives focus. Escape collapsed the desktop submenu and retained trigger focus in this test.",
+    "screenshot": "home-desktop-services-open.jpg",
+    "accessibility_snapshot": "home-desktop-services-open.ax.txt",
+    "capture_extent": "full-page",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:09:26.685Z",
+    "source_url": "https://sterlingandwilsondc.com/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "capture_extent": "viewport",
+    "action": "Set mobile viewport; menu closed",
+    "findings": "Nine-dot menu trigger has no accessible name; header collapses; sticky award overlaps lower-right content. Full-page mobile capture failed; viewport captured instead.",
+    "screenshot": "home-mobile-390x844.jpg",
+    "accessibility_snapshot": "home-mobile-390x844.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:09:33.316Z",
+    "source_url": "https://sterlingandwilsondc.com/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "capture_extent": "viewport",
+    "action": "Press Enter on nine-dot menu trigger",
+    "findings": "Menu popup appears with Home/About Us/Projects/Services/Media/Careers/Contact and Close; initial focus remains on trigger.",
+    "screenshot": "home-mobile-menu-open.jpg",
+    "accessibility_snapshot": "home-mobile-menu-open.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:09:42.722Z",
+    "source_url": "https://sterlingandwilsondc.com/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "capture_extent": "viewport",
+    "action": "Press Enter on popup Services link",
+    "findings": "Enter exposes five Services submenu links in accessibility tree. Escape from Services did not dismiss popup in this test; full focus trap/return untested.",
+    "screenshot": "home-mobile-services-open.jpg",
+    "accessibility_snapshot": "home-mobile-services-open.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:09:44.685Z",
+    "source_url": "https://sterlingandwilsondc.com/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "capture_extent": "viewport",
+    "action": "Set tablet width after Escape",
+    "findings": "Preliminary tablet capture retained popup state from mobile; not a clean default. Superseded by home-tablet-clean-768x1024.jpg (named Menu Toggle hamburger).",
+    "screenshot": "home-tablet-768x1024.jpg",
+    "accessibility_snapshot": "home-tablet-768x1024.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:10:03.921Z",
+    "source_url": "https://sterlingandwilsondc.com/projects/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "capture_extent": "viewport",
+    "action": "Navigate Projects",
+    "findings": "20 project cards; no filter/search/pagination control in rendered Projects accessibility tree.",
+    "screenshot": "projects-desktop-1440x900.jpg",
+    "accessibility_snapshot": "projects-desktop-1440x900.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:10:05.029Z",
+    "source_url": "https://sterlingandwilsondc.com/projects/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "capture_extent": "viewport",
+    "action": "Set mobile width",
+    "findings": "Project cards use one column; project links retain /portfolios/ paths.",
+    "screenshot": "projects-mobile-390x844.jpg",
+    "accessibility_snapshot": "projects-mobile-390x844.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:11:00.896Z",
+    "source_url": "https://sterlingandwilsondc.com/contact/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "capture_extent": "viewport",
+    "action": "Inspect form; no input values or submission",
+    "findings": "Name/email/phone/company/service/location/message plus two required consent checkboxes; visible Elementor form. CF7 form also exists in source but is not in visible tree.",
+    "screenshot": "contact-desktop-1440x900.jpg",
+    "accessibility_snapshot": "contact-desktop-1440x900.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:11:01.159Z",
+    "source_url": "https://sterlingandwilsondc.com/contact/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "capture_extent": "viewport",
+    "action": "Select Smart Operations without submitting",
+    "findings": "Native service select updates; form remains empty and unsubmitted.",
+    "screenshot": "contact-service-selected.jpg",
+    "accessibility_snapshot": "contact-service-selected.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:11:01.470Z",
+    "source_url": "https://sterlingandwilsondc.com/contact/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "capture_extent": "viewport",
+    "action": "Set mobile width; no submission",
+    "findings": "Contact content stacks; form fields available in tree; no delivery/error/success test.",
+    "screenshot": "contact-mobile-390x844.jpg",
+    "accessibility_snapshot": "contact-mobile-390x844.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:12:32.389Z",
+    "source_url": "https://sterlingandwilsondc.com/careers/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "capture_extent": "viewport",
+    "action": "Inspect Careers without following Apply Now",
+    "findings": "Rendered page uses external Darwinbox Apply Now link; no visible onsite application form. Two forms and demo-job links exist only in fetched source.",
+    "screenshot": "careers-desktop-1440x900.jpg",
+    "accessibility_snapshot": "careers-desktop-1440x900.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:12:33.017Z",
+    "source_url": "https://sterlingandwilsondc.com/careers/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "capture_extent": "viewport",
+    "action": "Scroll to Current Opportunities",
+    "findings": "Current Opportunities points to SterlingOne Darwinbox. No personal data entered or uploaded.",
+    "screenshot": "careers-opportunities-desktop.jpg",
+    "accessibility_snapshot": "careers-opportunities-desktop.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:12:33.411Z",
+    "source_url": "https://sterlingandwilsondc.com/careers/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "capture_extent": "viewport",
+    "action": "Inspect Careers at mobile width",
+    "findings": "Responsive screenshot captured at current scrolled position; Apply Now remains external.",
+    "screenshot": "careers-mobile-390x844.jpg",
+    "accessibility_snapshot": "careers-mobile-390x844.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:12:44.821Z",
+    "source_url": "https://sterlingandwilsondc.com/smart-operations/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "capture_extent": "viewport",
+    "action": "Navigate Smart Operations",
+    "findings": "Service has CTA to contact and five FAQ items, in two accordion widgets.",
+    "screenshot": "smart-operations-desktop.jpg",
+    "accessibility_snapshot": "smart-operations-desktop.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:12:53.061Z",
+    "source_url": "https://sterlingandwilsondc.com/smart-operations/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "capture_extent": "viewport",
+    "action": "Click first FAQ",
+    "findings": "First answer expands; trigger parent is DIV tabindex=0 with no button role.",
+    "screenshot": "smart-operations-faq-open.jpg",
+    "accessibility_snapshot": "smart-operations-faq-open.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:12:53.521Z",
+    "source_url": "https://sterlingandwilsondc.com/smart-operations/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "capture_extent": "viewport",
+    "action": "Press Enter on focused FAQ DIV",
+    "findings": "Enter on focused FAQ DIV did not toggle the open answer. Pointer expansion worked; trigger parent DIV tabindex=0 has no button role.",
+    "screenshot": "smart-operations-faq-keyboard.jpg",
+    "accessibility_snapshot": "smart-operations-faq-keyboard.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:12:54.028Z",
+    "source_url": "https://sterlingandwilsondc.com/smart-operations/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "capture_extent": "viewport",
+    "action": "Set mobile width at FAQ section",
+    "findings": "Mobile FAQ screenshot at scrolled position.",
+    "screenshot": "smart-operations-mobile-faq.jpg",
+    "accessibility_snapshot": "smart-operations-mobile-faq.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:13:20.227Z",
+    "source_url": "https://sterlingandwilsondc.com/news-press-release/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "capture_extent": "viewport",
+    "action": "Navigate News & Press Release",
+    "findings": "Separate year dropdowns: In the News defaults 2026, Press Release defaults 2024; two search forms exist only in source.",
+    "screenshot": "news-desktop-default.jpg",
+    "accessibility_snapshot": "news-desktop-default.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:13:29.998Z",
+    "source_url": "https://sterlingandwilsondc.com/news-press-release/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "capture_extent": "viewport",
+    "action": "Choose 2023 in In the News dropdown",
+    "findings": "Year selection changes visible news cards; Press Release retains 2024.",
+    "screenshot": "news-desktop-2023.jpg",
+    "accessibility_snapshot": "news-desktop-2023.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:13:30.362Z",
+    "source_url": "https://sterlingandwilsondc.com/news-press-release/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "capture_extent": "viewport",
+    "action": "Set mobile width after year selection",
+    "findings": "Both year selectors remain in accessibility tree; only desktop dropdown selection tested.",
+    "screenshot": "news-mobile-390x844.jpg",
+    "accessibility_snapshot": "news-mobile-390x844.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:14:33.914Z",
+    "source_url": "https://sterlingandwilsondc.com/portfolios/global-colocation-data-center-pune-india-2021/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "capture_extent": "viewport",
+    "action": "Navigate Pune project detail",
+    "findings": "Single-image gallery (1 of 1), Next project link, scope/highlights/certification and Enquire Now link to contact.",
+    "screenshot": "project-detail-desktop.jpg",
+    "accessibility_snapshot": "project-detail-desktop.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:14:34.629Z",
+    "source_url": "https://sterlingandwilsondc.com/portfolios/global-colocation-data-center-pune-india-2021/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "capture_extent": "viewport",
+    "action": "Set mobile width",
+    "findings": "Project detail content and Next/Enquire links remain available; single gallery image.",
+    "screenshot": "project-detail-mobile.jpg",
+    "accessibility_snapshot": "project-detail-mobile.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:14:48.532Z",
+    "source_url": "https://sterlingandwilsondc.com/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "capture_extent": "viewport",
+    "action": "Navigate homepage at tablet width with menu closed",
+    "findings": "Tablet uses named Menu Toggle hamburger, distinct from mobile nine-dot popup; hero may be still loading in capture.",
+    "screenshot": "home-tablet-clean-768x1024.jpg",
+    "accessibility_snapshot": "home-tablet-clean-768x1024.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:14:48.954Z",
+    "source_url": "https://sterlingandwilsondc.com/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "capture_extent": "viewport",
+    "action": "Press Enter on Menu Toggle",
+    "findings": "Tablet dropdown navigation opens in the header.",
+    "screenshot": "home-tablet-menu-open.jpg",
+    "accessibility_snapshot": "home-tablet-menu-open.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:14:50.098Z",
+    "source_url": "https://sterlingandwilsondc.com/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "capture_extent": "viewport",
+    "action": "Press Enter on Next slide",
+    "findings": "Project carousel responds to keyboard activation; six featured project links (autoplay makes position time dependent).",
+    "screenshot": "home-project-carousel-next.jpg",
+    "accessibility_snapshot": "home-project-carousel-next.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:17:35.597Z",
+    "source_url": "https://sterlingandwilsondc.com/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "capture_extent": "viewport",
+    "action": "Click awards Next after keyboard press failed",
+    "findings": "Pointer Next works; Enter action could not focus this control (A role=button without href/tabindex). Autoplay timing remains variable.",
+    "screenshot": "home-awards-carousel-next.jpg",
+    "accessibility_snapshot": "home-awards-carousel-next.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:17:37.846Z",
+    "source_url": "https://sterlingandwilsondc.com/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "capture_extent": "viewport",
+    "action": "Click Close on sticky award",
+    "findings": "Sticky award removed from current page state; reload persistence untested.",
+    "screenshot": "home-sticky-award-closed.jpg",
+    "accessibility_snapshot": "home-sticky-award-closed.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:17:56.163Z",
+    "source_url": "https://sterlingandwilsondc.com/about-us/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "capture_extent": "viewport",
+    "action": "Navigate source-linked representative route",
+    "findings": "Desktop viewport and full accessibility snapshot captured; no exhaustive keyboard traversal.",
+    "screenshot": "about-desktop.jpg",
+    "accessibility_snapshot": "about-desktop.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:18:40.350Z",
+    "source_url": "https://sterlingandwilsondc.com/design-build/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "capture_extent": "viewport",
+    "action": "Inspect loaded source-linked representative service",
+    "findings": "Desktop layout and complete accessibility tree captured; carousel and enquiry CTA present.",
+    "screenshot": "design-build-desktop.jpg",
+    "accessibility_snapshot": "design-build-desktop.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:18:45.983Z",
+    "source_url": "https://sterlingandwilsondc.com/leadership/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "capture_extent": "viewport",
+    "action": "Navigate Leadership",
+    "findings": "Desktop viewport and full accessibility snapshot captured; no exhaustive keyboard traversal.",
+    "screenshot": "leadership-desktop.jpg",
+    "accessibility_snapshot": "leadership-desktop.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:18:59.340Z",
+    "source_url": "https://sterlingandwilsondc.com/teams/prasanna-sarambale/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "capture_extent": "viewport",
+    "action": "Navigate source-linked representative route",
+    "findings": "Desktop viewport and full accessibility tree captured; no exhaustive keyboard traversal.",
+    "screenshot": "team-profile-desktop.jpg",
+    "accessibility_snapshot": "team-profile-desktop.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:19:07.074Z",
+    "source_url": "https://sterlingandwilsondc.com/events/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "capture_extent": "viewport",
+    "action": "Navigate source-linked representative route",
+    "findings": "Desktop viewport and full accessibility tree captured; no exhaustive keyboard traversal.",
+    "screenshot": "events-desktop.jpg",
+    "accessibility_snapshot": "events-desktop.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:19:37.630Z",
+    "source_url": "https://sterlingandwilsondc.com/corporate-governance/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "capture_extent": "viewport",
+    "action": "Navigate source-linked representative route",
+    "findings": "Desktop viewport and full accessibility tree captured; no exhaustive keyboard traversal.",
+    "screenshot": "governance-desktop.jpg",
+    "accessibility_snapshot": "governance-desktop.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:19:39.581Z",
+    "source_url": "https://sterlingandwilsondc.com/the-ai-infrastructure-race-why-future-data-centres-must-be-ai-ready/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "capture_extent": "viewport",
+    "action": "Navigate source-linked representative route",
+    "findings": "Desktop viewport and full accessibility tree captured; no exhaustive keyboard traversal.",
+    "screenshot": "blog-article-desktop.jpg",
+    "accessibility_snapshot": "blog-article-desktop.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:20:30.707Z",
+    "source_url": "https://sterlingandwilsondc.com/awards-recognitions/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "capture_extent": "viewport",
+    "action": "Navigate source-linked representative route",
+    "findings": "Desktop viewport and full accessibility tree captured; no exhaustive keyboard traversal.",
+    "screenshot": "awards-desktop.jpg",
+    "accessibility_snapshot": "awards-desktop.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:20:35.104Z",
+    "source_url": "https://sterlingandwilsondc.com/industry-memberships-and-recognitions/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "capture_extent": "viewport",
+    "action": "Navigate source-linked representative route",
+    "findings": "Desktop viewport and full accessibility tree captured; no exhaustive keyboard traversal.",
+    "screenshot": "memberships-desktop.jpg",
+    "accessibility_snapshot": "memberships-desktop.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:20:50.433Z",
+    "source_url": "https://sterlingandwilsondc.com/modular-construction/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "capture_extent": "viewport",
+    "action": "Navigate source-linked representative service",
+    "findings": "Desktop viewport and full accessibility tree captured; no exhaustive keyboard traversal.",
+    "screenshot": "modular-desktop.jpg",
+    "accessibility_snapshot": "modular-desktop.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:20:54.438Z",
+    "source_url": "https://sterlingandwilsondc.com/sustainable-execution/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "capture_extent": "viewport",
+    "action": "Navigate source-linked representative service",
+    "findings": "Desktop viewport and full accessibility tree captured; no exhaustive keyboard traversal.",
+    "screenshot": "sustainable-desktop.jpg",
+    "accessibility_snapshot": "sustainable-desktop.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:22:14.815Z",
+    "source_url": "https://sterlingandwilsondc.com/om-services/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "capture_extent": "viewport",
+    "action": "Navigate source-linked representative route",
+    "findings": "Desktop viewport and full accessibility tree captured; no exhaustive keyboard traversal.",
+    "screenshot": "om-desktop.jpg",
+    "accessibility_snapshot": "om-desktop.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:22:19.884Z",
+    "source_url": "https://sterlingandwilsondc.com/blogs/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "capture_extent": "viewport",
+    "action": "Navigate source-linked representative route",
+    "findings": "Desktop viewport and full accessibility tree captured; no exhaustive keyboard traversal.",
+    "screenshot": "blogs-desktop.jpg",
+    "accessibility_snapshot": "blogs-desktop.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:22:36.170Z",
+    "source_url": "https://sterlingandwilsondc.com/privacy-policy/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "capture_extent": "viewport",
+    "action": "Navigate Privacy Policy",
+    "findings": "Desktop viewport and full accessibility tree captured; legal copy requires owner review.",
+    "screenshot": "privacy-desktop.jpg",
+    "accessibility_snapshot": "privacy-desktop.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:22:42.705Z",
+    "source_url": "https://sterlingandwilsondc.com/contact/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "capture_extent": "viewport",
+    "action": "Focus Name and press Tab without entering data",
+    "findings": "Tab moves to Email; form scrolls into view. No submission or consent selection.",
+    "screenshot": "contact-fields-desktop.jpg",
+    "accessibility_snapshot": "contact-fields-desktop.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  },
+  {
+    "observed_at_utc": "2026-10-07T04:22:59.763Z",
+    "source_url": "https://sterlingandwilsondc.com/contact/",
+    "access_method": "Codex in-app browser; live public reference UI",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "capture_extent": "viewport",
+    "action": "Focus Name and press Tab at mobile width",
+    "findings": "Tab reaches Email; single-column contact form observed. No data entered or submission.",
+    "screenshot": "contact-fields-mobile.jpg",
+    "accessibility_snapshot": "contact-fields-mobile.ax.txt",
+    "screenshot_format": "JPEG (browser output signature checked)"
+  }
+]

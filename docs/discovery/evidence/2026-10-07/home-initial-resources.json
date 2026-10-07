@@ -1,0 +1,707 @@
+{
+  "source_context": "https://sterlingandwilsondc.com/",
+  "observed_at_utc": "2026-10-07T04:04:55+00:00",
+  "date_basis": "HTTP response Date from initial public GET",
+  "access_method": "offline HTMLParser of initial public homepage GET; site code not executed",
+  "response_sha256": "44378e4988db3565f7f0a0eb46e82d550160bd4ddf002c7f33b139b6291732bf",
+  "resources": [
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=2.9.5",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=2.9.5",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.3.4",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/image-hover-effects-addon-for-elementor/assets/style.min.css?ver=1.4.5",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.11.110",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=4.3.4",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.3.4",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=4.3.4",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/css/widget-video.min.css?ver=4.3.4",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/css/widget-counter.min.css?ver=4.3.4",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=4.3.4",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor-pro/assets/css/widget-loop-common.min.css?ver=4.3.1",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor-pro/assets/css/widget-loop-carousel.min.css?ver=4.3.1",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-css/slick.min.css?ver=4.11.110",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-css/premium-addons.min.css?ver=4.11.110",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.3.4",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/css/bootstrap.min.css?ver=6836e46c4957b48291e2a90030dab620",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/css/magnific-popup.css?ver=6836e46c4957b48291e2a90030dab620",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/css/fontawesome.css?ver=6836e46c4957b48291e2a90030dab620",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/css/slick.css?ver=6836e46c4957b48291e2a90030dab620",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/css/materialize.css?ver=6836e46c4957b48291e2a90030dab620",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/css/slick-theme.css?ver=6836e46c4957b48291e2a90030dab620",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/css/brands.css?ver=6836e46c4957b48291e2a90030dab620",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/css/solid.css?ver=6836e46c4957b48291e2a90030dab620",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/fonts/flaticon.css?ver=6836e46c4957b48291e2a90030dab620",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/css/headding-title.css?ver=6836e46c4957b48291e2a90030dab620",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css?ver=6836e46c4957b48291e2a90030dab620",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/css/rsaddons.css?ver=6836e46c4957b48291e2a90030dab620",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.5.1",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.5.1",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.5.1",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=4.3.1",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor-pro/assets/css/modules/sticky.min.css?ver=4.3.1",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor-pro/assets/css/conditionals/popup.min.css?ver=4.3.1",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.34.0",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.24.3",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.24.0",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.css?ver=5.15.3",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.css?ver=5.15.3",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.css?ver=5.15.3",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor-pro/assets/css/widget-blockquote.min.css?ver=3.25.0",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor-pro/assets/css/widget-mega-menu.min.css?ver=3.26.2",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=3.26.0",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=6.8.5",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1742373967",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1742373971",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/elementor/google-fonts/css/livvic.css?ver=1742385286",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/elementor/google-fonts/css/crimsontext.css?ver=1742373977",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=4.3.4",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js?id=GT-M6BRVDPK",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/cropped-logo-website-icon-32x32.jpg",
+      "kind": "icon"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/cropped-logo-website-icon-192x192.jpg",
+      "kind": "icon"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/cropped-logo-website-icon-180x180.jpg",
+      "kind": "apple-touch-icon"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/06/SWDC-1.jpg",
+      "kind": "img:src",
+      "alt": "",
+      "width": "450",
+      "height": "103"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/06/SWDC-1.jpg",
+      "kind": "img:srcset"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/06/SWDC-1-300x69.jpg",
+      "kind": "img:srcset"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/02/mobile-menu1.webp",
+      "kind": "img:src",
+      "alt": "",
+      "width": "33",
+      "height": "32"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/1-2.jpg",
+      "kind": "img:src",
+      "alt": "",
+      "width": "513",
+      "height": "338"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/1-2.jpg",
+      "kind": "img:srcset"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/1-2-300x198.jpg",
+      "kind": "img:srcset"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/2-1.jpg",
+      "kind": "img:src",
+      "alt": "",
+      "width": "513",
+      "height": "338"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/2-1.jpg",
+      "kind": "img:srcset"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/2-1-300x198.jpg",
+      "kind": "img:srcset"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/3.jpg",
+      "kind": "img:src",
+      "alt": "",
+      "width": "513",
+      "height": "338"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/3.jpg",
+      "kind": "img:srcset"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/3-300x198.jpg",
+      "kind": "img:srcset"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/4.jpg",
+      "kind": "img:src",
+      "alt": "",
+      "width": "513",
+      "height": "338"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/4.jpg",
+      "kind": "img:srcset"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/4-300x198.jpg",
+      "kind": "img:srcset"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/5.jpg",
+      "kind": "img:src",
+      "alt": "",
+      "width": "513",
+      "height": "338"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/5.jpg",
+      "kind": "img:srcset"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/5-300x198.jpg",
+      "kind": "img:srcset"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/6.jpg",
+      "kind": "img:src",
+      "alt": "",
+      "width": "513",
+      "height": "338"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/6.jpg",
+      "kind": "img:srcset"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/6-300x198.jpg",
+      "kind": "img:srcset"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/06/Midmax-Qatar.jpg",
+      "kind": "img:src",
+      "alt": "2",
+      "width": "",
+      "height": ""
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/06/Damman-Data-Centre.jpg",
+      "kind": "img:src",
+      "alt": "3",
+      "width": "",
+      "height": ""
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/06/BSDC-4-Million-Safe-Man-Hours.jpg",
+      "kind": "img:src",
+      "alt": "5",
+      "width": "",
+      "height": ""
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/06/2-Million_BSDC.jpeg",
+      "kind": "img:src",
+      "alt": "8",
+      "width": "",
+      "height": ""
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/06/1-Million_BSDC.jpeg",
+      "kind": "img:src",
+      "alt": "9",
+      "width": "",
+      "height": ""
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/Platinum-Award-1.png",
+      "kind": "img:src",
+      "alt": "Platinum-Award",
+      "width": "",
+      "height": ""
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/Gold-Award-1.png",
+      "kind": "img:src",
+      "alt": "Gold-Award",
+      "width": "",
+      "height": ""
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/06/OHSSAI-Safety-Awards.png",
+      "kind": "img:src",
+      "alt": "OHSSAI-Safety-Awards",
+      "width": "",
+      "height": ""
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/06/britishes.png",
+      "kind": "img:src",
+      "alt": "britishes",
+      "width": "",
+      "height": ""
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/09/SWDC-Awards.png",
+      "kind": "img:src",
+      "alt": "SWDC-Awards",
+      "width": "",
+      "height": ""
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/02/Map-F-1.jpg",
+      "kind": "img:src",
+      "alt": "",
+      "width": "1843",
+      "height": "900"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/02/Map-F-1.jpg",
+      "kind": "img:srcset"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/02/Map-F-1-300x147.jpg",
+      "kind": "img:srcset"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/02/Map-F-1-1024x500.jpg",
+      "kind": "img:srcset"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/02/Map-F-1-768x375.jpg",
+      "kind": "img:srcset"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/02/Map-F-1-1536x750.jpg",
+      "kind": "img:srcset"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/Global-Presence-Map-M.jpg",
+      "kind": "img:src",
+      "alt": "",
+      "width": "800",
+      "height": "1080"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/Global-Presence-Map-M.jpg",
+      "kind": "img:srcset"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/Global-Presence-Map-M-222x300.jpg",
+      "kind": "img:srcset"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/Global-Presence-Map-M-759x1024.jpg",
+      "kind": "img:srcset"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/Global-Presence-Map-M-768x1037.jpg",
+      "kind": "img:srcset"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/09/Construction-Week-Awards-Badge.png",
+      "kind": "img:src",
+      "alt": "Sticky Icon",
+      "width": "",
+      "height": ""
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/SWDC.png",
+      "kind": "img:src",
+      "alt": "",
+      "width": "826",
+      "height": "189"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/SWDC.png",
+      "kind": "img:srcset"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/SWDC-300x69.png",
+      "kind": "img:srcset"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/SWDC-768x176.png",
+      "kind": "img:srcset"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=4.3.4",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=4.3.4",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.3.4",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.54.0",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/lib/animations/styles/slideInRight.min.css?ver=4.3.4",
+      "kind": "stylesheet"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.7",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.3.4",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.3.4",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.3.4",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/slick.min.js?ver=4.11.110",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/premium-addons.min.js?ver=4.11.110",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/jquery.plugin.js?ver=201513434",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/jquery.cookie.js?ver=201513434",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/jquery.magnific-popup.min.js?ver=201513434",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/popper.min.js?ver=201513434",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/bootstrap.min.js?ver=201513434",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/datatables.min.js?ver=201513434",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/waypoints.min.js?ver=201513434",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/jquery.counterup.min.js?ver=201513434",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/time-circle.js?ver=201513434",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/headding-title.js?ver=201513434",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/slick.min.js?ver=201513434",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/materialize.min.js?ver=201513434",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/tilt.jquery.min.js?ver=201513434",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/jquery-ui.js?ver=201513434",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/jQuery-plugin-progressbar.js?ver=201513434",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/custom.js?ver=201513434",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.5.1",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=6.8.5",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/essential-addons-elementor/eael-35863.js?ver=1791270502",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=4.3.1",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-contact-form-7-fac2a8013ba5ba355cd0.js",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-content-events-6b04077d00f0d606ba42.js",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/mailchimp-for-wp/assets/js/forms.js?ver=4.14.1",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-mailchimp-ae89b2302ee1e23a78ac.js",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=4.3.1",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=4.3.1",
+      "kind": "script-reference-only"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/Our-Company.jpg",
+      "kind": "css-url-literal"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/Review-Final.jpg",
+      "kind": "css-url-literal"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/review.jpg",
+      "kind": "css-url-literal"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/Bullet-Points.jpg",
+      "kind": "css-url-literal"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Livvic:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,900&display=swap",
+      "kind": "css-url-literal"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/03/arrow-right-up-white-1.svg",
+      "kind": "css-url-literal"
+    },
+    {
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/mainfinalvideo.mp4",
+      "kind": "data-settings-reference"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=lavuRd5ff0o",
+      "kind": "data-settings-reference"
+    },
+    {
+      "url": "https://youtu.be/wH9Gvp4LRAg?si=zeQMl_anVbOIXZfe",
+      "kind": "data-settings-reference"
+    }
+  ]
+}

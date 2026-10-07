@@ -1,0 +1,78 @@
+Browser tab: 1, Title: "Corporate Governance – Sterling & Wilson Data Center", URL: "https://sterlingandwilsondc.com/corporate-governance/".
+1 AXWebArea Corporate Governance – Sterling & Wilson Data Center, URL: sterlingandwilsondc.com/corporate-governance/
+	2 container
+		3 link Description: Skip to content, Value: sterlingandwilsondc.com/corporate-governance/#content
+		4 container
+			5 link sterlingandwilsondc.com/
+			6 container Menu
+				7 content list menu-1-7cec98b
+					8 link Description: Home, Value: sterlingandwilsondc.com/
+					9 link (collapsed) Description: About Us, Value: sterlingandwilsondc.com/about-us/, ID: sm-17913467770886526-1, Secondary Actions: Expand
+					10 link Description: Projects, Value: sterlingandwilsondc.com/projects/
+					11 link (collapsed) Description: Services, Value: sterlingandwilsondc.com/corporate-governance/#, ID: sm-17913467770886526-3, Secondary Actions: Expand
+					12 link (collapsed) Description: Media, Value: sterlingandwilsondc.com/corporate-governance/#, ID: sm-17913467770886526-5, Secondary Actions: Expand
+					13 link Description: Careers, Value: sterlingandwilsondc.com/careers/
+					14 link Description: Contact, Value: sterlingandwilsondc.com/contact/
+		15 heading Corporate Governance, Value: 2
+			16 text Corporate Governance
+		17 container
+			18 heading Policies, Value: 2
+				19 text Policies
+			20 container
+				21 container
+					22 link sterlingandwilsondc.com/wp-content/uploads/2026/10/Corporate-Social-Responsibility-CSR-Policy.pdf
+					23 text Corporate Social Responsibility (CSR) Policy
+		24 container
+			25 heading Annual Returns, Value: 2
+				26 text Annual Returns
+			27 container
+				28 container
+					29 link sterlingandwilsondc.com/wp-content/uploads/2026/10/FY-2024-25.pdf
+					30 text FY 2024-25
+				31 container
+					32 link sterlingandwilsondc.com/wp-content/uploads/2026/10/FY-2023-24-1.pdf
+					33 text FY-2023-24
+		34 container
+			35 container
+				36 link sterlingandwilsondc.com/
+				37 container
+					38 text Your trusted partner in designing, building
+					39 text and managing world-class data centers
+			40 container
+				41 heading About Us, Value: 2
+					42 text About Us
+				43 content list
+					44 link Description: Overview, Value: sterlingandwilsondc.com/about-us/
+					45 link Description: Awards & Recognitions, Value: sterlingandwilsondc.com/awards-recognitions/
+					46 link Description: Leadership, Value: sterlingandwilsondc.com/leadership/
+					47 link Description: Industry Memberships and Recognitions, Value: sterlingandwilsondc.com/industry-memberships-and-recognitions/
+				48 heading Projects, Value: 2
+					49 link Description: Projects, Value: sterlingandwilsondc.com/projects/
+			50 container
+				51 heading Services, Value: 2
+					52 text Services
+				53 content list
+					54 link Description: Design & Build, Value: sterlingandwilsondc.com/design-build/
+					55 link Description: Modular Construction, Value: sterlingandwilsondc.com/modular-construction/
+					56 link Description: Smart Operations, Value: sterlingandwilsondc.com/smart-operations/
+					57 link Description: Sustainable Execution, Value: sterlingandwilsondc.com/sustainable-execution/
+					58 link Description: O&M Services, Value: sterlingandwilsondc.com/om-services/
+			59 container
+				60 heading Media, Value: 2
+					61 text Media
+				62 content list
+					63 link Description: News & Press Release, Value: sterlingandwilsondc.com/news-press-release/
+					64 link Description: Events, Value: sterlingandwilsondc.com/events/
+				65 heading Careers, Value: 2
+					66 link Description: Careers, Value: sterlingandwilsondc.com/careers/
+				67 heading Contact, Value: 2
+					68 link Description: Contact, Value: sterlingandwilsondc.com/contact/
+			69 container
+				70 heading Let’s Connect, Value: 2
+					71 text Let’s Connect
+				72 link Description: Linkedin-in, Value: linkedin.com/company/sterling-and-wilson-data-center/
+				73 content list
+					74 link Description: Privacy Policy, Value: sterlingandwilsondc.com/privacy-policy/
+					75 link Description: HSE Policy, Value: sterlingandwilsondc.com/wp-content/uploads/2025/12/SW-HSE-Policy-June-2025.pdf
+
+The focused UI element is 1 AXWebArea Corporate Governance – Sterling & Wilson Data Center, URL: sterlingandwilsondc.com/corporate-governance/

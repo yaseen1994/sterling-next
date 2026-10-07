@@ -1,0 +1,65 @@
+Browser tab: 1, Title: "Blogs – Sterling & Wilson Data Center", URL: "https://sterlingandwilsondc.com/blogs/".
+1 AXWebArea Blogs – Sterling & Wilson Data Center, URL: sterlingandwilsondc.com/blogs/
+	2 container
+		3 link Description: Skip to content, Value: sterlingandwilsondc.com/blogs/#content
+		4 container
+			5 link sterlingandwilsondc.com/
+			6 container Menu
+				7 content list menu-1-7cec98b
+					8 link Description: Home, Value: sterlingandwilsondc.com/
+					9 link (collapsed) Description: About Us, Value: sterlingandwilsondc.com/about-us/, ID: sm-17913469383712278-1, Secondary Actions: Expand
+					10 link Description: Projects, Value: sterlingandwilsondc.com/projects/
+					11 link (collapsed) Description: Services, Value: sterlingandwilsondc.com/blogs/#, ID: sm-17913469383712278-3, Secondary Actions: Expand
+					12 link (collapsed) Description: Media, Value: sterlingandwilsondc.com/blogs/#, ID: sm-17913469383712278-5, Secondary Actions: Expand
+					13 link Description: Careers, Value: sterlingandwilsondc.com/careers/
+					14 link Description: Contact, Value: sterlingandwilsondc.com/contact/
+		15 heading Blog, Value: 2
+			16 text Blog
+		17 container
+			18 heading The AI Infrastructure Race: Why Future Data Centres Must Be AI-Ready, Value: 2
+				19 link Description: The AI Infrastructure Race: Why Future Data Centres Must Be AI-Ready, Value: sterlingandwilsondc.com/the-ai-infrastructure-race-why-future-data-centres-must-be-ai-ready/
+			20 link Description: Read More, Value: sterlingandwilsondc.com/the-ai-infrastructure-race-why-future-data-centres-must-be-ai-ready/
+		21 container
+			22 container
+				23 link sterlingandwilsondc.com/
+				24 container
+					25 text Your trusted partner in designing, building
+					26 text and managing world-class data centers
+			27 container
+				28 heading About Us, Value: 2
+					29 text About Us
+				30 content list
+					31 link Description: Overview, Value: sterlingandwilsondc.com/about-us/
+					32 link Description: Awards & Recognitions, Value: sterlingandwilsondc.com/awards-recognitions/
+					33 link Description: Leadership, Value: sterlingandwilsondc.com/leadership/
+					34 link Description: Industry Memberships and Recognitions, Value: sterlingandwilsondc.com/industry-memberships-and-recognitions/
+				35 heading Projects, Value: 2
+					36 link Description: Projects, Value: sterlingandwilsondc.com/projects/
+			37 container
+				38 heading Services, Value: 2
+					39 text Services
+				40 content list
+					41 link Description: Design & Build, Value: sterlingandwilsondc.com/design-build/
+					42 link Description: Modular Construction, Value: sterlingandwilsondc.com/modular-construction/
+					43 link Description: Smart Operations, Value: sterlingandwilsondc.com/smart-operations/
+					44 link Description: Sustainable Execution, Value: sterlingandwilsondc.com/sustainable-execution/
+					45 link Description: O&M Services, Value: sterlingandwilsondc.com/om-services/
+			46 container
+				47 heading Media, Value: 2
+					48 text Media
+				49 content list
+					50 link Description: News & Press Release, Value: sterlingandwilsondc.com/news-press-release/
+					51 link Description: Events, Value: sterlingandwilsondc.com/events/
+				52 heading Careers, Value: 2
+					53 link Description: Careers, Value: sterlingandwilsondc.com/careers/
+				54 heading Contact, Value: 2
+					55 link Description: Contact, Value: sterlingandwilsondc.com/contact/
+			56 container
+				57 heading Let’s Connect, Value: 2
+					58 text Let’s Connect
+				59 link Description: Linkedin-in, Value: linkedin.com/company/sterling-and-wilson-data-center/
+				60 content list
+					61 link Description: Privacy Policy, Value: sterlingandwilsondc.com/privacy-policy/
+					62 link Description: HSE Policy, Value: sterlingandwilsondc.com/wp-content/uploads/2025/12/SW-HSE-Policy-June-2025.pdf
+
+The focused UI element is 1 AXWebArea Blogs – Sterling & Wilson Data Center, URL: sterlingandwilsondc.com/blogs/

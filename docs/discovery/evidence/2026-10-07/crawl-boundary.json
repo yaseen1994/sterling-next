@@ -1,0 +1,7 @@
+{
+  "completed_at_utc": "2026-10-07T04:08:47+00:00",
+  "limit": 250,
+  "attempted": 85,
+  "unfetched_at_limit": {},
+  "scope": "sitemap + recursive same-host HTTPS anchor links without queries; no admin/API/author/feed crawl; references do not establish legitimacy"
+}

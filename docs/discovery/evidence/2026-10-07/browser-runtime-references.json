@@ -1,0 +1,47 @@
+{
+  "source_url": "https://sterlingandwilsondc.com/",
+  "observed_at_utc": "2026-10-07T04:17:19.411Z",
+  "access_method": "read-only browser DOM inspection",
+  "resources": [
+    {
+      "autoplay": true,
+      "kind": "video-currentSrc",
+      "loop": true,
+      "muted": true,
+      "readyState": 4,
+      "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/mainfinalvideo.mp4"
+    }
+  ],
+  "styles": [
+    {
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "Livvic, sans-serif",
+      "fontSize": "15.84px",
+      "text": "Sterling & Wilson Data Center Pvt. Ltd. is one of India’s leading Data Center EPC specialists with projects across India, Africa and the Middle East. \n    Sterling & Wilson Data Center Pvt. Ltd. is one of India’s leading Data Center EPC specialists with projects across India, Africa and the Middle East. \n    Sterling & Wilson Data Center Pvt. Ltd. is one of India’s leading Data Center EPC specialists with projects across India, Africa and the Middle East. \n    Sterling & Wilson Data Center Pvt. Ltd. is one of India’s leading Data Center EPC specialists with projects across India, Africa and the Middle East."
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "Livvic, sans-serif",
+      "fontSize": "30.24px",
+      "text": "Engineering the Future of Data Centers"
+    },
+    {
+      "color": "rgb(241, 90, 34)",
+      "fontFamily": "Livvic, sans-serif",
+      "fontSize": "37.44px",
+      "text": "Services"
+    },
+    {
+      "color": "rgb(0, 0, 0)",
+      "fontFamily": "Livvic, sans-serif",
+      "fontSize": "25.92px",
+      "text": "Your Trusted Partner for High-Performance Data Center Infrastructure"
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "Livvic, sans-serif",
+      "fontSize": "37.44px",
+      "text": "Our Company"
+    }
+  ]
+}

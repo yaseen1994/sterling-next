@@ -1,0 +1,2325 @@
+{
+  "source_url": "https://sterlingandwilsondc.com/industry-memberships-and-recognitions/",
+  "observed_at_utc": "2026-10-07T04:07:55+00:00",
+  "completed_at_utc": "2026-10-07T04:07:58+00:00",
+  "access_method": "curl.exe public HTTPS GET; no site code executed",
+  "discovered_from": [
+    "https://sterlingandwilsondc.com/",
+    "https://sterlingandwilsondc.com/about-us/",
+    "https://sterlingandwilsondc.com/awards-recognitions/",
+    "https://sterlingandwilsondc.com/blogs/",
+    "https://sterlingandwilsondc.com/careers/",
+    "https://sterlingandwilsondc.com/contact/",
+    "https://sterlingandwilsondc.com/corporate-governance/",
+    "https://sterlingandwilsondc.com/design-build/",
+    "https://sterlingandwilsondc.com/events/"
+  ],
+  "http_status": 200,
+  "effective_url": "https://sterlingandwilsondc.com/industry-memberships-and-recognitions/",
+  "content_type": "text/html; charset=UTF-8",
+  "curl_exit_code": 0,
+  "error": "",
+  "response_headers": [
+    "HTTP/1.1 200 OK",
+    "Date: Wed, 07 Oct 2026 04:07:56 GMT",
+    "Link: <https://sterlingandwilsondc.com/wp-json/>; rel=\"https://api.w.org/\", <https://sterlingandwilsondc.com/wp-json/wp/v2/pages/35553>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://sterlingandwilsondc.com/?p=35553>; rel=shortlink",
+    "Content-Type: text/html; charset=UTF-8"
+  ],
+  "size_bytes": 498348,
+  "response_sha256": "23a3552446b8bbc35da9cc8ae536eeabd103e48c108258ee237b158b311d22a0",
+  "html": {
+    "title": "Industry Memberships and Recognitions – Sterling & Wilson Data Center",
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "robots": "max-image-preview:large",
+      "generator": "Site Kit by Google 1.189.0",
+      "msapplication-tileimage": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/cropped-logo-website-icon-270x270.jpg"
+    },
+    "canonicals": [
+      "https://sterlingandwilsondc.com/industry-memberships-and-recognitions/"
+    ],
+    "headings": [
+      {
+        "tag": "h2",
+        "text": "Industry Memberships and Recognitions",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Our Industry Memberships & Recognitions",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Data Center Ambassador – Government of Maharashtra",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Prasanna Sarambale",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Chief Executive Officer",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "View profile",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Industry Memberships",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "ADCA - Africa Datacenter Association",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Bombay Chamber of Commerce & Industry",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "British Safety Council",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Confederation of Indian Industry (CII)",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "DCAP - Datacenter Association of the Philippines",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "GDCA - Gulf Datacenter Association",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "National Safety Council (NSC), India",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Open Compute Project (OCP) – Open Community Member",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "About Us",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Projects",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Services",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Media",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Careers",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Contact",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Let’s Connect",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Prasanna Sarambale​",
+        "class": "title"
+      }
+    ],
+    "links": [
+      {
+        "tag": "a",
+        "text": "Skip to content",
+        "href": "#content",
+        "class": "skip-link screen-reader-text",
+        "url": "https://sterlingandwilsondc.com/industry-memberships-and-recognitions/#content"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "https://sterlingandwilsondc.com",
+        "url": "https://sterlingandwilsondc.com"
+      },
+      {
+        "tag": "a",
+        "text": "Home",
+        "href": "https://sterlingandwilsondc.com/",
+        "class": "elementor-item",
+        "url": "https://sterlingandwilsondc.com/"
+      },
+      {
+        "tag": "a",
+        "text": "About Us",
+        "href": "https://sterlingandwilsondc.com/about-us/",
+        "class": "elementor-item",
+        "url": "https://sterlingandwilsondc.com/about-us/"
+      },
+      {
+        "tag": "a",
+        "text": "Overview",
+        "href": "https://sterlingandwilsondc.com/about-us/",
+        "class": "elementor-sub-item",
+        "url": "https://sterlingandwilsondc.com/about-us/"
+      },
+      {
+        "tag": "a",
+        "text": "Awards & Recognitions",
+        "href": "https://sterlingandwilsondc.com/awards-recognitions/",
+        "class": "elementor-sub-item",
+        "url": "https://sterlingandwilsondc.com/awards-recognitions/"
+      },
+      {
+        "tag": "a",
+        "text": "Leadership",
+        "href": "https://sterlingandwilsondc.com/leadership/",
+        "class": "elementor-sub-item",
+        "url": "https://sterlingandwilsondc.com/leadership/"
+      },
+      {
+        "tag": "a",
+        "text": "Industry Memberships and Recognitions",
+        "href": "https://sterlingandwilsondc.com/industry-memberships-and-recognitions/",
+        "class": "elementor-sub-item elementor-item-active",
+        "url": "https://sterlingandwilsondc.com/industry-memberships-and-recognitions/"
+      },
+      {
+        "tag": "a",
+        "text": "Corporate Governance",
+        "href": "https://sterlingandwilsondc.com/corporate-governance/",
+        "class": "elementor-sub-item",
+        "url": "https://sterlingandwilsondc.com/corporate-governance/"
+      },
+      {
+        "tag": "a",
+        "text": "Projects",
+        "href": "https://sterlingandwilsondc.com/projects/",
+        "class": "elementor-item",
+        "url": "https://sterlingandwilsondc.com/projects/"
+      },
+      {
+        "tag": "a",
+        "text": "Services",
+        "href": "#",
+        "class": "elementor-item elementor-item-anchor",
+        "url": "https://sterlingandwilsondc.com/industry-memberships-and-recognitions/"
+      },
+      {
+        "tag": "a",
+        "text": "Design & Build",
+        "href": "https://sterlingandwilsondc.com/design-build/",
+        "class": "elementor-sub-item",
+        "url": "https://sterlingandwilsondc.com/design-build/"
+      },
+      {
+        "tag": "a",
+        "text": "Modular Construction",
+        "href": "https://sterlingandwilsondc.com/modular-construction/",
+        "class": "elementor-sub-item",
+        "url": "https://sterlingandwilsondc.com/modular-construction/"
+      },
+      {
+        "tag": "a",
+        "text": "Smart Operations",
+        "href": "https://sterlingandwilsondc.com/smart-operations/",
+        "class": "elementor-sub-item",
+        "url": "https://sterlingandwilsondc.com/smart-operations/"
+      },
+      {
+        "tag": "a",
+        "text": "Sustainable Execution",
+        "href": "https://sterlingandwilsondc.com/sustainable-execution/",
+        "class": "elementor-sub-item",
+        "url": "https://sterlingandwilsondc.com/sustainable-execution/"
+      },
+      {
+        "tag": "a",
+        "text": "O&M Services",
+        "href": "https://sterlingandwilsondc.com/om-services/",
+        "class": "elementor-sub-item",
+        "url": "https://sterlingandwilsondc.com/om-services/"
+      },
+      {
+        "tag": "a",
+        "text": "Media",
+        "href": "#",
+        "class": "elementor-item elementor-item-anchor",
+        "url": "https://sterlingandwilsondc.com/industry-memberships-and-recognitions/"
+      },
+      {
+        "tag": "a",
+        "text": "News & Press Release",
+        "href": "https://sterlingandwilsondc.com/news-press-release/",
+        "class": "elementor-sub-item",
+        "url": "https://sterlingandwilsondc.com/news-press-release/"
+      },
+      {
+        "tag": "a",
+        "text": "Events",
+        "href": "https://sterlingandwilsondc.com/events/",
+        "class": "elementor-sub-item",
+        "url": "https://sterlingandwilsondc.com/events/"
+      },
+      {
+        "tag": "a",
+        "text": "Blogs",
+        "href": "https://sterlingandwilsondc.com/blogs/",
+        "class": "elementor-sub-item",
+        "url": "https://sterlingandwilsondc.com/blogs/"
+      },
+      {
+        "tag": "a",
+        "text": "Careers",
+        "href": "https://sterlingandwilsondc.com/careers/",
+        "class": "elementor-item",
+        "url": "https://sterlingandwilsondc.com/careers/"
+      },
+      {
+        "tag": "a",
+        "text": "Contact",
+        "href": "https://sterlingandwilsondc.com/contact/",
+        "class": "elementor-item",
+        "url": "https://sterlingandwilsondc.com/contact/"
+      },
+      {
+        "tag": "a",
+        "text": "Home",
+        "href": "https://sterlingandwilsondc.com/",
+        "class": "elementor-item",
+        "tabindex": "-1",
+        "url": "https://sterlingandwilsondc.com/"
+      },
+      {
+        "tag": "a",
+        "text": "About Us",
+        "href": "https://sterlingandwilsondc.com/about-us/",
+        "class": "elementor-item",
+        "tabindex": "-1",
+        "url": "https://sterlingandwilsondc.com/about-us/"
+      },
+      {
+        "tag": "a",
+        "text": "Overview",
+        "href": "https://sterlingandwilsondc.com/about-us/",
+        "class": "elementor-sub-item",
+        "tabindex": "-1",
+        "url": "https://sterlingandwilsondc.com/about-us/"
+      },
+      {
+        "tag": "a",
+        "text": "Awards & Recognitions",
+        "href": "https://sterlingandwilsondc.com/awards-recognitions/",
+        "class": "elementor-sub-item",
+        "tabindex": "-1",
+        "url": "https://sterlingandwilsondc.com/awards-recognitions/"
+      },
+      {
+        "tag": "a",
+        "text": "Leadership",
+        "href": "https://sterlingandwilsondc.com/leadership/",
+        "class": "elementor-sub-item",
+        "tabindex": "-1",
+        "url": "https://sterlingandwilsondc.com/leadership/"
+      },
+      {
+        "tag": "a",
+        "text": "Industry Memberships and Recognitions",
+        "href": "https://sterlingandwilsondc.com/industry-memberships-and-recognitions/",
+        "class": "elementor-sub-item elementor-item-active",
+        "tabindex": "-1",
+        "url": "https://sterlingandwilsondc.com/industry-memberships-and-recognitions/"
+      },
+      {
+        "tag": "a",
+        "text": "Corporate Governance",
+        "href": "https://sterlingandwilsondc.com/corporate-governance/",
+        "class": "elementor-sub-item",
+        "tabindex": "-1",
+        "url": "https://sterlingandwilsondc.com/corporate-governance/"
+      },
+      {
+        "tag": "a",
+        "text": "Projects",
+        "href": "https://sterlingandwilsondc.com/projects/",
+        "class": "elementor-item",
+        "tabindex": "-1",
+        "url": "https://sterlingandwilsondc.com/projects/"
+      },
+      {
+        "tag": "a",
+        "text": "Services",
+        "href": "#",
+        "class": "elementor-item elementor-item-anchor",
+        "tabindex": "-1",
+        "url": "https://sterlingandwilsondc.com/industry-memberships-and-recognitions/"
+      },
+      {
+        "tag": "a",
+        "text": "Design & Build",
+        "href": "https://sterlingandwilsondc.com/design-build/",
+        "class": "elementor-sub-item",
+        "tabindex": "-1",
+        "url": "https://sterlingandwilsondc.com/design-build/"
+      },
+      {
+        "tag": "a",
+        "text": "Modular Construction",
+        "href": "https://sterlingandwilsondc.com/modular-construction/",
+        "class": "elementor-sub-item",
+        "tabindex": "-1",
+        "url": "https://sterlingandwilsondc.com/modular-construction/"
+      },
+      {
+        "tag": "a",
+        "text": "Smart Operations",
+        "href": "https://sterlingandwilsondc.com/smart-operations/",
+        "class": "elementor-sub-item",
+        "tabindex": "-1",
+        "url": "https://sterlingandwilsondc.com/smart-operations/"
+      },
+      {
+        "tag": "a",
+        "text": "Sustainable Execution",
+        "href": "https://sterlingandwilsondc.com/sustainable-execution/",
+        "class": "elementor-sub-item",
+        "tabindex": "-1",
+        "url": "https://sterlingandwilsondc.com/sustainable-execution/"
+      },
+      {
+        "tag": "a",
+        "text": "O&M Services",
+        "href": "https://sterlingandwilsondc.com/om-services/",
+        "class": "elementor-sub-item",
+        "tabindex": "-1",
+        "url": "https://sterlingandwilsondc.com/om-services/"
+      },
+      {
+        "tag": "a",
+        "text": "Media",
+        "href": "#",
+        "class": "elementor-item elementor-item-anchor",
+        "tabindex": "-1",
+        "url": "https://sterlingandwilsondc.com/industry-memberships-and-recognitions/"
+      },
+      {
+        "tag": "a",
+        "text": "News & Press Release",
+        "href": "https://sterlingandwilsondc.com/news-press-release/",
+        "class": "elementor-sub-item",
+        "tabindex": "-1",
+        "url": "https://sterlingandwilsondc.com/news-press-release/"
+      },
+      {
+        "tag": "a",
+        "text": "Events",
+        "href": "https://sterlingandwilsondc.com/events/",
+        "class": "elementor-sub-item",
+        "tabindex": "-1",
+        "url": "https://sterlingandwilsondc.com/events/"
+      },
+      {
+        "tag": "a",
+        "text": "Blogs",
+        "href": "https://sterlingandwilsondc.com/blogs/",
+        "class": "elementor-sub-item",
+        "tabindex": "-1",
+        "url": "https://sterlingandwilsondc.com/blogs/"
+      },
+      {
+        "tag": "a",
+        "text": "Careers",
+        "href": "https://sterlingandwilsondc.com/careers/",
+        "class": "elementor-item",
+        "tabindex": "-1",
+        "url": "https://sterlingandwilsondc.com/careers/"
+      },
+      {
+        "tag": "a",
+        "text": "Contact",
+        "href": "https://sterlingandwilsondc.com/contact/",
+        "class": "elementor-item",
+        "tabindex": "-1",
+        "url": "https://sterlingandwilsondc.com/contact/"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1ODYzIiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/industry-memberships-and-recognitions/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1ODYzIiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjMwOTg3IiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/industry-memberships-and-recognitions/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjMwOTg3IiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "https://www.linkedin.com/in/prasannasarambale/",
+        "class": "elementor-icon elementor-animation-float",
+        "url": "https://www.linkedin.com/in/prasannasarambale/"
+      },
+      {
+        "tag": "a",
+        "text": "Prasanna Sarambale",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjMwOTg3IiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/industry-memberships-and-recognitions/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjMwOTg3IiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "Chief Executive Officer",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjMwOTg3IiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/industry-memberships-and-recognitions/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjMwOTg3IiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "View profile",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjMwOTg3IiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/industry-memberships-and-recognitions/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjMwOTg3IiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "https://sterlingandwilsondc.com/",
+        "url": "https://sterlingandwilsondc.com/"
+      },
+      {
+        "tag": "a",
+        "text": "Overview",
+        "href": "https://sterlingandwilsondc.com/about-us/",
+        "url": "https://sterlingandwilsondc.com/about-us/"
+      },
+      {
+        "tag": "a",
+        "text": "Awards & Recognitions",
+        "href": "https://sterlingandwilsondc.com/awards-recognitions/",
+        "url": "https://sterlingandwilsondc.com/awards-recognitions/"
+      },
+      {
+        "tag": "a",
+        "text": "Leadership",
+        "href": "https://sterlingandwilsondc.com/leadership/",
+        "url": "https://sterlingandwilsondc.com/leadership/"
+      },
+      {
+        "tag": "a",
+        "text": "Industry Memberships and Recognitions",
+        "href": "https://sterlingandwilsondc.com/industry-memberships-and-recognitions/",
+        "url": "https://sterlingandwilsondc.com/industry-memberships-and-recognitions/"
+      },
+      {
+        "tag": "a",
+        "text": "Projects",
+        "href": "https://sterlingandwilsondc.com/projects/",
+        "url": "https://sterlingandwilsondc.com/projects/"
+      },
+      {
+        "tag": "a",
+        "text": "Design & Build",
+        "href": "https://sterlingandwilsondc.com/design-build/",
+        "url": "https://sterlingandwilsondc.com/design-build/"
+      },
+      {
+        "tag": "a",
+        "text": "Modular Construction",
+        "href": "https://sterlingandwilsondc.com/modular-construction/",
+        "url": "https://sterlingandwilsondc.com/modular-construction/"
+      },
+      {
+        "tag": "a",
+        "text": "Smart Operations",
+        "href": "https://sterlingandwilsondc.com/smart-operations/",
+        "url": "https://sterlingandwilsondc.com/smart-operations/"
+      },
+      {
+        "tag": "a",
+        "text": "Sustainable Execution",
+        "href": "https://sterlingandwilsondc.com/sustainable-execution/",
+        "url": "https://sterlingandwilsondc.com/sustainable-execution/"
+      },
+      {
+        "tag": "a",
+        "text": "O&M Services",
+        "href": "https://sterlingandwilsondc.com/om-services/",
+        "url": "https://sterlingandwilsondc.com/om-services/"
+      },
+      {
+        "tag": "a",
+        "text": "News & Press Release",
+        "href": "https://sterlingandwilsondc.com/news-press-release/",
+        "url": "https://sterlingandwilsondc.com/news-press-release/"
+      },
+      {
+        "tag": "a",
+        "text": "Events",
+        "href": "https://sterlingandwilsondc.com/events/",
+        "url": "https://sterlingandwilsondc.com/events/"
+      },
+      {
+        "tag": "a",
+        "text": "Careers",
+        "href": "https://sterlingandwilsondc.com/careers/",
+        "url": "https://sterlingandwilsondc.com/careers/"
+      },
+      {
+        "tag": "a",
+        "text": "Contact",
+        "href": "https://sterlingandwilsondc.com/contact/",
+        "url": "https://sterlingandwilsondc.com/contact/"
+      },
+      {
+        "tag": "a",
+        "text": "Linkedin-in",
+        "href": "https://www.linkedin.com/company/sterling-and-wilson-data-center/",
+        "class": "elementor-icon elementor-social-icon elementor-social-icon-linkedin-in elementor-repeater-item-738fb8f",
+        "url": "https://www.linkedin.com/company/sterling-and-wilson-data-center/"
+      },
+      {
+        "tag": "a",
+        "text": "Privacy Policy",
+        "href": "https://sterlingandwilsondc.com/privacy-policy/",
+        "url": "https://sterlingandwilsondc.com/privacy-policy/"
+      },
+      {
+        "tag": "a",
+        "text": "HSE Policy",
+        "href": "https://sterlingandwilsondc.com/wp-content/uploads/2025/12/SW-HSE-Policy-June-2025.pdf",
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/12/SW-HSE-Policy-June-2025.pdf"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "https://www.linkedin.com/in/prasannasarambale/?originalSubdomain=in",
+        "class": "elementor-icon elementor-animation-float",
+        "url": "https://www.linkedin.com/in/prasannasarambale/?originalSubdomain=in"
+      },
+      {
+        "tag": "a",
+        "text": "Home",
+        "href": "https://sterlingandwilsondc.com/",
+        "url": "https://sterlingandwilsondc.com/"
+      },
+      {
+        "tag": "a",
+        "text": "About Us",
+        "href": "https://sterlingandwilsondc.com/about-us/",
+        "url": "https://sterlingandwilsondc.com/about-us/"
+      },
+      {
+        "tag": "a",
+        "text": "Overview",
+        "href": "https://sterlingandwilsondc.com/about-us/",
+        "url": "https://sterlingandwilsondc.com/about-us/"
+      },
+      {
+        "tag": "a",
+        "text": "Awards & Recognitions",
+        "href": "https://sterlingandwilsondc.com/awards-recognitions/",
+        "url": "https://sterlingandwilsondc.com/awards-recognitions/"
+      },
+      {
+        "tag": "a",
+        "text": "Leadership",
+        "href": "https://sterlingandwilsondc.com/leadership/",
+        "url": "https://sterlingandwilsondc.com/leadership/"
+      },
+      {
+        "tag": "a",
+        "text": "Industry Memberships and Recognitions",
+        "href": "https://sterlingandwilsondc.com/industry-memberships-and-recognitions/",
+        "url": "https://sterlingandwilsondc.com/industry-memberships-and-recognitions/"
+      },
+      {
+        "tag": "a",
+        "text": "Corporate Governance",
+        "href": "https://sterlingandwilsondc.com/corporate-governance/",
+        "url": "https://sterlingandwilsondc.com/corporate-governance/"
+      },
+      {
+        "tag": "a",
+        "text": "Projects",
+        "href": "https://sterlingandwilsondc.com/projects/",
+        "url": "https://sterlingandwilsondc.com/projects/"
+      },
+      {
+        "tag": "a",
+        "text": "Services",
+        "href": "#",
+        "url": "https://sterlingandwilsondc.com/industry-memberships-and-recognitions/"
+      },
+      {
+        "tag": "a",
+        "text": "Design & Build",
+        "href": "https://sterlingandwilsondc.com/design-build/",
+        "url": "https://sterlingandwilsondc.com/design-build/"
+      },
+      {
+        "tag": "a",
+        "text": "Modular Construction",
+        "href": "https://sterlingandwilsondc.com/modular-construction/",
+        "url": "https://sterlingandwilsondc.com/modular-construction/"
+      },
+      {
+        "tag": "a",
+        "text": "Smart Operations",
+        "href": "https://sterlingandwilsondc.com/smart-operations/",
+        "url": "https://sterlingandwilsondc.com/smart-operations/"
+      },
+      {
+        "tag": "a",
+        "text": "Sustainable Execution",
+        "href": "https://sterlingandwilsondc.com/sustainable-execution/",
+        "url": "https://sterlingandwilsondc.com/sustainable-execution/"
+      },
+      {
+        "tag": "a",
+        "text": "O&M Services",
+        "href": "https://sterlingandwilsondc.com/om-services/",
+        "url": "https://sterlingandwilsondc.com/om-services/"
+      },
+      {
+        "tag": "a",
+        "text": "Media",
+        "href": "#",
+        "url": "https://sterlingandwilsondc.com/industry-memberships-and-recognitions/"
+      },
+      {
+        "tag": "a",
+        "text": "News & Press Release",
+        "href": "https://sterlingandwilsondc.com/news-press-release/",
+        "url": "https://sterlingandwilsondc.com/news-press-release/"
+      },
+      {
+        "tag": "a",
+        "text": "Events",
+        "href": "https://sterlingandwilsondc.com/events/",
+        "url": "https://sterlingandwilsondc.com/events/"
+      },
+      {
+        "tag": "a",
+        "text": "Blogs",
+        "href": "https://sterlingandwilsondc.com/blogs/",
+        "url": "https://sterlingandwilsondc.com/blogs/"
+      },
+      {
+        "tag": "a",
+        "text": "Careers",
+        "href": "https://sterlingandwilsondc.com/careers/",
+        "url": "https://sterlingandwilsondc.com/careers/"
+      },
+      {
+        "tag": "a",
+        "text": "Contact",
+        "href": "https://sterlingandwilsondc.com/contact/",
+        "url": "https://sterlingandwilsondc.com/contact/"
+      }
+    ],
+    "content_blocks": [
+      {
+        "tag": "li",
+        "text": "Home",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-29409"
+      },
+      {
+        "tag": "li",
+        "text": "Overview",
+        "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-30614"
+      },
+      {
+        "tag": "li",
+        "text": "Awards & Recognitions",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-30613"
+      },
+      {
+        "tag": "li",
+        "text": "Leadership",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-31687"
+      },
+      {
+        "tag": "li",
+        "text": "Industry Memberships and Recognitions",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-35553 current_page_item menu-item-35666"
+      },
+      {
+        "tag": "li",
+        "text": "Corporate Governance",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-37674"
+      },
+      {
+        "tag": "li",
+        "text": "About Us Overview Awards & Recognitions Leadership Industry Memberships and Recognitions Corporate Governance",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-22651"
+      },
+      {
+        "tag": "li",
+        "text": "Projects",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-23966"
+      },
+      {
+        "tag": "li",
+        "text": "Design & Build",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-24252"
+      },
+      {
+        "tag": "li",
+        "text": "Modular Construction",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-24271"
+      },
+      {
+        "tag": "li",
+        "text": "Smart Operations",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-37564"
+      },
+      {
+        "tag": "li",
+        "text": "Sustainable Execution",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-36402"
+      },
+      {
+        "tag": "li",
+        "text": "O&M Services",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-30611"
+      },
+      {
+        "tag": "li",
+        "text": "Services Design & Build Modular Construction Smart Operations Sustainable Execution O&M Services",
+        "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-22933"
+      },
+      {
+        "tag": "li",
+        "text": "News & Press Release",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-32308"
+      },
+      {
+        "tag": "li",
+        "text": "Events",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-31871"
+      },
+      {
+        "tag": "li",
+        "text": "Blogs",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-37571"
+      },
+      {
+        "tag": "li",
+        "text": "Media News & Press Release Events Blogs",
+        "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-25253"
+      },
+      {
+        "tag": "li",
+        "text": "Careers",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-36312"
+      },
+      {
+        "tag": "li",
+        "text": "Contact",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-22656"
+      },
+      {
+        "tag": "li",
+        "text": "Home",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-29409"
+      },
+      {
+        "tag": "li",
+        "text": "Overview",
+        "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-30614"
+      },
+      {
+        "tag": "li",
+        "text": "Awards & Recognitions",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-30613"
+      },
+      {
+        "tag": "li",
+        "text": "Leadership",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-31687"
+      },
+      {
+        "tag": "li",
+        "text": "Industry Memberships and Recognitions",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-35553 current_page_item menu-item-35666"
+      },
+      {
+        "tag": "li",
+        "text": "Corporate Governance",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-37674"
+      },
+      {
+        "tag": "li",
+        "text": "About Us Overview Awards & Recognitions Leadership Industry Memberships and Recognitions Corporate Governance",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-22651"
+      },
+      {
+        "tag": "li",
+        "text": "Projects",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-23966"
+      },
+      {
+        "tag": "li",
+        "text": "Design & Build",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-24252"
+      },
+      {
+        "tag": "li",
+        "text": "Modular Construction",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-24271"
+      },
+      {
+        "tag": "li",
+        "text": "Smart Operations",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-37564"
+      },
+      {
+        "tag": "li",
+        "text": "Sustainable Execution",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-36402"
+      },
+      {
+        "tag": "li",
+        "text": "O&M Services",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-30611"
+      },
+      {
+        "tag": "li",
+        "text": "Services Design & Build Modular Construction Smart Operations Sustainable Execution O&M Services",
+        "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-22933"
+      },
+      {
+        "tag": "li",
+        "text": "News & Press Release",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-32308"
+      },
+      {
+        "tag": "li",
+        "text": "Events",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-31871"
+      },
+      {
+        "tag": "li",
+        "text": "Blogs",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-37571"
+      },
+      {
+        "tag": "li",
+        "text": "Media News & Press Release Events Blogs",
+        "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-25253"
+      },
+      {
+        "tag": "li",
+        "text": "Careers",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-36312"
+      },
+      {
+        "tag": "li",
+        "text": "Contact",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-22656"
+      },
+      {
+        "tag": "p",
+        "text": "Sterling and Wilson Data Center is associated with several industry bodies and forums that support knowledge sharing, best- practice adoption, and continuous improvement within the data centre ecosystem. These affiliations contribute to our alignment with recognised standards and professional networks across the sector."
+      },
+      {
+        "tag": "p",
+        "text": "Mr Prasanna Sarambale, CEO of Sterling and Wilson Data Center, has been appointed as the Honorary Ambassador for Data Centre and Digital Infrastructure by the Government of Maharashtra.This appointment facilitates structured engagement and collaboration in support of data centre development and digital infrastructure initiatives."
+      },
+      {
+        "tag": "p",
+        "text": "Our memberships represent our participation in established industry association and our commitment to remaining informed about developments across the data centre domain."
+      },
+      {
+        "tag": "p",
+        "text": "Our membership in the Africa Datacenter Association (ADCA) provides access to regional insights and industry collaboration opportunities across the African data centre landscape."
+      },
+      {
+        "tag": "p",
+        "text": "As a member of the Bombay Chamber of Commerce &amp; Industry, we engage with one of the oldest and most established industry bodies supporting business and infrastructure development."
+      },
+      {
+        "tag": "p",
+        "text": "Sterling & Wilson Data Center is a member of the British Safety Council, supporting high standards of health, safety, and wellbeing at the workplace."
+      },
+      {
+        "tag": "p",
+        "text": "Our membership with the Confederation of Indian Industry (CII) enables participation in policy dialogues, industry events, and knowledge-sharing platforms."
+      },
+      {
+        "tag": "p",
+        "text": "Through membership in the Datacenter Association of the Philippines (DCAP), we stay connected with developments and best practices within the Philippines’ data centre sector."
+      },
+      {
+        "tag": "p",
+        "text": "Membership with the Gulf Datacenter Association (GDCA) supports our engagement with evolving frameworks and initiatives across the Gulf region’s digital infrastructure environment."
+      },
+      {
+        "tag": "p",
+        "text": "We are a member of the National Safety Council (NSC), India, an autonomous body under the Ministry of Labour and Employment, Government of India."
+      },
+      {
+        "tag": "p",
+        "text": "Sterling and Wilson Data Center is an Open Compute Project (OCP) Open Community Member, providing us with access to collaborative forums and discussions related to open-hardware innovation and data centre efficiency.."
+      },
+      {
+        "tag": "p",
+        "text": "These associations reflect our commitment to maintaining awareness of industry developments and contributing to collaborative knowledge-sharing within the data centre sector."
+      },
+      {
+        "tag": "p",
+        "text": "Your trusted partner in designing, building and managing world-class data centers"
+      },
+      {
+        "tag": "p",
+        "text": "Your trusted partner in designing, building and managing world-class data centers"
+      },
+      {
+        "tag": "li",
+        "text": "Overview",
+        "class": "elementor-icon-list-item"
+      },
+      {
+        "tag": "li",
+        "text": "Awards & Recognitions",
+        "class": "elementor-icon-list-item"
+      },
+      {
+        "tag": "li",
+        "text": "Leadership",
+        "class": "elementor-icon-list-item"
+      },
+      {
+        "tag": "li",
+        "text": "Industry Memberships and Recognitions",
+        "class": "elementor-icon-list-item"
+      },
+      {
+        "tag": "li",
+        "text": "Design & Build",
+        "class": "elementor-icon-list-item"
+      },
+      {
+        "tag": "li",
+        "text": "Modular Construction",
+        "class": "elementor-icon-list-item"
+      },
+      {
+        "tag": "li",
+        "text": "Smart Operations",
+        "class": "elementor-icon-list-item"
+      },
+      {
+        "tag": "li",
+        "text": "Sustainable Execution",
+        "class": "elementor-icon-list-item"
+      },
+      {
+        "tag": "li",
+        "text": "O&M Services",
+        "class": "elementor-icon-list-item"
+      },
+      {
+        "tag": "li",
+        "text": "News & Press Release",
+        "class": "elementor-icon-list-item"
+      },
+      {
+        "tag": "li",
+        "text": "Events",
+        "class": "elementor-icon-list-item"
+      },
+      {
+        "tag": "li",
+        "text": "Privacy Policy",
+        "class": "elementor-icon-list-item"
+      },
+      {
+        "tag": "li",
+        "text": "HSE Policy",
+        "class": "elementor-icon-list-item"
+      },
+      {
+        "tag": "p",
+        "text": "Chief Executive Officer – Sterling and Wilson Data Center Pvt. Ltd. | Strategic Leader in Data Center Infrastructure and Long-Term Growth"
+      },
+      {
+        "tag": "p",
+        "text": "Prasanna Sarambale, CEO of Sterling and Wilson Data Center Pvt. Ltd. (SWDC), is a seasoned leader in the international data center industry. With over 28 years of experience, Prasanna has played a key role in shaping SWDC into a trusted provider of end-to-end data center EPC solutions. His strategic leadership has enabled the company to deliver value to hyperscalers, colocation providers, BFSI institutions, and government organizations."
+      },
+      {
+        "tag": "p",
+        "text": ""
+      },
+      {
+        "tag": "p",
+        "text": "Prasanna’s career includes leadership roles at globally recognized organizations such as Tata Liebert, IBM, Emerson Network Power and Schnieder Electric. Since joining the Sterling and Wilson Group in 2008, he has been instrumental in establishing and scaling the Data Center division. Over time, he guided its transition into an independent and globally respected entity, supported by strategic investments and robust partnerships."
+      },
+      {
+        "tag": "p",
+        "text": ""
+      },
+      {
+        "tag": "p",
+        "text": "As the former Chairman of the Confederation of Indian Industry (CII) Western Region Data Center Forum, Prasanna championed initiatives to elevate industry standards for infrastructure, energy efficiency, and digital transformation. He actively engaged with policymakers and industry stakeholders to foster collaboration and create a sustainable and innovative ecosystem for data centers in India."
+      },
+      {
+        "tag": "p",
+        "text": ""
+      },
+      {
+        "tag": "p",
+        "text": "Prasanna’s leadership style is grounded in collaboration and mentorship. He has cultivated a culture of accountability and ownership within his teams, empowering them to deliver high-performing results. His ability to anticipate market trends and align strategies with client needs has driven operational excellence and sustainable growth for SWDC, ensuring its continued relevance in a dynamic industry."
+      },
+      {
+        "tag": "p",
+        "text": ""
+      },
+      {
+        "tag": "p",
+        "text": "Under Prasanna’s guidance, SWDC has expanded its global footprint as one of the few data center EPC companies with operations across multiple geographies. His focus on operational efficiency, client satisfaction, and long-term market planning has been central to the company’s evolution into a well-regarded global player in the data center sector."
+      },
+      {
+        "tag": "p",
+        "text": ""
+      },
+      {
+        "tag": "p",
+        "text": "Prasanna is also an advocate for sustainable and energy-efficient practices in data center infrastructure. He has led discussions on policy frameworks, technology innovation, and collaboration between the industry and government to shape the future of digital infrastructure. His commitment to addressing critical challenges such as scalability and energy efficiency has reinforced his reputation as a transformative leader in the sector."
+      },
+      {
+        "tag": "p",
+        "text": ""
+      },
+      {
+        "tag": "p",
+        "text": "Through his expertise in business development, stakeholder engagement, and strategic planning, Prasanna continues to guide SWDC towards delivering scalable, efficient, and client-focused solutions. His contributions have positioned the company as a reliable partner in the rapidly growing global data center market."
+      },
+      {
+        "tag": "li",
+        "text": "Home",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-29409"
+      },
+      {
+        "tag": "li",
+        "text": "Overview",
+        "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-30614"
+      },
+      {
+        "tag": "li",
+        "text": "Awards & Recognitions",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-30613"
+      },
+      {
+        "tag": "li",
+        "text": "Leadership",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-31687"
+      },
+      {
+        "tag": "li",
+        "text": "Industry Memberships and Recognitions",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-35553 current_page_item menu-item-35666"
+      },
+      {
+        "tag": "li",
+        "text": "Corporate Governance",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-37674"
+      },
+      {
+        "tag": "li",
+        "text": "About Us Overview Awards & Recognitions Leadership Industry Memberships and Recognitions Corporate Governance",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-22651"
+      },
+      {
+        "tag": "li",
+        "text": "Projects",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-23966"
+      },
+      {
+        "tag": "li",
+        "text": "Design & Build",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-24252"
+      },
+      {
+        "tag": "li",
+        "text": "Modular Construction",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-24271"
+      },
+      {
+        "tag": "li",
+        "text": "Smart Operations",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-37564"
+      },
+      {
+        "tag": "li",
+        "text": "Sustainable Execution",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-36402"
+      },
+      {
+        "tag": "li",
+        "text": "O&M Services",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-30611"
+      },
+      {
+        "tag": "li",
+        "text": "Services Design & Build Modular Construction Smart Operations Sustainable Execution O&M Services",
+        "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-22933"
+      },
+      {
+        "tag": "li",
+        "text": "News & Press Release",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-32308"
+      },
+      {
+        "tag": "li",
+        "text": "Events",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-31871"
+      },
+      {
+        "tag": "li",
+        "text": "Blogs",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-37571"
+      },
+      {
+        "tag": "li",
+        "text": "Media News & Press Release Events Blogs",
+        "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-25253"
+      },
+      {
+        "tag": "li",
+        "text": "Careers",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-36312"
+      },
+      {
+        "tag": "li",
+        "text": "Contact",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-22656"
+      },
+      {
+        "tag": "li",
+        "text": "Defect Liability Period (DLP) [12 months] – bank guarantee, incident management, and transition to O&M."
+      },
+      {
+        "tag": "li",
+        "text": "Operations & Maintenance (O&M) [36-60 months] – Resource allocation, structured L1-L3 incident management, and long-term infrastructure optimization."
+      },
+      {
+        "tag": "li",
+        "text": "Contract Award – LoA issuance, detailed contract signing, branch/subsidiary formation, BG submission, and insurance processing."
+      },
+      {
+        "tag": "li",
+        "text": "Detailed Design & Engineering – Design validation, detailed engineering, software-based modeling, client approvals, regulatory compliance, value engineering & product optimization."
+      },
+      {
+        "tag": "li",
+        "text": "Procurement – Vendor evaluation, technical compliance checks, competitive global sourcing, vendor selection via reverse auction, and commercial negotiations."
+      },
+      {
+        "tag": "li",
+        "text": "Construction (Site Infra Build) – Civil work, substructure, superstructure, facades, fenestrations, and interiors."
+      },
+      {
+        "tag": "li",
+        "text": "MEP Implementation – Electrical, HVAC, ELV, fire fighting, plumbing, structured cabling."
+      },
+      {
+        "tag": "li",
+        "text": "Testing & Commissioning – Third-party agency appointment, script development, sequence of operation (SOO), L1-L5 testing, ISAT, and RFS (Ready for Service)."
+      },
+      {
+        "tag": "li",
+        "text": "Marketing Activities [3 months] – Market identification, customer segmentation, enquiry sourcing, networking & events, referrals, and media outreach."
+      },
+      {
+        "tag": "li",
+        "text": "Pre-Bidding [1 month] – Client due diligence, commercial & financial terms, technical scope identification, risk analysis, migration strategy, PQ activities (client registration), go/no-go decision."
+      },
+      {
+        "tag": "li",
+        "text": "Bidding [1-2 months] – Contract evaluation, technical & execution strategy, value engineering, sourcing plans, project planning, pricing & bid proposal preparation."
+      },
+      {
+        "tag": "li",
+        "text": "Contract Negotiation [2 months] – Finalizing technical, commercial, and execution terms, contract duration, and client expectations."
+      }
+    ],
+    "text_nodes": [
+      "Industry Memberships and Recognitions – Sterling & Wilson Data Center",
+      "Skip to content",
+      "Home",
+      "About Us",
+      "Overview",
+      "Awards & Recognitions",
+      "Leadership",
+      "Industry Memberships and Recognitions",
+      "Corporate Governance",
+      "Projects",
+      "Services",
+      "Design & Build",
+      "Modular Construction",
+      "Smart Operations",
+      "Sustainable Execution",
+      "O&M Services",
+      "Media",
+      "News & Press Release",
+      "Events",
+      "Blogs",
+      "Careers",
+      "Contact",
+      "Home",
+      "About Us",
+      "Overview",
+      "Awards & Recognitions",
+      "Leadership",
+      "Industry Memberships and Recognitions",
+      "Corporate Governance",
+      "Projects",
+      "Services",
+      "Design & Build",
+      "Modular Construction",
+      "Smart Operations",
+      "Sustainable Execution",
+      "O&M Services",
+      "Media",
+      "News & Press Release",
+      "Events",
+      "Blogs",
+      "Careers",
+      "Contact",
+      "Industry Memberships and Recognitions",
+      "Our Industry",
+      "Memberships &",
+      "Recognitions",
+      "Sterling and Wilson Data Center is associated with several industry bodies and forums that support knowledge sharing, best- practice adoption, and continuous improvement within the data centre ecosystem. These affiliations contribute to our alignment with recognised standards and professional networks across the sector.",
+      "Data Center Ambassador – Government of Maharashtra",
+      "Mr Prasanna Sarambale, CEO of Sterling and Wilson Data Center, has been appointed as the Honorary Ambassador for Data Centre and Digital Infrastructure by the Government of Maharashtra.",
+      "This appointment facilitates structured engagement and collaboration in support of data centre development and digital infrastructure initiatives.",
+      "Prasanna Sarambale",
+      "Chief Executive Officer",
+      "View profile",
+      "Industry Memberships",
+      "Our memberships represent our participation in established industry association and our commitment to remaining informed about developments across the data centre domain.",
+      "ADCA - Africa Datacenter Association",
+      "Our membership in the Africa Datacenter Association (ADCA) provides access to regional insights and industry collaboration opportunities across the African data centre landscape.",
+      "Bombay Chamber of Commerce & Industry",
+      "As a member of the Bombay Chamber of Commerce &amp; Industry, we engage with one of the oldest and most established industry bodies supporting business and infrastructure development.",
+      "British Safety Council",
+      "Sterling & Wilson Data Center is a member of the",
+      "British Safety Council",
+      ", supporting high standards of health, safety, and wellbeing at the workplace.",
+      "Confederation of Indian Industry (CII)",
+      "Our membership with the Confederation of Indian Industry (CII) enables participation in policy dialogues, industry events, and knowledge-sharing platforms.",
+      "DCAP - Datacenter Association of the Philippines",
+      "Through membership in the Datacenter Association of the Philippines (DCAP), we stay connected with developments and best practices within the Philippines’ data centre sector.",
+      "GDCA - Gulf Datacenter Association",
+      "Membership with the Gulf Datacenter Association (GDCA) supports our engagement with evolving frameworks and initiatives across the Gulf region’s digital infrastructure environment.",
+      "National Safety Council (NSC), India",
+      "We are a member of the",
+      "National Safety Council (NSC), India",
+      ", an autonomous body under the Ministry of Labour and Employment, Government of India.",
+      "Open Compute Project (OCP) – Open Community Member",
+      "Sterling and Wilson Data Center is an Open Compute Project (OCP) Open Community Member, providing us with access to collaborative forums and discussions related to open-hardware innovation and data centre efficiency..",
+      "These associations reflect our commitment to maintaining awareness of industry developments and contributing to collaborative knowledge-sharing within the data centre sector.",
+      "Your trusted partner in designing, building",
+      "and managing world-class data centers",
+      "Your trusted partner in designing, building and managing world-class data centers",
+      "About Us",
+      "Overview",
+      "Awards & Recognitions",
+      "Leadership",
+      "Industry Memberships and Recognitions",
+      "Projects",
+      "Services",
+      "Design & Build",
+      "Modular Construction",
+      "Smart Operations",
+      "Sustainable Execution",
+      "O&M Services",
+      "Media",
+      "News & Press Release",
+      "Events",
+      "Careers",
+      "Contact",
+      "Let’s Connect",
+      "Linkedin-in",
+      "Privacy Policy",
+      "HSE Policy",
+      "Prasanna Sarambale​",
+      "Chief Executive Officer – Sterling and Wilson Data Center Pvt. Ltd. | Strategic Leader in Data Center Infrastructure and Long-Term Growth",
+      "Prasanna Sarambale, CEO of Sterling and Wilson Data Center Pvt. Ltd. (SWDC), is a seasoned leader in the international data center industry. With over 28 years of experience, Prasanna has played a key role in shaping SWDC into a trusted provider of end-to-end data center EPC solutions. His strategic leadership has enabled the company to deliver value to hyperscalers, colocation providers, BFSI institutions, and government organizations.",
+      "Prasanna’s career includes leadership roles at globally recognized organizations such as Tata Liebert, IBM, Emerson Network Power and Schnieder Electric. Since joining the Sterling and Wilson Group in 2008, he has been instrumental in establishing and scaling the Data Center division. Over time, he guided its transition into an independent and globally respected entity, supported by strategic investments and robust partnerships.",
+      "As the former Chairman of the Confederation of Indian Industry (CII) Western Region Data Center Forum, Prasanna championed initiatives to elevate industry standards for infrastructure, energy efficiency, and digital transformation. He actively engaged with policymakers and industry stakeholders to foster collaboration and create a sustainable and innovative ecosystem for data centers in India.",
+      "Prasanna’s leadership style is grounded in collaboration and mentorship. He has cultivated a culture of accountability and ownership within his teams, empowering them to deliver high-performing results. His ability to anticipate market trends and align strategies with client needs has driven operational excellence and sustainable growth for SWDC, ensuring its continued relevance in a dynamic industry.",
+      "Under Prasanna’s guidance, SWDC has expanded its global footprint as one of the few data center EPC companies with operations across multiple geographies. His focus on operational efficiency, client satisfaction, and long-term market planning has been central to the company’s evolution into a well-regarded global player in the data center sector.",
+      "Prasanna is also an advocate for sustainable and energy-efficient practices in data center infrastructure. He has led discussions on policy frameworks, technology innovation, and collaboration between the industry and government to shape the future of digital infrastructure. His commitment to addressing critical challenges such as scalability and energy efficiency has reinforced his reputation as a transformative leader in the sector.",
+      "Through his expertise in business development, stakeholder engagement, and strategic planning, Prasanna continues to guide SWDC towards delivering scalable, efficient, and client-focused solutions. His contributions have positioned the company as a reliable partner in the rapidly growing global data center market.",
+      "Home",
+      "About Us",
+      "Overview",
+      "Awards & Recognitions",
+      "Leadership",
+      "Industry Memberships and Recognitions",
+      "Corporate Governance",
+      "Projects",
+      "Services",
+      "Design & Build",
+      "Modular Construction",
+      "Smart Operations",
+      "Sustainable Execution",
+      "O&M Services",
+      "Media",
+      "News & Press Release",
+      "Events",
+      "Blogs",
+      "Careers",
+      "Contact",
+      "Hamburger Toggle Menu",
+      "Defect Liability Period (DLP) [12 months]",
+      "– bank guarantee, incident management, and transition to O&M.",
+      "Operations & Maintenance (O&M) [36-60 months]",
+      "– Resource allocation, structured L1-L3 incident management, and long-term infrastructure optimization.",
+      "Contract Award",
+      "– LoA issuance, detailed contract signing, branch/subsidiary formation, BG submission, and insurance processing.",
+      "Detailed Design & Engineering",
+      "– Design validation, detailed engineering, software-based modeling, client approvals, regulatory compliance, value engineering & product optimization.",
+      "Procurement",
+      "– Vendor evaluation, technical compliance checks, competitive global sourcing, vendor selection via reverse auction, and commercial negotiations.",
+      "Construction (Site Infra Build)",
+      "– Civil work, substructure, superstructure, facades, fenestrations, and interiors.",
+      "MEP Implementation",
+      "– Electrical, HVAC, ELV, fire fighting, plumbing, structured cabling.",
+      "Testing & Commissioning",
+      "– Third-party agency appointment, script development, sequence of operation (SOO), L1-L5 testing, ISAT, and RFS (Ready for Service).",
+      "Marketing Activities [3 months]",
+      "– Market identification, customer segmentation, enquiry sourcing, networking & events, referrals, and media outreach.",
+      "Pre-Bidding [1 month]",
+      "– Client due diligence, commercial & financial terms, technical scope identification, risk analysis, migration strategy, PQ activities (client registration), go/no-go decision.",
+      "Bidding [1-2 months]",
+      "– Contract evaluation, technical & execution strategy, value engineering, sourcing plans, project planning, pricing & bid proposal preparation.",
+      "Contract Negotiation [2 months]",
+      "– Finalizing technical, commercial, and execution terms, contract duration, and client expectations."
+    ],
+    "controls": [
+      {
+        "tag": "button",
+        "text": "Hamburger Toggle Menu",
+        "class": "eael-simple-menu-toggle"
+      }
+    ],
+    "forms": [],
+    "fields": [],
+    "widgets": [
+      {
+        "type": "theme-site-logo.default",
+        "id": "c2bc041"
+      },
+      {
+        "type": "nav-menu.default",
+        "id": "7cec98b"
+      },
+      {
+        "type": "image.default",
+        "id": "cac1418"
+      },
+      {
+        "type": "heading.default",
+        "id": "6f745e4"
+      },
+      {
+        "type": "divider.default",
+        "id": "cf30005"
+      },
+      {
+        "type": "heading.default",
+        "id": "f68b783"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "cfd60da"
+      },
+      {
+        "type": "divider.default",
+        "id": "e74c61c"
+      },
+      {
+        "type": "heading.default",
+        "id": "e95d626"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "5b81638"
+      },
+      {
+        "type": "image.default",
+        "id": "ff6cf7c"
+      },
+      {
+        "type": "icon.default",
+        "id": "1121aa1"
+      },
+      {
+        "type": "heading.default",
+        "id": "58c8536"
+      },
+      {
+        "type": "heading.default",
+        "id": "cc98050"
+      },
+      {
+        "type": "heading.default",
+        "id": "e6e162e"
+      },
+      {
+        "type": "heading.default",
+        "id": "7fe7d26"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "d7648a8"
+      },
+      {
+        "type": "image.default",
+        "id": "a736d67"
+      },
+      {
+        "type": "divider.default",
+        "id": "f8cfe31"
+      },
+      {
+        "type": "heading.default",
+        "id": "e9dbf18"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "aefc677"
+      },
+      {
+        "type": "divider.default",
+        "id": "7d79718"
+      },
+      {
+        "type": "heading.default",
+        "id": "b63cb8a"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "c1d9ba1"
+      },
+      {
+        "type": "image.default",
+        "id": "13fd2c4"
+      },
+      {
+        "type": "image.default",
+        "id": "27a1da5"
+      },
+      {
+        "type": "divider.default",
+        "id": "6c6931e"
+      },
+      {
+        "type": "heading.default",
+        "id": "ac35f4f"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "f13f546"
+      },
+      {
+        "type": "divider.default",
+        "id": "23ec0ee"
+      },
+      {
+        "type": "heading.default",
+        "id": "221dc17"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "23b0d64"
+      },
+      {
+        "type": "image.default",
+        "id": "b9cd149"
+      },
+      {
+        "type": "image.default",
+        "id": "1000396"
+      },
+      {
+        "type": "divider.default",
+        "id": "b26648d"
+      },
+      {
+        "type": "heading.default",
+        "id": "a31043b"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "25cd246"
+      },
+      {
+        "type": "divider.default",
+        "id": "2a4b067"
+      },
+      {
+        "type": "heading.default",
+        "id": "d2b7a53"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "a9c59ea"
+      },
+      {
+        "type": "image.default",
+        "id": "7024bee"
+      },
+      {
+        "type": "image.default",
+        "id": "bb3802d"
+      },
+      {
+        "type": "divider.default",
+        "id": "1864956"
+      },
+      {
+        "type": "heading.default",
+        "id": "2569465"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "70b55c9"
+      },
+      {
+        "type": "divider.default",
+        "id": "784ffde"
+      },
+      {
+        "type": "heading.default",
+        "id": "7111ab7"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "0915239"
+      },
+      {
+        "type": "image.default",
+        "id": "d8ad2d7"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "6d36b01"
+      },
+      {
+        "type": "image.default",
+        "id": "de7f44b"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "183b92e"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "be497af"
+      },
+      {
+        "type": "heading.default",
+        "id": "7bddb17"
+      },
+      {
+        "type": "icon-list.default",
+        "id": "9913753"
+      },
+      {
+        "type": "heading.default",
+        "id": "4383f54"
+      },
+      {
+        "type": "heading.default",
+        "id": "6d4e6dc"
+      },
+      {
+        "type": "icon-list.default",
+        "id": "c6a6d8c"
+      },
+      {
+        "type": "heading.default",
+        "id": "6382c8e"
+      },
+      {
+        "type": "icon-list.default",
+        "id": "487c07f"
+      },
+      {
+        "type": "heading.default",
+        "id": "f43f6bb"
+      },
+      {
+        "type": "heading.default",
+        "id": "0e9c9f6"
+      },
+      {
+        "type": "heading.default",
+        "id": "4f78fb7"
+      },
+      {
+        "type": "social-icons.default",
+        "id": "bdba081"
+      },
+      {
+        "type": "icon-list.default",
+        "id": "ed6d4e7"
+      },
+      {
+        "type": "rs-heading.default",
+        "id": "2e918aa"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "a3b4c45"
+      },
+      {
+        "type": "icon.default",
+        "id": "941bb5d"
+      },
+      {
+        "type": "image.default",
+        "id": "ba58223"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "8d03394"
+      },
+      {
+        "type": "eael-simple-menu.default",
+        "id": "066387d"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "2b1fc3b"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "2b1fc3b"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "2b1fc3b"
+      }
+    ],
+    "resources": [
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=2.9.5",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=2.9.5",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.3.4",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/image-hover-effects-addon-for-elementor/assets/style.min.css?ver=1.4.5",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.11.110",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=4.3.4",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.3.4",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=4.3.4",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.3.4",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-float.min.css?ver=4.3.4",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/css/bootstrap.min.css?ver=6836e46c4957b48291e2a90030dab620",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/css/magnific-popup.css?ver=6836e46c4957b48291e2a90030dab620",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/css/fontawesome.css?ver=6836e46c4957b48291e2a90030dab620",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/css/slick.css?ver=6836e46c4957b48291e2a90030dab620",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/css/materialize.css?ver=6836e46c4957b48291e2a90030dab620",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/css/slick-theme.css?ver=6836e46c4957b48291e2a90030dab620",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/css/brands.css?ver=6836e46c4957b48291e2a90030dab620",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/css/solid.css?ver=6836e46c4957b48291e2a90030dab620",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/fonts/flaticon.css?ver=6836e46c4957b48291e2a90030dab620",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/css/headding-title.css?ver=6836e46c4957b48291e2a90030dab620",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css?ver=6836e46c4957b48291e2a90030dab620",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/css/rsaddons.css?ver=6836e46c4957b48291e2a90030dab620",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.5.1",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.5.1",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.5.1",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=4.3.1",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor-pro/assets/css/modules/sticky.min.css?ver=4.3.1",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor-pro/assets/css/conditionals/popup.min.css?ver=4.3.1",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.34.0",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.24.3",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.24.0",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.css?ver=5.15.3",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.css?ver=5.15.3",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.css?ver=5.15.3",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor-pro/assets/css/widget-blockquote.min.css?ver=3.25.0",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor-pro/assets/css/widget-mega-menu.min.css?ver=3.26.2",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=3.26.0",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=6.8.5",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1742373967",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1742373971",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/elementor/google-fonts/css/livvic.css?ver=1742385286",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/elementor/google-fonts/css/crimsontext.css?ver=1742373977",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=4.3.4",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://www.googletagmanager.com/gtag/js?id=GT-M6BRVDPK",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/cropped-logo-website-icon-32x32.jpg",
+        "kind": "icon"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/cropped-logo-website-icon-192x192.jpg",
+        "kind": "icon"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/cropped-logo-website-icon-180x180.jpg",
+        "kind": "apple-touch-icon"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/06/SWDC-1.jpg",
+        "kind": "img:src",
+        "alt": "",
+        "width": "450",
+        "height": "103"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/06/SWDC-1.jpg",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/06/SWDC-1-300x69.jpg",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/02/mobile-menu1.webp",
+        "kind": "img:src",
+        "alt": "",
+        "width": "33",
+        "height": "32"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/1-Prasanna-Sarambale​_1.png",
+        "kind": "img:src",
+        "alt": "",
+        "width": "1000",
+        "height": "1000"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/1-Prasanna-Sarambale​_1.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/1-Prasanna-Sarambale​_1-300x300.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/1-Prasanna-Sarambale​_1-150x150.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/1-Prasanna-Sarambale​_1-768x768.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/1-Prasanna-Sarambale​_1-500x500.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/12/afri.jpg",
+        "kind": "img:src",
+        "alt": "",
+        "width": "500",
+        "height": "300"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/12/afri.jpg",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/12/afri-300x180.jpg",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/12/Bomb.png",
+        "kind": "img:src",
+        "alt": "",
+        "width": "500",
+        "height": "300"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/12/Bomb.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/12/Bomb-300x180.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/01/bsc.jpg",
+        "kind": "img:src",
+        "alt": "",
+        "width": "751",
+        "height": "400"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/01/bsc.jpg",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/01/bsc-300x160.jpg",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/12/cii.jpg",
+        "kind": "img:src",
+        "alt": "",
+        "width": "500",
+        "height": "300"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/12/cii.jpg",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/12/cii-300x180.jpg",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/12/dca.jpg",
+        "kind": "img:src",
+        "alt": "",
+        "width": "500",
+        "height": "300"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/12/dca.jpg",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/12/dca-300x180.jpg",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/12/gulf.jpg",
+        "kind": "img:src",
+        "alt": "",
+        "width": "500",
+        "height": "300"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/12/gulf.jpg",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/12/gulf-300x180.jpg",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/01/nsc.jpg",
+        "kind": "img:src",
+        "alt": "",
+        "width": "376",
+        "height": "163"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/01/nsc.jpg",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/01/nsc-300x130.jpg",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/04/OCP-Member-Tier-logo-_bronze-horz-cmyk.png",
+        "kind": "img:src",
+        "alt": "",
+        "width": "1891",
+        "height": "1087"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/04/OCP-Member-Tier-logo-_bronze-horz-cmyk.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/04/OCP-Member-Tier-logo-_bronze-horz-cmyk-300x172.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/04/OCP-Member-Tier-logo-_bronze-horz-cmyk-1024x589.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/04/OCP-Member-Tier-logo-_bronze-horz-cmyk-768x441.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/04/OCP-Member-Tier-logo-_bronze-horz-cmyk-1536x883.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/SWDC.png",
+        "kind": "img:src",
+        "alt": "",
+        "width": "826",
+        "height": "189"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/SWDC.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/SWDC-300x69.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/SWDC-768x176.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=4.3.4",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=4.3.4",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.3.4",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.54.0",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/lib/animations/styles/slideInRight.min.css?ver=4.3.4",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.7",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.3.4",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.3.4",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.3.4",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/jquery.plugin.js?ver=201513434",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/jquery.cookie.js?ver=201513434",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/jquery.magnific-popup.min.js?ver=201513434",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/popper.min.js?ver=201513434",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/bootstrap.min.js?ver=201513434",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/datatables.min.js?ver=201513434",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/waypoints.min.js?ver=201513434",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/jquery.counterup.min.js?ver=201513434",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/time-circle.js?ver=201513434",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/headding-title.js?ver=201513434",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/slick.min.js?ver=201513434",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/materialize.min.js?ver=201513434",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/tilt.jquery.min.js?ver=201513434",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/jquery-ui.js?ver=201513434",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/jQuery-plugin-progressbar.js?ver=201513434",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/custom.js?ver=201513434",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.5.1",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=6.8.5",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/essential-addons-elementor/eael-35863.js?ver=1775558727",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=4.3.1",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-contact-form-7-fac2a8013ba5ba355cd0.js",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-content-events-6b04077d00f0d606ba42.js",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/mailchimp-for-wp/assets/js/forms.js?ver=4.14.1",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-mailchimp-ae89b2302ee1e23a78ac.js",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/premium-wrap-link.min.js?ver=4.11.110",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=4.3.1",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=4.3.1",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2024/12/datacentergif.gif",
+        "kind": "css-url-literal"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/Bullet-Points.jpg",
+        "kind": "css-url-literal"
+      },
+      {
+        "url": "https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Livvic:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,900&display=swap",
+        "kind": "css-url-literal"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/03/arrow-right-up-white-1.svg",
+        "kind": "css-url-literal"
+      }
+    ],
+    "iframes": [],
+    "structured_data": []
+  }
+}

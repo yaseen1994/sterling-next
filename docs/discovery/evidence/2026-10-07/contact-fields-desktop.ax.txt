@@ -1,0 +1,177 @@
+Browser tab: 1, Title: "Contact – Sterling & Wilson Data Center", URL: "https://sterlingandwilsondc.com/contact/".
+1 AXWebArea Contact – Sterling & Wilson Data Center, URL: sterlingandwilsondc.com/contact/
+	2 container
+		3 link Description: Skip to content, Value: sterlingandwilsondc.com/contact/#content
+		4 container
+			5 link sterlingandwilsondc.com/
+			6 container Menu
+				7 content list menu-1-7cec98b
+					8 link Description: Home, Value: sterlingandwilsondc.com/
+					9 link (collapsed) Description: About Us, Value: sterlingandwilsondc.com/about-us/, ID: sm-1791346959125013-1, Secondary Actions: Expand
+					10 link Description: Projects, Value: sterlingandwilsondc.com/projects/
+					11 link (collapsed) Description: Services, Value: sterlingandwilsondc.com/contact/#, ID: sm-1791346959125013-3, Secondary Actions: Expand
+					12 link (collapsed) Description: Media, Value: sterlingandwilsondc.com/contact/#, ID: sm-1791346959125013-5, Secondary Actions: Expand
+					13 link Description: Careers, Value: sterlingandwilsondc.com/careers/
+					14 link Description: Contact, Value: sterlingandwilsondc.com/contact/
+		15 heading Contact, Value: 2
+			16 text Contact
+		17 container
+			18 container
+				19 heading Head Office, Value: 2
+					20 text Head Office
+				21 heading Address, Value: 3
+					22 text Address
+				23 container
+					24 text Sterling & Wilson Data Center Pvt. Ltd,
+					25 text 9th Floor, Universal Majestic,
+					26 text P. L. Lokhande Marg, Chembur (West),
+					27 text Mumbai – 400043, India
+				28 heading Phone, Value: 3
+					29 text Phone
+				30 text +91 22-25485488 / 300
+				31 link Description: More Information, Value: mailto:datacenters@sterlingwilson.com
+				32 heading More Information, Value: 3
+					33 link Description: More Information, Value: mailto:datacenters@sterlingwilson.com
+				34 link Description: datacenters@sterlingwilson.com, Value: mailto:datacenters@sterlingwilson.com
+				35 link Description: Media Queries, Value: mailto:datacenters@sterlingwilson.com
+				36 heading Media Queries, Value: 3
+					37 link Description: Media Queries, Value: mailto:datacenters@sterlingwilson.com
+				38 link Description: corpcomm@sterlingwilson.com, Value: mailto:corpcomm@sterlingwilson.com
+			39 container
+				40 heading Connect With Our Experts, Value: 1
+					41 text Connect With Our Experts
+				42 container
+					43 text Have a question or project in mind?
+					44 text Share your query — we’ll get back to you shortly.
+				45 container New Form
+					46 container
+						47 text Name
+						48 text field (settable) Name, ID: form-field-name
+					49 container
+						50 text Email
+						51 text field (settable) Email
+					52 container
+						53 text Phone
+						54 text field (settable) Phone
+					55 container
+						56 text Company Name
+						57 text field (settable) Company Name, ID: form-field-company
+					58 container
+						59 text Service
+						60 pop up button (collapsed, settable) Service, Value: — Choose Service —, ID: form-field-service, Secondary Actions: Expand
+							61 menu
+								62 (selected) — Choose Service —
+								63 Design & Build
+								64 Modular Construction
+								65 Smart Operations
+								66 Sustainable Execution
+								67 O&M Services
+								68 Other - General Inquiry
+					69 container
+						70 text Location
+						71 text field (settable) Location, ID: form-field-number
+					72 container
+						73 text Message
+						74 text entry area (settable) Message, ID: form-field-message
+					75 checkbox (settable, integer) Description: I agree to provide my personal information, Value: 0, ID: form-field-field_3add631
+					76 container
+						77 checkbox (settable, integer) Description: I acknowledge the privacy policy, Value: 0, ID: form-field-field_8b5d1cc
+						78 text I acknowledge the
+						79 link Description:  privacy policy, Value: sterlingandwilsondc.com/privacy-policy/
+					80 button Submit request
+		81 container
+			82 heading International Offices, Value: 2
+				83 text International Offices
+			84 container
+				85 container
+					86 heading United Arab Emirates (UAE) - Dubai, Value: 2
+						87 text United Arab Emirates (UAE) - Dubai
+					88 heading Sterling and Wilson Data Center Investments FZCO., Value: 3
+						89 text Sterling and Wilson Data Center Investments FZCO.
+					90 container
+						91 text Office No.419/420, 5W(West) A Wing,
+						92 text Dubai Airport Authority (DAFZA) – Dubai
+						93 text P.O.Box: 54811,
+						94 text Dubai, U.A.E.
+				95 container
+					96 heading United Arab Emirates (UAE) - Abu Dhabi, Value: 2
+						97 text United Arab Emirates (UAE) - Abu Dhabi
+					98 heading STERLING WILSON DATA CENTRE CONTRACTING - L.L.C - S.P.C,, Value: 3
+						99 text STERLING WILSON DATA CENTRE CONTRACTING - L.L.C - S.P.C,
+					100 container
+						101 text AL YASAT TOWER, Buhouth 'Afra St, AL DANAH, ,10
+						102 text Abu Dhabi 22220
+						103 text Abu Dhabi - UAE
+				104 container
+					105 heading Kingdom of Saudi Arabia (KSA), Value: 2
+						106 text Kingdom of Saudi Arabia (KSA)
+					107 heading Branch of Sterling & Wilson Data Center Pvt. Ltd, Value: 3
+						108 text Branch of Sterling & Wilson Data Center Pvt. Ltd
+					109 container
+						110 text Prince Muhammad bin Saad Abdulaziz Road,
+						111 text Building No. 6731, 2539, Unit No. 3,
+						112 text First Floor, Al Aqiq District, P.O. Box 13511
+						113 text Riyadh - KSA
+			114 container
+				115 container
+					116 heading Qatar, Value: 2
+						117 text Qatar
+					118 heading Sterling and Wilson D C Contracting and Services,, Value: 3
+						119 text Sterling and Wilson D C Contracting and Services,
+					120 container
+						121 text Zone 24, Al Muntazah Trading Centre,
+						122 text Bldg No. 2, Fourth Floor, Office No. 7,
+						123 text Doha, Qatar
+				124 container
+					125 heading Egypt, Value: 2
+						126 text Egypt
+					127 heading Branch of Sterling & Wilson Data Center Pvt. Ltd, Value: 3
+						128 text Branch of Sterling & Wilson Data Center Pvt. Ltd
+					129 container
+						130 text Office 311A, Linx Business Park,
+						131 text Building A, Smart Village,
+						132 text Giza, Egypt
+		133 container
+			134 container
+				135 link sterlingandwilsondc.com/
+				136 container
+					137 text Your trusted partner in designing, building
+					138 text and managing world-class data centers
+			139 container
+				140 heading About Us, Value: 2
+					141 text About Us
+				142 content list
+					143 link Description: Overview, Value: sterlingandwilsondc.com/about-us/
+					144 link Description: Awards & Recognitions, Value: sterlingandwilsondc.com/awards-recognitions/
+					145 link Description: Leadership, Value: sterlingandwilsondc.com/leadership/
+					146 link Description: Industry Memberships and Recognitions, Value: sterlingandwilsondc.com/industry-memberships-and-recognitions/
+				147 heading Projects, Value: 2
+					148 link Description: Projects, Value: sterlingandwilsondc.com/projects/
+			149 container
+				150 heading Services, Value: 2
+					151 text Services
+				152 content list
+					153 link Description: Design & Build, Value: sterlingandwilsondc.com/design-build/
+					154 link Description: Modular Construction, Value: sterlingandwilsondc.com/modular-construction/
+					155 link Description: Smart Operations, Value: sterlingandwilsondc.com/smart-operations/
+					156 link Description: Sustainable Execution, Value: sterlingandwilsondc.com/sustainable-execution/
+					157 link Description: O&M Services, Value: sterlingandwilsondc.com/om-services/
+			158 container
+				159 heading Media, Value: 2
+					160 text Media
+				161 content list
+					162 link Description: News & Press Release, Value: sterlingandwilsondc.com/news-press-release/
+					163 link Description: Events, Value: sterlingandwilsondc.com/events/
+				164 heading Careers, Value: 2
+					165 link Description: Careers, Value: sterlingandwilsondc.com/careers/
+				166 heading Contact, Value: 2
+					167 link Description: Contact, Value: sterlingandwilsondc.com/contact/
+			168 container
+				169 heading Let’s Connect, Value: 2
+					170 text Let’s Connect
+				171 link Description: Linkedin-in, Value: linkedin.com/company/sterling-and-wilson-data-center/
+				172 content list
+					173 link Description: Privacy Policy, Value: sterlingandwilsondc.com/privacy-policy/
+					174 link Description: HSE Policy, Value: sterlingandwilsondc.com/wp-content/uploads/2025/12/SW-HSE-Policy-June-2025.pdf
+
+The focused UI element is 51 text field (settable) Email

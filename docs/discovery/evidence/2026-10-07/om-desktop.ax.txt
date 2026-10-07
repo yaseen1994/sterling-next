@@ -1,0 +1,49 @@
+Browser tab: 1, Title: "O&M Services – Sterling & Wilson Data Center", URL: "https://sterlingandwilsondc.com/om-services/".
+1 AXWebArea O&M Services – Sterling & Wilson Data Center, URL: sterlingandwilsondc.com/om-services/
+	2 link Description: Skip to content, Value: sterlingandwilsondc.com/om-services/#content
+	3 container
+		4 link sterlingandwilsondc.com/
+		5 container Menu
+			6 content list menu-1-7cec98b
+				7 link Description: Home, Value: sterlingandwilsondc.com/
+				8 link Description: About Us, Value: sterlingandwilsondc.com/about-us/
+				9 link Description: Projects, Value: sterlingandwilsondc.com/projects/
+				10 link Description: Services, Value: sterlingandwilsondc.com/om-services/#
+				11 link Description: Media, Value: sterlingandwilsondc.com/om-services/#
+				12 link Description: Careers, Value: sterlingandwilsondc.com/careers/
+				13 link Description: Contact, Value: sterlingandwilsondc.com/contact/
+	14 container
+		15 heading O&M Services, Value: 2
+			16 text O&M Services
+	17 container
+		18 container
+			19 heading Always ON. Always OPTIMISED., Value: 2
+				20 text Always ON.
+				21 text Always
+				22 text OPTIMISED.
+		23 container
+			24 text Our Operations & Maintenance services are built to ensure peak performance and zero disruption across your data center’s lifecycle. From round-the-clock infrastructure support to preventive care and emergency response, we offer seamless and reliable support backed by certified experts.
+			25 text With advanced diagnostics, smart tools, and robust spares management, we proactively manage risk, extend asset life, and reduce total cost of ownership. Whether it’s a single facility or a multi-site network, our uptime-first approach keeps your critical systems running securely, efficiently, and continuously.
+	26 container
+		27 container
+			28 heading Key Benefits, Value: 2
+				29 text Key Benefits
+	30 container
+		31 container
+			32 text 24x7 Infrastructure Support  with certified on-ground and remote teams
+		33 container
+			34 text Predictive & Preventive Maintenance  for proactive asset care
+		35 container
+			36 text Remote Monitoring & Diagnostics  to resolve issues faster
+		37 container
+			38 text Customisable AMC Contracts  tailored to your operational needs
+		39 container
+			40 text Uptime-Focused Service Delivery  that minimises downtime and disruptions
+	41 container
+		42 heading Let’s Build the Future of Data Infrastructure, Value: 2
+			43 text Let’s Build the Future of Data Infrastructure
+		44 heading From concept to completion — our experts are here to guide you., Value: 3
+			45 text From concept to completion — our experts are here to guide you.
+		46 link Description: Enquire Now, Value: sterlingandwilsondc.com/contact/
+
+The focused UI element is 1 AXWebArea O&M Services – Sterling & Wilson Data Center, URL: sterlingandwilsondc.com/om-services/

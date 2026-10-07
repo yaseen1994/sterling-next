@@ -1,0 +1,284 @@
+Browser tab: 1, Title: "Smart Operations – Sterling & Wilson Data Center", URL: "https://sterlingandwilsondc.com/smart-operations/".
+1 AXWebArea Smart Operations – Sterling & Wilson Data Center, URL: sterlingandwilsondc.com/smart-operations/
+	2 container
+		3 link Description: Skip to content, Value: sterlingandwilsondc.com/smart-operations/#content
+		4 container
+			5 link sterlingandwilsondc.com/
+			6 container Menu
+				7 content list menu-1-7cec98b
+					8 link Description: Home, Value: sterlingandwilsondc.com/
+					9 link (collapsed) Description: About Us, Value: sterlingandwilsondc.com/about-us/, ID: sm-17913463564434158-1, Secondary Actions: Expand
+					10 link Description: Projects, Value: sterlingandwilsondc.com/projects/
+					11 link (collapsed) Description: Services, Value: sterlingandwilsondc.com/smart-operations/#, ID: sm-17913463564434158-3, Secondary Actions: Expand
+					12 link (collapsed) Description: Media, Value: sterlingandwilsondc.com/smart-operations/#, ID: sm-17913463564434158-5, Secondary Actions: Expand
+					13 link Description: Careers, Value: sterlingandwilsondc.com/careers/
+					14 link Description: Contact, Value: sterlingandwilsondc.com/contact/
+		15 container
+			16 container
+				17 heading AI-Powered Smart Operations for Critical Infrastructure, Value: 2
+					18 text AI-Powered
+					19 text Smart Operations
+					20 text for Critical Infrastructure
+				21 text Monitor, analyse, and optimise facility performance with AI, machine learning, and +IoT across India, the Middle East, and Africa.
+				22 link Description: Request a Demo, Value: sterlingandwilsondc.com/contact/
+		23 content list
+			24 container
+				25 text Predictive
+				26 text Maintenance
+			27 container
+				28 text Real-Time
+				29 text Monitoring
+			30 container
+				31 text Energy
+				32 text Optimisation
+			33 container
+				34 text Multi-Site
+				35 text Visibility
+		36 container
+			37 container
+				38 heading Transform Facility Management into Intelligent Operations, Value: 2
+					39 text Transform Facility Management
+					40 text into Intelligent Operations
+				41 container
+					42 text Sterling & Wilson Data Center Smart Operations helps organisations move from reactive monitoring to intelligent, data-driven operations.
+					43 text Powered by  SmartSense , an AI-based monitoring platform delivered by Sterling & Wilson Data Center in partnership with Ecolibrium, the solution provides real-time visibility into critical assets, energy consumption, equipment health, and carbon footprint.
+					44 text This enables organizations to identify anomalies, predict potential failures before they occur, improve operational efficiency, reduce downtime, and make faster, data-driven decisions across multiple facilities.
+		45 container
+			46 container
+				47 heading What Smart Operations Delivers, Value: 2
+					48 text What Smart Operations Delivers
+				49 text Smart Operations brings together analytics, AI, machine learning, and IoT to improve how critical infrastructure is monitored and managed.
+			50 container
+				51 container
+					52 heading Monitor Power & Cooling, Value: 3
+						53 text Monitor Power & Cooling
+					54 text Monitor power and cooling
+					55 text performance in real time.
+				56 container
+					57 heading Monitor Water, Value: 3
+						58 text Monitor  Water
+					59 text Monitor water systems
+					60 text and consumption
+				61 container
+					62 heading Customised Dashboards, Value: 3
+						63 text Customised Dashboards
+					64 text Personalised dashboards
+					65 text with live KPIs.
+				66 container
+					67 heading Carbon Emissions, Value: 3
+						68 text Carbon  Emissions
+					69 text Track and manage carbon
+					70 text emissions and impact
+			71 container
+				72 container
+					73 heading Real Time Visibility, Value: 3
+						74 text Real Time Visibility
+					75 text Gain real time visibility across
+					76 text assets and operation
+				77 container
+					78 heading Identify Anomalies, Value: 3
+						79 text Identify Anomalies
+					80 text Detect anomalies early
+					81 text and take action faster
+				82 container
+					83 heading Predictive Maintenance, Value: 3
+						84 text Predictive Maintenance
+					85 text Predict failures and plan
+					86 text maintainance in advance
+		87 container
+			88 heading Key Capabilities, Value: 2
+				89 text Key Capabilities
+			90 container
+				91 container
+					92 heading Predictive Maintenance, Value: 3
+						93 text Predictive
+						94 text Maintenance
+					95 text Identify patterns and predict failures before they affect operations. Reduce unplanned downtime, extend asset life, and improve maintenance planning.
+				96 container
+					97 heading Real-Time Monitoring, Value: 3
+						98 text Real-Time
+						99 text Monitoring
+					100 text Gain live visibility across critical infrastructure through centralised dashboards and automated alerts.
+				101 container
+					102 heading Energy and Water Optimisation, Value: 3
+						103 text Energy and Water
+						104 text Optimisation
+					105 text Track consumption patterns, identify inefficiencies, and improve resource performance across sites.
+				106 container
+					107 heading Equipment Health Analytics, Value: 3
+						108 text Equipment Health
+						109 text Analytics
+					110 text Monitor asset condition continuously and detect early signs of abnormal performance.
+				111 container
+					112 heading Carbon Footprint Visibility, Value: 3
+						113 text Carbon Footprint
+						114 text Visibility
+					115 text Measure and monitor carbon impact with clearer sustainability insights and reporting.
+				116 container
+					117 heading Root Cause Analysis, Value: 3
+						118 text Root Cause
+						119 text Analysis
+					120 text Use data-driven insights to identify issues faster and improve decision-making at site and portfolio level.
+		121 container
+			122 heading Built for Critical Sectors, Value: 2
+				123 text Built for Critical Sectors
+			124 container
+				125 container
+					126 heading Data Centres, Value: 2
+						127 text Data Centres
+					128 container
+						129 text Improve uptime, monitor critical assets, and optimise infrastructure performance in
+						130 text mission-critical environments.
+				131 container
+					132 heading Telecom Towers, Value: 2
+						133 text Telecom Towers
+					134 text Track distributed assets for manned & unmanned sites, monitor site health remotely, and gain visibility across wide-area operations.
+				135 container
+					136 heading Commercial Buildings, Value: 2
+						137 text Commercial Buildings
+					138 container
+						139 text Improve facility efficiency, manage energy use, and centralise performance
+						140 text monitoring across building portfolios.
+				141 container
+					142 heading Connected Factories, Value: 2
+						143 text Connected Factories
+					144 text Monitor equipment health, reduce downtime, and support smarter plant operations through predictive intelligence.
+				145 container
+					146 heading Retail Chains, Value: 2
+						147 text Retail Chains
+					148 container
+						149 text Gain multi-site visibility, standardise performance, and improve operational
+						150 text consistency across locations.
+		151 container
+			152 container
+				153 heading Business Impact, Value: 2
+					154 text Business Impact
+				155 text Smart Operations helps organisations
+			156 container
+				157 container
+					158 heading Reduce Unplanned Downtime, Value: 3
+						159 text Reduce Unplanned Downtime
+				160 container
+					161 heading Improve Asset Reliability, Value: 3
+						162 text Improve Asset
+						163 text Reliability
+				164 container
+					165 heading Lower Energy And Operational Waste, Value: 3
+						166 text Lower Energy And Operational Waste
+				167 container
+					168 heading Extend Equipment Life, Value: 3
+						169 text Extend Equipment
+						170 text Life
+				171 container
+					172 heading Speed Up Fault Detection And Root Cause Analysis, Value: 3
+						173 text Speed Up Fault Detection And Root Cause Analysis
+				174 container
+					175 heading Improve Decision-Making Across Multiple Sites, Value: 3
+						176 text Improve Decision-Making Across Multiple Sites
+				177 container
+					178 heading Support Sustainability And ESG Reporting, Value: 3
+						179 text Support Sustainability And ESG Reporting
+				180 container
+					181 heading Deliver Stronger Operational Efficiency, Value: 3
+						182 text Deliver Stronger Operational Efficiency
+		183 container
+			184 container
+				185 container
+					186 heading Powered by SmartSense, Value: 2
+						187 text Powered by SmartSense
+					188 container
+						189 text SmartSense is the intelligent monitoring platform behind our Smart Operations offering.
+						190 text The platform enables organisations to:
+					191 content list
+						192 text Track facility health in real time
+						193 text Analyse patterns across critical systems
+						194 text Prioritise alerts more effectively
+						195 text Predict maintenance needs
+						196 text Monitor long-term trends
+						197 text Generate automated reports
+						198 text Improve system efficiency across sites
+			199 container
+				200 container
+					201 heading Why SWDC, Value: 2
+						202 text Why SWDC
+					203 content list
+						204 text Deep experience in mission-critical infrastructure
+						205 text AI-enabled monitoring and analytics
+						206 text Centralised visibility across assets and sites
+						207 text Scalable solution for multiple industries
+						208 text Focus on efficiency, uptime, and sustainability
+						209 text Backed by the SmartSense platform and Ecolibrium partnership
+		210 container
+			211 heading Supporting Operations Across India, the Middle East, and Africa, Value: 2
+				212 text Supporting Operations Across India, the Middle East, and Africa
+			213 container
+				214 text Sterling & Wilson Data Center delivers Smart Operations capabilities across diverse
+				215 text geographies and infrastructure environments.
+				216 text Whether the challenge is scale, uptime, energy efficiency, or distributed asset
+				217 text monitoring, SmartSense helps teams operate with more clarity, control, and
+				218 text confidence.
+		219 container
+			220 heading Frequently Asked Questions, Value: 2
+				221 text Frequently Asked Questions
+			222 container
+				223 container eael-adv-accordion-a21c56a
+					279 container Description: What is a Smart Operations platform?, ID: what-is-a-smart-operations-platform
+						280 text What is a Smart Operations platform?
+					281 container Description: What is a Smart Operations platform?, ID: elementor-tab-content-1691
+						282 text A Smart Operations platform uses AI, machine learning, analytics, and IoT to monitor critical infrastructure, predict issues, and improve operational performance.
+					225 text Which industries can benefit from Smart Operations?
+					226 text How does predictive maintenance help?
+				227 container eael-adv-accordion-7854a0d
+					228 text Can Smart Operations support sustainability goals?
+					229 text Is Smart Operations suitable for multi-site operations?
+		230 container
+			231 heading Ready to transform your operations?, Value: 2
+				232 text Ready to transform your operations?
+			233 container
+				234 text Gain the visibility, intelligence, and control you need to improve performance across
+				235 text critical infrastructure.
+			236 link Description: Request a Demo, Value: sterlingandwilsondc.com/contact/
+		237 container
+			238 container
+				239 link sterlingandwilsondc.com/
+				240 container
+					241 text Your trusted partner in designing, building
+					242 text and managing world-class data centers
+			243 container
+				244 heading About Us, Value: 2
+					245 text About Us
+				246 content list
+					247 link Description: Overview, Value: sterlingandwilsondc.com/about-us/
+					248 link Description: Awards & Recognitions, Value: sterlingandwilsondc.com/awards-recognitions/
+					249 link Description: Leadership, Value: sterlingandwilsondc.com/leadership/
+					250 link Description: Industry Memberships and Recognitions, Value: sterlingandwilsondc.com/industry-memberships-and-recognitions/
+				251 heading Projects, Value: 2
+					252 link Description: Projects, Value: sterlingandwilsondc.com/projects/
+			253 container
+				254 heading Services, Value: 2
+					255 text Services
+				256 content list
+					257 link Description: Design & Build, Value: sterlingandwilsondc.com/design-build/
+					258 link Description: Modular Construction, Value: sterlingandwilsondc.com/modular-construction/
+					259 link Description: Smart Operations, Value: sterlingandwilsondc.com/smart-operations/
+					260 link Description: Sustainable Execution, Value: sterlingandwilsondc.com/sustainable-execution/
+					261 link Description: O&M Services, Value: sterlingandwilsondc.com/om-services/
+			262 container
+				263 heading Media, Value: 2
+					264 text Media
+				265 content list
+					266 link Description: News & Press Release, Value: sterlingandwilsondc.com/news-press-release/
+					267 link Description: Events, Value: sterlingandwilsondc.com/events/
+				268 heading Careers, Value: 2
+					269 link Description: Careers, Value: sterlingandwilsondc.com/careers/
+				270 heading Contact, Value: 2
+					271 link Description: Contact, Value: sterlingandwilsondc.com/contact/
+			272 container
+				273 heading Let’s Connect, Value: 2
+					274 text Let’s Connect
+				275 link Description: Linkedin-in, Value: linkedin.com/company/sterling-and-wilson-data-center/
+				276 content list
+					277 link Description: Privacy Policy, Value: sterlingandwilsondc.com/privacy-policy/
+					278 link Description: HSE Policy, Value: sterlingandwilsondc.com/wp-content/uploads/2025/12/SW-HSE-Policy-June-2025.pdf
+
+The focused UI element is 279 container Description: What is a Smart Operations platform?, ID: what-is-a-smart-operations-platform

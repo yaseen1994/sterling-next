@@ -1,0 +1,3659 @@
+{
+  "source_url": "https://sterlingandwilsondc.com/leadership/",
+  "observed_at_utc": "2026-10-07T04:07:55+00:00",
+  "completed_at_utc": "2026-10-07T04:07:59+00:00",
+  "access_method": "curl.exe public HTTPS GET; no site code executed",
+  "discovered_from": [
+    "https://sterlingandwilsondc.com/",
+    "https://sterlingandwilsondc.com/about-us/",
+    "https://sterlingandwilsondc.com/awards-recognitions/",
+    "https://sterlingandwilsondc.com/blogs/",
+    "https://sterlingandwilsondc.com/careers/",
+    "https://sterlingandwilsondc.com/contact/",
+    "https://sterlingandwilsondc.com/corporate-governance/",
+    "https://sterlingandwilsondc.com/design-build/",
+    "https://sterlingandwilsondc.com/events/"
+  ],
+  "http_status": 200,
+  "effective_url": "https://sterlingandwilsondc.com/leadership/",
+  "content_type": "text/html; charset=UTF-8",
+  "curl_exit_code": 0,
+  "error": "",
+  "response_headers": [
+    "HTTP/1.1 200 OK",
+    "Date: Wed, 07 Oct 2026 04:07:56 GMT",
+    "Link: <https://sterlingandwilsondc.com/wp-json/>; rel=\"https://api.w.org/\", <https://sterlingandwilsondc.com/wp-json/wp/v2/pages/30892>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://sterlingandwilsondc.com/?p=30892>; rel=shortlink",
+    "Content-Type: text/html; charset=UTF-8"
+  ],
+  "size_bytes": 688952,
+  "response_sha256": "5169b23718505d0d7036d4b1d8450bc66c6ffc65cff3b4abdc1cb2bf0c6df295",
+  "html": {
+    "title": "Leadership – Sterling & Wilson Data Center",
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1",
+      "robots": "max-image-preview:large",
+      "generator": "Site Kit by Google 1.189.0",
+      "msapplication-tileimage": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/cropped-logo-website-icon-270x270.jpg"
+    },
+    "canonicals": [
+      "https://sterlingandwilsondc.com/leadership/"
+    ],
+    "headings": [
+      {
+        "tag": "h2",
+        "text": "Leadership",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Prasanna Sarambale",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Chief Executive Officer",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "View profile",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "PV Prasanth​",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Chief Operating Officer",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "View profile",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Prasad Patwardhan",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Chief Financial Officer",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "View profile",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Ranjit Gajare​",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Chief Growth Officer",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "View profile",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Awadhesh Sharma​",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Vice President - Business Development & Sales",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "View profile",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Ravindra Bapat​",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Chief Technology Officer​",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "View profile",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Vishal Jain",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Chief Strategy and M&A Officer",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "View profile",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Amod Ranade",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Chief Product Officer",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "View profile",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Avijit Kar​",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Chief Human Resources Officer​",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "View profile",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Rajeev Roy",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Vice President - Finance",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "View profile",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Alok Karmarkar​",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Vice President - Contract",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "View profile",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Ashish Nair",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Vice President - Commercial",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "View profile",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "About Us",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Projects",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Services",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Media",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Careers",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Contact",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Let’s Connect",
+        "class": "elementor-heading-title elementor-size-default"
+      },
+      {
+        "tag": "h2",
+        "text": "Prasanna Sarambale​",
+        "class": "title"
+      },
+      {
+        "tag": "h2",
+        "text": "P. V. Prasanth",
+        "class": "title"
+      },
+      {
+        "tag": "h2",
+        "text": "Prasad Patwardhan",
+        "class": "title"
+      },
+      {
+        "tag": "h2",
+        "text": "Ranjit Gajare",
+        "class": "title"
+      },
+      {
+        "tag": "h2",
+        "text": "Awadhesh Sharma",
+        "class": "title"
+      },
+      {
+        "tag": "h2",
+        "text": "Ravindra Bapat",
+        "class": "title"
+      },
+      {
+        "tag": "h2",
+        "text": "Vishal Jain",
+        "class": "title"
+      },
+      {
+        "tag": "h2",
+        "text": "Amod Ranade",
+        "class": "title"
+      },
+      {
+        "tag": "h2",
+        "text": "Avijit Kar",
+        "class": "title"
+      },
+      {
+        "tag": "h2",
+        "text": "Rajeev Roy",
+        "class": "title"
+      },
+      {
+        "tag": "h2",
+        "text": "Alok Karmarkar",
+        "class": "title"
+      },
+      {
+        "tag": "h2",
+        "text": "Ashish Nair",
+        "class": "title"
+      }
+    ],
+    "links": [
+      {
+        "tag": "a",
+        "text": "Skip to content",
+        "href": "#content",
+        "class": "skip-link screen-reader-text",
+        "url": "https://sterlingandwilsondc.com/leadership/#content"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "https://sterlingandwilsondc.com",
+        "url": "https://sterlingandwilsondc.com"
+      },
+      {
+        "tag": "a",
+        "text": "Home",
+        "href": "https://sterlingandwilsondc.com/",
+        "class": "elementor-item",
+        "url": "https://sterlingandwilsondc.com/"
+      },
+      {
+        "tag": "a",
+        "text": "About Us",
+        "href": "https://sterlingandwilsondc.com/about-us/",
+        "class": "elementor-item",
+        "url": "https://sterlingandwilsondc.com/about-us/"
+      },
+      {
+        "tag": "a",
+        "text": "Overview",
+        "href": "https://sterlingandwilsondc.com/about-us/",
+        "class": "elementor-sub-item",
+        "url": "https://sterlingandwilsondc.com/about-us/"
+      },
+      {
+        "tag": "a",
+        "text": "Awards & Recognitions",
+        "href": "https://sterlingandwilsondc.com/awards-recognitions/",
+        "class": "elementor-sub-item",
+        "url": "https://sterlingandwilsondc.com/awards-recognitions/"
+      },
+      {
+        "tag": "a",
+        "text": "Leadership",
+        "href": "https://sterlingandwilsondc.com/leadership/",
+        "class": "elementor-sub-item elementor-item-active",
+        "url": "https://sterlingandwilsondc.com/leadership/"
+      },
+      {
+        "tag": "a",
+        "text": "Industry Memberships and Recognitions",
+        "href": "https://sterlingandwilsondc.com/industry-memberships-and-recognitions/",
+        "class": "elementor-sub-item",
+        "url": "https://sterlingandwilsondc.com/industry-memberships-and-recognitions/"
+      },
+      {
+        "tag": "a",
+        "text": "Corporate Governance",
+        "href": "https://sterlingandwilsondc.com/corporate-governance/",
+        "class": "elementor-sub-item",
+        "url": "https://sterlingandwilsondc.com/corporate-governance/"
+      },
+      {
+        "tag": "a",
+        "text": "Projects",
+        "href": "https://sterlingandwilsondc.com/projects/",
+        "class": "elementor-item",
+        "url": "https://sterlingandwilsondc.com/projects/"
+      },
+      {
+        "tag": "a",
+        "text": "Services",
+        "href": "#",
+        "class": "elementor-item elementor-item-anchor",
+        "url": "https://sterlingandwilsondc.com/leadership/"
+      },
+      {
+        "tag": "a",
+        "text": "Design & Build",
+        "href": "https://sterlingandwilsondc.com/design-build/",
+        "class": "elementor-sub-item",
+        "url": "https://sterlingandwilsondc.com/design-build/"
+      },
+      {
+        "tag": "a",
+        "text": "Modular Construction",
+        "href": "https://sterlingandwilsondc.com/modular-construction/",
+        "class": "elementor-sub-item",
+        "url": "https://sterlingandwilsondc.com/modular-construction/"
+      },
+      {
+        "tag": "a",
+        "text": "Smart Operations",
+        "href": "https://sterlingandwilsondc.com/smart-operations/",
+        "class": "elementor-sub-item",
+        "url": "https://sterlingandwilsondc.com/smart-operations/"
+      },
+      {
+        "tag": "a",
+        "text": "Sustainable Execution",
+        "href": "https://sterlingandwilsondc.com/sustainable-execution/",
+        "class": "elementor-sub-item",
+        "url": "https://sterlingandwilsondc.com/sustainable-execution/"
+      },
+      {
+        "tag": "a",
+        "text": "O&M Services",
+        "href": "https://sterlingandwilsondc.com/om-services/",
+        "class": "elementor-sub-item",
+        "url": "https://sterlingandwilsondc.com/om-services/"
+      },
+      {
+        "tag": "a",
+        "text": "Media",
+        "href": "#",
+        "class": "elementor-item elementor-item-anchor",
+        "url": "https://sterlingandwilsondc.com/leadership/"
+      },
+      {
+        "tag": "a",
+        "text": "News & Press Release",
+        "href": "https://sterlingandwilsondc.com/news-press-release/",
+        "class": "elementor-sub-item",
+        "url": "https://sterlingandwilsondc.com/news-press-release/"
+      },
+      {
+        "tag": "a",
+        "text": "Events",
+        "href": "https://sterlingandwilsondc.com/events/",
+        "class": "elementor-sub-item",
+        "url": "https://sterlingandwilsondc.com/events/"
+      },
+      {
+        "tag": "a",
+        "text": "Blogs",
+        "href": "https://sterlingandwilsondc.com/blogs/",
+        "class": "elementor-sub-item",
+        "url": "https://sterlingandwilsondc.com/blogs/"
+      },
+      {
+        "tag": "a",
+        "text": "Careers",
+        "href": "https://sterlingandwilsondc.com/careers/",
+        "class": "elementor-item",
+        "url": "https://sterlingandwilsondc.com/careers/"
+      },
+      {
+        "tag": "a",
+        "text": "Contact",
+        "href": "https://sterlingandwilsondc.com/contact/",
+        "class": "elementor-item",
+        "url": "https://sterlingandwilsondc.com/contact/"
+      },
+      {
+        "tag": "a",
+        "text": "Home",
+        "href": "https://sterlingandwilsondc.com/",
+        "class": "elementor-item",
+        "tabindex": "-1",
+        "url": "https://sterlingandwilsondc.com/"
+      },
+      {
+        "tag": "a",
+        "text": "About Us",
+        "href": "https://sterlingandwilsondc.com/about-us/",
+        "class": "elementor-item",
+        "tabindex": "-1",
+        "url": "https://sterlingandwilsondc.com/about-us/"
+      },
+      {
+        "tag": "a",
+        "text": "Overview",
+        "href": "https://sterlingandwilsondc.com/about-us/",
+        "class": "elementor-sub-item",
+        "tabindex": "-1",
+        "url": "https://sterlingandwilsondc.com/about-us/"
+      },
+      {
+        "tag": "a",
+        "text": "Awards & Recognitions",
+        "href": "https://sterlingandwilsondc.com/awards-recognitions/",
+        "class": "elementor-sub-item",
+        "tabindex": "-1",
+        "url": "https://sterlingandwilsondc.com/awards-recognitions/"
+      },
+      {
+        "tag": "a",
+        "text": "Leadership",
+        "href": "https://sterlingandwilsondc.com/leadership/",
+        "class": "elementor-sub-item elementor-item-active",
+        "tabindex": "-1",
+        "url": "https://sterlingandwilsondc.com/leadership/"
+      },
+      {
+        "tag": "a",
+        "text": "Industry Memberships and Recognitions",
+        "href": "https://sterlingandwilsondc.com/industry-memberships-and-recognitions/",
+        "class": "elementor-sub-item",
+        "tabindex": "-1",
+        "url": "https://sterlingandwilsondc.com/industry-memberships-and-recognitions/"
+      },
+      {
+        "tag": "a",
+        "text": "Corporate Governance",
+        "href": "https://sterlingandwilsondc.com/corporate-governance/",
+        "class": "elementor-sub-item",
+        "tabindex": "-1",
+        "url": "https://sterlingandwilsondc.com/corporate-governance/"
+      },
+      {
+        "tag": "a",
+        "text": "Projects",
+        "href": "https://sterlingandwilsondc.com/projects/",
+        "class": "elementor-item",
+        "tabindex": "-1",
+        "url": "https://sterlingandwilsondc.com/projects/"
+      },
+      {
+        "tag": "a",
+        "text": "Services",
+        "href": "#",
+        "class": "elementor-item elementor-item-anchor",
+        "tabindex": "-1",
+        "url": "https://sterlingandwilsondc.com/leadership/"
+      },
+      {
+        "tag": "a",
+        "text": "Design & Build",
+        "href": "https://sterlingandwilsondc.com/design-build/",
+        "class": "elementor-sub-item",
+        "tabindex": "-1",
+        "url": "https://sterlingandwilsondc.com/design-build/"
+      },
+      {
+        "tag": "a",
+        "text": "Modular Construction",
+        "href": "https://sterlingandwilsondc.com/modular-construction/",
+        "class": "elementor-sub-item",
+        "tabindex": "-1",
+        "url": "https://sterlingandwilsondc.com/modular-construction/"
+      },
+      {
+        "tag": "a",
+        "text": "Smart Operations",
+        "href": "https://sterlingandwilsondc.com/smart-operations/",
+        "class": "elementor-sub-item",
+        "tabindex": "-1",
+        "url": "https://sterlingandwilsondc.com/smart-operations/"
+      },
+      {
+        "tag": "a",
+        "text": "Sustainable Execution",
+        "href": "https://sterlingandwilsondc.com/sustainable-execution/",
+        "class": "elementor-sub-item",
+        "tabindex": "-1",
+        "url": "https://sterlingandwilsondc.com/sustainable-execution/"
+      },
+      {
+        "tag": "a",
+        "text": "O&M Services",
+        "href": "https://sterlingandwilsondc.com/om-services/",
+        "class": "elementor-sub-item",
+        "tabindex": "-1",
+        "url": "https://sterlingandwilsondc.com/om-services/"
+      },
+      {
+        "tag": "a",
+        "text": "Media",
+        "href": "#",
+        "class": "elementor-item elementor-item-anchor",
+        "tabindex": "-1",
+        "url": "https://sterlingandwilsondc.com/leadership/"
+      },
+      {
+        "tag": "a",
+        "text": "News & Press Release",
+        "href": "https://sterlingandwilsondc.com/news-press-release/",
+        "class": "elementor-sub-item",
+        "tabindex": "-1",
+        "url": "https://sterlingandwilsondc.com/news-press-release/"
+      },
+      {
+        "tag": "a",
+        "text": "Events",
+        "href": "https://sterlingandwilsondc.com/events/",
+        "class": "elementor-sub-item",
+        "tabindex": "-1",
+        "url": "https://sterlingandwilsondc.com/events/"
+      },
+      {
+        "tag": "a",
+        "text": "Blogs",
+        "href": "https://sterlingandwilsondc.com/blogs/",
+        "class": "elementor-sub-item",
+        "tabindex": "-1",
+        "url": "https://sterlingandwilsondc.com/blogs/"
+      },
+      {
+        "tag": "a",
+        "text": "Careers",
+        "href": "https://sterlingandwilsondc.com/careers/",
+        "class": "elementor-item",
+        "tabindex": "-1",
+        "url": "https://sterlingandwilsondc.com/careers/"
+      },
+      {
+        "tag": "a",
+        "text": "Contact",
+        "href": "https://sterlingandwilsondc.com/contact/",
+        "class": "elementor-item",
+        "tabindex": "-1",
+        "url": "https://sterlingandwilsondc.com/contact/"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1ODYzIiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1ODYzIiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjMwOTg3IiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjMwOTg3IiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "https://www.linkedin.com/in/prasannasarambale/",
+        "class": "elementor-icon elementor-animation-float",
+        "url": "https://www.linkedin.com/in/prasannasarambale/"
+      },
+      {
+        "tag": "a",
+        "text": "Prasanna Sarambale",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjMwOTg3IiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjMwOTg3IiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "Chief Executive Officer",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjMwOTg3IiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjMwOTg3IiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "View profile",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjMwOTg3IiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjMwOTg3IiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1NDAxIiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1NDAxIiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "https://www.linkedin.com/in/pv-prasanth-3a23b8104/",
+        "class": "elementor-icon elementor-animation-float",
+        "url": "https://www.linkedin.com/in/pv-prasanth-3a23b8104/"
+      },
+      {
+        "tag": "a",
+        "text": "PV Prasanth​",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1NDAxIiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1NDAxIiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "Chief Operating Officer",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1NDAxIiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1NDAxIiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "View profile",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1NDAxIiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1NDAxIiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTUzIiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTUzIiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "https://www.linkedin.com/in/prasad-patwardhan-70a08b10/",
+        "class": "elementor-icon elementor-animation-float",
+        "url": "https://www.linkedin.com/in/prasad-patwardhan-70a08b10/"
+      },
+      {
+        "tag": "a",
+        "text": "Prasad Patwardhan",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTUzIiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTUzIiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "Chief Financial Officer",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTUzIiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTUzIiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "View profile",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTUzIiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTUzIiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTU2IiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTU2IiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "https://www.linkedin.com/in/ranjitgajare/",
+        "class": "elementor-icon elementor-animation-float",
+        "url": "https://www.linkedin.com/in/ranjitgajare/"
+      },
+      {
+        "tag": "a",
+        "text": "Ranjit Gajare​",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTU2IiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTU2IiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "Chief Growth Officer",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTU2IiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTU2IiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "View profile",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTU2IiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTU2IiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1MzI1IiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1MzI1IiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "https://www.linkedin.com/in/awadhesh-sharma-4b96858/",
+        "class": "elementor-icon elementor-animation-float",
+        "url": "https://www.linkedin.com/in/awadhesh-sharma-4b96858/"
+      },
+      {
+        "tag": "a",
+        "text": "Awadhesh Sharma​",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1MzI1IiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1MzI1IiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "Vice President - Business Development & Sales",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1MzI1IiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1MzI1IiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "View profile",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1MzI1IiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1MzI1IiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1MDAzIiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1MDAzIiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "https://www.linkedin.com/in/ravindra-bapat-14216420/",
+        "class": "elementor-icon elementor-animation-float",
+        "url": "https://www.linkedin.com/in/ravindra-bapat-14216420/"
+      },
+      {
+        "tag": "a",
+        "text": "Ravindra Bapat​",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1MDAzIiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1MDAzIiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "Chief Technology Officer​",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1MDAzIiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1MDAzIiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "View profile",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1MDAzIiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1MDAzIiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1MTI3IiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1MTI3IiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "https://www.linkedin.com/in/vishal-jain-a13b2137/",
+        "class": "elementor-icon elementor-animation-float",
+        "url": "https://www.linkedin.com/in/vishal-jain-a13b2137/"
+      },
+      {
+        "tag": "a",
+        "text": "Vishal Jain",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1MTI3IiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1MTI3IiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "Chief Strategy and M&A Officer",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1MTI3IiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1MTI3IiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "View profile",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1MTI3IiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1MTI3IiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTYxIiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTYxIiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "https://www.linkedin.com/in/amod-ranade-1552951/",
+        "class": "elementor-icon elementor-animation-float",
+        "url": "https://www.linkedin.com/in/amod-ranade-1552951/"
+      },
+      {
+        "tag": "a",
+        "text": "Amod Ranade",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTYxIiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTYxIiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "Chief Product Officer",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTYxIiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTYxIiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "View profile",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTYxIiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTYxIiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTM3IiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTM3IiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "https://www.linkedin.com/in/avijitkar/",
+        "class": "elementor-icon elementor-animation-float",
+        "url": "https://www.linkedin.com/in/avijitkar/"
+      },
+      {
+        "tag": "a",
+        "text": "Avijit Kar​",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTM3IiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTM3IiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "Chief Human Resources Officer​",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTM3IiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTM3IiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "View profile",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTM3IiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTM3IiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTQxIiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTQxIiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "https://www.linkedin.com/in/rajeevroy80/",
+        "class": "elementor-icon elementor-animation-float",
+        "url": "https://www.linkedin.com/in/rajeevroy80/"
+      },
+      {
+        "tag": "a",
+        "text": "Rajeev Roy",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTQxIiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTQxIiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "Vice President - Finance",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTQxIiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTQxIiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "View profile",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTQxIiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTQxIiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTQ2IiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTQ2IiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "https://www.linkedin.com/in/alok-karmarkar-6213b67b/",
+        "class": "elementor-icon elementor-animation-float",
+        "url": "https://www.linkedin.com/in/alok-karmarkar-6213b67b/"
+      },
+      {
+        "tag": "a",
+        "text": "Alok Karmarkar​",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTQ2IiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTQ2IiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "Vice President - Contract",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTQ2IiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTQ2IiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "View profile",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTQ2IiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTQ2IiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTUwIiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTUwIiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "https://www.linkedin.com/in/ashish-nair-26b626236/",
+        "class": "elementor-icon elementor-animation-float",
+        "url": "https://www.linkedin.com/in/ashish-nair-26b626236/"
+      },
+      {
+        "tag": "a",
+        "text": "Ashish Nair",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTUwIiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTUwIiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "View profile",
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTUwIiwidG9nZ2xlIjpmYWxzZX0%3D",
+        "url": "https://sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTUwIiwidG9nZ2xlIjpmYWxzZX0%3D"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "https://sterlingandwilsondc.com/",
+        "url": "https://sterlingandwilsondc.com/"
+      },
+      {
+        "tag": "a",
+        "text": "Overview",
+        "href": "https://sterlingandwilsondc.com/about-us/",
+        "url": "https://sterlingandwilsondc.com/about-us/"
+      },
+      {
+        "tag": "a",
+        "text": "Awards & Recognitions",
+        "href": "https://sterlingandwilsondc.com/awards-recognitions/",
+        "url": "https://sterlingandwilsondc.com/awards-recognitions/"
+      },
+      {
+        "tag": "a",
+        "text": "Leadership",
+        "href": "https://sterlingandwilsondc.com/leadership/",
+        "url": "https://sterlingandwilsondc.com/leadership/"
+      },
+      {
+        "tag": "a",
+        "text": "Industry Memberships and Recognitions",
+        "href": "https://sterlingandwilsondc.com/industry-memberships-and-recognitions/",
+        "url": "https://sterlingandwilsondc.com/industry-memberships-and-recognitions/"
+      },
+      {
+        "tag": "a",
+        "text": "Projects",
+        "href": "https://sterlingandwilsondc.com/projects/",
+        "url": "https://sterlingandwilsondc.com/projects/"
+      },
+      {
+        "tag": "a",
+        "text": "Design & Build",
+        "href": "https://sterlingandwilsondc.com/design-build/",
+        "url": "https://sterlingandwilsondc.com/design-build/"
+      },
+      {
+        "tag": "a",
+        "text": "Modular Construction",
+        "href": "https://sterlingandwilsondc.com/modular-construction/",
+        "url": "https://sterlingandwilsondc.com/modular-construction/"
+      },
+      {
+        "tag": "a",
+        "text": "Smart Operations",
+        "href": "https://sterlingandwilsondc.com/smart-operations/",
+        "url": "https://sterlingandwilsondc.com/smart-operations/"
+      },
+      {
+        "tag": "a",
+        "text": "Sustainable Execution",
+        "href": "https://sterlingandwilsondc.com/sustainable-execution/",
+        "url": "https://sterlingandwilsondc.com/sustainable-execution/"
+      },
+      {
+        "tag": "a",
+        "text": "O&M Services",
+        "href": "https://sterlingandwilsondc.com/om-services/",
+        "url": "https://sterlingandwilsondc.com/om-services/"
+      },
+      {
+        "tag": "a",
+        "text": "News & Press Release",
+        "href": "https://sterlingandwilsondc.com/news-press-release/",
+        "url": "https://sterlingandwilsondc.com/news-press-release/"
+      },
+      {
+        "tag": "a",
+        "text": "Events",
+        "href": "https://sterlingandwilsondc.com/events/",
+        "url": "https://sterlingandwilsondc.com/events/"
+      },
+      {
+        "tag": "a",
+        "text": "Careers",
+        "href": "https://sterlingandwilsondc.com/careers/",
+        "url": "https://sterlingandwilsondc.com/careers/"
+      },
+      {
+        "tag": "a",
+        "text": "Contact",
+        "href": "https://sterlingandwilsondc.com/contact/",
+        "url": "https://sterlingandwilsondc.com/contact/"
+      },
+      {
+        "tag": "a",
+        "text": "Linkedin-in",
+        "href": "https://www.linkedin.com/company/sterling-and-wilson-data-center/",
+        "class": "elementor-icon elementor-social-icon elementor-social-icon-linkedin-in elementor-repeater-item-738fb8f",
+        "url": "https://www.linkedin.com/company/sterling-and-wilson-data-center/"
+      },
+      {
+        "tag": "a",
+        "text": "Privacy Policy",
+        "href": "https://sterlingandwilsondc.com/privacy-policy/",
+        "url": "https://sterlingandwilsondc.com/privacy-policy/"
+      },
+      {
+        "tag": "a",
+        "text": "HSE Policy",
+        "href": "https://sterlingandwilsondc.com/wp-content/uploads/2025/12/SW-HSE-Policy-June-2025.pdf",
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/12/SW-HSE-Policy-June-2025.pdf"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "https://www.linkedin.com/in/prasannasarambale/?originalSubdomain=in",
+        "class": "elementor-icon elementor-animation-float",
+        "url": "https://www.linkedin.com/in/prasannasarambale/?originalSubdomain=in"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "https://www.linkedin.com/in/pv-prasanth-3a23b8104/",
+        "class": "elementor-icon elementor-animation-float",
+        "url": "https://www.linkedin.com/in/pv-prasanth-3a23b8104/"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "https://www.linkedin.com/in/prasad-patwardhan-70a08b10/",
+        "class": "elementor-icon elementor-animation-float",
+        "url": "https://www.linkedin.com/in/prasad-patwardhan-70a08b10/"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "https://www.linkedin.com/in/ranjitgajare/",
+        "class": "elementor-icon elementor-animation-float",
+        "url": "https://www.linkedin.com/in/ranjitgajare/"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "https://www.linkedin.com/authwall?trk=gf&trkInfo=AQHAlS-API4nhwAAAZjG9WYgPheZAK9IXy3nrwjM9_zgowDo5G01JZrVav3o_FIDQzf1GwQgm0CjgazOfwsBjRF40m2Golf2dDR93RcYFgKqS8NGieRaEwJImeTGmPL7AkIRzNU=&original_referer=https://sterlingandwilsondc.com/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fawadhesh-sharma-4b96858%2F",
+        "class": "elementor-icon elementor-animation-float",
+        "url": "https://www.linkedin.com/authwall?trk=gf&trkInfo=AQHAlS-API4nhwAAAZjG9WYgPheZAK9IXy3nrwjM9_zgowDo5G01JZrVav3o_FIDQzf1GwQgm0CjgazOfwsBjRF40m2Golf2dDR93RcYFgKqS8NGieRaEwJImeTGmPL7AkIRzNU=&original_referer=https://sterlingandwilsondc.com/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fawadhesh-sharma-4b96858%2F"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "https://www.linkedin.com/authwall?trk=gf&trkInfo=AQE5ryAyy344yAAAAZiJOmugWw4rgfh7Ruq818ZUcjils8phUW0ALW96q3m8adfld42nJGnMLPhUZpMPhqVvbQyPHlJoXlzXkuTWWvG0jTtDdgyRMoqNlwk73X8dTCTJO9KqYkE=&original_referer=https://sterlingandwilsondc.com/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fawadhesh-sharma-4b96858%2F",
+        "class": "elementor-icon elementor-animation-float",
+        "url": "https://www.linkedin.com/authwall?trk=gf&trkInfo=AQE5ryAyy344yAAAAZiJOmugWw4rgfh7Ruq818ZUcjils8phUW0ALW96q3m8adfld42nJGnMLPhUZpMPhqVvbQyPHlJoXlzXkuTWWvG0jTtDdgyRMoqNlwk73X8dTCTJO9KqYkE=&original_referer=https://sterlingandwilsondc.com/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fawadhesh-sharma-4b96858%2F"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "https://www.linkedin.com/in/vishal-jain-a13b2137/",
+        "class": "elementor-icon elementor-animation-float",
+        "url": "https://www.linkedin.com/in/vishal-jain-a13b2137/"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "https://www.linkedin.com/in/amod-ranade-1552951/",
+        "class": "elementor-icon elementor-animation-float",
+        "url": "https://www.linkedin.com/in/amod-ranade-1552951/"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "https://www.linkedin.com/in/avijitkar/",
+        "class": "elementor-icon elementor-animation-float",
+        "url": "https://www.linkedin.com/in/avijitkar/"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "https://www.linkedin.com/in/rajeevroy80/",
+        "class": "elementor-icon elementor-animation-float",
+        "url": "https://www.linkedin.com/in/rajeevroy80/"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "https://www.linkedin.com/in/alok-karmarkar-6213b67b/",
+        "class": "elementor-icon elementor-animation-float",
+        "url": "https://www.linkedin.com/in/alok-karmarkar-6213b67b/"
+      },
+      {
+        "tag": "a",
+        "text": "",
+        "href": "https://www.linkedin.com/in/ashish-nair-26b626236/",
+        "class": "elementor-icon elementor-animation-float",
+        "url": "https://www.linkedin.com/in/ashish-nair-26b626236/"
+      },
+      {
+        "tag": "a",
+        "text": "Home",
+        "href": "https://sterlingandwilsondc.com/",
+        "url": "https://sterlingandwilsondc.com/"
+      },
+      {
+        "tag": "a",
+        "text": "About Us",
+        "href": "https://sterlingandwilsondc.com/about-us/",
+        "url": "https://sterlingandwilsondc.com/about-us/"
+      },
+      {
+        "tag": "a",
+        "text": "Overview",
+        "href": "https://sterlingandwilsondc.com/about-us/",
+        "url": "https://sterlingandwilsondc.com/about-us/"
+      },
+      {
+        "tag": "a",
+        "text": "Awards & Recognitions",
+        "href": "https://sterlingandwilsondc.com/awards-recognitions/",
+        "url": "https://sterlingandwilsondc.com/awards-recognitions/"
+      },
+      {
+        "tag": "a",
+        "text": "Leadership",
+        "href": "https://sterlingandwilsondc.com/leadership/",
+        "url": "https://sterlingandwilsondc.com/leadership/"
+      },
+      {
+        "tag": "a",
+        "text": "Industry Memberships and Recognitions",
+        "href": "https://sterlingandwilsondc.com/industry-memberships-and-recognitions/",
+        "url": "https://sterlingandwilsondc.com/industry-memberships-and-recognitions/"
+      },
+      {
+        "tag": "a",
+        "text": "Corporate Governance",
+        "href": "https://sterlingandwilsondc.com/corporate-governance/",
+        "url": "https://sterlingandwilsondc.com/corporate-governance/"
+      },
+      {
+        "tag": "a",
+        "text": "Projects",
+        "href": "https://sterlingandwilsondc.com/projects/",
+        "url": "https://sterlingandwilsondc.com/projects/"
+      },
+      {
+        "tag": "a",
+        "text": "Services",
+        "href": "#",
+        "url": "https://sterlingandwilsondc.com/leadership/"
+      },
+      {
+        "tag": "a",
+        "text": "Design & Build",
+        "href": "https://sterlingandwilsondc.com/design-build/",
+        "url": "https://sterlingandwilsondc.com/design-build/"
+      },
+      {
+        "tag": "a",
+        "text": "Modular Construction",
+        "href": "https://sterlingandwilsondc.com/modular-construction/",
+        "url": "https://sterlingandwilsondc.com/modular-construction/"
+      },
+      {
+        "tag": "a",
+        "text": "Smart Operations",
+        "href": "https://sterlingandwilsondc.com/smart-operations/",
+        "url": "https://sterlingandwilsondc.com/smart-operations/"
+      },
+      {
+        "tag": "a",
+        "text": "Sustainable Execution",
+        "href": "https://sterlingandwilsondc.com/sustainable-execution/",
+        "url": "https://sterlingandwilsondc.com/sustainable-execution/"
+      },
+      {
+        "tag": "a",
+        "text": "O&M Services",
+        "href": "https://sterlingandwilsondc.com/om-services/",
+        "url": "https://sterlingandwilsondc.com/om-services/"
+      },
+      {
+        "tag": "a",
+        "text": "Media",
+        "href": "#",
+        "url": "https://sterlingandwilsondc.com/leadership/"
+      },
+      {
+        "tag": "a",
+        "text": "News & Press Release",
+        "href": "https://sterlingandwilsondc.com/news-press-release/",
+        "url": "https://sterlingandwilsondc.com/news-press-release/"
+      },
+      {
+        "tag": "a",
+        "text": "Events",
+        "href": "https://sterlingandwilsondc.com/events/",
+        "url": "https://sterlingandwilsondc.com/events/"
+      },
+      {
+        "tag": "a",
+        "text": "Blogs",
+        "href": "https://sterlingandwilsondc.com/blogs/",
+        "url": "https://sterlingandwilsondc.com/blogs/"
+      },
+      {
+        "tag": "a",
+        "text": "Careers",
+        "href": "https://sterlingandwilsondc.com/careers/",
+        "url": "https://sterlingandwilsondc.com/careers/"
+      },
+      {
+        "tag": "a",
+        "text": "Contact",
+        "href": "https://sterlingandwilsondc.com/contact/",
+        "url": "https://sterlingandwilsondc.com/contact/"
+      }
+    ],
+    "content_blocks": [
+      {
+        "tag": "li",
+        "text": "Home",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-29409"
+      },
+      {
+        "tag": "li",
+        "text": "Overview",
+        "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-30614"
+      },
+      {
+        "tag": "li",
+        "text": "Awards & Recognitions",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-30613"
+      },
+      {
+        "tag": "li",
+        "text": "Leadership",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-30892 current_page_item menu-item-31687"
+      },
+      {
+        "tag": "li",
+        "text": "Industry Memberships and Recognitions",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-35666"
+      },
+      {
+        "tag": "li",
+        "text": "Corporate Governance",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-37674"
+      },
+      {
+        "tag": "li",
+        "text": "About Us Overview Awards & Recognitions Leadership Industry Memberships and Recognitions Corporate Governance",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-22651"
+      },
+      {
+        "tag": "li",
+        "text": "Projects",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-23966"
+      },
+      {
+        "tag": "li",
+        "text": "Design & Build",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-24252"
+      },
+      {
+        "tag": "li",
+        "text": "Modular Construction",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-24271"
+      },
+      {
+        "tag": "li",
+        "text": "Smart Operations",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-37564"
+      },
+      {
+        "tag": "li",
+        "text": "Sustainable Execution",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-36402"
+      },
+      {
+        "tag": "li",
+        "text": "O&M Services",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-30611"
+      },
+      {
+        "tag": "li",
+        "text": "Services Design & Build Modular Construction Smart Operations Sustainable Execution O&M Services",
+        "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-22933"
+      },
+      {
+        "tag": "li",
+        "text": "News & Press Release",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-32308"
+      },
+      {
+        "tag": "li",
+        "text": "Events",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-31871"
+      },
+      {
+        "tag": "li",
+        "text": "Blogs",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-37571"
+      },
+      {
+        "tag": "li",
+        "text": "Media News & Press Release Events Blogs",
+        "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-25253"
+      },
+      {
+        "tag": "li",
+        "text": "Careers",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-36312"
+      },
+      {
+        "tag": "li",
+        "text": "Contact",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-22656"
+      },
+      {
+        "tag": "li",
+        "text": "Home",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-29409"
+      },
+      {
+        "tag": "li",
+        "text": "Overview",
+        "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-30614"
+      },
+      {
+        "tag": "li",
+        "text": "Awards & Recognitions",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-30613"
+      },
+      {
+        "tag": "li",
+        "text": "Leadership",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-30892 current_page_item menu-item-31687"
+      },
+      {
+        "tag": "li",
+        "text": "Industry Memberships and Recognitions",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-35666"
+      },
+      {
+        "tag": "li",
+        "text": "Corporate Governance",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-37674"
+      },
+      {
+        "tag": "li",
+        "text": "About Us Overview Awards & Recognitions Leadership Industry Memberships and Recognitions Corporate Governance",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-22651"
+      },
+      {
+        "tag": "li",
+        "text": "Projects",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-23966"
+      },
+      {
+        "tag": "li",
+        "text": "Design & Build",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-24252"
+      },
+      {
+        "tag": "li",
+        "text": "Modular Construction",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-24271"
+      },
+      {
+        "tag": "li",
+        "text": "Smart Operations",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-37564"
+      },
+      {
+        "tag": "li",
+        "text": "Sustainable Execution",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-36402"
+      },
+      {
+        "tag": "li",
+        "text": "O&M Services",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-30611"
+      },
+      {
+        "tag": "li",
+        "text": "Services Design & Build Modular Construction Smart Operations Sustainable Execution O&M Services",
+        "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-22933"
+      },
+      {
+        "tag": "li",
+        "text": "News & Press Release",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-32308"
+      },
+      {
+        "tag": "li",
+        "text": "Events",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-31871"
+      },
+      {
+        "tag": "li",
+        "text": "Blogs",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-37571"
+      },
+      {
+        "tag": "li",
+        "text": "Media News & Press Release Events Blogs",
+        "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-25253"
+      },
+      {
+        "tag": "li",
+        "text": "Careers",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-36312"
+      },
+      {
+        "tag": "li",
+        "text": "Contact",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-22656"
+      },
+      {
+        "tag": "p",
+        "text": "Your trusted partner in designing, building and managing world-class data centers"
+      },
+      {
+        "tag": "p",
+        "text": "Your trusted partner in designing, building and managing world-class data centers"
+      },
+      {
+        "tag": "li",
+        "text": "Overview",
+        "class": "elementor-icon-list-item"
+      },
+      {
+        "tag": "li",
+        "text": "Awards & Recognitions",
+        "class": "elementor-icon-list-item"
+      },
+      {
+        "tag": "li",
+        "text": "Leadership",
+        "class": "elementor-icon-list-item"
+      },
+      {
+        "tag": "li",
+        "text": "Industry Memberships and Recognitions",
+        "class": "elementor-icon-list-item"
+      },
+      {
+        "tag": "li",
+        "text": "Design & Build",
+        "class": "elementor-icon-list-item"
+      },
+      {
+        "tag": "li",
+        "text": "Modular Construction",
+        "class": "elementor-icon-list-item"
+      },
+      {
+        "tag": "li",
+        "text": "Smart Operations",
+        "class": "elementor-icon-list-item"
+      },
+      {
+        "tag": "li",
+        "text": "Sustainable Execution",
+        "class": "elementor-icon-list-item"
+      },
+      {
+        "tag": "li",
+        "text": "O&M Services",
+        "class": "elementor-icon-list-item"
+      },
+      {
+        "tag": "li",
+        "text": "News & Press Release",
+        "class": "elementor-icon-list-item"
+      },
+      {
+        "tag": "li",
+        "text": "Events",
+        "class": "elementor-icon-list-item"
+      },
+      {
+        "tag": "li",
+        "text": "Privacy Policy",
+        "class": "elementor-icon-list-item"
+      },
+      {
+        "tag": "li",
+        "text": "HSE Policy",
+        "class": "elementor-icon-list-item"
+      },
+      {
+        "tag": "p",
+        "text": "Chief Executive Officer – Sterling and Wilson Data Center Pvt. Ltd. | Strategic Leader in Data Center Infrastructure and Long-Term Growth"
+      },
+      {
+        "tag": "p",
+        "text": "Prasanna Sarambale, CEO of Sterling and Wilson Data Center Pvt. Ltd. (SWDC), is a seasoned leader in the international data center industry. With over 28 years of experience, Prasanna has played a key role in shaping SWDC into a trusted provider of end-to-end data center EPC solutions. His strategic leadership has enabled the company to deliver value to hyperscalers, colocation providers, BFSI institutions, and government organizations."
+      },
+      {
+        "tag": "p",
+        "text": ""
+      },
+      {
+        "tag": "p",
+        "text": "Prasanna’s career includes leadership roles at globally recognized organizations such as Tata Liebert, IBM, Emerson Network Power and Schnieder Electric. Since joining the Sterling and Wilson Group in 2008, he has been instrumental in establishing and scaling the Data Center division. Over time, he guided its transition into an independent and globally respected entity, supported by strategic investments and robust partnerships."
+      },
+      {
+        "tag": "p",
+        "text": ""
+      },
+      {
+        "tag": "p",
+        "text": "As the former Chairman of the Confederation of Indian Industry (CII) Western Region Data Center Forum, Prasanna championed initiatives to elevate industry standards for infrastructure, energy efficiency, and digital transformation. He actively engaged with policymakers and industry stakeholders to foster collaboration and create a sustainable and innovative ecosystem for data centers in India."
+      },
+      {
+        "tag": "p",
+        "text": ""
+      },
+      {
+        "tag": "p",
+        "text": "Prasanna’s leadership style is grounded in collaboration and mentorship. He has cultivated a culture of accountability and ownership within his teams, empowering them to deliver high-performing results. His ability to anticipate market trends and align strategies with client needs has driven operational excellence and sustainable growth for SWDC, ensuring its continued relevance in a dynamic industry."
+      },
+      {
+        "tag": "p",
+        "text": ""
+      },
+      {
+        "tag": "p",
+        "text": "Under Prasanna’s guidance, SWDC has expanded its global footprint as one of the few data center EPC companies with operations across multiple geographies. His focus on operational efficiency, client satisfaction, and long-term market planning has been central to the company’s evolution into a well-regarded global player in the data center sector."
+      },
+      {
+        "tag": "p",
+        "text": ""
+      },
+      {
+        "tag": "p",
+        "text": "Prasanna is also an advocate for sustainable and energy-efficient practices in data center infrastructure. He has led discussions on policy frameworks, technology innovation, and collaboration between the industry and government to shape the future of digital infrastructure. His commitment to addressing critical challenges such as scalability and energy efficiency has reinforced his reputation as a transformative leader in the sector."
+      },
+      {
+        "tag": "p",
+        "text": ""
+      },
+      {
+        "tag": "p",
+        "text": "Through his expertise in business development, stakeholder engagement, and strategic planning, Prasanna continues to guide SWDC towards delivering scalable, efficient, and client-focused solutions. His contributions have positioned the company as a reliable partner in the rapidly growing global data center market."
+      },
+      {
+        "tag": "p",
+        "text": "COO, Sterling and Wilson Data Center Private Limited"
+      },
+      {
+        "tag": "p",
+        "text": "P. V. Prasanth is COO, Sterling & Wilson Data Center Pvt. Ltd. (SWDC). He has been responsible for the global operations of the company. His experience and leadership have been focused on developing and delivering technology-driven business services and solutions, providing outstanding client service, and driving profitable revenue growth.Prior to joining Sterling & Wilson in 2021, Prasanth was Director – Operations & Technology in the Engineering & Construction Division of Shapoorji Pallonji and Company Pvt. Ltd. In his previous roles with Gammon India, DLF Laing O’Rourke and Larsen & Toubro, he acquired an expertise in the field of construction methods, planning and framework.In his career, Prasanth has played a critical role in marquee projects such as the Intel Technology SRR set of buildings in Bengaluru built using the top-down construction technology; The Imperial, one of the tallest residential towers in India; ISKCON’s stainless steel dome at Mayapur in West Bengal which is the largest in India and the first cable stayed building in India for I-flex solutions in Bengaluru among others.Prasanth is a civil engineer from the BMS College of Engineering, Bengaluru. He is passionate about travelling and driving."
+      },
+      {
+        "tag": "p",
+        "text": "Chief Financial Officer, Sterling and Wilson Data Center Pvt. Ltd."
+      },
+      {
+        "tag": "p",
+        "text": "Prasad Patwardhan is the Chief Financial Officer of Sterling and Wilson Data Center Pvt. Ltd., leading the company’s financial strategy, risk management, capital planning, and business performance. With over three decades of experience in corporate finance, Prasad has a comprehensive understanding of financial planning, statutory and management reporting, taxation, investor relations, and resource mobilization."
+      },
+      {
+        "tag": "p",
+        "text": ""
+      },
+      {
+        "tag": "p",
+        "text": "Prior to joining Sterling and Wilson Data Center, Prasad held leadership roles across several prominent organizations, notably as CFO in ITD Cementation India Limited and Mercator Limited. He also has been associated with companies like Gammon India, Crompton Greaves, Tata International, and Reliance Communications where he has consistently demonstrated an"
+      },
+      {
+        "tag": "p",
+        "text": "ability to build robust financial frameworks, drive operational efficiency, and align financial objectives with business strategy."
+      },
+      {
+        "tag": "p",
+        "text": ""
+      },
+      {
+        "tag": "p",
+        "text": "A Chartered Accountant by qualification, Prasad has been a member of The Institute of Chartered Accountants of India since 1990. Known for his sharp financial acumen and pragmatic leadership style, Prasad has played a pivotal role in supporting business transformation initiatives and ensuring financial resilience across organizations operating in capital-intensive and complex sectors."
+      },
+      {
+        "tag": "p",
+        "text": ""
+      },
+      {
+        "tag": "p",
+        "text": "In recognition of his contribution to the field of finance, Prasad was honoured as a Financial Star by the Financial Express Group in 2022 for his exemplary work at ITD Cementation India Limited. His commitment to transparency, accountability, and value creation continues to guide his approach at Sterling and Wilson Data Center, as the company scales its presence across global markets."
+      },
+      {
+        "tag": "p",
+        "text": "Chief Growth Officer, Sterling and Wilson Data Center Pvt. Ltd."
+      },
+      {
+        "tag": "p",
+        "text": "Ranjit Gajare is the Chief Growth Officer at Sterling and Wilson Data Center Pvt. Ltd., where he leads high-impact commercial and business development strategies across India, the Middle East, and Africa. With over 22 years of versatile experience spanning technology, infrastructure, and business development, Ranjit plays a pivotal role in advancing Sterling and Wilson’s global data center footprint, driving growth through comprehensive sales solutions, strategic partnerships, and innovative bid management."
+      },
+      {
+        "tag": "p",
+        "text": "Throughout his career, Ranjit has built a reputation for excellence in managing request for proposal (RFP) processes, executing complex contract negotiations, and orchestrating cross-functional teams to deliver high-value data center projects. His consultative approach emphasizes understanding client needs, offering tailored solutions, and ensuring the timely delivery of large-scale infrastructure undertakings. Ranjit’s mission centers on strengthening client relationships and steering Sterling and Wilson’s international data center business toward sustained profitability and expansion."
+      },
+      {
+        "tag": "p",
+        "text": "Before taking charge at Sterling and Wilson, Ranjit held a series of progressive leadership positions at Shapoorji Pallonji Group, where he drove Africa-centric business expansion and managed project financing and contract operations for high value deals. He began his professional career in the technology sector as a Software Engineer and Analyst at Infosys and Epicor. This equipped him with a strong technical foundation that complements his commercial acumen."
+      },
+      {
+        "tag": "p",
+        "text": "Ranjit holds an MBA from the Indian Institute of Management, Indore, and a Bachelor of Engineering degree from Mumbai University. His career reflects a synergy of strategic vision, operational leadership, and unwavering commitment to delivering excellence in the fast-evolving data center sector."
+      },
+      {
+        "tag": "p",
+        "text": "A true champion of industry innovation and collaboration, Ranjit consistently represents Sterling and Wilson at marquee industry forums and international events, shaping the conversation on sustainable data center development and pushing the boundaries of efficiency, reliability, and customer-centricity in the digital infrastructure landscape."
+      },
+      {
+        "tag": "p",
+        "text": "Vice President – Business Development & Sales, Sterling and Wilson Data Center Pvt. Ltd."
+      },
+      {
+        "tag": "p",
+        "text": "Awadhesh Kumar Sharma is the Vice President – Business Development & Sales at Sterling and Wilson Data Center Pvt. Ltd. (SWDC). With over 32 years of experience in business development, sales, key account management, and channel management, Awadhesh plays a vital role in expanding SWDC’s domestic market presence and driving revenue growth in India. Based in the Mumbai region, he manages a strategic sales team focused on delivering customized client solutions across diverse sectors."
+      },
+      {
+        "tag": "p",
+        "text": "Awadhesh’s expertise lies in commercial negotiation, market analytics, and solution-based sales approaches. Before SWDC, he served as Head – Group Business Development (West & North) at Sterling and Wilson Pvt. Ltd. and as National Sales Manager at Schneider Electric India, specializing in critical power and cooling solutions. His extensive experience encompasses technical sales guidance, customer engagement, and closing high-value strategic deals aligned with business goals."
+      },
+      {
+        "tag": "p",
+        "text": "Notably, Awadhesh successfully executed major projects such as the “Upgradation of CCP to DCS” at the Mumbai High ONGC platform, achieving targeted gross margins and significantly improving Days Sales Outstanding (DSO) to below 40 days. His strategic insight enables him to anticipate market trends and tailor offerings to meet evolving client needs."
+      },
+      {
+        "tag": "p",
+        "text": "Known for his strong communication and influencing skills, Awadhesh fosters high impact, agile teams capable of delivering complex sales solutions. Under his leadership, the sales department has become a trusted partner in identifying growth opportunities and ensuring smooth sales execution."
+      },
+      {
+        "tag": "p",
+        "text": "Through his visionary approach and deep market understanding, Awadhesh Sharma continues to drive sustainable business expansion and strengthen Sterling and Wilson’s competitive position in the data center sector."
+      },
+      {
+        "tag": "p",
+        "text": "Chief Technology Officer, Sterling and Wilson Data Center Pvt. Ltd."
+      },
+      {
+        "tag": "p",
+        "text": "Ravindra Bapat serves as the Chief Technology Officer at Sterling and Wilson Data Center Pvt. Ltd. (SWDC), headquartered in Mumbai. Ravindra brings a sharp strategic lens to the company’s data center growth having a rich experience of over three decades. He defines and implements technology roadmaps, driving innovation for entire DC envelope."
+      },
+      {
+        "tag": "p",
+        "text": ""
+      },
+      {
+        "tag": "p",
+        "text": "With more than 32 years of expertise in Business Development and Strategic Account Management, Ravindra has built a career rooted in a deep understanding of infrastructure, energy systems, and mission-critical operations. Prior to joining SWDC, he held leadership positions at renowned organizations including Aggreko Singapore, Emerson Network Power . His approach in bridging technical depth with business acumen makes him a trusted voice both within the organization and in the broader data center ecosystem. Ravindra’s commendable wealth of experience and future-facing mindset has been instrumental in positioning Sterling and Wilson Data Center Pvt. Ltd. as a global player in the high-growth data center EPC space."
+      },
+      {
+        "tag": "p",
+        "text": ""
+      },
+      {
+        "tag": "p",
+        "text": "Ravindra is an Electrical Engineering diploma holder from Mumbai University and has consistently invested in his professional growth through advanced programs. Notably, he completed the Tier-1 Management Development Program at the Indian Institute of Management, Ahmedabad and is equipped with a well-rounded approach to leadership and decision-making. Ravindra also bagged several other certifications like Certified Data Centre Environmental Sustainability Specialist (CDESS) and Accredited Tier Designer (ATD) from the Uptime Institute."
+      },
+      {
+        "tag": "p",
+        "text": "Chief Strategy and Mergers & Acquisitions Officer, Sterling and Wilson Data Center Pvt. Ltd."
+      },
+      {
+        "tag": "p",
+        "text": "Vishal Jain joined Sterling and Wilson Data Center as Chief Strategy and M&A Officer on April 1, 2025, to lead the company’s strategic direction. Since joining the Sterling and Wilson Group in 2018, he has played a pivotal role in driving Strategy and M&A initiatives, working closely with the Chairman to instill operational and financial discipline across the organization. Vishal has been instrumental in multiple fund-raising activities for Group entities and made a significant contribution to the IPO of Sterling and Wilson Renewables."
+      },
+      {
+        "tag": "p",
+        "text": ""
+      },
+      {
+        "tag": "p",
+        "text": "Prior to joining Sterling and Wilson Group, Vishal held strategic roles at the National Stock Exchange of India, Raymond Ltd, Ernst & Young, and Price Waterhouse, where he led strategic planning, business transformation, deal structuring, and enterprise growth initiatives."
+      },
+      {
+        "tag": "p",
+        "text": ""
+      },
+      {
+        "tag": "p",
+        "text": "By qualification, Vishal is a Chartered Accountant (India) and has successfully passed Level III of the CFA Program, CFA Institute (USA). Beyond work, he is passionate about reading on self-development and human psychology—pursuits that continue to shape his leadership style and personal growth journey."
+      },
+      {
+        "tag": "p",
+        "text": "Chief Product Officer, Sterling and Wilson Data Center Pvt. Ltd."
+      },
+      {
+        "tag": "p",
+        "text": "Amod Ranade will steer new Offers & Initiatives at Sterling and Wilson Data Center Pvt. Ltd., strengthening the company’s technical strategy and expanding its presence in next-generation data center technologies. Amod’s extensive experience in data center and critical infrastructure has helped him drive innovation and operational excellence in mission-critical environments."
+      },
+      {
+        "tag": "p",
+        "text": ""
+      },
+      {
+        "tag": "p",
+        "text": "Amod is a Civil Engineer and MBA and has held leadership positions across globally recognized organizations such as Schneider Electric, Honeywell, IBM, and APC. Most recently, he served as Vice President and General Manager for operations in Asia Pacific at Green Revolution Cooling, a pioneer in liquid immersion cooling technologies. In this role, he was instrumental in advancing energy-efficient cooling solutions across the region, reflecting his deep commitment to sustainable innovation in the data center space."
+      },
+      {
+        "tag": "p",
+        "text": ""
+      },
+      {
+        "tag": "p",
+        "text": "With a career marked by cross-functional expertise and a passion for technology, Amod has been at the forefront of introducing transformative infrastructure solutions to the industry. His work reflects a deep understanding of evolving customer needs and the strategic foresight to adapt in a fast-changing technological landscape."
+      },
+      {
+        "tag": "p",
+        "text": ""
+      },
+      {
+        "tag": "p",
+        "text": "Outside of his professional responsibilities, Amod is an avid reader of Archaeology, Vedic scriptures, the Upanishads, and ancient Indian history. He is particularly fond of the Bhagavad Gita and has also conducted lecture series to help people understand its philosophical insights and draw connections between ancient wisdom and modern life. He is supported in his journey by his wife Geetanjali, an International Baccalaureate (IB) school teacher, and their daughter Anushri, who is currently pursuing her studies in Artificial Intelligence."
+      },
+      {
+        "tag": "p",
+        "text": "Chief Human Resources Officer, Sterling and Wilson Data Center Pvt. Ltd."
+      },
+      {
+        "tag": "p",
+        "text": "Avijit Kar serves as the Chief Human Resources Officer at Sterling and Wilson Data Center Pvt. Ltd. (SWDC), bringing over twenty years of versatile expertise across financial services, manufacturing, IT, and ed-tech sectors. Since June 2024, Avijit has been instrumental in defining and executing HR strategies that align with SWDC’s Vision and business goals."
+      },
+      {
+        "tag": "p",
+        "text": "A forward-thinking HR leader, Avijit is recognized for his ability to drive business transformation, inspire high-performing teams, and foster cultures of innovation and engagement. Throughout his career, he has excelled in the sphere of creating progressive organization structures, strategic talent acquisition, change management, optimizing workforce productivity and Talent Management."
+      },
+      {
+        "tag": "p",
+        "text": "Prior to joining SWDC, he held senior HR leadership roles at several prominent organizations, including a pivotal stint as Vice President Human Resources at BYJU’S, where he guided people strategies and drove significant organizational transformation. Earlier, as Vice President at Reliance Jio, Avijit led Talent Acquisition and transformation, helping scale the organization through people-centric programs. His leadership at L&T Financial Services was marked by innovative HR strategies and a sharp focus on aligning talent strategy with business growth."
+      },
+      {
+        "tag": "p",
+        "text": ""
+      },
+      {
+        "tag": "p",
+        "text": "Avijit’s foundational years at companies such as Aditya Birla Capital, Reliance Nippon Life Insurance, Tata Consultancy Services, and ACC Limited further strengthened his expertise in talent management, performance systems, and compensation strategy."
+      },
+      {
+        "tag": "p",
+        "text": ""
+      },
+      {
+        "tag": "p",
+        "text": "Known for his strategic mindset and commitment to continuous learning, Avijit holds an MBA in Human Resources from XISS and is an ICF-certified coach. Through a visionary and people-first approach, Avijit continues to enhance SWDC’s organizational capabilities, shaping a dynamic and future-ready HR function that supports the company’s ambitions in the fast-evolving data center industry."
+      },
+      {
+        "tag": "p",
+        "text": "Vice President – Finance, Accounts & Treasury, Sterling and Wilson Data Center Pvt. Ltd."
+      },
+      {
+        "tag": "p",
+        "text": "Rajeev Roy is the Vice President – Finance, Accounts & Treasury at Sterling and Wilson Data Center Pvt. Ltd., where he leads strategic financial planning, fund management, and global treasury operations. With over two decades of diverse international experience across India, Italy, Middle east, UK and Africa, Rajeev brings a deep understanding of financial governance, M&A strategy, and risk mitigation."
+      },
+      {
+        "tag": "p",
+        "text": ""
+      },
+      {
+        "tag": "p",
+        "text": "Rajeev has been instrumental in driving critical business initiatives, including the successful execution of a $120 million data center demerger, where he managed investor engagement and led the integration strategy."
+      },
+      {
+        "tag": "p",
+        "text": ""
+      },
+      {
+        "tag": "p",
+        "text": "Prior to this, Rajeev served as Head – Finance & Accounts at Tata Africa Holdings in Kenya, where he led initiatives such as ERP implementation, FOREX risk management, digital payment integration, and funding optimization. His corporate journey began with Voltas Ltd., where he held several leadership roles across India, spearheading SAP implementation, statutory audit reforms, and large-scale commercial operations."
+      },
+      {
+        "tag": "p",
+        "text": ""
+      },
+      {
+        "tag": "p",
+        "text": "Rajeev’s technical expertise spans strategic planning, budgeting and controls, M&A, tax structuring, and SAP systems integration. He is an alumnus of the prestigious Indian Institute of Management Calcutta (IIMC), having completed the CFO Programme in Strategy, Governance, Valuation, and Finance, which has further enriched his leadership capabilities and strategic insight. He also holds several other leadership certifications, including the Certified Empowered Leadership Program, Duke CE’s High-Performing Leader recognition, and the GOLD Standard certification under the Tata Business Excellence Model. His ability to lead cross-functional teams, combined with his extensive international experience and deep financial expertise, enables him to deliver strategic value across all dimensions of the business. His leadership style seamlessly bridges functions such as operations, technology, legal, and compliance, fostering alignment between business objectives and financial outcomes."
+      },
+      {
+        "tag": "p",
+        "text": "Vice President – Contract, Sterling and Wilson Data Center Pvt. Ltd."
+      },
+      {
+        "tag": "p",
+        "text": "Alok Karmarkar heads the Contracts and Legal Department at Sterling and Wilson Data Center Pvt. Ltd. (SWDC), a role he has held since the company’s inception. As one of the foundational leaders of the business, Alok has played an important role in shaping the contracts function to support the organization’s strategic and operational objectives across diverse geographies. Based at the company’s Mumbai office, he oversees the entire contract lifecycle, from pre-bid evaluation and contract negotiations to administration, dispute resolution, and eventual project closure."
+      },
+      {
+        "tag": "p",
+        "text": ""
+      },
+      {
+        "tag": "p",
+        "text": "With over two decades of experience in contracts management, Alok brings with him a deep understanding of the legal intricacies involved in high-value engineering, procurement, and construction (EPC) contracts. Alok’s core expertise lies in contract negotiation, administration, and arbitration management which have been central to securing commercially favorable and strategically sound contracts ensuring that Sterling and Wilson Data Center remains agile and protected in a highly competitive industry."
+      },
+      {
+        "tag": "p",
+        "text": "One of his standout achievements has been the successful management of arbitration claims worth over INR 3,000 crores, the majority of which have resulted in favorable outcomes for the organizations he has represented. His structured approach, thorough preparation, and clarity in contractual interpretation have consistently led to positive awards, strengthening the financial and legal positioning of the business."
+      },
+      {
+        "tag": "p",
+        "text": ""
+      },
+      {
+        "tag": "p",
+        "text": "Beyond the technical and legal aspects of his role, Alok is deeply committed to team development and capability building. His focus has been on nurturing a high-performing contracts team that is responsive, future-ready, and integrated with business needs. Through his leadership, the Contracts and Legal department of SWDC has grown into a trusted advisor for internal stakeholders contributing meaningfully to risk mitigation, project execution, and long-term value creation."
+      },
+      {
+        "tag": "p",
+        "text": "Vice President – Commercial, Sterling and Wilson Data Center Pvt. Ltd."
+      },
+      {
+        "tag": "p",
+        "text": "As Vice President – Commercial at Sterling and Wilson Data Center Pvt. Ltd. (SWDC), Ashish is responsible for overseeing the financial, contractual, and commercial aspects of projects across their lifecycle, from bidding and execution to closure. His role encompasses managing project budgets, tracking costs, identifying cost-saving opportunities, and ensuring compliance, all while optimising profitability. He also leads the identification and mitigation of commercial risks, including those arising from change orders and evolving regulatory requirements."
+      },
+      {
+        "tag": "p",
+        "text": ""
+      },
+      {
+        "tag": "p",
+        "text": "With over three decades of experience in Finance, Accounts, and MIS at L&T, Ashish has held senior leadership positions for more than a decade across India, the UAE, and Saudi Arabia. He has played a pivotal role in establishing and operationalising subsidiary company"
+      },
+      {
+        "tag": "p",
+        "text": "operations in the UAE and KSA and has managed multiple high-value, cross-border projects. Notably, Ashish led Project Accounts and MIS for a USD 3 billion project in Saudi Arabia."
+      },
+      {
+        "tag": "p",
+        "text": ""
+      },
+      {
+        "tag": "p",
+        "text": "Ashish’s core strengths include commercial risk management, cost control, cash flow planning, MIS reporting, and managing client claims. He also spearheaded the acquisition of a foreign partner’s share in a UAE-based entity, handling negotiations and legal procedures. Ashish also has led the digitalisation of accounting processes in his previous roles to enhance efficiency and reduce turnaround time"
+      },
+      {
+        "tag": "li",
+        "text": "Home",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-29409"
+      },
+      {
+        "tag": "li",
+        "text": "Overview",
+        "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-30614"
+      },
+      {
+        "tag": "li",
+        "text": "Awards & Recognitions",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-30613"
+      },
+      {
+        "tag": "li",
+        "text": "Leadership",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-30892 current_page_item menu-item-31687"
+      },
+      {
+        "tag": "li",
+        "text": "Industry Memberships and Recognitions",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-35666"
+      },
+      {
+        "tag": "li",
+        "text": "Corporate Governance",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-37674"
+      },
+      {
+        "tag": "li",
+        "text": "About Us Overview Awards & Recognitions Leadership Industry Memberships and Recognitions Corporate Governance",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-22651"
+      },
+      {
+        "tag": "li",
+        "text": "Projects",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-23966"
+      },
+      {
+        "tag": "li",
+        "text": "Design & Build",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-24252"
+      },
+      {
+        "tag": "li",
+        "text": "Modular Construction",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-24271"
+      },
+      {
+        "tag": "li",
+        "text": "Smart Operations",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-37564"
+      },
+      {
+        "tag": "li",
+        "text": "Sustainable Execution",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-36402"
+      },
+      {
+        "tag": "li",
+        "text": "O&M Services",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-30611"
+      },
+      {
+        "tag": "li",
+        "text": "Services Design & Build Modular Construction Smart Operations Sustainable Execution O&M Services",
+        "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-22933"
+      },
+      {
+        "tag": "li",
+        "text": "News & Press Release",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-32308"
+      },
+      {
+        "tag": "li",
+        "text": "Events",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-31871"
+      },
+      {
+        "tag": "li",
+        "text": "Blogs",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-37571"
+      },
+      {
+        "tag": "li",
+        "text": "Media News & Press Release Events Blogs",
+        "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-25253"
+      },
+      {
+        "tag": "li",
+        "text": "Careers",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-36312"
+      },
+      {
+        "tag": "li",
+        "text": "Contact",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-22656"
+      },
+      {
+        "tag": "li",
+        "text": "Defect Liability Period (DLP) [12 months] – bank guarantee, incident management, and transition to O&M."
+      },
+      {
+        "tag": "li",
+        "text": "Operations & Maintenance (O&M) [36-60 months] – Resource allocation, structured L1-L3 incident management, and long-term infrastructure optimization."
+      },
+      {
+        "tag": "li",
+        "text": "Contract Award – LoA issuance, detailed contract signing, branch/subsidiary formation, BG submission, and insurance processing."
+      },
+      {
+        "tag": "li",
+        "text": "Detailed Design & Engineering – Design validation, detailed engineering, software-based modeling, client approvals, regulatory compliance, value engineering & product optimization."
+      },
+      {
+        "tag": "li",
+        "text": "Procurement – Vendor evaluation, technical compliance checks, competitive global sourcing, vendor selection via reverse auction, and commercial negotiations."
+      },
+      {
+        "tag": "li",
+        "text": "Construction (Site Infra Build) – Civil work, substructure, superstructure, facades, fenestrations, and interiors."
+      },
+      {
+        "tag": "li",
+        "text": "MEP Implementation – Electrical, HVAC, ELV, fire fighting, plumbing, structured cabling."
+      },
+      {
+        "tag": "li",
+        "text": "Testing & Commissioning – Third-party agency appointment, script development, sequence of operation (SOO), L1-L5 testing, ISAT, and RFS (Ready for Service)."
+      },
+      {
+        "tag": "li",
+        "text": "Marketing Activities [3 months] – Market identification, customer segmentation, enquiry sourcing, networking & events, referrals, and media outreach."
+      },
+      {
+        "tag": "li",
+        "text": "Pre-Bidding [1 month] – Client due diligence, commercial & financial terms, technical scope identification, risk analysis, migration strategy, PQ activities (client registration), go/no-go decision."
+      },
+      {
+        "tag": "li",
+        "text": "Bidding [1-2 months] – Contract evaluation, technical & execution strategy, value engineering, sourcing plans, project planning, pricing & bid proposal preparation."
+      },
+      {
+        "tag": "li",
+        "text": "Contract Negotiation [2 months] – Finalizing technical, commercial, and execution terms, contract duration, and client expectations."
+      }
+    ],
+    "text_nodes": [
+      "Leadership – Sterling & Wilson Data Center",
+      "Skip to content",
+      "Home",
+      "About Us",
+      "Overview",
+      "Awards & Recognitions",
+      "Leadership",
+      "Industry Memberships and Recognitions",
+      "Corporate Governance",
+      "Projects",
+      "Services",
+      "Design & Build",
+      "Modular Construction",
+      "Smart Operations",
+      "Sustainable Execution",
+      "O&M Services",
+      "Media",
+      "News & Press Release",
+      "Events",
+      "Blogs",
+      "Careers",
+      "Contact",
+      "Home",
+      "About Us",
+      "Overview",
+      "Awards & Recognitions",
+      "Leadership",
+      "Industry Memberships and Recognitions",
+      "Corporate Governance",
+      "Projects",
+      "Services",
+      "Design & Build",
+      "Modular Construction",
+      "Smart Operations",
+      "Sustainable Execution",
+      "O&M Services",
+      "Media",
+      "News & Press Release",
+      "Events",
+      "Blogs",
+      "Careers",
+      "Contact",
+      "Leadership",
+      "Prasanna Sarambale",
+      "Chief Executive Officer",
+      "View profile",
+      "PV Prasanth​",
+      "Chief Operating Officer",
+      "View profile",
+      "Prasad Patwardhan",
+      "Chief Financial Officer",
+      "View profile",
+      "Ranjit Gajare​",
+      "Chief Growth Officer",
+      "View profile",
+      "Awadhesh Sharma​",
+      "Vice President - Business",
+      "Development & Sales",
+      "View profile",
+      "Ravindra Bapat​",
+      "Chief Technology Officer​",
+      "View profile",
+      "Vishal Jain",
+      "Chief Strategy and M&A Officer",
+      "View profile",
+      "Amod Ranade",
+      "Chief Product Officer",
+      "View profile",
+      "Avijit Kar​",
+      "Chief Human Resources Officer​",
+      "View profile",
+      "Rajeev Roy",
+      "Vice President - Finance",
+      "View profile",
+      "Alok Karmarkar​",
+      "Vice President - Contract",
+      "View profile",
+      "Ashish Nair",
+      "Vice President - Commercial",
+      "View profile",
+      "Your trusted partner in designing, building",
+      "and managing world-class data centers",
+      "Your trusted partner in designing, building and managing world-class data centers",
+      "About Us",
+      "Overview",
+      "Awards & Recognitions",
+      "Leadership",
+      "Industry Memberships and Recognitions",
+      "Projects",
+      "Services",
+      "Design & Build",
+      "Modular Construction",
+      "Smart Operations",
+      "Sustainable Execution",
+      "O&M Services",
+      "Media",
+      "News & Press Release",
+      "Events",
+      "Careers",
+      "Contact",
+      "Let’s Connect",
+      "Linkedin-in",
+      "Privacy Policy",
+      "HSE Policy",
+      "Prasanna Sarambale​",
+      "Chief Executive Officer – Sterling and Wilson Data Center Pvt. Ltd. | Strategic Leader in Data Center Infrastructure and Long-Term Growth",
+      "Prasanna Sarambale, CEO of Sterling and Wilson Data Center Pvt. Ltd. (SWDC), is a seasoned leader in the international data center industry. With over 28 years of experience, Prasanna has played a key role in shaping SWDC into a trusted provider of end-to-end data center EPC solutions. His strategic leadership has enabled the company to deliver value to hyperscalers, colocation providers, BFSI institutions, and government organizations.",
+      "Prasanna’s career includes leadership roles at globally recognized organizations such as Tata Liebert, IBM, Emerson Network Power and Schnieder Electric. Since joining the Sterling and Wilson Group in 2008, he has been instrumental in establishing and scaling the Data Center division. Over time, he guided its transition into an independent and globally respected entity, supported by strategic investments and robust partnerships.",
+      "As the former Chairman of the Confederation of Indian Industry (CII) Western Region Data Center Forum, Prasanna championed initiatives to elevate industry standards for infrastructure, energy efficiency, and digital transformation. He actively engaged with policymakers and industry stakeholders to foster collaboration and create a sustainable and innovative ecosystem for data centers in India.",
+      "Prasanna’s leadership style is grounded in collaboration and mentorship. He has cultivated a culture of accountability and ownership within his teams, empowering them to deliver high-performing results. His ability to anticipate market trends and align strategies with client needs has driven operational excellence and sustainable growth for SWDC, ensuring its continued relevance in a dynamic industry.",
+      "Under Prasanna’s guidance, SWDC has expanded its global footprint as one of the few data center EPC companies with operations across multiple geographies. His focus on operational efficiency, client satisfaction, and long-term market planning has been central to the company’s evolution into a well-regarded global player in the data center sector.",
+      "Prasanna is also an advocate for sustainable and energy-efficient practices in data center infrastructure. He has led discussions on policy frameworks, technology innovation, and collaboration between the industry and government to shape the future of digital infrastructure. His commitment to addressing critical challenges such as scalability and energy efficiency has reinforced his reputation as a transformative leader in the sector.",
+      "Through his expertise in business development, stakeholder engagement, and strategic planning, Prasanna continues to guide SWDC towards delivering scalable, efficient, and client-focused solutions. His contributions have positioned the company as a reliable partner in the rapidly growing global data center market.",
+      "P. V. Prasanth",
+      "COO, Sterling and Wilson Data Center Private Limited",
+      "P. V. Prasanth is COO, Sterling & Wilson Data Center Pvt. Ltd. (SWDC). He has been responsible for the global operations of the company. His experience and leadership have been focused on developing and delivering technology-driven business services and solutions, providing outstanding client service, and driving profitable revenue growth.",
+      "Prior to joining Sterling & Wilson in 2021, Prasanth was Director – Operations & Technology in the Engineering & Construction Division of Shapoorji Pallonji and Company Pvt. Ltd. In his previous roles with Gammon India, DLF Laing O’Rourke and Larsen & Toubro, he acquired an expertise in the field of construction methods, planning and framework.",
+      "In his career, Prasanth has played a critical role in marquee projects such as the Intel Technology SRR set of buildings in Bengaluru built using the top-down construction technology; The Imperial, one of the tallest residential towers in India; ISKCON’s stainless steel dome at Mayapur in West Bengal which is the largest in India and the first cable stayed building in India for I-flex solutions in Bengaluru among others.",
+      "Prasanth is a civil engineer from the BMS College of Engineering, Bengaluru. He is passionate about travelling and driving.",
+      "Prasad Patwardhan",
+      "Chief Financial Officer, Sterling and Wilson Data Center Pvt. Ltd.",
+      "Prasad Patwardhan is the Chief Financial Officer of Sterling and Wilson Data Center Pvt. Ltd., leading the company’s financial strategy, risk management, capital planning, and business performance. With over three decades of experience in corporate finance, Prasad has a comprehensive understanding of financial planning, statutory and management reporting, taxation, investor relations, and resource mobilization.",
+      "Prior to joining Sterling and Wilson Data Center, Prasad held leadership roles across several prominent organizations, notably as CFO in ITD Cementation India Limited and Mercator Limited. He also has been associated with companies like Gammon India, Crompton Greaves, Tata International, and Reliance Communications where he has consistently demonstrated an",
+      "ability to build robust financial frameworks, drive operational efficiency, and align financial objectives with business strategy.",
+      "A Chartered Accountant by qualification, Prasad has been a member of The Institute of Chartered Accountants of India since 1990. Known for his sharp financial acumen and pragmatic leadership style, Prasad has played a pivotal role in supporting business transformation initiatives and ensuring financial resilience across organizations operating in capital-intensive and complex sectors.",
+      "In recognition of his contribution to the field of finance, Prasad was honoured as a Financial Star by the Financial Express Group in 2022 for his exemplary work at ITD Cementation India Limited. His commitment to transparency, accountability, and value creation continues to guide his approach at Sterling and Wilson Data Center, as the company scales its presence across global markets.",
+      "Ranjit Gajare",
+      "Chief Growth Officer, Sterling and Wilson Data Center Pvt. Ltd.",
+      "Ranjit Gajare is the Chief Growth Officer at Sterling and Wilson Data Center Pvt. Ltd., where he leads high-impact commercial and business development strategies across India, the Middle East, and Africa. With over 22 years of versatile experience spanning technology, infrastructure, and business development, Ranjit plays a pivotal role in advancing Sterling and Wilson’s global data center footprint, driving growth through comprehensive sales solutions, strategic partnerships, and innovative bid management.",
+      "Throughout his career, Ranjit has built a reputation for excellence in managing request for proposal (RFP) processes, executing complex contract negotiations, and orchestrating cross-functional teams to deliver high-value data center projects. His consultative approach emphasizes understanding client needs, offering tailored solutions, and ensuring the timely delivery of large-scale infrastructure undertakings. Ranjit’s mission centers on strengthening client relationships and steering Sterling and Wilson’s international data center business toward sustained profitability and expansion.",
+      "Before taking charge at Sterling and Wilson, Ranjit held a series of progressive leadership positions at Shapoorji Pallonji Group, where he drove Africa-centric business expansion and managed project financing and contract operations for high value deals. He began his professional career in the technology sector as a Software Engineer and Analyst at Infosys and Epicor. This equipped him with a strong technical foundation that complements his commercial acumen.",
+      "Ranjit holds an MBA from the Indian Institute of Management, Indore, and a Bachelor of Engineering degree from Mumbai University. His career reflects a synergy of strategic vision, operational leadership, and unwavering commitment to delivering excellence in the fast-evolving data center sector.",
+      "A true champion of industry innovation and collaboration, Ranjit consistently represents Sterling and Wilson at marquee industry forums and international events, shaping the conversation on sustainable data center development and pushing the boundaries of efficiency, reliability, and customer-centricity in the digital infrastructure landscape.",
+      "Awadhesh Sharma",
+      "Vice President – Business Development & Sales, Sterling and Wilson Data Center Pvt. Ltd.",
+      "Awadhesh Kumar Sharma is the Vice President – Business Development & Sales at Sterling and Wilson Data Center Pvt. Ltd. (SWDC). With over 32 years of experience in business development, sales, key account management, and channel management, Awadhesh plays a vital role in expanding SWDC’s domestic market presence and driving revenue growth in India. Based in the Mumbai region, he manages a strategic sales team focused on delivering customized client solutions across diverse sectors.",
+      "Awadhesh’s expertise lies in commercial negotiation, market analytics, and solution-based sales approaches. Before SWDC, he served as Head – Group Business Development (West & North) at Sterling and Wilson Pvt. Ltd. and as National Sales Manager at Schneider Electric India, specializing in critical power and cooling solutions. His extensive experience encompasses technical sales guidance, customer engagement, and closing high-value strategic deals aligned with business goals.",
+      "Notably, Awadhesh successfully executed major projects such as the “Upgradation of CCP to DCS” at the Mumbai High ONGC platform, achieving targeted gross margins and significantly improving Days Sales Outstanding (DSO) to below 40 days. His strategic insight enables him to anticipate market trends and tailor offerings to meet evolving client needs.",
+      "Known for his strong communication and influencing skills, Awadhesh fosters high impact, agile teams capable of delivering complex sales solutions. Under his leadership, the sales department has become a trusted partner in identifying growth opportunities and ensuring smooth sales execution.",
+      "Through his visionary approach and deep market understanding, Awadhesh Sharma continues to drive sustainable business expansion and strengthen Sterling and Wilson’s competitive position in the data center sector.",
+      "Ravindra Bapat",
+      "Chief Technology Officer, Sterling and Wilson Data Center Pvt. Ltd.",
+      "Ravindra Bapat serves as the Chief Technology Officer at Sterling and Wilson Data Center Pvt. Ltd. (SWDC), headquartered in Mumbai. Ravindra brings a sharp strategic lens to the company’s data center growth having a rich experience of over three decades. He defines and implements technology roadmaps, driving innovation for entire DC envelope.",
+      "With more than 32 years of expertise in Business Development and Strategic Account Management, Ravindra has built a career rooted in a deep understanding of infrastructure, energy systems, and mission-critical operations. Prior to joining SWDC, he held leadership positions at renowned organizations including Aggreko Singapore, Emerson Network Power . His approach in bridging technical depth with business acumen makes him a trusted voice both within the organization and in the broader data center ecosystem. Ravindra’s commendable wealth of experience and future-facing mindset has been instrumental in positioning Sterling and Wilson Data Center Pvt. Ltd. as a global player in the high-growth data center EPC space.",
+      "Ravindra is an Electrical Engineering diploma holder from Mumbai University and has consistently invested in his professional growth through advanced programs. Notably, he completed the Tier-1 Management Development Program at the Indian Institute of Management, Ahmedabad and is equipped with a well-rounded approach to leadership and decision-making. Ravindra also bagged several other certifications like Certified Data Centre Environmental Sustainability Specialist (CDESS) and Accredited Tier Designer (ATD) from the Uptime Institute.",
+      "Vishal Jain",
+      "Chief Strategy and Mergers & Acquisitions Officer, Sterling and Wilson Data Center Pvt. Ltd.",
+      "Vishal Jain joined Sterling and Wilson Data Center as Chief Strategy and M&A Officer on April 1, 2025, to lead the company’s strategic direction. Since joining the Sterling and Wilson Group in 2018, he has played a pivotal role in driving Strategy and M&A initiatives, working closely with the Chairman to instill operational and financial discipline across the organization. Vishal has been instrumental in multiple fund-raising activities for Group entities and made a significant contribution to the IPO of Sterling and Wilson Renewables.",
+      "Prior to joining Sterling and Wilson Group, Vishal held strategic roles at the National Stock Exchange of India, Raymond Ltd, Ernst & Young, and Price Waterhouse, where he led strategic planning, business transformation, deal structuring, and enterprise growth initiatives.",
+      "By qualification, Vishal is a Chartered Accountant (India) and has successfully passed Level III of the CFA Program, CFA Institute (USA). Beyond work, he is passionate about reading on self-development and human psychology—pursuits that continue to shape his leadership style and personal growth journey.",
+      "Amod Ranade",
+      "Chief Product Officer, Sterling and Wilson Data Center Pvt. Ltd.",
+      "Amod Ranade will steer new Offers & Initiatives at Sterling and Wilson Data Center Pvt. Ltd., strengthening the company’s technical strategy and expanding its presence in next-generation data center technologies. Amod’s extensive experience in data center and critical infrastructure has helped him drive innovation and operational excellence in mission-critical environments.",
+      "Amod is a Civil Engineer and MBA and has held leadership positions across globally recognized organizations such as Schneider Electric, Honeywell, IBM, and APC. Most recently, he served as Vice President and General Manager for operations in Asia Pacific at Green Revolution Cooling, a pioneer in liquid immersion cooling technologies. In this role, he was instrumental in advancing energy-efficient cooling solutions across the region, reflecting his deep commitment to sustainable innovation in the data center space.",
+      "With a career marked by cross-functional expertise and a passion for technology, Amod has been at the forefront of introducing transformative infrastructure solutions to the industry. His work reflects a deep understanding of evolving customer needs and the strategic foresight to adapt in a fast-changing technological landscape.",
+      "Outside of his professional responsibilities, Amod is an avid reader of Archaeology, Vedic scriptures, the Upanishads, and ancient Indian history. He is particularly fond of the Bhagavad Gita and has also conducted lecture series to help people understand its philosophical insights and draw connections between ancient wisdom and modern life. He is supported in his journey by his wife Geetanjali, an International Baccalaureate (IB) school teacher, and their daughter Anushri, who is currently pursuing her studies in Artificial Intelligence.",
+      "Avijit Kar",
+      "Chief Human Resources Officer, Sterling and Wilson Data Center Pvt. Ltd.",
+      "Avijit Kar serves as the Chief Human Resources Officer at Sterling and Wilson Data Center Pvt. Ltd. (SWDC), bringing over twenty years of versatile expertise across financial services, manufacturing, IT, and ed-tech sectors. Since June 2024, Avijit has been instrumental in defining and executing HR strategies that align with SWDC’s Vision and business goals.",
+      "A forward-thinking HR leader, Avijit is recognized for his ability to drive business transformation, inspire high-performing teams, and foster cultures of innovation and engagement. Throughout his career, he has excelled in the sphere of creating progressive organization structures, strategic talent acquisition, change management, optimizing workforce productivity and Talent Management.",
+      "Prior to joining SWDC, he held senior HR leadership roles at several prominent organizations, including a pivotal stint as Vice President Human Resources at BYJU’S, where he guided people strategies and drove significant organizational transformation. Earlier, as Vice President at Reliance Jio, Avijit led Talent Acquisition and transformation, helping scale the organization through people-centric programs. His leadership at L&T Financial Services was marked by innovative HR strategies and a sharp focus on aligning talent strategy with business growth.",
+      "Avijit’s foundational years at companies such as Aditya Birla Capital, Reliance Nippon Life Insurance, Tata Consultancy Services, and ACC Limited further strengthened his expertise in talent management, performance systems, and compensation strategy.",
+      "Known for his strategic mindset and commitment to continuous learning, Avijit holds an MBA in Human Resources from XISS and is an ICF-certified coach. Through a visionary and people-first approach, Avijit continues to enhance SWDC’s organizational capabilities, shaping a dynamic and future-ready HR function that supports the company’s ambitions in the fast-evolving data center industry.",
+      "Rajeev Roy",
+      "Vice President – Finance, Accounts & Treasury, Sterling and Wilson Data Center Pvt. Ltd.",
+      "Rajeev Roy is the Vice President – Finance, Accounts & Treasury at Sterling and Wilson Data Center Pvt. Ltd., where he leads strategic financial planning, fund management, and global treasury operations. With over two decades of diverse international experience across India, Italy, Middle east, UK and Africa, Rajeev brings a deep understanding of financial governance, M&A strategy, and risk mitigation.",
+      "Rajeev has been instrumental in driving critical business initiatives, including the successful execution of a $120 million data center demerger, where he managed investor engagement and led the integration strategy.",
+      "Prior to this, Rajeev served as Head – Finance & Accounts at Tata Africa Holdings in Kenya, where he led initiatives such as ERP implementation, FOREX risk management, digital payment integration, and funding optimization. His corporate journey began with Voltas Ltd., where he held several leadership roles across India, spearheading SAP implementation, statutory audit reforms, and large-scale commercial operations.",
+      "Rajeev’s technical expertise spans strategic planning, budgeting and controls, M&A, tax structuring, and SAP systems integration. He is an alumnus of the prestigious Indian Institute of Management Calcutta (IIMC), having completed the CFO Programme in Strategy, Governance, Valuation, and Finance, which has further enriched his leadership capabilities and strategic insight. He also holds several other leadership certifications, including the Certified Empowered Leadership Program, Duke CE’s High-Performing Leader recognition, and the GOLD Standard certification under the Tata Business Excellence Model. His ability to lead cross-functional teams, combined with his extensive international experience and deep financial expertise, enables him to deliver strategic value across all dimensions of the business. His leadership style seamlessly bridges functions such as operations, technology, legal, and compliance, fostering alignment between business objectives and financial outcomes.",
+      "Alok Karmarkar",
+      "Vice President – Contract, Sterling and Wilson Data Center Pvt. Ltd.",
+      "Alok Karmarkar heads the Contracts and Legal Department at Sterling and Wilson Data Center Pvt. Ltd. (SWDC), a role he has held since the company’s inception. As one of the foundational leaders of the business, Alok has played an important role in shaping the contracts function to support the organization’s strategic and operational objectives across diverse geographies. Based at the company’s Mumbai office, he oversees the entire contract lifecycle, from pre-bid evaluation and contract negotiations to administration, dispute resolution, and eventual project closure.",
+      "With over two decades of experience in contracts management, Alok brings with him a deep understanding of the legal intricacies involved in high-value engineering, procurement, and construction (EPC) contracts. Alok’s core expertise lies in contract negotiation, administration, and arbitration management which have been central to securing commercially favorable and strategically sound contracts ensuring that Sterling and Wilson Data Center remains agile and protected in a highly competitive industry.",
+      "One of his standout achievements has been the successful management of arbitration claims worth over INR 3,000 crores, the majority of which have resulted in favorable outcomes for the organizations he has represented. His structured approach, thorough preparation, and clarity in contractual interpretation have consistently led to positive awards, strengthening the financial and legal positioning of the business.",
+      "Beyond the technical and legal aspects of his role, Alok is deeply committed to team development and capability building. His focus has been on nurturing a high-performing contracts team that is responsive, future-ready, and integrated with business needs. Through his leadership, the Contracts and Legal department of SWDC has grown into a trusted advisor for internal stakeholders contributing meaningfully to risk mitigation, project execution, and long-term value creation.",
+      "Ashish Nair",
+      "Vice President – Commercial, Sterling and Wilson Data Center Pvt. Ltd.",
+      "As Vice President – Commercial at Sterling and Wilson Data Center Pvt. Ltd. (SWDC), Ashish is responsible for overseeing the financial, contractual, and commercial aspects of projects across their lifecycle, from bidding and execution to closure. His role encompasses managing project budgets, tracking costs, identifying cost-saving opportunities, and ensuring compliance, all while optimising profitability. He also leads the identification and mitigation of commercial risks, including those arising from change orders and evolving regulatory requirements.",
+      "With over three decades of experience in Finance, Accounts, and MIS at L&T, Ashish has held senior leadership positions for more than a decade across India, the UAE, and Saudi Arabia. He has played a pivotal role in establishing and operationalising subsidiary company",
+      "operations in the UAE and KSA and has managed multiple high-value, cross-border projects. Notably, Ashish led Project Accounts and MIS for a USD 3 billion project in Saudi Arabia.",
+      "Ashish’s core strengths include commercial risk management, cost control, cash flow planning, MIS reporting, and managing client claims. He also spearheaded the acquisition of a foreign partner’s share in a UAE-based entity, handling negotiations and legal procedures. Ashish also has led the digitalisation of accounting processes in his previous roles to enhance efficiency and reduce turnaround time",
+      "Home",
+      "About Us",
+      "Overview",
+      "Awards & Recognitions",
+      "Leadership",
+      "Industry Memberships and Recognitions",
+      "Corporate Governance",
+      "Projects",
+      "Services",
+      "Design & Build",
+      "Modular Construction",
+      "Smart Operations",
+      "Sustainable Execution",
+      "O&M Services",
+      "Media",
+      "News & Press Release",
+      "Events",
+      "Blogs",
+      "Careers",
+      "Contact",
+      "Hamburger Toggle Menu",
+      "Defect Liability Period (DLP) [12 months]",
+      "– bank guarantee, incident management, and transition to O&M.",
+      "Operations & Maintenance (O&M) [36-60 months]",
+      "– Resource allocation, structured L1-L3 incident management, and long-term infrastructure optimization.",
+      "Contract Award",
+      "– LoA issuance, detailed contract signing, branch/subsidiary formation, BG submission, and insurance processing.",
+      "Detailed Design & Engineering",
+      "– Design validation, detailed engineering, software-based modeling, client approvals, regulatory compliance, value engineering & product optimization.",
+      "Procurement",
+      "– Vendor evaluation, technical compliance checks, competitive global sourcing, vendor selection via reverse auction, and commercial negotiations.",
+      "Construction (Site Infra Build)",
+      "– Civil work, substructure, superstructure, facades, fenestrations, and interiors.",
+      "MEP Implementation",
+      "– Electrical, HVAC, ELV, fire fighting, plumbing, structured cabling.",
+      "Testing & Commissioning",
+      "– Third-party agency appointment, script development, sequence of operation (SOO), L1-L5 testing, ISAT, and RFS (Ready for Service).",
+      "Marketing Activities [3 months]",
+      "– Market identification, customer segmentation, enquiry sourcing, networking & events, referrals, and media outreach.",
+      "Pre-Bidding [1 month]",
+      "– Client due diligence, commercial & financial terms, technical scope identification, risk analysis, migration strategy, PQ activities (client registration), go/no-go decision.",
+      "Bidding [1-2 months]",
+      "– Contract evaluation, technical & execution strategy, value engineering, sourcing plans, project planning, pricing & bid proposal preparation.",
+      "Contract Negotiation [2 months]",
+      "– Finalizing technical, commercial, and execution terms, contract duration, and client expectations."
+    ],
+    "controls": [
+      {
+        "tag": "button",
+        "text": "Hamburger Toggle Menu",
+        "class": "eael-simple-menu-toggle"
+      }
+    ],
+    "forms": [],
+    "fields": [],
+    "widgets": [
+      {
+        "type": "theme-site-logo.default",
+        "id": "c2bc041"
+      },
+      {
+        "type": "nav-menu.default",
+        "id": "7cec98b"
+      },
+      {
+        "type": "image.default",
+        "id": "cac1418"
+      },
+      {
+        "type": "heading.default",
+        "id": "6f745e4"
+      },
+      {
+        "type": "image.default",
+        "id": "3db62b2"
+      },
+      {
+        "type": "icon.default",
+        "id": "ca2f9a7"
+      },
+      {
+        "type": "heading.default",
+        "id": "edc6a83"
+      },
+      {
+        "type": "heading.default",
+        "id": "ab3bf51"
+      },
+      {
+        "type": "heading.default",
+        "id": "004f288"
+      },
+      {
+        "type": "image.default",
+        "id": "e5877c6"
+      },
+      {
+        "type": "icon.default",
+        "id": "22198c2"
+      },
+      {
+        "type": "heading.default",
+        "id": "896fd49"
+      },
+      {
+        "type": "heading.default",
+        "id": "ac25b40"
+      },
+      {
+        "type": "heading.default",
+        "id": "dc1c7df"
+      },
+      {
+        "type": "image.default",
+        "id": "57f77ca"
+      },
+      {
+        "type": "icon.default",
+        "id": "174db13"
+      },
+      {
+        "type": "heading.default",
+        "id": "fddd217"
+      },
+      {
+        "type": "heading.default",
+        "id": "3ab475a"
+      },
+      {
+        "type": "heading.default",
+        "id": "2c4b3dd"
+      },
+      {
+        "type": "image.default",
+        "id": "8d19e1e"
+      },
+      {
+        "type": "icon.default",
+        "id": "a43d5d5"
+      },
+      {
+        "type": "heading.default",
+        "id": "6a99868"
+      },
+      {
+        "type": "heading.default",
+        "id": "fe6a626"
+      },
+      {
+        "type": "heading.default",
+        "id": "ce21fab"
+      },
+      {
+        "type": "image.default",
+        "id": "85c9acd"
+      },
+      {
+        "type": "icon.default",
+        "id": "127cfd7"
+      },
+      {
+        "type": "heading.default",
+        "id": "dfd6a09"
+      },
+      {
+        "type": "heading.default",
+        "id": "6d01bb4"
+      },
+      {
+        "type": "heading.default",
+        "id": "2d4ca73"
+      },
+      {
+        "type": "image.default",
+        "id": "9cf8fe9"
+      },
+      {
+        "type": "icon.default",
+        "id": "83e1eed"
+      },
+      {
+        "type": "heading.default",
+        "id": "1ca1e2b"
+      },
+      {
+        "type": "heading.default",
+        "id": "050bf53"
+      },
+      {
+        "type": "heading.default",
+        "id": "ed16e1e"
+      },
+      {
+        "type": "image.default",
+        "id": "e64ac89"
+      },
+      {
+        "type": "icon.default",
+        "id": "cfc49ef"
+      },
+      {
+        "type": "heading.default",
+        "id": "6c82708"
+      },
+      {
+        "type": "heading.default",
+        "id": "5598abe"
+      },
+      {
+        "type": "heading.default",
+        "id": "96394b5"
+      },
+      {
+        "type": "image.default",
+        "id": "6d0bf04"
+      },
+      {
+        "type": "icon.default",
+        "id": "b6e5ccf"
+      },
+      {
+        "type": "heading.default",
+        "id": "9a3bde8"
+      },
+      {
+        "type": "heading.default",
+        "id": "ceb56fc"
+      },
+      {
+        "type": "heading.default",
+        "id": "4e035e3"
+      },
+      {
+        "type": "image.default",
+        "id": "ff15b5f"
+      },
+      {
+        "type": "icon.default",
+        "id": "fa803a7"
+      },
+      {
+        "type": "heading.default",
+        "id": "9147ff2"
+      },
+      {
+        "type": "heading.default",
+        "id": "7d0ff22"
+      },
+      {
+        "type": "heading.default",
+        "id": "cb637a4"
+      },
+      {
+        "type": "image.default",
+        "id": "f12cf5e"
+      },
+      {
+        "type": "icon.default",
+        "id": "67a0ae8"
+      },
+      {
+        "type": "heading.default",
+        "id": "0cf6853"
+      },
+      {
+        "type": "heading.default",
+        "id": "78f5002"
+      },
+      {
+        "type": "heading.default",
+        "id": "e2b0972"
+      },
+      {
+        "type": "image.default",
+        "id": "4cbdd89"
+      },
+      {
+        "type": "icon.default",
+        "id": "f3e58b2"
+      },
+      {
+        "type": "heading.default",
+        "id": "67e47db"
+      },
+      {
+        "type": "heading.default",
+        "id": "007c3f2"
+      },
+      {
+        "type": "heading.default",
+        "id": "91f511e"
+      },
+      {
+        "type": "image.default",
+        "id": "482c052"
+      },
+      {
+        "type": "icon.default",
+        "id": "39acb6d"
+      },
+      {
+        "type": "heading.default",
+        "id": "29af40b"
+      },
+      {
+        "type": "heading.default",
+        "id": "50c7648"
+      },
+      {
+        "type": "heading.default",
+        "id": "f10ac11"
+      },
+      {
+        "type": "image.default",
+        "id": "de7f44b"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "183b92e"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "be497af"
+      },
+      {
+        "type": "heading.default",
+        "id": "7bddb17"
+      },
+      {
+        "type": "icon-list.default",
+        "id": "9913753"
+      },
+      {
+        "type": "heading.default",
+        "id": "4383f54"
+      },
+      {
+        "type": "heading.default",
+        "id": "6d4e6dc"
+      },
+      {
+        "type": "icon-list.default",
+        "id": "c6a6d8c"
+      },
+      {
+        "type": "heading.default",
+        "id": "6382c8e"
+      },
+      {
+        "type": "icon-list.default",
+        "id": "487c07f"
+      },
+      {
+        "type": "heading.default",
+        "id": "f43f6bb"
+      },
+      {
+        "type": "heading.default",
+        "id": "0e9c9f6"
+      },
+      {
+        "type": "heading.default",
+        "id": "4f78fb7"
+      },
+      {
+        "type": "social-icons.default",
+        "id": "bdba081"
+      },
+      {
+        "type": "icon-list.default",
+        "id": "ed6d4e7"
+      },
+      {
+        "type": "rs-heading.default",
+        "id": "2e918aa"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "a3b4c45"
+      },
+      {
+        "type": "icon.default",
+        "id": "941bb5d"
+      },
+      {
+        "type": "image.default",
+        "id": "ba58223"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "8d03394"
+      },
+      {
+        "type": "rs-heading.default",
+        "id": "2e918aa"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "a3b4c45"
+      },
+      {
+        "type": "icon.default",
+        "id": "941bb5d"
+      },
+      {
+        "type": "image.default",
+        "id": "ba58223"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "8d03394"
+      },
+      {
+        "type": "rs-heading.default",
+        "id": "2e918aa"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "a3b4c45"
+      },
+      {
+        "type": "icon.default",
+        "id": "941bb5d"
+      },
+      {
+        "type": "image.default",
+        "id": "ba58223"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "8d03394"
+      },
+      {
+        "type": "rs-heading.default",
+        "id": "2e918aa"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "a3b4c45"
+      },
+      {
+        "type": "icon.default",
+        "id": "941bb5d"
+      },
+      {
+        "type": "image.default",
+        "id": "ba58223"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "8d03394"
+      },
+      {
+        "type": "rs-heading.default",
+        "id": "2e918aa"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "a3b4c45"
+      },
+      {
+        "type": "icon.default",
+        "id": "941bb5d"
+      },
+      {
+        "type": "image.default",
+        "id": "ba58223"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "8d03394"
+      },
+      {
+        "type": "rs-heading.default",
+        "id": "2e918aa"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "a3b4c45"
+      },
+      {
+        "type": "icon.default",
+        "id": "941bb5d"
+      },
+      {
+        "type": "image.default",
+        "id": "ba58223"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "8d03394"
+      },
+      {
+        "type": "rs-heading.default",
+        "id": "2e918aa"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "a3b4c45"
+      },
+      {
+        "type": "icon.default",
+        "id": "941bb5d"
+      },
+      {
+        "type": "image.default",
+        "id": "ba58223"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "8d03394"
+      },
+      {
+        "type": "rs-heading.default",
+        "id": "2e918aa"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "a3b4c45"
+      },
+      {
+        "type": "icon.default",
+        "id": "941bb5d"
+      },
+      {
+        "type": "image.default",
+        "id": "ba58223"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "8d03394"
+      },
+      {
+        "type": "rs-heading.default",
+        "id": "2e918aa"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "a3b4c45"
+      },
+      {
+        "type": "icon.default",
+        "id": "941bb5d"
+      },
+      {
+        "type": "image.default",
+        "id": "ba58223"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "8d03394"
+      },
+      {
+        "type": "rs-heading.default",
+        "id": "2e918aa"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "a3b4c45"
+      },
+      {
+        "type": "icon.default",
+        "id": "941bb5d"
+      },
+      {
+        "type": "image.default",
+        "id": "ba58223"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "8d03394"
+      },
+      {
+        "type": "rs-heading.default",
+        "id": "2e918aa"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "a3b4c45"
+      },
+      {
+        "type": "icon.default",
+        "id": "941bb5d"
+      },
+      {
+        "type": "image.default",
+        "id": "ba58223"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "8d03394"
+      },
+      {
+        "type": "rs-heading.default",
+        "id": "2e918aa"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "a3b4c45"
+      },
+      {
+        "type": "icon.default",
+        "id": "941bb5d"
+      },
+      {
+        "type": "image.default",
+        "id": "ba58223"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "8d03394"
+      },
+      {
+        "type": "eael-simple-menu.default",
+        "id": "066387d"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "2b1fc3b"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "2b1fc3b"
+      },
+      {
+        "type": "text-editor.default",
+        "id": "2b1fc3b"
+      }
+    ],
+    "resources": [
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=2.9.5",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=2.9.5",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.3.4",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/image-hover-effects-addon-for-elementor/assets/style.min.css?ver=1.4.5",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.11.110",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=4.3.4",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.3.4",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.3.4",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-float.min.css?ver=4.3.4",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/css/bootstrap.min.css?ver=6836e46c4957b48291e2a90030dab620",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/css/magnific-popup.css?ver=6836e46c4957b48291e2a90030dab620",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/css/fontawesome.css?ver=6836e46c4957b48291e2a90030dab620",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/css/slick.css?ver=6836e46c4957b48291e2a90030dab620",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/css/materialize.css?ver=6836e46c4957b48291e2a90030dab620",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/css/slick-theme.css?ver=6836e46c4957b48291e2a90030dab620",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/css/brands.css?ver=6836e46c4957b48291e2a90030dab620",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/css/solid.css?ver=6836e46c4957b48291e2a90030dab620",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/fonts/flaticon.css?ver=6836e46c4957b48291e2a90030dab620",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/css/headding-title.css?ver=6836e46c4957b48291e2a90030dab620",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css?ver=6836e46c4957b48291e2a90030dab620",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/css/rsaddons.css?ver=6836e46c4957b48291e2a90030dab620",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.5.1",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.5.1",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.5.1",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=4.3.1",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor-pro/assets/css/modules/sticky.min.css?ver=4.3.1",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor-pro/assets/css/conditionals/popup.min.css?ver=4.3.1",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.34.0",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.24.3",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.24.0",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.css?ver=5.15.3",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.css?ver=5.15.3",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.css?ver=5.15.3",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor-pro/assets/css/widget-blockquote.min.css?ver=3.25.0",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor-pro/assets/css/widget-mega-menu.min.css?ver=3.26.2",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=3.26.0",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=6.8.5",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1742373967",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1742373971",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/elementor/google-fonts/css/livvic.css?ver=1742385286",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/elementor/google-fonts/css/crimsontext.css?ver=1742373977",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=4.3.4",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://www.googletagmanager.com/gtag/js?id=GT-M6BRVDPK",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/cropped-logo-website-icon-32x32.jpg",
+        "kind": "icon"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/cropped-logo-website-icon-192x192.jpg",
+        "kind": "icon"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/cropped-logo-website-icon-180x180.jpg",
+        "kind": "apple-touch-icon"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/06/SWDC-1.jpg",
+        "kind": "img:src",
+        "alt": "",
+        "width": "450",
+        "height": "103"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/06/SWDC-1.jpg",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/06/SWDC-1-300x69.jpg",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/02/mobile-menu1.webp",
+        "kind": "img:src",
+        "alt": "",
+        "width": "33",
+        "height": "32"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/1-Prasanna-Sarambale​_1.png",
+        "kind": "img:src",
+        "alt": "",
+        "width": "1000",
+        "height": "1000"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/1-Prasanna-Sarambale​_1.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/1-Prasanna-Sarambale​_1-300x300.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/1-Prasanna-Sarambale​_1-150x150.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/1-Prasanna-Sarambale​_1-768x768.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/1-Prasanna-Sarambale​_1-500x500.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/2-PV-Prasanth​_1.png",
+        "kind": "img:src",
+        "alt": "",
+        "width": "1000",
+        "height": "1000"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/2-PV-Prasanth​_1.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/2-PV-Prasanth​_1-300x300.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/2-PV-Prasanth​_1-150x150.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/2-PV-Prasanth​_1-768x768.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/2-PV-Prasanth​_1-500x500.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/3-Prasad-Patwardhan-Final.png",
+        "kind": "img:src",
+        "alt": "",
+        "width": "1000",
+        "height": "1000"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/3-Prasad-Patwardhan-Final.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/3-Prasad-Patwardhan-Final-300x300.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/3-Prasad-Patwardhan-Final-150x150.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/3-Prasad-Patwardhan-Final-768x768.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/3-Prasad-Patwardhan-Final-500x500.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/4-Ranjit-Gajare​-Final.png",
+        "kind": "img:src",
+        "alt": "",
+        "width": "1000",
+        "height": "1000"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/4-Ranjit-Gajare​-Final.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/4-Ranjit-Gajare​-Final-300x300.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/4-Ranjit-Gajare​-Final-150x150.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/4-Ranjit-Gajare​-Final-768x768.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/4-Ranjit-Gajare​-Final-500x500.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/8-Awadhesh-Sharma​_1.png",
+        "kind": "img:src",
+        "alt": "",
+        "width": "1000",
+        "height": "1000"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/8-Awadhesh-Sharma​_1.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/8-Awadhesh-Sharma​_1-300x300.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/8-Awadhesh-Sharma​_1-150x150.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/8-Awadhesh-Sharma​_1-768x768.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/8-Awadhesh-Sharma​_1-500x500.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/5-Ravindra-Bapat​_1.png",
+        "kind": "img:src",
+        "alt": "",
+        "width": "1000",
+        "height": "1000"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/5-Ravindra-Bapat​_1.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/5-Ravindra-Bapat​_1-300x300.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/5-Ravindra-Bapat​_1-150x150.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/5-Ravindra-Bapat​_1-768x768.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/5-Ravindra-Bapat​_1-500x500.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/02/8-Vishal-Jain-Final.webp",
+        "kind": "img:src",
+        "alt": "",
+        "width": "1000",
+        "height": "1000"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/02/8-Vishal-Jain-Final.webp",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/02/8-Vishal-Jain-Final-300x300.webp",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/02/8-Vishal-Jain-Final-150x150.webp",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/02/8-Vishal-Jain-Final-768x768.webp",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/02/8-Vishal-Jain-Final-500x500.webp",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/02/9-Amod-Ranade-Final.png",
+        "kind": "img:src",
+        "alt": "",
+        "width": "1000",
+        "height": "1000"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/02/9-Amod-Ranade-Final.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/02/9-Amod-Ranade-Final-300x300.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/02/9-Amod-Ranade-Final-150x150.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/02/9-Amod-Ranade-Final-768x768.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2026/02/9-Amod-Ranade-Final-500x500.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/6-Avijit-Kar​_1.png",
+        "kind": "img:src",
+        "alt": "",
+        "width": "1000",
+        "height": "1000"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/6-Avijit-Kar​_1.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/6-Avijit-Kar​_1-300x300.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/6-Avijit-Kar​_1-150x150.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/6-Avijit-Kar​_1-768x768.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/6-Avijit-Kar​_1-500x500.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/11-Rajeev-Roy-Final.png",
+        "kind": "img:src",
+        "alt": "",
+        "width": "1000",
+        "height": "1000"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/11-Rajeev-Roy-Final.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/11-Rajeev-Roy-Final-300x300.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/11-Rajeev-Roy-Final-150x150.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/11-Rajeev-Roy-Final-768x768.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/11-Rajeev-Roy-Final-500x500.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/12-Alok-Karmarkar​_V1-Final.png",
+        "kind": "img:src",
+        "alt": "",
+        "width": "1000",
+        "height": "1000"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/12-Alok-Karmarkar​_V1-Final.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/12-Alok-Karmarkar​_V1-Final-300x300.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/12-Alok-Karmarkar​_V1-Final-150x150.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/12-Alok-Karmarkar​_V1-Final-768x768.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/12-Alok-Karmarkar​_V1-Final-500x500.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/13-Ashish-Nair_V1-Final.png",
+        "kind": "img:src",
+        "alt": "",
+        "width": "1000",
+        "height": "1000"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/13-Ashish-Nair_V1-Final.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/13-Ashish-Nair_V1-Final-300x300.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/13-Ashish-Nair_V1-Final-150x150.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/13-Ashish-Nair_V1-Final-768x768.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/08/13-Ashish-Nair_V1-Final-500x500.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/SWDC.png",
+        "kind": "img:src",
+        "alt": "",
+        "width": "826",
+        "height": "189"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/SWDC.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/SWDC-300x69.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/SWDC-768x176.png",
+        "kind": "img:srcset"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=4.3.4",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=4.3.4",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.3.4",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.54.0",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/lib/animations/styles/slideInRight.min.css?ver=4.3.4",
+        "kind": "stylesheet"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.7",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.3.4",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.3.4",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.3.4",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/jquery.plugin.js?ver=201513434",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/jquery.cookie.js?ver=201513434",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/jquery.magnific-popup.min.js?ver=201513434",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/popper.min.js?ver=201513434",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/bootstrap.min.js?ver=201513434",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/datatables.min.js?ver=201513434",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/waypoints.min.js?ver=201513434",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/jquery.counterup.min.js?ver=201513434",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/time-circle.js?ver=201513434",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/headding-title.js?ver=201513434",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/slick.min.js?ver=201513434",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/materialize.min.js?ver=201513434",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/tilt.jquery.min.js?ver=201513434",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/jquery-ui.js?ver=201513434",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/jQuery-plugin-progressbar.js?ver=201513434",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/rselements/assets/js/custom.js?ver=201513434",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.5.1",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=6.8.5",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/essential-addons-elementor/eael-35863.js?ver=1784989475",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=4.3.1",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-contact-form-7-fac2a8013ba5ba355cd0.js",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-content-events-6b04077d00f0d606ba42.js",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/mailchimp-for-wp/assets/js/forms.js?ver=4.14.1",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-mailchimp-ae89b2302ee1e23a78ac.js",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/premium-wrap-link.min.js?ver=4.11.110",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=4.3.1",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=4.3.1",
+        "kind": "script-reference-only"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/Leadership.jpg",
+        "kind": "css-url-literal"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/2-2.jpg",
+        "kind": "css-url-literal"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/Bullet-Points.jpg",
+        "kind": "css-url-literal"
+      },
+      {
+        "url": "https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Livvic:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,900&display=swap",
+        "kind": "css-url-literal"
+      },
+      {
+        "url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/03/arrow-right-up-white-1.svg",
+        "kind": "css-url-literal"
+      }
+    ],
+    "iframes": [],
+    "structured_data": []
+  }
+}

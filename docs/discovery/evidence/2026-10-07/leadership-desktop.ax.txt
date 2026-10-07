@@ -1,0 +1,174 @@
+Browser tab: 1, Title: "Leadership – Sterling & Wilson Data Center", URL: "https://sterlingandwilsondc.com/leadership/".
+1 AXWebArea Leadership – Sterling & Wilson Data Center, URL: sterlingandwilsondc.com/leadership/
+	2 container
+		3 link Description: Skip to content, Value: sterlingandwilsondc.com/leadership/#content
+		4 container
+			5 link sterlingandwilsondc.com/
+			6 container Menu
+				7 content list menu-1-7cec98b
+					8 link Description: Home, Value: sterlingandwilsondc.com/
+					9 link (collapsed) Description: About Us, Value: sterlingandwilsondc.com/about-us/, ID: sm-17913467250302383-1, Secondary Actions: Expand
+					10 link Description: Projects, Value: sterlingandwilsondc.com/projects/
+					11 link (collapsed) Description: Services, Value: sterlingandwilsondc.com/leadership/#, ID: sm-17913467250302383-3, Secondary Actions: Expand
+					12 link (collapsed) Description: Media, Value: sterlingandwilsondc.com/leadership/#, ID: sm-17913467250302383-5, Secondary Actions: Expand
+					13 link Description: Careers, Value: sterlingandwilsondc.com/careers/
+					14 link Description: Contact, Value: sterlingandwilsondc.com/contact/
+		15 heading Leadership, Value: 2
+			16 text Leadership
+		17 container
+			18 container
+				19 container
+					20 link sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjMwOTg3IiwidG9nZ2xlIjpmYWxzZX0%3D
+					21 link linkedin.com/in/prasannasarambale/
+					22 heading Prasanna Sarambale, Value: 2
+						23 link Description: Prasanna Sarambale, Value: sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjMwOTg3IiwidG9nZ2xlIjpmYWxzZX0%3D
+					24 heading Chief Executive Officer, Value: 2
+						25 link Description: Chief Executive Officer, Value: sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjMwOTg3IiwidG9nZ2xlIjpmYWxzZX0%3D
+					26 heading View profile, Value: 2
+						27 link Description: View profile, Value: sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjMwOTg3IiwidG9nZ2xlIjpmYWxzZX0%3D
+				28 container
+					29 link sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1NDAxIiwidG9nZ2xlIjpmYWxzZX0%3D
+					30 link linkedin.com/in/pv-prasanth-3a23b8104/
+					31 heading PV Prasanth​, Value: 2
+						32 link Description: PV Prasanth​, Value: sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1NDAxIiwidG9nZ2xlIjpmYWxzZX0%3D
+					33 heading Chief Operating Officer, Value: 2
+						34 link Description: Chief Operating Officer, Value: sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1NDAxIiwidG9nZ2xlIjpmYWxzZX0%3D
+					35 heading View profile, Value: 2
+						36 link Description: View profile, Value: sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1NDAxIiwidG9nZ2xlIjpmYWxzZX0%3D
+				37 container
+					38 link sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTUzIiwidG9nZ2xlIjpmYWxzZX0%3D
+					39 link linkedin.com/in/prasad-patwardhan-70a08b10/
+					40 heading Prasad Patwardhan, Value: 2
+						41 link Description: Prasad Patwardhan, Value: sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTUzIiwidG9nZ2xlIjpmYWxzZX0%3D
+					42 heading Chief Financial Officer, Value: 2
+						43 link Description: Chief Financial Officer, Value: sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTUzIiwidG9nZ2xlIjpmYWxzZX0%3D
+					44 heading View profile, Value: 2
+						45 link Description: View profile, Value: sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTUzIiwidG9nZ2xlIjpmYWxzZX0%3D
+			46 container
+				47 container
+					48 link sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTU2IiwidG9nZ2xlIjpmYWxzZX0%3D
+					49 link linkedin.com/in/ranjitgajare/
+					50 heading Ranjit Gajare​, Value: 2
+						51 link Description: Ranjit Gajare​, Value: sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTU2IiwidG9nZ2xlIjpmYWxzZX0%3D
+					52 heading Chief Growth Officer, Value: 2
+						53 link Description: Chief Growth Officer, Value: sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTU2IiwidG9nZ2xlIjpmYWxzZX0%3D
+					54 heading View profile, Value: 2
+						55 link Description: View profile, Value: sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM0OTU2IiwidG9nZ2xlIjpmYWxzZX0%3D
+				56 container
+					57 link sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1MzI1IiwidG9nZ2xlIjpmYWxzZX0%3D
+					58 link linkedin.com/in/awadhesh-sharma-4b96858/
+					59 heading Awadhesh Sharma​, Value: 2
+						60 link Description: Awadhesh Sharma​, Value: sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1MzI1IiwidG9nZ2xlIjpmYWxzZX0%3D
+					61 heading Vice President - Business Development & Sales, Value: 2
+						62 link Description: Vice President - Business Development & Sales, Value: sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1MzI1IiwidG9nZ2xlIjpmYWxzZX0%3D
+					63 heading View profile, Value: 2
+						64 link Description: View profile, Value: sterlingandwilsondc.com/leadership/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1MzI1IiwidG9nZ2xlIjpmYWxzZX0%3D
+				65 container
+					66 link …
+					67 link …
+					68 heading Ravindra Bapat​, Value: 2
+						69 link Description: Ravindra Bapat​, Value: …
+					70 heading Chief Technology Officer​, Value: 2
+						71 link Description: Chief Technology Officer​, Value: …
+					72 heading View profile, Value: 2
+						73 link Description: View profile, Value: …
+			74 container
+				75 container
+					76 link …
+					77 link …
+					78 heading Vishal Jain, Value: 2
+						79 link Description: Vishal Jain, Value: …
+					80 heading Chief Strategy and M&A Officer, Value: 2
+						81 link Description: Chief Strategy and M&A Officer, Value: …
+					82 heading View profile, Value: 2
+						83 link Description: View profile, Value: …
+				84 container
+					85 link …
+					86 link …
+					87 heading Amod Ranade, Value: 2
+						88 link Description: Amod Ranade, Value: …
+					89 heading Chief Product Officer, Value: 2
+						90 link Description: Chief Product Officer, Value: …
+					91 heading View profile, Value: 2
+						92 link Description: View profile, Value: …
+				93 container
+					94 link …
+					95 link …
+					96 heading Avijit Kar​, Value: 2
+						97 link Description: Avijit Kar​, Value: …
+					98 heading Chief Human Resources Officer​, Value: 2
+						99 link Description: Chief Human Resources Officer​, Value: …
+					100 heading View profile, Value: 2
+						101 link Description: View profile, Value: …
+			102 container
+				103 container
+					104 link …
+					105 link …
+					106 heading Rajeev Roy, Value: 2
+						107 link Description: Rajeev Roy, Value: …
+					108 heading Vice President - Finance, Value: 2
+						109 link Description: Vice President - Finance, Value: …
+					110 heading View profile, Value: 2
+						111 link Description: View profile, Value: …
+				112 container
+					113 link …
+					114 link …
+					115 heading Alok Karmarkar​, Value: 2
+						116 link Description: Alok Karmarkar​, Value: …
+					117 heading Vice President - Contract, Value: 2
+						118 link Description: Vice President - Contract, Value: …
+					119 heading View profile, Value: 2
+						120 link Description: View profile, Value: …
+				121 container
+					122 link …
+					123 link …
+					124 heading Ashish Nair, Value: 2
+						125 link Description: Ashish Nair, Value: …
+					126 heading Vice President - Commercial, Value: 2
+						127 text Vice President - Commercial
+					128 heading View profile, Value: 2
+						129 link Description: View profile, Value: …
+		130 container
+			131 container
+				132 link …
+				133 container
+					134 text Your trusted partner in designing, building
+					135 text and managing world-class data centers
+			136 container
+				137 heading About Us, Value: 2
+					138 text About Us
+				139 content list
+					140 link Description: Overview, Value: …
+					141 link Description: Awards & Recognitions, Value: …
+					142 link Description: Leadership, Value: …
+					143 link Description: Industry Memberships and Recognitions, Value: …
+				144 heading Projects, Value: 2
+					145 link Description: Projects, Value: …
+			146 container
+				147 heading Services, Value: 2
+					148 text Services
+				149 content list
+					150 link Description: Design & Build, Value: …
+					151 link Description: Modular Construction, Value: …
+					152 link Description: Smart Operations, Value: …
+					153 link Description: Sustainable Execution, Value: …
+					154 link Description: O&M Services, Value: …
+			155 container
+				156 heading Media, Value: 2
+					157 text Media
+				158 content list
+					159 link Description: News & Press Release, Value: …
+					160 link Description: Events, Value: …
+				161 heading Careers, Value: 2
+					162 link Description: Careers, Value: …
+				163 heading Contact, Value: 2
+					164 link Description: Contact, Value: …
+			165 container
+				166 heading Let’s Connect, Value: 2
+					167 text Let’s Connect
+				168 link Description: Linkedin-in, Value: …
+				169 content list
+					170 link Description: Privacy Policy, Value: …
+					171 link Description: HSE Policy, Value: …
+
+The focused UI element is 1 AXWebArea Leadership – Sterling & Wilson Data Center, URL: sterlingandwilsondc.com/leadership/

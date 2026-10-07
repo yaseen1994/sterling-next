@@ -1,0 +1,100 @@
+Browser tab: 1, Title: "Global Colocation Data Center Pune, India, 2021 – Sterling & Wilson Data Center", URL: "https://sterlingandwilsondc.com/portfolios/global-colocation-data-center-pune-india-2021/".
+1 AXWebArea Global Colocation Data Center Pune, India, 2021 – Sterling & Wilson Data Center, URL: sterlingandwilsondc.com/portfolios/global-colocation-data-center-pune-india-2021/
+	2 container
+		3 link Description: Skip to content, Value: sterlingandwilsondc.com/portfolios/global-colocation-data-center-pune-india-2021/#content
+		4 container
+			5 link sterlingandwilsondc.com/
+			6 container Menu
+				7 content list menu-1-7cec98b
+					8 link Description: Home, Value: sterlingandwilsondc.com/
+					9 link (collapsed) Description: About Us, Value: sterlingandwilsondc.com/about-us/, ID: sm-17913464121903557-1, Secondary Actions: Expand
+					10 link Description: Projects, Value: sterlingandwilsondc.com/projects/
+					11 link (collapsed) Description: Services, Value: sterlingandwilsondc.com/portfolios/global-colocation-data-center-pune-india-2021/#, ID: sm-17913464121903557-3, Secondary Actions: Expand
+					12 link (collapsed) Description: Media, Value: sterlingandwilsondc.com/portfolios/global-colocation-data-center-pune-india-2021/#, ID: sm-17913464121903557-5, Secondary Actions: Expand
+					13 link Description: Careers, Value: sterlingandwilsondc.com/careers/
+					14 link Description: Contact, Value: sterlingandwilsondc.com/contact/
+		15 container Image Carousel
+			16 container 1 of 1
+				17 image 1-Main Images
+		18 container Post Navigation
+			19 link Description: Next, Value: sterlingandwilsondc.com/portfolios/bhamashah-state-data-center-jaipur-india/
+		20 container
+			21 container
+				22 heading Global Colocation Data Center Pune, India, 2021, Value: 1
+					23 text Global Colocation Data Center
+					24 text Pune, India, 2021
+				25 heading Scope of Work, Value: 4
+					26 text Scope of Work
+				27 content list
+					28 container
+						29 text Design and Build
+					30 container
+						31 text Civil Interiors, Electrical, HVAC, IBMS and Fire Suppression
+				32 heading Key Highlights, Value: 4
+					33 text Key Highlights
+				34 content list
+					35 container
+						36 text Civil & MEP fit-outs in G + 4 building
+					37 container
+						38 text Designed for 1000+ racks
+					39 container
+						40 text IT Load: 11.5 MW
+				41 heading Certification, Value: 4
+					42 text Certification
+				43 content list
+					44 container
+						45 text Level III compliant
+			46 container
+				47 heading i, Value: 2
+					48 text i
+		49 container
+			50 container
+				51 heading Have a Project in Mind?, Value: 2
+					52 text Have a Project in Mind?
+				53 heading Connect with Our Experts Today., Value: 3
+					54 text Connect with Our Experts Today.
+				55 link Description: Enquire Now, Value: sterlingandwilsondc.com/contact/
+		56 container
+			57 container
+				58 link sterlingandwilsondc.com/
+				59 container
+					60 text Your trusted partner in designing, building
+					61 text and managing world-class data centers
+			62 container
+				63 heading About Us, Value: 2
+					64 text About Us
+				65 content list
+					66 link Description: Overview, Value: sterlingandwilsondc.com/about-us/
+					67 link Description: Awards & Recognitions, Value: sterlingandwilsondc.com/awards-recognitions/
+					68 link Description: Leadership, Value: sterlingandwilsondc.com/leadership/
+					69 link Description: Industry Memberships and Recognitions, Value: sterlingandwilsondc.com/industry-memberships-and-recognitions/
+				70 heading Projects, Value: 2
+					71 link Description: Projects, Value: sterlingandwilsondc.com/projects/
+			72 container
+				73 heading Services, Value: 2
+					74 text Services
+				75 content list
+					76 link Description: Design & Build, Value: sterlingandwilsondc.com/design-build/
+					77 link Description: Modular Construction, Value: sterlingandwilsondc.com/modular-construction/
+					78 link Description: Smart Operations, Value: sterlingandwilsondc.com/smart-operations/
+					79 link Description: Sustainable Execution, Value: sterlingandwilsondc.com/sustainable-execution/
+					80 link Description: O&M Services, Value: sterlingandwilsondc.com/om-services/
+			81 container
+				82 heading Media, Value: 2
+					83 text Media
+				84 content list
+					85 link Description: News & Press Release, Value: sterlingandwilsondc.com/news-press-release/
+					86 link Description: Events, Value: sterlingandwilsondc.com/events/
+				87 heading Careers, Value: 2
+					88 link Description: Careers, Value: sterlingandwilsondc.com/careers/
+				89 heading Contact, Value: 2
+					90 link Description: Contact, Value: sterlingandwilsondc.com/contact/
+			91 container
+				92 heading Let’s Connect, Value: 2
+					93 text Let’s Connect
+				94 link Description: Linkedin-in, Value: linkedin.com/company/sterling-and-wilson-data-center/
+				95 content list
+					96 link Description: Privacy Policy, Value: sterlingandwilsondc.com/privacy-policy/
+					97 link Description: HSE Policy, Value: sterlingandwilsondc.com/wp-content/uploads/2025/12/SW-HSE-Policy-June-2025.pdf
+
+The focused UI element is 1 AXWebArea Global Colocation Data Center Pune, India, 2021 – Sterling & Wilson Data Center, URL: sterlingandwilsondc.com/portfolios/global-colocation-data-center-pune-india-2021/
