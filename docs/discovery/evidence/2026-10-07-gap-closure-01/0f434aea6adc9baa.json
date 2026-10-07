@@ -1,0 +1,36 @@
+{
+  "source_url": "http://www.sterlingandwilsondc.com/",
+  "kind": "homepage-variant",
+  "discovered_from": "Owner-requested HTTP/www evidence gap",
+  "observed_at": "2026-10-07T17:33:45+00:00",
+  "completed_at": "2026-10-07T17:33:48+00:00",
+  "access_method": "curl.exe bounded public GET; bodies discarded; no site code executed",
+  "http_status": 200,
+  "effective_url": "https://sterlingandwilsondc.com/",
+  "content_type": "text/html; charset=UTF-8",
+  "curl_exit_code": 0,
+  "error": "",
+  "response_headers": [
+    "HTTP/1.1 301 Moved Permanently",
+    "Date: Wed, 07 Oct 2026 17:33:46 GMT",
+    "Location: https://sterlingandwilsondc.com/",
+    "Content-Length: 0",
+    "Content-Type: text/html; charset=UTF-8",
+    "HTTP/1.1 200 OK",
+    "Date: Wed, 07 Oct 2026 17:33:46 GMT",
+    "Content-Type: text/html; charset=UTF-8"
+  ],
+  "size_bytes": 682938,
+  "sha256": "abc6c61721c3e32e6491f002c6d66347d4d602cf783d3ee00e875016d8d2c369",
+  "body_complete": true,
+  "pdf_signature": false,
+  "html_metadata": {
+    "title": "Sterling & Wilson Data Center – Your trusted partner in designing, building and managing world-class data centers",
+    "meta": {
+      "robots": "max-image-preview:large"
+    },
+    "canonicals": [
+      "https://sterlingandwilsondc.com/"
+    ]
+  }
+}

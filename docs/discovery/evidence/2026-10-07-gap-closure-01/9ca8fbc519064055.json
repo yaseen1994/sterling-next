@@ -1,0 +1,24 @@
+{
+  "source_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/Sterling-and-Wilson-brings-in-strategic-investors-to-unlock-the-true-potential-of-its-Data-Centre-business.pdf",
+  "kind": "pdf",
+  "discovered_from": "https://sterlingandwilsondc.com/news-press-release/",
+  "observed_at": "2026-10-07T17:33:41+00:00",
+  "completed_at": "2026-10-07T17:33:42+00:00",
+  "access_method": "curl.exe bounded public GET; bodies discarded; no site code executed",
+  "http_status": 200,
+  "effective_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/Sterling-and-Wilson-brings-in-strategic-investors-to-unlock-the-true-potential-of-its-Data-Centre-business.pdf",
+  "content_type": "application/pdf",
+  "curl_exit_code": 0,
+  "error": "",
+  "response_headers": [
+    "HTTP/1.1 200 OK",
+    "Date: Wed, 07 Oct 2026 17:33:42 GMT",
+    "Last-Modified: Fri, 25 Jul 2025 11:17:32 GMT",
+    "Content-Length: 214849",
+    "Content-Type: application/pdf"
+  ],
+  "size_bytes": 214849,
+  "sha256": "2ba40e4e5bb94893c6ef991e54a262c6fa5b25504358c1f8b1a1c956343ff76f",
+  "body_complete": true,
+  "pdf_signature": true
+}

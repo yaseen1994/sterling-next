@@ -1,0 +1,24 @@
+{
+  "source_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/06/7-Sterling-and-Wilson-partners-with-Uptime-Institute-Standard-Post-15may-2019.pdf",
+  "kind": "pdf",
+  "discovered_from": "https://sterlingandwilsondc.com/newsroom/",
+  "observed_at": "2026-10-07T17:33:37+00:00",
+  "completed_at": "2026-10-07T17:33:38+00:00",
+  "access_method": "curl.exe bounded public GET; bodies discarded; no site code executed",
+  "http_status": 200,
+  "effective_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/06/7-Sterling-and-Wilson-partners-with-Uptime-Institute-Standard-Post-15may-2019.pdf",
+  "content_type": "application/pdf",
+  "curl_exit_code": 0,
+  "error": "",
+  "response_headers": [
+    "HTTP/1.1 200 OK",
+    "Date: Wed, 07 Oct 2026 17:33:37 GMT",
+    "Last-Modified: Thu, 12 Jun 2025 11:15:34 GMT",
+    "Content-Length: 98895",
+    "Content-Type: application/pdf"
+  ],
+  "size_bytes": 98895,
+  "sha256": "a27295d610d31d177c42550ae5e5cc01ea943c77aba5e5f8816c5844cfe983b6",
+  "body_complete": true,
+  "pdf_signature": true
+}

@@ -1,0 +1,24 @@
+{
+  "source_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/06/Press-Release-Sterling-and-Wilson-delivers-its-first-prefabricated-data-center-project-in-Egypt-7July-2021.pdf",
+  "kind": "pdf",
+  "discovered_from": "https://sterlingandwilsondc.com/news-press-release/; https://sterlingandwilsondc.com/newsroom/",
+  "observed_at": "2026-10-07T17:33:38+00:00",
+  "completed_at": "2026-10-07T17:33:39+00:00",
+  "access_method": "curl.exe bounded public GET; bodies discarded; no site code executed",
+  "http_status": 200,
+  "effective_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/06/Press-Release-Sterling-and-Wilson-delivers-its-first-prefabricated-data-center-project-in-Egypt-7July-2021.pdf",
+  "content_type": "application/pdf",
+  "curl_exit_code": 0,
+  "error": "",
+  "response_headers": [
+    "HTTP/1.1 200 OK",
+    "Date: Wed, 07 Oct 2026 17:33:39 GMT",
+    "Last-Modified: Thu, 12 Jun 2025 11:31:26 GMT",
+    "Content-Length: 207552",
+    "Content-Type: application/pdf"
+  ],
+  "size_bytes": 207552,
+  "sha256": "df30a915117967ea6d7f94db17b780ccd89a1cfdac661dc55a5bb4bc70fad4b2",
+  "body_complete": true,
+  "pdf_signature": true
+}

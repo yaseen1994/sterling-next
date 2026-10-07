@@ -1,0 +1,210 @@
+{
+  "observed_at": "2026-10-07T17:33:49+00:00",
+  "objective": "21 unchecked PDFs, three homepage variants, one careers destination",
+  "request_count": 25,
+  "pdf_count": 21,
+  "completed": 25,
+  "limits": "12 MB/body, 30 seconds/request, five redirects; no document decoding, malware scan, ownership, browser behavior or application submissions verified",
+  "outcomes": [
+    {
+      "source_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/06/1.press_release_bhamashah-Inauguration_220818_final-AUG-2018.pdf",
+      "kind": "pdf",
+      "http_status": 200,
+      "effective_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/06/1.press_release_bhamashah-Inauguration_220818_final-AUG-2018.pdf",
+      "curl_exit_code": 0,
+      "pdf_signature": true
+    },
+    {
+      "source_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/06/15-Upcoming-startups-to-get-a-boost-Raje-Punjab-Kesari-24082018-24-Aug-2018.pdf",
+      "kind": "pdf",
+      "http_status": 200,
+      "effective_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/06/15-Upcoming-startups-to-get-a-boost-Raje-Punjab-Kesari-24082018-24-Aug-2018.pdf",
+      "curl_exit_code": 0,
+      "pdf_signature": true
+    },
+    {
+      "source_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/06/16-Government-of-Rajasthan-to-unveil-one-of-Indias-largest-techno-hubs-in-Jaipur-Rastradut-24-Aug-2018.pdf",
+      "kind": "pdf",
+      "http_status": 200,
+      "effective_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/06/16-Government-of-Rajasthan-to-unveil-one-of-Indias-largest-techno-hubs-in-Jaipur-Rastradut-24-Aug-2018.pdf",
+      "curl_exit_code": 0,
+      "pdf_signature": true
+    },
+    {
+      "source_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/06/17-Indias-biggest-startup-hub-opens-in-Jaipur-adds-fillip-to-ecosystem-Times-of-India-24-aug-2018.pdf",
+      "kind": "pdf",
+      "http_status": 200,
+      "effective_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/06/17-Indias-biggest-startup-hub-opens-in-Jaipur-adds-fillip-to-ecosystem-Times-of-India-24-aug-2018.pdf",
+      "curl_exit_code": 0,
+      "pdf_signature": true
+    },
+    {
+      "source_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/06/7-Sterling-and-Wilson-partners-with-Uptime-Institute-Standard-Post-15may-2019.pdf",
+      "kind": "pdf",
+      "http_status": 200,
+      "effective_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/06/7-Sterling-and-Wilson-partners-with-Uptime-Institute-Standard-Post-15may-2019.pdf",
+      "curl_exit_code": 0,
+      "pdf_signature": true
+    },
+    {
+      "source_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/06/Final_Press-Release-INTRO-Technology-SWDC-ink-MoU-for-contracting-and-construction-at-Kemet-Data-Center-28OCT-2024.pdf",
+      "kind": "pdf",
+      "http_status": 200,
+      "effective_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/06/Final_Press-Release-INTRO-Technology-SWDC-ink-MoU-for-contracting-and-construction-at-Kemet-Data-Center-28OCT-2024.pdf",
+      "curl_exit_code": 0,
+      "pdf_signature": true
+    },
+    {
+      "source_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/06/Press-Release-Sterling-and-Wilson-delivers-its-first-prefabricated-data-center-project-in-Egypt-7July-2021.pdf",
+      "kind": "pdf",
+      "http_status": 200,
+      "effective_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/06/Press-Release-Sterling-and-Wilson-delivers-its-first-prefabricated-data-center-project-in-Egypt-7July-2021.pdf",
+      "curl_exit_code": 0,
+      "pdf_signature": true
+    },
+    {
+      "source_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/1.press_release_bhamashah-Inauguration_220818_final.pdf",
+      "kind": "pdf",
+      "http_status": 200,
+      "effective_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/1.press_release_bhamashah-Inauguration_220818_final.pdf",
+      "curl_exit_code": 0,
+      "pdf_signature": true
+    },
+    {
+      "source_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/10-Riding-the-digital-wave-The-Economic-Times-14062018.pdf",
+      "kind": "pdf",
+      "http_status": 200,
+      "effective_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/10-Riding-the-digital-wave-The-Economic-Times-14062018.pdf",
+      "curl_exit_code": 0,
+      "pdf_signature": true
+    },
+    {
+      "source_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/12-Rajasthan-sees-the-dawn-of-a-new-digital-age-Dainik-Navjyoti-24082018.pdf",
+      "kind": "pdf",
+      "http_status": 200,
+      "effective_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/12-Rajasthan-sees-the-dawn-of-a-new-digital-age-Dainik-Navjyoti-24082018.pdf",
+      "curl_exit_code": 0,
+      "pdf_signature": true
+    },
+    {
+      "source_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/13-Upcoming-startups-to-get-a-boost-Raje-Kanchan-Kesari24082018.pdf",
+      "kind": "pdf",
+      "http_status": 200,
+      "effective_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/13-Upcoming-startups-to-get-a-boost-Raje-Kanchan-Kesari24082018.pdf",
+      "curl_exit_code": 0,
+      "pdf_signature": true
+    },
+    {
+      "source_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/14-Upcoming-startups-to-get-a-boost-Raje-Morning-News-24082018.pdf",
+      "kind": "pdf",
+      "http_status": 200,
+      "effective_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/14-Upcoming-startups-to-get-a-boost-Raje-Morning-News-24082018.pdf",
+      "curl_exit_code": 0,
+      "pdf_signature": true
+    },
+    {
+      "source_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/15-Upcoming-startups-to-get-a-boost-Raje-Punjab-Kesari-24082018.pdf",
+      "kind": "pdf",
+      "http_status": 200,
+      "effective_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/15-Upcoming-startups-to-get-a-boost-Raje-Punjab-Kesari-24082018.pdf",
+      "curl_exit_code": 0,
+      "pdf_signature": true
+    },
+    {
+      "source_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/17-Indias-biggest-startup-hub-opens-in-Jaipur-adds-fillip-to-ecosystem-Times-of-India-24082018.pdf",
+      "kind": "pdf",
+      "http_status": 200,
+      "effective_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/17-Indias-biggest-startup-hub-opens-in-Jaipur-adds-fillip-to-ecosystem-Times-of-India-24082018.pdf",
+      "curl_exit_code": 0,
+      "pdf_signature": true
+    },
+    {
+      "source_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/8.press_release_sterling_and_wilson_becomes_implem_001.pdf",
+      "kind": "pdf",
+      "http_status": 200,
+      "effective_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/8.press_release_sterling_and_wilson_becomes_implem_001.pdf",
+      "curl_exit_code": 0,
+      "pdf_signature": true
+    },
+    {
+      "source_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/Final_Press-Release-Sterling-and-Wilson-successfully-completes-Greenfield-Data-Center-in-Democratic-Republic-of-Congo.pdf",
+      "kind": "pdf",
+      "http_status": 200,
+      "effective_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/Final_Press-Release-Sterling-and-Wilson-successfully-completes-Greenfield-Data-Center-in-Democratic-Republic-of-Congo.pdf",
+      "curl_exit_code": 0,
+      "pdf_signature": true
+    },
+    {
+      "source_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/Final_Press-Release_Sterling-and-Wilson-Data-Centers-Maerifa-Solutions-Partner-to-Leverage-the-Growing-Potential-of-AI-Data-Centers-in-Key-Markets.pdf",
+      "kind": "pdf",
+      "http_status": 200,
+      "effective_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/Final_Press-Release_Sterling-and-Wilson-Data-Centers-Maerifa-Solutions-Partner-to-Leverage-the-Growing-Potential-of-AI-Data-Centers-in-Key-Markets.pdf",
+      "curl_exit_code": 0,
+      "pdf_signature": true
+    },
+    {
+      "source_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/Sterling-and-Wilson-brings-in-strategic-investors-to-unlock-the-true-potential-of-its-Data-Centre-business.pdf",
+      "kind": "pdf",
+      "http_status": 200,
+      "effective_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/Sterling-and-Wilson-brings-in-strategic-investors-to-unlock-the-true-potential-of-its-Data-Centre-business.pdf",
+      "curl_exit_code": 0,
+      "pdf_signature": true
+    },
+    {
+      "source_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/Sterling_and_Wilson_signs_MoU_with_DataVolt_to_construct_state_of_the_art_data_centers.pdf",
+      "kind": "pdf",
+      "http_status": 200,
+      "effective_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/Sterling_and_Wilson_signs_MoU_with_DataVolt_to_construct_state_of_the_art_data_centers.pdf",
+      "curl_exit_code": 0,
+      "pdf_signature": true
+    },
+    {
+      "source_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/The-Economic-Times-Pg-13-August-19-2024.pdf",
+      "kind": "pdf",
+      "http_status": 200,
+      "effective_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/The-Economic-Times-Pg-13-August-19-2024.pdf",
+      "curl_exit_code": 0,
+      "pdf_signature": true
+    },
+    {
+      "source_url": "https://www.sterlingandwilson.com/pdf/news/2019/7-Sterling-and-Wilson-partners-with-Uptime-Institute-[Standard-Post]-15052019.pdf",
+      "kind": "pdf",
+      "http_status": 200,
+      "effective_url": "https://www.sterlingandwilson.com/pdf/news/2019/7-Sterling-and-Wilson-partners-with-Uptime-Institute-[Standard-Post]-15052019.pdf",
+      "curl_exit_code": 0,
+      "pdf_signature": true
+    },
+    {
+      "source_url": "http://sterlingandwilsondc.com/",
+      "kind": "homepage-variant",
+      "http_status": 200,
+      "effective_url": "https://sterlingandwilsondc.com/",
+      "curl_exit_code": 0,
+      "pdf_signature": false
+    },
+    {
+      "source_url": "http://www.sterlingandwilsondc.com/",
+      "kind": "homepage-variant",
+      "http_status": 200,
+      "effective_url": "https://sterlingandwilsondc.com/",
+      "curl_exit_code": 0,
+      "pdf_signature": false
+    },
+    {
+      "source_url": "https://www.sterlingandwilsondc.com/",
+      "kind": "homepage-variant",
+      "http_status": 200,
+      "effective_url": "https://sterlingandwilsondc.com/",
+      "curl_exit_code": 0,
+      "pdf_signature": false
+    },
+    {
+      "source_url": "https://sterlingone.darwinbox.in/ms/candidatev2/a688b512869b6c/careers/home",
+      "kind": "careers-destination",
+      "http_status": 200,
+      "effective_url": "https://sterlingone.darwinbox.in/ms/candidatev2/a688b512869b6c/careers/home",
+      "curl_exit_code": 0,
+      "pdf_signature": false
+    }
+  ]
+}

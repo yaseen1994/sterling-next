@@ -1,0 +1,14 @@
+# Phase 0 owner decisions
+
+Requested 2026-10-07; all items below remain pending. No reply or approval has been inferred. Reply by ID; engineering will record explicit answers and update proposed scope. No credentials or personal applicant data are needed.
+
+- **D1 — Routes and content:** Review REPORT.md findings 1–3 and routes.csv. For held routes choose retain, exact redirect target, or retire/status; confirm copy, business metrics, projects, leadership, addresses, policies and missing critical pages. Page names alone are not disposition evidence.
+- **D2 — Media rights:** Confirm permission for logos, photographs, client media, Livvic font, hero video, PDFs and press clippings, or provide a clean sourcing plan. Availability/hash checks do not establish rights or safety.
+- **D3 — Editing:** Identify editors, update frequency and workflows for projects, news/events/blogs, careers and PDFs. Is developer-managed content acceptable, or is nontechnical editing required? CMS/database choice remains open until this is answered.
+- **D4 — Enquiries:** Confirm general/media recipients, required fields, consent/privacy wording, retention, anti-spam and delivery expectations. Resolve Media Queries icon/heading versus displayed mailbox. Public mail links do not verify backend recipients.
+- **D5 — Careers:** Keep the evidenced Darwinbox destination, or require onsite applications? Confirm portal ownership. An onsite flow additionally needs file types/count/size, recipient, retention and wording. Hidden legacy forms are not approved features.
+- **D6 — SEO evidence:** Provide owner-authorized Search Console/backlink/analytics/log evidence or explicitly accept its absence for route decisions. Confirm metadata intent and business claims. Public HTTP responses do not prove indexation.
+- **D7 — Hosting and analytics:** Confirm target hosting/runtime, analytics/consent ownership, domain/email/DNS authority, redirect responsibility, release reviewer and intended Git remote. No purchases, account changes, cutover or push is authorized by this discovery request.
+- **D8 — Visual/accessibility acceptance:** Approve comparison viewports 1440×900, 768×1024 and 390×844 or specify alternatives/tolerances. Decide accessible menu/FAQ/carousel corrections, reduced motion, tablet/mobile differences and sticky-award treatment. Review the dated reference captures; no migrated UI exists yet.
+
+Phase 0 acceptance needs these decisions or an explicitly accepted deferred sourcing/evidence plan, plus closure or recorded acceptance of material engineering gaps. Commit status does not mean owner acceptance.

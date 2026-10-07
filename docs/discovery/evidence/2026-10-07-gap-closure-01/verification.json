@@ -1,0 +1,17 @@
+{
+  "verified_at_utc": "2026-10-07T17:37:35+00:00",
+  "result": "pass",
+  "checks": [
+    "Original dated evidence unchanged; all 191 indexed sizes and hashes match",
+    "routes.csv: count, unique keys, dates/methods/evidence references and retained approvals/source dates pass",
+    "seo.csv: count, unique keys, dates/methods/evidence references and retained approvals/source dates pass",
+    "assets.csv: count, unique keys, dates/methods/evidence references and retained approvals/source dates pass",
+    "interactions.csv: count, unique keys, dates/methods/evidence references and retained approvals/source dates pass",
+    "url_variants.csv: count, unique keys, dates/methods/evidence references and retained approvals/source dates pass",
+    "25 bounded completed GETs: 21 PDFs with MIME/signature evidence; three 301-to-200 homepage aliases; one careers shell 200",
+    "Three helpers parse; no source code executed; no application package exists",
+    "Diff review: only intended 21 asset rows changed original fields; original route/SEO fields retained; offline supplement apply is idempotent"
+  ],
+  "supplement_files_indexed": 27,
+  "limits": "Self-review only; no new browser parity, PDF decoding/security/rights, submissions, portal ownership, owner-only data or owner acceptance verified"
+}

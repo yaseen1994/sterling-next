@@ -10,6 +10,20 @@ During the public audit, only discovery docs, evidence and audit helpers changed
 
 ## Coverage
 
+### Gap-closure supplement — 2026-10-07, 17:33 UTC
+
+Bounded objective: verify the 21 previously unchecked PDF references, three homepage HTTP/www variants and the evidenced external careers destination. Acceptance for this pass is dated GET/redirect/status/byte evidence, linked manifests, unchanged original captures and no inferred owner approval. [Supplement summary](evidence/2026-10-07-gap-closure-01/summary.json) and [access log](evidence/2026-10-07-gap-closure-01/access-log.md) record exact outcomes and limitations.
+
+All **25 requests completed**. The **21 additional PDFs** returned 200 with PDF MIME/signatures and complete-body hashes; with the original four, **all 25 inventoried PDF references now have availability evidence**. Total sampled resource checks rise from eight to **29**; zero fully validated/approved assets. Binary response bodies discarded; content, licensing and malware checks remain pending.
+
+`http://sterlingandwilsondc.com/`, `http://www.sterlingandwilsondc.com/` and `https://www.sterlingandwilsondc.com/` each returned **301 → 200** at the HTTPS bare-domain homepage. Final-page canonicals point there; description/OG metadata still absent in these samples. [url_variants.csv](url_variants.csv) has three alias records, separate from the original 85 routes/72 content candidates. Deep paths/query variants and SEO indexation are not verified. Homepage UTF-8-decoded title contains mojibake in these responses; preserve evidence and verify encoding/rendered text before migration.
+
+The exact Darwinbox Apply Now destination returned **200 HTML**, title “Sterling & Wilson Data Centre Private Limited”; its 1086-byte shell does not verify jobs, portal ownership or end-to-end applications. One source/HTTP interaction record added: interactions.csv now **112** rows. No new browser captures, submissions or uploads.
+
+Original source timestamps and approval fields remain unchanged. New availability/variant timestamps and evidence columns distinguish supplemental checks. [Owner decisions D1–D8](OWNER-DECISIONS.md) were requested and remain pending. Current engineering gaps: full responsive/keyboard/interaction coverage, source encoding follow-up, complete media decoding/safety review, deep-path URL variants and external application behavior. Owner-only requirements are separate from these engineering gaps. The 15–25-day planning range remains conditional; no newly verified requirement changes it.
+
+### Original public audit coverage (preserved)
+
 - **68 sitemap-listed URLs**, all fetched from the advertised `/wp-sitemap.xml` and ten children. No advertised URL or crawl candidate remains unfetched.
 - **72 content URLs** from sitemap plus recursive same-host HTTPS anchors: 69 final 200 responses, three 404s. One 200 follows an existing 301 from `/elementor-hf/my-custom-footer/` to `/`; 68 distinct successful final page URLs. Four content URLs absent from sitemap: domestic archive page 2 and the three broken links.
 - `routes.csv`: **85 rows** = 72 content URLs + 13 discovery endpoints (robots, advertised index, ten children, alternative sitemap probe). `seo.csv`: **72 content records**. Infrastructure probes are not migration pages.
@@ -39,7 +53,7 @@ Preserve approved `/portfolios/<slug>/`, `/teams/<slug>/`, root-level article sl
 5. **Careers:** visible Apply Now points to SterlingOne Darwinbox; no visible onsite upload form. Source also includes hidden/legacy upload forms and theme-demo job links. Do not migrate demo jobs or infer an upload feature. Portal owner/destination unconfirmed.
 6. **Keyboard/responsive:** desktop Services Enter opens and Escape collapses submenu. Mobile unnamed nine-dot link opens right-side popup; Services Enter exposes submenu, but Escape did not dismiss popup in sampled test. Tablet uses named Menu Toggle hamburger/header dropdown. Smart Operations FAQ expands by pointer; Enter on focusable DIV did not toggle, no button role. Awards Next A has button role without href/tabindex: focus/Enter failed, pointer worked. Project carousel keyboard activation and sticky award close observed; autoplay prevents deterministic slide comparisons. Approve accessible semantics and keyboard corrections while preserving design.
 7. **Media:** homepage muted looping autoplay video, Livvic font and orange/white/dark-blue treatments observed. Sticky award overlaps mobile content in sample. Full focus trapping, all lightboxes/hover states, event sequences, testimonial/map behavior and reduced motion remain unverified. Captures include loading/animation timing; no replacement parity claimed.
-8. **Downloads/tracking:** four checked PDFs are HSE, CSR, FY 2024–25 and FY 2023–24. Content/rights unapproved; remaining PDFs and external destinations not exhaustively tested. Google tag/Site Kit references found; active tracking, ownership and consent configuration unverified.
+8. **Downloads/tracking:** original four checked PDFs are HSE, CSR, FY 2024–25 and FY 2023–24. The later supplement closes availability checks for the remaining 21 PDF references; content/rights remain unapproved and other external destinations are not exhaustively tested. Google tag/Site Kit references found; active tracking, ownership and consent configuration unverified.
 
 ## Owner questions
 

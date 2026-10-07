@@ -1,0 +1,24 @@
+{
+  "source_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/14-Upcoming-startups-to-get-a-boost-Raje-Morning-News-24082018.pdf",
+  "kind": "pdf",
+  "discovered_from": "https://sterlingandwilsondc.com/news-press-release/",
+  "observed_at": "2026-10-07T17:33:40+00:00",
+  "completed_at": "2026-10-07T17:33:40+00:00",
+  "access_method": "curl.exe bounded public GET; bodies discarded; no site code executed",
+  "http_status": 200,
+  "effective_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/14-Upcoming-startups-to-get-a-boost-Raje-Morning-News-24082018.pdf",
+  "content_type": "application/pdf",
+  "curl_exit_code": 0,
+  "error": "",
+  "response_headers": [
+    "HTTP/1.1 200 OK",
+    "Date: Wed, 07 Oct 2026 17:33:40 GMT",
+    "Last-Modified: Fri, 25 Jul 2025 11:54:12 GMT",
+    "Content-Length: 173659",
+    "Content-Type: application/pdf"
+  ],
+  "size_bytes": 173659,
+  "sha256": "65616c719f4f30a5a59dd2fe0781541e0337f1a65d328d8e923b885b54748dc0",
+  "body_complete": true,
+  "pdf_signature": true
+}

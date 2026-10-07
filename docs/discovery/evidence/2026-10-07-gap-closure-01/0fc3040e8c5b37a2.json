@@ -1,0 +1,24 @@
+{
+  "source_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/The-Economic-Times-Pg-13-August-19-2024.pdf",
+  "kind": "pdf",
+  "discovered_from": "https://sterlingandwilsondc.com/news-press-release/",
+  "observed_at": "2026-10-07T17:33:42+00:00",
+  "completed_at": "2026-10-07T17:33:45+00:00",
+  "access_method": "curl.exe bounded public GET; bodies discarded; no site code executed",
+  "http_status": 200,
+  "effective_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/The-Economic-Times-Pg-13-August-19-2024.pdf",
+  "content_type": "application/pdf",
+  "curl_exit_code": 0,
+  "error": "",
+  "response_headers": [
+    "HTTP/1.1 200 OK",
+    "Date: Wed, 07 Oct 2026 17:33:43 GMT",
+    "Last-Modified: Fri, 25 Jul 2025 13:33:24 GMT",
+    "Content-Length: 567377",
+    "Content-Type: application/pdf"
+  ],
+  "size_bytes": 567377,
+  "sha256": "d7d558a5525ba7a1196d3f7daf84b5540c1cade5c9a9611f17430ae18722ebe6",
+  "body_complete": true,
+  "pdf_signature": true
+}

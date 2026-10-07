@@ -1,0 +1,24 @@
+{
+  "source_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/06/Final_Press-Release-INTRO-Technology-SWDC-ink-MoU-for-contracting-and-construction-at-Kemet-Data-Center-28OCT-2024.pdf",
+  "kind": "pdf",
+  "discovered_from": "https://sterlingandwilsondc.com/news-press-release/; https://sterlingandwilsondc.com/newsroom/",
+  "observed_at": "2026-10-07T17:33:38+00:00",
+  "completed_at": "2026-10-07T17:33:39+00:00",
+  "access_method": "curl.exe bounded public GET; bodies discarded; no site code executed",
+  "http_status": 200,
+  "effective_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/06/Final_Press-Release-INTRO-Technology-SWDC-ink-MoU-for-contracting-and-construction-at-Kemet-Data-Center-28OCT-2024.pdf",
+  "content_type": "application/pdf",
+  "curl_exit_code": 0,
+  "error": "",
+  "response_headers": [
+    "HTTP/1.1 200 OK",
+    "Date: Wed, 07 Oct 2026 17:33:39 GMT",
+    "Last-Modified: Thu, 12 Jun 2025 11:31:25 GMT",
+    "Content-Length: 188568",
+    "Content-Type: application/pdf"
+  ],
+  "size_bytes": 188568,
+  "sha256": "e78c576a04fee2508d1b452c5b7b0122e964b50fa34c2abce454555a376d2a06",
+  "body_complete": true,
+  "pdf_signature": true
+}

@@ -1,0 +1,24 @@
+{
+  "source_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/8.press_release_sterling_and_wilson_becomes_implem_001.pdf",
+  "kind": "pdf",
+  "discovered_from": "https://sterlingandwilsondc.com/news-press-release/",
+  "observed_at": "2026-10-07T17:33:40+00:00",
+  "completed_at": "2026-10-07T17:33:45+00:00",
+  "access_method": "curl.exe bounded public GET; bodies discarded; no site code executed",
+  "http_status": 200,
+  "effective_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/8.press_release_sterling_and_wilson_becomes_implem_001.pdf",
+  "content_type": "application/pdf",
+  "curl_exit_code": 0,
+  "error": "",
+  "response_headers": [
+    "HTTP/1.1 200 OK",
+    "Date: Wed, 07 Oct 2026 17:33:41 GMT",
+    "Last-Modified: Fri, 25 Jul 2025 11:08:18 GMT",
+    "Content-Length: 2108465",
+    "Content-Type: application/pdf"
+  ],
+  "size_bytes": 2108465,
+  "sha256": "ab432753baa2da8ec314b0c46da9b4e8bd432306264c064f61f47fc59310502a",
+  "body_complete": true,
+  "pdf_signature": true
+}

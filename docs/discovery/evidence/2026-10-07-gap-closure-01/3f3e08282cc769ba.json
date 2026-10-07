@@ -1,0 +1,30 @@
+{
+  "source_url": "https://sterlingone.darwinbox.in/ms/candidatev2/a688b512869b6c/careers/home",
+  "kind": "careers-destination",
+  "discovered_from": "https://sterlingandwilsondc.com/careers/",
+  "observed_at": "2026-10-07T17:33:47+00:00",
+  "completed_at": "2026-10-07T17:33:49+00:00",
+  "access_method": "curl.exe bounded public GET; bodies discarded; no site code executed",
+  "http_status": 200,
+  "effective_url": "https://sterlingone.darwinbox.in/ms/candidatev2/a688b512869b6c/careers/home",
+  "content_type": "text/html; charset=utf-8",
+  "curl_exit_code": 0,
+  "error": "",
+  "response_headers": [
+    "HTTP/1.1 200 OK",
+    "Date: Wed, 07 Oct 2026 17:33:49 GMT",
+    "Content-Type: text/html; charset=utf-8"
+  ],
+  "size_bytes": 1086,
+  "sha256": "d523af43e24bd72d99e2810b8f556517f7c5f937c97e9ccf5f3e80435852e4b0",
+  "body_complete": true,
+  "pdf_signature": false,
+  "html_metadata": {
+    "title": "Sterling & Wilson Data Centre Private Limited",
+    "meta": {
+      "og:title": "Sterling & Wilson Data Centre Private Limited ",
+      "og:image": "https://darwinbox-data-prod-mum.s3.ap-south-1.amazonaws.com/INSTANCE1_a6848178fc5f72_369/logo/a1641475826a86ebc63d65e__tenant-avatar-369_1914660849.png"
+    },
+    "canonicals": []
+  }
+}

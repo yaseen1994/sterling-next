@@ -1,0 +1,24 @@
+{
+  "source_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/Sterling_and_Wilson_signs_MoU_with_DataVolt_to_construct_state_of_the_art_data_centers.pdf",
+  "kind": "pdf",
+  "discovered_from": "https://sterlingandwilsondc.com/news-press-release/",
+  "observed_at": "2026-10-07T17:33:42+00:00",
+  "completed_at": "2026-10-07T17:33:44+00:00",
+  "access_method": "curl.exe bounded public GET; bodies discarded; no site code executed",
+  "http_status": 200,
+  "effective_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/Sterling_and_Wilson_signs_MoU_with_DataVolt_to_construct_state_of_the_art_data_centers.pdf",
+  "content_type": "application/pdf",
+  "curl_exit_code": 0,
+  "error": "",
+  "response_headers": [
+    "HTTP/1.1 200 OK",
+    "Date: Wed, 07 Oct 2026 17:33:43 GMT",
+    "Last-Modified: Fri, 25 Jul 2025 11:15:09 GMT",
+    "Content-Length: 244865",
+    "Content-Type: application/pdf"
+  ],
+  "size_bytes": 244865,
+  "sha256": "09863fa72c05f9880b74d2dc31ba89d01157aac2bef619f0fa65762a04783309",
+  "body_complete": true,
+  "pdf_signature": true
+}

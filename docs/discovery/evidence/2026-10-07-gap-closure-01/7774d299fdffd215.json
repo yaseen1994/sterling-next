@@ -1,0 +1,24 @@
+{
+  "source_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/13-Upcoming-startups-to-get-a-boost-Raje-Kanchan-Kesari24082018.pdf",
+  "kind": "pdf",
+  "discovered_from": "https://sterlingandwilsondc.com/news-press-release/",
+  "observed_at": "2026-10-07T17:33:40+00:00",
+  "completed_at": "2026-10-07T17:33:40+00:00",
+  "access_method": "curl.exe bounded public GET; bodies discarded; no site code executed",
+  "http_status": 200,
+  "effective_url": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/13-Upcoming-startups-to-get-a-boost-Raje-Kanchan-Kesari24082018.pdf",
+  "content_type": "application/pdf",
+  "curl_exit_code": 0,
+  "error": "",
+  "response_headers": [
+    "HTTP/1.1 200 OK",
+    "Date: Wed, 07 Oct 2026 17:33:40 GMT",
+    "Last-Modified: Fri, 25 Jul 2025 11:39:06 GMT",
+    "Content-Length: 47760",
+    "Content-Type: application/pdf"
+  ],
+  "size_bytes": 47760,
+  "sha256": "804c425b31ebc443b8845097467c2e0dbd382bea8c3dae021d1a251555072145",
+  "body_complete": true,
+  "pdf_signature": true
+}
