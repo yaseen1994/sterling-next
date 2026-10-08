@@ -1,6 +1,12 @@
 # Current state
 
-Updated: 2026-10-07
+Updated: 2026-10-08
+
+Workflow setup reverified, 2026-10-08: workspace confirmed as C:\Projects\React\sterling-next; initial Git worktree clean. Read AGENTS.md, PROJECT.md, STATUS.md, the Cursor rule, decisions and pending owner decisions. Existing 30-line rule has valid description/alwaysApply frontmatter and already persists the requested responsibilities. Reused the established documentation workflow; no application scaffold or production components created.
+
+Setup checks: seven required workflow/discovery documents exist, decode as UTF-8 and are tracked; configured Git name/email and existing workflow baseline c50bd15 verified. No identity configuration needed. Documentation diff and whitespace review apply; application checks do not apply because no root package.json exists. This setup pass does not repeat the historical discovery checks or establish Cursor rule activation, independent verification or owner acceptance. Scoped STATUS.md commit after checks; no push authorized or performed.
+
+Setup handoff: Phase 0 has existing evidence and remains pending. Resume REPORT.md and OWNER-DECISIONS.md D1–D8, resolve material owner requirements and plan bounded remaining evidence work before bootstrap. This setup request provides no new answers or discovery acceptance.
 
 Latest bounded browser pass (17:45 UTC): 24 new mobile/tablet states on homepage and Smart Operations in docs/discovery/evidence/2026-10-07-browser-02/. Total 67 captures across the same 21 routes; interactions.csv 136 rows. Controlled first-FAQ mobile Enter/Space and tablet Enter show answers from observed closed states. Settled mobile Escape closes popup and restores trigger focus; tablet Escape collapses Services while main menu stays open. Earlier sampled failures are qualified, not reproduced here. Project Next slide receives focus/Enter; award Enter tool action times out, so keyboard success/failure remains unverified. Autoplay prevents deterministic slide attribution. No complete focus/ARIA/parity claim.
 
