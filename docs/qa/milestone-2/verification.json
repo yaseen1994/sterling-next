@@ -1,0 +1,12 @@
+{
+  "verified_at": "2026-10-08T11:25:10.565485+00:00",
+  "result": "pass",
+  "checks": [
+    "282 protected files and original instructions/root/final lint/dependency graph unchanged",
+    "No prereleases or unresolved Next plugin; trial Hooks plugin removed, no rule coverage falsely claimed",
+    "Component-only max-w-site generated in served CSS and computed 1200px maximum",
+    "18 JPEG/AX states: three widths, hierarchy/noindex, no overflow/logs, native control state/navigation and visible focus",
+    "Local links resolve; temporary browser reset/closed and task server stopped"
+  ],
+  "limits": "No final Hooks/Next-specific lint coverage; temporary font/provisional dimensions; no full parity or M2 review/owner acceptance"
+}

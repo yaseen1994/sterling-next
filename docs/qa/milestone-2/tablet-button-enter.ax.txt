@@ -1,0 +1,39 @@
+Browser tab: 5, Title: "Design system development demonstration", URL: "http://127.0.0.1:3101/dev/design-system".
+1 AXWebArea Design system development demonstration, URL: 127.0.0.1:3101/dev/design-system
+	2 container
+		3 container Reference visual foundation
+			4 text Development demonstration
+			5 heading Reference visual foundation, Value: 1, ID: demo-title
+				6 text Reference visual foundation
+			7 text Colors, measurements and outline controls derived from the reference. System fonts are temporary; this is not the client homepage or a claim of visual parity.
+		8 container Colors and typography
+			9 heading Colors and typography, Value: 2, ID: tokens-title
+				10 text Colors and typography
+			11 definition list
+				12 container Accent · #F15A22
+					13 text Accent · #F15A22
+				14 container Orange accent
+				15 container Text · #454545
+					16 text Text · #454545
+				17 container Dark gray text
+				18 container Dark surface · #231F20
+					19 text Dark surface · #231F20
+				20 container Dark surface
+			21 heading Subheading sample, Value: 3
+				22 text Subheading sample
+			23 text Body text uses a readable temporary system-font fallback. Container gutters and headings respond to the viewport; precise page layouts will be checked during their migration.
+		24 container Native controls
+			25 heading Native controls, Value: 2, ID: controls-title
+				26 text Native controls
+			27 text Use Tab to see focus, Enter or Space to activate the button, and Enter to follow the link. The disabled button is outside the tab sequence.
+			28 button (expanded) Hide sample, Secondary Actions: Collapse
+			29 link Description: View inverse surface, Value: 127.0.0.1:3101/dev/design-system#inverse
+			30 button (disabled) Disabled sample
+			36 text Local demonstration only. This button changes page state; the adjacent link navigates to a section.
+		31 container Inverse surface, ID: inverse
+			32 heading Inverse surface, Value: 2, ID: inverse-title
+				33 text Inverse surface
+			34 text White text and an outlined navigation link on the measured dark reference surface, without importing logos or media.
+			35 link Description: Return to development homepage, Value: 127.0.0.1:3101/
+
+The focused UI element is 28 button (expanded) Hide sample, Secondary Actions: Collapse

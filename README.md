@@ -29,11 +29,13 @@ npm.cmd run start
 
 The production server uses the already-built `.next` output; open http://localhost:3000 and an unknown URL such as http://localhost:3000/foundation-missing. The latter must show the custom not-found page with HTTP 404. For an alternate port use `npm.cmd run dev -- --port 3100` or `npm.cmd run start -- --port 3101`.
 
-`lint` uses ESLint's flat configuration and CLI, independently of build. `typecheck` runs `next typegen` then strict `tsc --noEmit`, so generated route types are available on a fresh checkout. Generated `.next/`, next-env.d.ts, node_modules/ and TypeScript incremental files are ignored. Tailwind 4 uses its PostCSS plugin and scans src/app only; historical reference evidence is not a styling source. System fonts avoid remote font requests.
+`lint` uses ESLint's flat configuration and CLI, independently of build. `typecheck` runs `next typegen` then strict `tsc --noEmit`, so generated route types are available on a fresh checkout. Generated `.next/`, next-env.d.ts, node_modules/ and TypeScript incremental files are ignored. Tailwind 4 scans application source under src/, including components; discovery evidence, dependencies and generated output are outside that source base. System fonts avoid remote font requests. Next-specific lint rules remain deferred because of the unresolved vulnerable glob chain; the compatible Hooks plugin brings a mandatory prerelease dependency, conflicting with the existing version policy. Neither framework nor Hooks rule coverage is claimed; see docs/milestone-2.md.
 
 GitHub Actions (`.github/workflows/checks.yml`) uses the documented Node/npm baseline and runs npm ci, lint, typecheck and build on main pushes and pull requests. It requires no configured secrets and does not deploy. A local pass does not claim a GitHub-hosted run passed.
 
 ## Structure and handoff
+
+Milestone 2 local review: http://localhost:3000/dev/design-system (or your selected port). [Milestone 2](docs/milestone-2.md) records reference-derived tokens, Container/Section/Button/link-button/Heading primitives and provisional differences. The root foundation page remains available. The development demonstration inherits noindex and must be removed or access-restricted before production launch; noindex is not access control. No header/footer/homepage migration, font/media import or CMS integration is included.
 
 - `src/app/layout.tsx`: semantic HTML root and temporary noindex metadata.
 - `src/app/page.tsx`: neutral server-rendered development page styled with Tailwind.

@@ -20,6 +20,8 @@ Configured lint, typecheck and production build pass. Relevant behavioral tests 
 
 ## Cutover
 
+Remove or access-restrict `/dev/design-system` before production launch. Its noindex metadata is temporary and does not restrict access; review all development routes and production indexing settings explicitly.
+
 Confirm accepted scope and outstanding issues; clean hosting; runtime secrets; domain authority; email DNS records; certificates; redirect rules; analytics/consent; rollback target; monitoring owner. Keep production DNS/email changes scoped and authorized. Do not decommission the old installation until dependencies and rollback are assessed; isolate suspect infrastructure appropriately.
 
 After cutover check key URLs, forms, downloads, indexing directives and error logs. Monitor 404s, mail failures and search coverage. Security/account remediation of the old host and domain/email controls is a separate owner responsibility, tracked explicitly if needed.

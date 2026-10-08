@@ -1,0 +1,1123 @@
+{
+  "checked_at": "2026-10-08T11:13:21.268Z",
+  "checks": [
+    {
+      "name": "desktop-initial",
+      "url": "http://127.0.0.1:3101/dev/design-system",
+      "observed_at": "2026-10-08T11:12:28.993Z",
+      "metrics": {
+        "button": {
+          "controls": "sample-panel",
+          "expanded": "false",
+          "minHeight": "44px",
+          "tag": "BUTTON",
+          "type": "button"
+        },
+        "clientWidth": 1425,
+        "container": {
+          "maxWidth": "1200px",
+          "width": 1200,
+          "x": 112.4000015258789
+        },
+        "focus": {
+          "href": null,
+          "outline": "lab(7.78673 1.82346 -15.0537) none 2.4px",
+          "outlineOffset": "0px",
+          "tag": "BODY",
+          "text": "Development demonstrationReference visual foundationColors, measuremen",
+          "visible": false
+        },
+        "headings": [
+          {
+            "fontSize": "37.44px",
+            "tag": "H1",
+            "text": "Reference visual foundation"
+          },
+          {
+            "fontSize": "37.44px",
+            "tag": "H2",
+            "text": "Colors and typography"
+          },
+          {
+            "fontSize": "25.92px",
+            "tag": "H3",
+            "text": "Subheading sample"
+          },
+          {
+            "fontSize": "37.44px",
+            "tag": "H2",
+            "text": "Native controls"
+          },
+          {
+            "fontSize": "37.44px",
+            "tag": "H2",
+            "text": "Inverse surface"
+          }
+        ],
+        "panelHidden": true,
+        "robots": "noindex, nofollow",
+        "scrollWidth": 1425,
+        "viewport": {
+          "height": 900,
+          "width": 1440
+        }
+      }
+    },
+    {
+      "name": "desktop-button-focus",
+      "url": "http://127.0.0.1:3101/dev/design-system",
+      "observed_at": "2026-10-08T11:12:29.269Z",
+      "metrics": {
+        "button": {
+          "controls": "sample-panel",
+          "expanded": "false",
+          "minHeight": "44px",
+          "tag": "BUTTON",
+          "type": "button"
+        },
+        "clientWidth": 1425,
+        "container": {
+          "maxWidth": "1200px",
+          "width": 1200,
+          "x": 112.4000015258789
+        },
+        "focus": {
+          "href": null,
+          "outline": "rgb(69, 69, 69) solid 2.4px",
+          "outlineOffset": "4px",
+          "tag": "BUTTON",
+          "text": "Show sample",
+          "visible": true
+        },
+        "headings": [
+          {
+            "fontSize": "37.44px",
+            "tag": "H1",
+            "text": "Reference visual foundation"
+          },
+          {
+            "fontSize": "37.44px",
+            "tag": "H2",
+            "text": "Colors and typography"
+          },
+          {
+            "fontSize": "25.92px",
+            "tag": "H3",
+            "text": "Subheading sample"
+          },
+          {
+            "fontSize": "37.44px",
+            "tag": "H2",
+            "text": "Native controls"
+          },
+          {
+            "fontSize": "37.44px",
+            "tag": "H2",
+            "text": "Inverse surface"
+          }
+        ],
+        "panelHidden": true,
+        "robots": "noindex, nofollow",
+        "scrollWidth": 1425,
+        "viewport": {
+          "height": 900,
+          "width": 1440
+        }
+      }
+    },
+    {
+      "name": "desktop-button-enter",
+      "url": "http://127.0.0.1:3101/dev/design-system",
+      "observed_at": "2026-10-08T11:12:29.537Z",
+      "metrics": {
+        "button": {
+          "controls": "sample-panel",
+          "expanded": "true",
+          "minHeight": "44px",
+          "tag": "BUTTON",
+          "type": "button"
+        },
+        "clientWidth": 1425,
+        "container": {
+          "maxWidth": "1200px",
+          "width": 1200,
+          "x": 112.4000015258789
+        },
+        "focus": {
+          "href": null,
+          "outline": "rgb(69, 69, 69) solid 2.4px",
+          "outlineOffset": "4px",
+          "tag": "BUTTON",
+          "text": "Hide sample",
+          "visible": true
+        },
+        "headings": [
+          {
+            "fontSize": "37.44px",
+            "tag": "H1",
+            "text": "Reference visual foundation"
+          },
+          {
+            "fontSize": "37.44px",
+            "tag": "H2",
+            "text": "Colors and typography"
+          },
+          {
+            "fontSize": "25.92px",
+            "tag": "H3",
+            "text": "Subheading sample"
+          },
+          {
+            "fontSize": "37.44px",
+            "tag": "H2",
+            "text": "Native controls"
+          },
+          {
+            "fontSize": "37.44px",
+            "tag": "H2",
+            "text": "Inverse surface"
+          }
+        ],
+        "panelHidden": false,
+        "robots": "noindex, nofollow",
+        "scrollWidth": 1425,
+        "viewport": {
+          "height": 900,
+          "width": 1440
+        }
+      }
+    },
+    {
+      "name": "desktop-button-space",
+      "url": "http://127.0.0.1:3101/dev/design-system",
+      "observed_at": "2026-10-08T11:12:29.802Z",
+      "metrics": {
+        "button": {
+          "controls": "sample-panel",
+          "expanded": "false",
+          "minHeight": "44px",
+          "tag": "BUTTON",
+          "type": "button"
+        },
+        "clientWidth": 1425,
+        "container": {
+          "maxWidth": "1200px",
+          "width": 1200,
+          "x": 112.4000015258789
+        },
+        "focus": {
+          "href": null,
+          "outline": "rgb(69, 69, 69) solid 2.4px",
+          "outlineOffset": "4px",
+          "tag": "BUTTON",
+          "text": "Show sample",
+          "visible": true
+        },
+        "headings": [
+          {
+            "fontSize": "37.44px",
+            "tag": "H1",
+            "text": "Reference visual foundation"
+          },
+          {
+            "fontSize": "37.44px",
+            "tag": "H2",
+            "text": "Colors and typography"
+          },
+          {
+            "fontSize": "25.92px",
+            "tag": "H3",
+            "text": "Subheading sample"
+          },
+          {
+            "fontSize": "37.44px",
+            "tag": "H2",
+            "text": "Native controls"
+          },
+          {
+            "fontSize": "37.44px",
+            "tag": "H2",
+            "text": "Inverse surface"
+          }
+        ],
+        "panelHidden": true,
+        "robots": "noindex, nofollow",
+        "scrollWidth": 1425,
+        "viewport": {
+          "height": 900,
+          "width": 1440
+        }
+      }
+    },
+    {
+      "name": "desktop-fragment-link",
+      "url": "http://127.0.0.1:3101/dev/design-system#inverse",
+      "observed_at": "2026-10-08T11:12:30.250Z",
+      "metrics": {
+        "button": {
+          "controls": "sample-panel",
+          "expanded": "false",
+          "minHeight": "44px",
+          "tag": "BUTTON",
+          "type": "button"
+        },
+        "clientWidth": 1425,
+        "container": {
+          "maxWidth": "1200px",
+          "width": 1200,
+          "x": 112.4000015258789
+        },
+        "focus": {
+          "href": "#inverse",
+          "outline": "rgb(69, 69, 69) solid 2.4px",
+          "outlineOffset": "4px",
+          "tag": "A",
+          "text": "View inverse surface",
+          "visible": true
+        },
+        "headings": [
+          {
+            "fontSize": "37.44px",
+            "tag": "H1",
+            "text": "Reference visual foundation"
+          },
+          {
+            "fontSize": "37.44px",
+            "tag": "H2",
+            "text": "Colors and typography"
+          },
+          {
+            "fontSize": "25.92px",
+            "tag": "H3",
+            "text": "Subheading sample"
+          },
+          {
+            "fontSize": "37.44px",
+            "tag": "H2",
+            "text": "Native controls"
+          },
+          {
+            "fontSize": "37.44px",
+            "tag": "H2",
+            "text": "Inverse surface"
+          }
+        ],
+        "panelHidden": true,
+        "robots": "noindex, nofollow",
+        "scrollWidth": 1425,
+        "viewport": {
+          "height": 900,
+          "width": 1440
+        }
+      }
+    },
+    {
+      "name": "desktop-disabled-skipped-home-focus",
+      "url": "http://127.0.0.1:3101/dev/design-system#inverse",
+      "observed_at": "2026-10-08T11:12:30.624Z",
+      "metrics": {
+        "button": {
+          "controls": "sample-panel",
+          "expanded": "false",
+          "minHeight": "44px",
+          "tag": "BUTTON",
+          "type": "button"
+        },
+        "clientWidth": 1425,
+        "container": {
+          "maxWidth": "1200px",
+          "width": 1200,
+          "x": 112.4000015258789
+        },
+        "focus": {
+          "href": "/",
+          "outline": "rgb(255, 255, 255) solid 2.4px",
+          "outlineOffset": "4px",
+          "tag": "A",
+          "text": "Return to development homepage",
+          "visible": true
+        },
+        "headings": [
+          {
+            "fontSize": "37.44px",
+            "tag": "H1",
+            "text": "Reference visual foundation"
+          },
+          {
+            "fontSize": "37.44px",
+            "tag": "H2",
+            "text": "Colors and typography"
+          },
+          {
+            "fontSize": "25.92px",
+            "tag": "H3",
+            "text": "Subheading sample"
+          },
+          {
+            "fontSize": "37.44px",
+            "tag": "H2",
+            "text": "Native controls"
+          },
+          {
+            "fontSize": "37.44px",
+            "tag": "H2",
+            "text": "Inverse surface"
+          }
+        ],
+        "panelHidden": true,
+        "robots": "noindex, nofollow",
+        "scrollWidth": 1425,
+        "viewport": {
+          "height": 900,
+          "width": 1440
+        }
+      }
+    },
+    {
+      "name": "tablet-initial",
+      "url": "http://127.0.0.1:3101/dev/design-system",
+      "observed_at": "2026-10-08T11:13:12.098Z",
+      "metrics": {
+        "button": {
+          "controls": "sample-panel",
+          "expanded": "false",
+          "minHeight": "44px",
+          "tag": "BUTTON",
+          "type": "button"
+        },
+        "clientWidth": 753,
+        "container": {
+          "maxWidth": "1200px",
+          "width": 692.7999877929688,
+          "x": 30
+        },
+        "focus": {
+          "href": null,
+          "outline": "lab(7.78673 1.82346 -15.0537) none 2.4px",
+          "outlineOffset": "0px",
+          "tag": "BODY",
+          "text": "Development demonstrationReference visual foundationColors, measuremen",
+          "visible": false
+        },
+        "headings": [
+          {
+            "fontSize": "31px",
+            "tag": "H1",
+            "text": "Reference visual foundation"
+          },
+          {
+            "fontSize": "26.88px",
+            "tag": "H2",
+            "text": "Colors and typography"
+          },
+          {
+            "fontSize": "23.36px",
+            "tag": "H3",
+            "text": "Subheading sample"
+          },
+          {
+            "fontSize": "26.88px",
+            "tag": "H2",
+            "text": "Native controls"
+          },
+          {
+            "fontSize": "26.88px",
+            "tag": "H2",
+            "text": "Inverse surface"
+          }
+        ],
+        "panelHidden": true,
+        "robots": "noindex, nofollow",
+        "scrollWidth": 753,
+        "viewport": {
+          "height": 1024,
+          "width": 768
+        }
+      }
+    },
+    {
+      "name": "tablet-button-focus",
+      "url": "http://127.0.0.1:3101/dev/design-system",
+      "observed_at": "2026-10-08T11:13:12.342Z",
+      "metrics": {
+        "button": {
+          "controls": "sample-panel",
+          "expanded": "false",
+          "minHeight": "44px",
+          "tag": "BUTTON",
+          "type": "button"
+        },
+        "clientWidth": 753,
+        "container": {
+          "maxWidth": "1200px",
+          "width": 692.7999877929688,
+          "x": 30
+        },
+        "focus": {
+          "href": null,
+          "outline": "rgb(69, 69, 69) solid 2.4px",
+          "outlineOffset": "4px",
+          "tag": "BUTTON",
+          "text": "Show sample",
+          "visible": true
+        },
+        "headings": [
+          {
+            "fontSize": "31px",
+            "tag": "H1",
+            "text": "Reference visual foundation"
+          },
+          {
+            "fontSize": "26.88px",
+            "tag": "H2",
+            "text": "Colors and typography"
+          },
+          {
+            "fontSize": "23.36px",
+            "tag": "H3",
+            "text": "Subheading sample"
+          },
+          {
+            "fontSize": "26.88px",
+            "tag": "H2",
+            "text": "Native controls"
+          },
+          {
+            "fontSize": "26.88px",
+            "tag": "H2",
+            "text": "Inverse surface"
+          }
+        ],
+        "panelHidden": true,
+        "robots": "noindex, nofollow",
+        "scrollWidth": 753,
+        "viewport": {
+          "height": 1024,
+          "width": 768
+        }
+      }
+    },
+    {
+      "name": "tablet-button-enter",
+      "url": "http://127.0.0.1:3101/dev/design-system",
+      "observed_at": "2026-10-08T11:13:12.594Z",
+      "metrics": {
+        "button": {
+          "controls": "sample-panel",
+          "expanded": "true",
+          "minHeight": "44px",
+          "tag": "BUTTON",
+          "type": "button"
+        },
+        "clientWidth": 753,
+        "container": {
+          "maxWidth": "1200px",
+          "width": 692.7999877929688,
+          "x": 30
+        },
+        "focus": {
+          "href": null,
+          "outline": "rgb(69, 69, 69) solid 2.4px",
+          "outlineOffset": "4px",
+          "tag": "BUTTON",
+          "text": "Hide sample",
+          "visible": true
+        },
+        "headings": [
+          {
+            "fontSize": "31px",
+            "tag": "H1",
+            "text": "Reference visual foundation"
+          },
+          {
+            "fontSize": "26.88px",
+            "tag": "H2",
+            "text": "Colors and typography"
+          },
+          {
+            "fontSize": "23.36px",
+            "tag": "H3",
+            "text": "Subheading sample"
+          },
+          {
+            "fontSize": "26.88px",
+            "tag": "H2",
+            "text": "Native controls"
+          },
+          {
+            "fontSize": "26.88px",
+            "tag": "H2",
+            "text": "Inverse surface"
+          }
+        ],
+        "panelHidden": false,
+        "robots": "noindex, nofollow",
+        "scrollWidth": 753,
+        "viewport": {
+          "height": 1024,
+          "width": 768
+        }
+      }
+    },
+    {
+      "name": "tablet-button-space",
+      "url": "http://127.0.0.1:3101/dev/design-system",
+      "observed_at": "2026-10-08T11:13:12.857Z",
+      "metrics": {
+        "button": {
+          "controls": "sample-panel",
+          "expanded": "false",
+          "minHeight": "44px",
+          "tag": "BUTTON",
+          "type": "button"
+        },
+        "clientWidth": 753,
+        "container": {
+          "maxWidth": "1200px",
+          "width": 692.7999877929688,
+          "x": 30
+        },
+        "focus": {
+          "href": null,
+          "outline": "rgb(69, 69, 69) solid 2.4px",
+          "outlineOffset": "4px",
+          "tag": "BUTTON",
+          "text": "Show sample",
+          "visible": true
+        },
+        "headings": [
+          {
+            "fontSize": "31px",
+            "tag": "H1",
+            "text": "Reference visual foundation"
+          },
+          {
+            "fontSize": "26.88px",
+            "tag": "H2",
+            "text": "Colors and typography"
+          },
+          {
+            "fontSize": "23.36px",
+            "tag": "H3",
+            "text": "Subheading sample"
+          },
+          {
+            "fontSize": "26.88px",
+            "tag": "H2",
+            "text": "Native controls"
+          },
+          {
+            "fontSize": "26.88px",
+            "tag": "H2",
+            "text": "Inverse surface"
+          }
+        ],
+        "panelHidden": true,
+        "robots": "noindex, nofollow",
+        "scrollWidth": 753,
+        "viewport": {
+          "height": 1024,
+          "width": 768
+        }
+      }
+    },
+    {
+      "name": "tablet-fragment-link",
+      "url": "http://127.0.0.1:3101/dev/design-system#inverse",
+      "observed_at": "2026-10-08T11:13:13.320Z",
+      "metrics": {
+        "button": {
+          "controls": "sample-panel",
+          "expanded": "false",
+          "minHeight": "44px",
+          "tag": "BUTTON",
+          "type": "button"
+        },
+        "clientWidth": 753,
+        "container": {
+          "maxWidth": "1200px",
+          "width": 692.7999877929688,
+          "x": 30
+        },
+        "focus": {
+          "href": "#inverse",
+          "outline": "rgb(69, 69, 69) solid 2.4px",
+          "outlineOffset": "4px",
+          "tag": "A",
+          "text": "View inverse surface",
+          "visible": true
+        },
+        "headings": [
+          {
+            "fontSize": "31px",
+            "tag": "H1",
+            "text": "Reference visual foundation"
+          },
+          {
+            "fontSize": "26.88px",
+            "tag": "H2",
+            "text": "Colors and typography"
+          },
+          {
+            "fontSize": "23.36px",
+            "tag": "H3",
+            "text": "Subheading sample"
+          },
+          {
+            "fontSize": "26.88px",
+            "tag": "H2",
+            "text": "Native controls"
+          },
+          {
+            "fontSize": "26.88px",
+            "tag": "H2",
+            "text": "Inverse surface"
+          }
+        ],
+        "panelHidden": true,
+        "robots": "noindex, nofollow",
+        "scrollWidth": 753,
+        "viewport": {
+          "height": 1024,
+          "width": 768
+        }
+      }
+    },
+    {
+      "name": "tablet-disabled-skipped-home-focus",
+      "url": "http://127.0.0.1:3101/dev/design-system#inverse",
+      "observed_at": "2026-10-08T11:13:13.578Z",
+      "metrics": {
+        "button": {
+          "controls": "sample-panel",
+          "expanded": "false",
+          "minHeight": "44px",
+          "tag": "BUTTON",
+          "type": "button"
+        },
+        "clientWidth": 753,
+        "container": {
+          "maxWidth": "1200px",
+          "width": 692.7999877929688,
+          "x": 30
+        },
+        "focus": {
+          "href": "/",
+          "outline": "rgb(255, 255, 255) solid 2.4px",
+          "outlineOffset": "4px",
+          "tag": "A",
+          "text": "Return to development homepage",
+          "visible": true
+        },
+        "headings": [
+          {
+            "fontSize": "31px",
+            "tag": "H1",
+            "text": "Reference visual foundation"
+          },
+          {
+            "fontSize": "26.88px",
+            "tag": "H2",
+            "text": "Colors and typography"
+          },
+          {
+            "fontSize": "23.36px",
+            "tag": "H3",
+            "text": "Subheading sample"
+          },
+          {
+            "fontSize": "26.88px",
+            "tag": "H2",
+            "text": "Native controls"
+          },
+          {
+            "fontSize": "26.88px",
+            "tag": "H2",
+            "text": "Inverse surface"
+          }
+        ],
+        "panelHidden": true,
+        "robots": "noindex, nofollow",
+        "scrollWidth": 753,
+        "viewport": {
+          "height": 1024,
+          "width": 768
+        }
+      }
+    },
+    {
+      "name": "mobile-initial",
+      "url": "http://127.0.0.1:3101/dev/design-system",
+      "observed_at": "2026-10-08T11:13:14.399Z",
+      "metrics": {
+        "button": {
+          "controls": "sample-panel",
+          "expanded": "false",
+          "minHeight": "44px",
+          "tag": "BUTTON",
+          "type": "button"
+        },
+        "clientWidth": 375,
+        "container": {
+          "maxWidth": "1200px",
+          "width": 345.20001220703125,
+          "x": 15
+        },
+        "focus": {
+          "href": null,
+          "outline": "lab(7.78673 1.82346 -15.0537) none 2.4px",
+          "outlineOffset": "0px",
+          "tag": "BODY",
+          "text": "Development demonstrationReference visual foundationColors, measuremen",
+          "visible": false
+        },
+        "headings": [
+          {
+            "fontSize": "31px",
+            "tag": "H1",
+            "text": "Reference visual foundation"
+          },
+          {
+            "fontSize": "27.328px",
+            "tag": "H2",
+            "text": "Colors and typography"
+          },
+          {
+            "fontSize": "23.424px",
+            "tag": "H3",
+            "text": "Subheading sample"
+          },
+          {
+            "fontSize": "27.328px",
+            "tag": "H2",
+            "text": "Native controls"
+          },
+          {
+            "fontSize": "27.328px",
+            "tag": "H2",
+            "text": "Inverse surface"
+          }
+        ],
+        "panelHidden": true,
+        "robots": "noindex, nofollow",
+        "scrollWidth": 375,
+        "viewport": {
+          "height": 844,
+          "width": 390
+        }
+      }
+    },
+    {
+      "name": "mobile-button-focus",
+      "url": "http://127.0.0.1:3101/dev/design-system",
+      "observed_at": "2026-10-08T11:13:14.872Z",
+      "metrics": {
+        "button": {
+          "controls": "sample-panel",
+          "expanded": "false",
+          "minHeight": "44px",
+          "tag": "BUTTON",
+          "type": "button"
+        },
+        "clientWidth": 375,
+        "container": {
+          "maxWidth": "1200px",
+          "width": 345.20001220703125,
+          "x": 15
+        },
+        "focus": {
+          "href": null,
+          "outline": "rgb(69, 69, 69) solid 2.4px",
+          "outlineOffset": "4px",
+          "tag": "BUTTON",
+          "text": "Show sample",
+          "visible": true
+        },
+        "headings": [
+          {
+            "fontSize": "31px",
+            "tag": "H1",
+            "text": "Reference visual foundation"
+          },
+          {
+            "fontSize": "27.328px",
+            "tag": "H2",
+            "text": "Colors and typography"
+          },
+          {
+            "fontSize": "23.424px",
+            "tag": "H3",
+            "text": "Subheading sample"
+          },
+          {
+            "fontSize": "27.328px",
+            "tag": "H2",
+            "text": "Native controls"
+          },
+          {
+            "fontSize": "27.328px",
+            "tag": "H2",
+            "text": "Inverse surface"
+          }
+        ],
+        "panelHidden": true,
+        "robots": "noindex, nofollow",
+        "scrollWidth": 375,
+        "viewport": {
+          "height": 844,
+          "width": 390
+        }
+      }
+    },
+    {
+      "name": "mobile-button-enter",
+      "url": "http://127.0.0.1:3101/dev/design-system",
+      "observed_at": "2026-10-08T11:13:15.438Z",
+      "metrics": {
+        "button": {
+          "controls": "sample-panel",
+          "expanded": "true",
+          "minHeight": "44px",
+          "tag": "BUTTON",
+          "type": "button"
+        },
+        "clientWidth": 375,
+        "container": {
+          "maxWidth": "1200px",
+          "width": 345.20001220703125,
+          "x": 15
+        },
+        "focus": {
+          "href": null,
+          "outline": "rgb(69, 69, 69) solid 2.4px",
+          "outlineOffset": "4px",
+          "tag": "BUTTON",
+          "text": "Hide sample",
+          "visible": true
+        },
+        "headings": [
+          {
+            "fontSize": "31px",
+            "tag": "H1",
+            "text": "Reference visual foundation"
+          },
+          {
+            "fontSize": "27.328px",
+            "tag": "H2",
+            "text": "Colors and typography"
+          },
+          {
+            "fontSize": "23.424px",
+            "tag": "H3",
+            "text": "Subheading sample"
+          },
+          {
+            "fontSize": "27.328px",
+            "tag": "H2",
+            "text": "Native controls"
+          },
+          {
+            "fontSize": "27.328px",
+            "tag": "H2",
+            "text": "Inverse surface"
+          }
+        ],
+        "panelHidden": false,
+        "robots": "noindex, nofollow",
+        "scrollWidth": 375,
+        "viewport": {
+          "height": 844,
+          "width": 390
+        }
+      }
+    },
+    {
+      "name": "mobile-button-space",
+      "url": "http://127.0.0.1:3101/dev/design-system",
+      "observed_at": "2026-10-08T11:13:16.030Z",
+      "metrics": {
+        "button": {
+          "controls": "sample-panel",
+          "expanded": "false",
+          "minHeight": "44px",
+          "tag": "BUTTON",
+          "type": "button"
+        },
+        "clientWidth": 375,
+        "container": {
+          "maxWidth": "1200px",
+          "width": 345.20001220703125,
+          "x": 15
+        },
+        "focus": {
+          "href": null,
+          "outline": "rgb(69, 69, 69) solid 2.4px",
+          "outlineOffset": "4px",
+          "tag": "BUTTON",
+          "text": "Show sample",
+          "visible": true
+        },
+        "headings": [
+          {
+            "fontSize": "31px",
+            "tag": "H1",
+            "text": "Reference visual foundation"
+          },
+          {
+            "fontSize": "27.328px",
+            "tag": "H2",
+            "text": "Colors and typography"
+          },
+          {
+            "fontSize": "23.424px",
+            "tag": "H3",
+            "text": "Subheading sample"
+          },
+          {
+            "fontSize": "27.328px",
+            "tag": "H2",
+            "text": "Native controls"
+          },
+          {
+            "fontSize": "27.328px",
+            "tag": "H2",
+            "text": "Inverse surface"
+          }
+        ],
+        "panelHidden": true,
+        "robots": "noindex, nofollow",
+        "scrollWidth": 375,
+        "viewport": {
+          "height": 844,
+          "width": 390
+        }
+      }
+    },
+    {
+      "name": "mobile-fragment-link",
+      "url": "http://127.0.0.1:3101/dev/design-system#inverse",
+      "observed_at": "2026-10-08T11:13:19.829Z",
+      "metrics": {
+        "button": {
+          "controls": "sample-panel",
+          "expanded": "false",
+          "minHeight": "44px",
+          "tag": "BUTTON",
+          "type": "button"
+        },
+        "clientWidth": 375,
+        "container": {
+          "maxWidth": "1200px",
+          "width": 345.20001220703125,
+          "x": 15
+        },
+        "focus": {
+          "href": "#inverse",
+          "outline": "rgb(69, 69, 69) solid 2.4px",
+          "outlineOffset": "4px",
+          "tag": "A",
+          "text": "View inverse surface",
+          "visible": true
+        },
+        "headings": [
+          {
+            "fontSize": "31px",
+            "tag": "H1",
+            "text": "Reference visual foundation"
+          },
+          {
+            "fontSize": "27.328px",
+            "tag": "H2",
+            "text": "Colors and typography"
+          },
+          {
+            "fontSize": "23.424px",
+            "tag": "H3",
+            "text": "Subheading sample"
+          },
+          {
+            "fontSize": "27.328px",
+            "tag": "H2",
+            "text": "Native controls"
+          },
+          {
+            "fontSize": "27.328px",
+            "tag": "H2",
+            "text": "Inverse surface"
+          }
+        ],
+        "panelHidden": true,
+        "robots": "noindex, nofollow",
+        "scrollWidth": 375,
+        "viewport": {
+          "height": 844,
+          "width": 390
+        }
+      }
+    },
+    {
+      "name": "mobile-disabled-skipped-home-focus",
+      "url": "http://127.0.0.1:3101/dev/design-system#inverse",
+      "observed_at": "2026-10-08T11:13:20.530Z",
+      "metrics": {
+        "button": {
+          "controls": "sample-panel",
+          "expanded": "false",
+          "minHeight": "44px",
+          "tag": "BUTTON",
+          "type": "button"
+        },
+        "clientWidth": 375,
+        "container": {
+          "maxWidth": "1200px",
+          "width": 345.20001220703125,
+          "x": 15
+        },
+        "focus": {
+          "href": "/",
+          "outline": "rgb(255, 255, 255) solid 2.4px",
+          "outlineOffset": "4px",
+          "tag": "A",
+          "text": "Return to development homepage",
+          "visible": true
+        },
+        "headings": [
+          {
+            "fontSize": "31px",
+            "tag": "H1",
+            "text": "Reference visual foundation"
+          },
+          {
+            "fontSize": "27.328px",
+            "tag": "H2",
+            "text": "Colors and typography"
+          },
+          {
+            "fontSize": "23.424px",
+            "tag": "H3",
+            "text": "Subheading sample"
+          },
+          {
+            "fontSize": "27.328px",
+            "tag": "H2",
+            "text": "Native controls"
+          },
+          {
+            "fontSize": "27.328px",
+            "tag": "H2",
+            "text": "Inverse surface"
+          }
+        ],
+        "panelHidden": true,
+        "robots": "noindex, nofollow",
+        "scrollWidth": 375,
+        "viewport": {
+          "height": 844,
+          "width": 390
+        }
+      }
+    }
+  ],
+  "logs": [],
+  "limits": "Local primitive demonstration, not migrated reference parity; system font/provisional dimensions remain"
+}

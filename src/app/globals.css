@@ -1,4 +1,52 @@
-@import "tailwindcss" source(".");
+@import "tailwindcss" source("../");
+
+/* Rounded baseline from the measured reference; see docs/milestone-2.md. */
+:root {
+  --site-gutter: 1.875rem;
+  --site-page-size: 2.34rem;
+  --site-section-size: 2.34rem;
+  --site-subheading-size: 1.62rem;
+  --control-border: #f15a22;
+}
+
+@media (width < 64rem) {
+  :root {
+    --site-page-size: 1.9375rem;
+    --site-section-size: 1.68rem;
+    --site-subheading-size: 1.46rem;
+  }
+}
+
+@media (width < 48rem) {
+  :root {
+    --site-gutter: 0.9375rem;
+    --site-section-size: 1.708rem;
+    --site-subheading-size: 1.464rem;
+  }
+}
+
+@theme inline {
+  --color-site-accent: #f15a22;
+  --color-site-text: #454545;
+  --color-site-ink: #000000;
+  --color-site-surface: #ffffff;
+  --color-site-dark: #231f20;
+  --color-site-inverse: #ffffff;
+  /* Livvic is evidenced, but not integrated until provenance/license checks. */
+  --font-site: Arial, Helvetica, sans-serif;
+  --container-site: 75rem;
+  --spacing-section: clamp(3rem, 5vw, 4.5rem);
+  --spacing-site-gap: 1.8rem;
+  --radius-control: 3px;
+  --text-site-page: var(--site-page-size);
+  --text-site-page--line-height: 1.2;
+  --text-site-section: var(--site-section-size);
+  --text-site-section--line-height: 1.2;
+  --text-site-subheading: var(--site-subheading-size);
+  --text-site-subheading--line-height: 1.2;
+  --text-site-body: clamp(1.125rem, 1.4vw, 1.26rem);
+  --text-site-body--line-height: 1.3;
+}
 
 body {
   font-family: Arial, Helvetica, sans-serif;

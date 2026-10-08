@@ -1,0 +1,11 @@
+{
+  "observed_at": "2026-10-08T11:15:29.381732+00:00",
+  "css_url": "http://127.0.0.1:3101/_next/static/chunks/2bfpf3e-oc9s0.css",
+  "sha256": "56ae02904e32ece6a82d72b5960b527d55c1663f2fa5444ec613c44b3bd98306",
+  "rule": ".max-w-site{max-width:75rem}",
+  "source_files": [
+    "src/components/ui/container.tsx"
+  ],
+  "browser_computed_max_width": "1200px",
+  "scope": "Class only in src/components generates in served CSS and visibly caps desktop container"
+}

@@ -2,6 +2,20 @@
 
 Updated: 2026-10-08
 
+## Milestone 2 — current implementation handoff
+
+Implemented: src/ Tailwind scanning (including components, excluding root discovery/generated/dependency trees); reference-derived semantic color/type/width/gutter/spacing/radius tokens; Container, Section, native Button/LinkButton and Heading in four src/components/ui files; noindex `/dev/design-system` demonstration with one local client disclosure. Root foundation retained. No client branding/media/font import, site header/footer/homepage migration, CMS/forms/animation dependency, deployment/domain changes or W1–W4 execution.
+
+Evidence: saved homepage/About/mobile screenshots and runtime styles read; only missing computed dimensions/control properties sampled live on existing homepage and About routes, saved separately in docs/qa/milestone-2/reference-measurements.json. Initial reference navigation timeout recovered by rebinding the loaded tab. Confirmed orange #F15A22, text #454545, dark footer #231F20, white/black and Livvic; rounded measurements/provisional breakpoint/control choices are explicit in docs/milestone-2.md. Temporary Arial/Helvetica/sans-serif retained until font provenance/license/integration checks; no full parity claim.
+
+Lint evaluation: Hooks 7.1.1 supports ESLint 10 and its trial negative fixture detected both core rules, with zero reported vulnerabilities. Final lock review found mandatory Babel -> gensync 1.0.0-beta.2, violating the existing no-prerelease requirement; trial plugin/rules removed, original stable lint graph retained. Hooks coverage is not enabled/claimed; a supported path or explicit policy exception needs ChatGPT review. Next plugin 16.4.0 still pins fast-glob 3.3.1 in the unresolved braces chain; no framework preset or force peers introduced. Both lint gaps are precise and documented, not passing checks inferred from the temporary probe.
+
+Verification: lint/typecheck/build passed; root/demo HTTP 200/noindex. Served `.max-w-site` rule exists only from components source and browser visibly caps desktop width at 1200px. 18 JPEG/AX states at desktop/tablet/mobile verify 30/15px gutters, one-h1 hierarchy, responsive styles, visible focus, Button Enter/Space state/ARIA, link fragment/home navigation, disabled skip and no overflow/logged warnings/errors. Local checks/measurements in docs/qa/milestone-2/; temporary browsers/server cleaned up. Historical evidence/manifests and original AGENTS/rule preserved; scoped diff/self-review/reference checks and git diff --check performed before one atomic commit/non-force push. GitHub-hosted Milestone 2 CI outcome is reported separately after delivery, not inferred from local checks.
+
+Review/acceptance: ChatGPT technical review COMPLETE for Milestone 1 foundation source/configuration at 25db82af9cb7436bdaf1c6038dad231e496ea3a0 and confirmed CI success, per supplied review outcome. Yaseen acceptance of Milestone 1 remains pending. Milestone 2 implementation/verification/self-review complete; ChatGPT review and Yaseen browser acceptance PENDING. Provisional tokens/fallback and development route are not approved client design or release readiness; remove/access-restrict `/dev/design-system` before launch.
+
+Next action: ChatGPT reviews the bounded Milestone 2 diff/evidence/provisional differences and supplies the next milestone; Yaseen browser acceptance and font/media rights remain open. Codex stops after commit/push; no shell/homepage migration or CMS integration begins. Earlier milestone entries below preserve delivery-time state and are superseded by the current review outcome where stated.
+
 ## Milestone 1 — current implementation handoff
 
 Implemented: neutral Next.js App Router foundation in this repository root, strict TypeScript with src/ and @/*, Tailwind 4/system fonts, semantic layout/homepage, accessible custom 404 and temporary noindex/nofollow. npm scripts/lockfile, pinned runtime and a secret-free GitHub Actions check are provided. No nested repository or app directory; original AGENTS.md preserved with Next's automatic agent-rule additions disabled in next.config.ts. README is self-contained.
