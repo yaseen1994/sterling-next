@@ -2,6 +2,8 @@
 
 Prepared: 2026-10-08. Planning complete; execution not started and owner acceptance pending. This document extends the existing [report](REPORT.md) and [evidence protocol](README.md); it does not replace their dated findings. Current request authorizes planning and an Agent-mode handoff, not bootstrap.
 
+**Workflow/sequencing supersession, 2026-10-08:** this original W1–W4 plan is retained as unexecuted backlog; its historical order and blanket pre-bootstrap handoff are not current authorization. Yaseen's new workflow assigns planning/architecture/technical review to ChatGPT and bounded implementation/verification to Codex, with Cursor optional. [Bootstrap-readiness gates](../bootstrap-readiness.md) now govern sequencing: checks may accompany affected migration work, media validation precedes reuse, and URL/external checks precede relevant decisions. A separately authorized neutral local foundation does not require every D1–D8/W1–W4 item to close. No work package, owner decision, historical check or production gate is marked complete or waived. Preserve the original scope/caps below; ChatGPT supplies the next bounded milestone, which Codex must not start autonomously.
+
 ## Objective and baseline
 
 Produce enough targeted evidence to resolve or precisely bound the highest-risk remaining interaction, media and URL/integration uncertainties. Separate observed source behavior, proposed migration requirements and owner decisions. Complete this bounded pass without claiming full Phase 0 acceptance, full asset validation or replacement visual parity.

@@ -2,6 +2,8 @@
 
 Public audit delivered; classifications and migration specification are proposed, not owner accepted. Earlier observations were leads; counts below come from dated public responses and live browser evidence.
 
+Workflow/gate update, 2026-10-08: historical audit results and acceptance questions below are preserved. [Bootstrap readiness](../bootstrap-readiness.md) supersedes blanket Phase 0-before-bootstrap wording: neutral local foundation can be separately authorized while content/integration/reuse/release gates remain open. W1–W4 is unexecuted backlog for ChatGPT sequencing; this update performs no new discovery and confers no owner acceptance.
+
 ## Repository and scope
 
 Read `AGENTS.md`, `PROJECT.md`, `STATUS.md`, discovery protocol and relevant decisions/release gates. Repository: `C:\Projects\React\sterling-next`. Initial Git: clean `main`, HEAD `17b4085f4c2bc4821b2c2d67823f209c42ff44b3`, no remote. A later read found `origin` configured as `https://github.com/yaseen1994/sterling-next.git` and tracking `main...origin/main`; HEAD unchanged. This audit did not configure the remote, fetch, commit or push. Remote reachability/authentication not tested.

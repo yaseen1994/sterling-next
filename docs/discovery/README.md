@@ -2,6 +2,8 @@
 
 ## Current audit
 
+Authoritative 2026-10-08 workflow/gates: see [bootstrap readiness](../bootstrap-readiness.md). ChatGPT supplies bounded milestones; Codex implements/verifies/reports; Yaseen owns product/browser acceptance; Cursor optional. W1–W4 remains backlog, not a blanket prerequisite to a separately authorized neutral local foundation. Dated evidence and pending approvals below are unchanged.
+
 2026-10-08: [bounded gap-closure plan and Agent-mode handoff](GAP-CLOSURE-PLAN.md). Planning only; W1–W4 execution and owner acceptance remain pending. Preserve dated captures and use a new actual-date directory for the next pass.
 
 2026-10-07: [public discovery report](REPORT.md), four populated CSV manifests and dated [evidence](evidence/2026-10-07/coverage.json). Observed does not mean owner approved. Empty SEO cells mean absent in fetched source; blank asset hashes mean not downloaded, and blank targets on held routes mean no disposition chosen. Existing CSV columns are retained; date/method/evidence and status details are appended where needed.
