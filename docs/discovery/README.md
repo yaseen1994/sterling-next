@@ -2,6 +2,8 @@
 
 ## Current audit
 
+2026-10-08: [bounded gap-closure plan and Agent-mode handoff](GAP-CLOSURE-PLAN.md). Planning only; W1–W4 execution and owner acceptance remain pending. Preserve dated captures and use a new actual-date directory for the next pass.
+
 2026-10-07: [public discovery report](REPORT.md), four populated CSV manifests and dated [evidence](evidence/2026-10-07/coverage.json). Observed does not mean owner approved. Empty SEO cells mean absent in fetched source; blank asset hashes mean not downloaded, and blank targets on held routes mean no disposition chosen. Existing CSV columns are retained; date/method/evidence and status details are appended where needed.
 
 The Phase 0 helpers use Python's standard library and curl; no app dependencies. `python docs/discovery/build_manifests.py` regenerates manifests offline. Network collection is explicitly bounded/read-only: `python docs/discovery/audit_public.py --fetch`, or `--resource-checks`. Do not rerun dated collection over the original snapshot; use a new dated evidence directory for a later audit. Generated manifests remain proposals until owner acceptance.

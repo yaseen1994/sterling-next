@@ -2,6 +2,8 @@
 
 Requested 2026-10-07; all items below remain pending. No reply or approval has been inferred. Reply by ID; engineering will record explicit answers and update proposed scope. No credentials or personal applicant data are needed.
 
+Planning follow-up, 2026-10-08: questions raised for D3 editors/frequency/editing model, D5 careers destination/portal ownership and D7 hosting/runtime/operational owners because they determine architecture and effort. No answers received at plan preparation; all D1–D8 statuses remain pending. Other decisions below remain necessary for Phase 0 acceptance. The [bounded engineering plan](GAP-CLOSURE-PLAN.md) can proceed as public discovery without assuming these answers; it does not authorize bootstrap or asset reuse.
+
 Browser-pass review, 2026-10-07: no explicit D1–D8 answers received. D8 should use the latest REPORT.md qualifications: settled mobile Escape and controlled first-FAQ keyboard trials succeed in this sample; the earlier failures are not definitive. Do not approve a correction solely from the superseded observations. No acceptance status changed.
 
 - **D1 — Routes and content:** Review REPORT.md findings 1–3 and routes.csv. For held routes choose retain, exact redirect target, or retire/status; confirm copy, business metrics, projects, leadership, addresses, policies and missing critical pages. Page names alone are not disposition evidence.

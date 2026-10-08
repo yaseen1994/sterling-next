@@ -10,6 +10,10 @@ During the public audit, only discovery docs, evidence and audit helpers changed
 
 ## Coverage
 
+### Planned next bounded pass — 2026-10-08
+
+[GAP-CLOSURE-PLAN.md](GAP-CLOSURE-PLAN.md) defines W1–W4 and the Agent-mode handoff: focus/ARIA and all visible Smart Operations FAQs on two routes/three viewports; sampled homepage carousel/reduced-motion behavior; up to 12 media files; up to 20 deep-path probes and selected public external flows. This is planning, not new runtime evidence or Phase 0 acceptance. Existing dated captures and manifest values are unchanged. Allow 2–4 developer working days for the bounded discovery pass; the conditional 15–25-day migration range below remains unchanged pending material owner requirements. Reconcile overlap before a combined schedule.
+
 ### Browser supplement and corrected interpretations — 2026-10-07, 17:45 UTC
 
 Bounded pass: homepage and Smart Operations at 390×844 and 768×1024; title encoding, representative menu/focus/Escape, first FAQ keyboard/pointer and project/award carousel states. [Summary and limitations](evidence/2026-10-07-browser-02/SUMMARY.md), [dated observations](evidence/2026-10-07-browser-02/observations.json), and paired JPEG/AX files record **24 new states**. Combined captures: **67 states across the same 21 routes**; interactions.csv now **136** records. No full route/state parity claimed.

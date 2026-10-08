@@ -32,6 +32,8 @@ Earlier conversation counts and test-looking routes were unverified leads. The d
 
 Phase 0 continues with evidence-gap closure and owner review; do not scaffold during workflow setup or automatically advance to bootstrap. Proposed effort is 15–25 developer working days after scope/content decisions, plus owner review, subject to editing/integration requirements. Earlier 7–10-day estimates are superseded. Keep historical captures dated; record later observations or decisions separately.
 
+The 2026-10-08 bounded discovery handoff is docs/discovery/GAP-CLOSURE-PLAN.md: focus/ARIA and FAQ traversal, reduced-motion/carousel sampling, up to 12 media validation samples, up to 20 deep-path probes and selected public external flows. Execution remains pending. Allow 2–4 developer working days for this pass, tracked separately from the conditional migration estimate; reconcile overlap before a combined schedule. Bootstrap and content architecture remain gated on material Phase 0 requirements and acceptance.
+
 ## Engineering continuity
 
 Own engineering and routine review inside Cursor using .cursor/rules/sterling-workflow.mdc and AGENTS.md. Persist progress in STATUS.md and architectural choices in docs/decisions.md. Plan substantial architecture before implementation; small reversible tasks do not require repeated mode switches or permission. A self-review is not independent verification. Make a relevant atomic commit after milestone checks pass; push only when authorized to the intended remote. No external ChatGPT review or manual report relay is required.
