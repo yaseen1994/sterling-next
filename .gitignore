@@ -8,3 +8,6 @@ coverage/
 *.log
 .DS_Store
 Thumbs.db
+*.tsbuildinfo
+.vercel/
+next-env.d.ts

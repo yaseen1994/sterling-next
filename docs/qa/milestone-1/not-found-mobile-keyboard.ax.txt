@@ -1,0 +1,9 @@
+Browser tab: 3, Title: "Development foundation", URL: "http://127.0.0.1:3101/foundation-missing".
+1 AXWebArea Development foundation, URL: 127.0.0.1:3101/foundation-missing
+	2 container
+		3 heading Page not found, Value: 1
+			4 text Page not found
+		5 text The page you requested is unavailable.
+		6 link Description: Return to the development homepage, Value: 127.0.0.1:3101/
+
+The focused UI element is 6 link Description: Return to the development homepage, URL: 127.0.0.1:3101/

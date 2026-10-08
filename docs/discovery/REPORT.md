@@ -2,6 +2,8 @@
 
 Public audit delivered; classifications and migration specification are proposed, not owner accepted. Earlier observations were leads; counts below come from dated public responses and live browser evidence.
 
+Owner-answer update, 2026-10-08 Milestone 1: D3/D5/D7 are partially answered in [OWNER-DECISIONS.md](OWNER-DECISIONS.md): independent editing/CMS required (Sanity recommendation only), Darwinbox retained/no onsite applications, Vercel initial target with preview before client approval/domain later. Publishing workflow/editor count/frequency, portal ownership and hosting ownership/cost/operations remain unresolved; D1/D2/D4/D6/D8 still unanswered. The local neutral foundation is separate from discovery acceptance; no new source-site evidence or W1–W4 execution in this milestone. Earlier all-pending statements below are historical and qualified by these partial answers.
+
 Workflow/gate update, 2026-10-08: historical audit results and acceptance questions below are preserved. [Bootstrap readiness](../bootstrap-readiness.md) supersedes blanket Phase 0-before-bootstrap wording: neutral local foundation can be separately authorized while content/integration/reuse/release gates remain open. W1–W4 is unexecuted backlog for ChatGPT sequencing; this update performs no new discovery and confers no owner acceptance.
 
 ## Repository and scope

@@ -8,7 +8,11 @@ Rebuild the legitimate website in a clean Next.js application, preserving visual
 
 ## Confirmed stack and proposed architecture
 
-The owner's workflow request on 2026-10-07 explicitly confirms Next.js, React, TypeScript and Tailwind CSS, superseding generic pure-PHP/no-framework guidance for this rebuild. Proposed implementation: App Router and npm; versions chosen at bootstrap after current official compatibility verification. Static/server-rendered corporate pages; structured project/service content; client components for verified interactive features. Dependencies, a database or CMS require verified needs. Establish who edits projects, news/events/blogs, careers and PDFs, frequency and whether developer-managed content is acceptable before finalizing content architecture. Forms use a fresh validated server endpoint and owner-confirmed requirements/mail destinations.
+Milestone 1 authorization, 2026-10-08: Next.js App Router, React, strict TypeScript, Tailwind CSS, npm with committed package-lock.json, src/ and @/* alias. Vercel is the initial deployment target; no deployment in this milestone. Stable package/runtime versions and compatibility rationale are recorded in docs/milestone-1.md. The Next.js direction supersedes generic pure-PHP/no-framework guidance for this rebuild.
+
+Owner D3 requires independent client editing of projects, news, blogs and PDFs, so a CMS is required; frequency, editor count and publishing workflow remain unspecified. Sanity is the architect's recommendation only, not approved/configured or installed. Content models and CMS integration remain deferred. D5 preserves the existing Darwinbox destination; onsite applications are outside current scope and portal ownership remains unconfirmed. D7 accepts Vercel or Cloudflare, preview before client approval and real domain later; ownership/costs/operations remain unresolved. See the dated partial answers in docs/discovery/OWNER-DECISIONS.md; no entire D item is resolved.
+
+Future corporate pages remain server-rendered by default with client components only for verified interactivity. Mail endpoints, content migration, media reuse and integration architecture require their own bounded milestones and owner requirements; none is implemented in the neutral foundation.
 
 ## Constraints
 

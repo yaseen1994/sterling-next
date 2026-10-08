@@ -2,6 +2,16 @@
 
 Requested 2026-10-07; all items below remain pending. No reply or approval has been inferred. Reply by ID; engineering will record explicit answers and update proposed scope. No credentials or personal applicant data are needed.
 
+## Authoritative partial answers — 2026-10-08, Milestone 1
+
+- **D3 — PARTIALLY ANSWERED:** client must independently edit projects, news, blogs and PDFs; a CMS is required. Update frequency, editor count and publishing workflow remain unspecified. Editing requirements for events/careers remain unconfirmed. Sanity is the architect's recommendation, not an approved or configured integration; no CMS is installed in Milestone 1.
+- **D5 — PARTIALLY ANSWERED:** preserve the existing Darwinbox destination `https://sterlingone.darwinbox.in/ms/candidatev2/a688b512869b6c/careers/home`. Onsite applications are outside current scope and may be considered later. Portal ownership remains unconfirmed; availability evidence is not ownership or complete flow validation.
+- **D7 — PARTIALLY ANSWERED:** Vercel or Cloudflare is acceptable; preview before client approval, connect the real domain later. The authorized technical choice is Vercel as initial deployment target, with no deployment in Milestone 1. Account ownership, costs, operational responsibilities, analytics/consent and domain/email authority remain unresolved. No account or domain action is authorized here.
+
+D1/D2/D4/D6/D8 remain unanswered. The records below preserve earlier question/request state; blanket statements that all D items are unanswered are historical and superseded only by the specific answers above. No D item is fully resolved or owner browser acceptance inferred.
+
+## Historical requests and questions (preserved)
+
 Gate alignment, 2026-10-08: [bootstrap readiness](../bootstrap-readiness.md) separates neutral foundation from affected architecture/reuse/integration/release gates. D1–D8 are still unanswered; the workflow change answers none of them. Earlier Phase 0 acceptance wording governs discovery/migration acceptance, not a blanket prohibition on a separately authorized neutral local bootstrap. No production or asset-use approval inferred.
 
 Planning follow-up, 2026-10-08: questions raised for D3 editors/frequency/editing model, D5 careers destination/portal ownership and D7 hosting/runtime/operational owners because they determine architecture and effort. No answers received at plan preparation; all D1–D8 statuses remain pending. Other decisions below remain necessary for Phase 0 acceptance. The [bounded engineering plan](GAP-CLOSURE-PLAN.md) can proceed as public discovery without assuming these answers; it does not authorize bootstrap or asset reuse.

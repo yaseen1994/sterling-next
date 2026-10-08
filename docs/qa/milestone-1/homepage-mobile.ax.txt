@@ -1,0 +1,9 @@
+Browser tab: 3, Title: "Development foundation", URL: "http://127.0.0.1:3101/".
+0 AXWebArea Development foundation, URL: 127.0.0.1:3101/
+	1 container
+		2 text Development preview
+		3 heading Application foundation, Value: 1
+			4 text Application foundation
+		5 text This neutral page is ready for local review. Website content and design will be added in separately approved milestones.
+
+The focused UI element is 0 AXWebArea Development foundation, URL: 127.0.0.1:3101/

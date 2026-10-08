@@ -2,6 +2,8 @@
 
 Assessed 2026-10-08; documentation only. Yaseen owns product/browser acceptance, ChatGPT planning/architecture/technical review and Codex bounded implementation/debugging/verification/reporting. Cursor is optional. This assessment authorizes neither bootstrap nor W1–W4 execution and changes no owner answer or evidence result.
 
+**Milestone 1 update, 2026-10-08:** the subsequent owner prompt explicitly authorizes local bootstrap with App Router/npm/src/@/*, strict TypeScript and Vercel as initial target, with no deployment. D3/D5/D7 now have [dated partial answers](discovery/OWNER-DECISIONS.md); CMS is required, Sanity remains a recommendation. The original assessment below is preserved as a planning record, including its then-unanswered questions. Actual foundation versions/checks are recorded in [Milestone 1](milestone-1.md); content/integration/reuse/release gates remain open.
+
 ## Gate assessment
 
 | Gate | Requirements and timing | Effect on a neutral local bootstrap |

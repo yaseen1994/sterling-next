@@ -1,0 +1,16 @@
+[
+  {
+    "url": "http://127.0.0.1:3101/",
+    "observed_at": "2026-10-08T10:35:01.709564+00:00",
+    "status": 200,
+    "robots_noindex": true,
+    "expected_content": true
+  },
+  {
+    "url": "http://127.0.0.1:3101/foundation-missing",
+    "observed_at": "2026-10-08T10:35:01.918906+00:00",
+    "status": 404,
+    "robots_noindex": true,
+    "expected_content": true
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "checked_at": "2026-10-08T10:29:34.489Z",
+  "checks": [
+    {
+      "name": "homepage-desktop",
+      "url": "http://127.0.0.1:3101/",
+      "observed_at": "2026-10-08T10:29:07.292Z",
+      "metrics": {
+        "background": "lab(98.1434 -0.369549 -1.05968)",
+        "clientWidth": 1440,
+        "fontSize": "48px",
+        "h1Count": 1,
+        "height": 900,
+        "mainCount": 1,
+        "robots": "noindex, nofollow",
+        "scrollWidth": 1440,
+        "title": "Development foundation",
+        "width": 1440
+      }
+    },
+    {
+      "name": "homepage-mobile",
+      "url": "http://127.0.0.1:3101/",
+      "observed_at": "2026-10-08T10:29:07.496Z",
+      "metrics": {
+        "background": "lab(98.1434 -0.369549 -1.05968)",
+        "clientWidth": 390,
+        "fontSize": "30px",
+        "h1Count": 1,
+        "height": 844,
+        "mainCount": 1,
+        "robots": "noindex, nofollow",
+        "scrollWidth": 390,
+        "title": "Development foundation",
+        "width": 390
+      }
+    },
+    {
+      "name": "not-found-mobile-keyboard",
+      "url": "http://127.0.0.1:3101/foundation-missing",
+      "observed_at": "2026-10-08T10:29:32.784Z",
+      "metrics": {
+        "background": "lab(98.1434 -0.369549 -1.05968)",
+        "clientWidth": 390,
+        "fontSize": "30px",
+        "h1Count": 1,
+        "height": 844,
+        "mainCount": 1,
+        "robots": "noindex",
+        "scrollWidth": 390,
+        "title": "Development foundation",
+        "width": 390
+      }
+    }
+  ],
+  "homepage_warnings_errors": [],
+  "not_found_focus": {
+    "href": "/",
+    "tag": "A",
+    "text": "Return to the development homepage"
+  },
+  "return_url": "http://127.0.0.1:3101/",
+  "final_logs": [],
+  "limits": "Local foundation smoke check only; no source-site parity, CMS/email/deployment or owner acceptance tested"
+}
