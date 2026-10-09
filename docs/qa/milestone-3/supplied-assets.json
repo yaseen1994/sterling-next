@@ -1,0 +1,18 @@
+[
+  {
+    "file": "SWDC-cd7cd5.jpg",
+    "width": 450,
+    "height": 103,
+    "bytes": 27026,
+    "sha256": "BD016FDCA4CFC607F65D0D9FAEB6CD0A0FF901BBB9E4DC483FE3AABB977A6312",
+    "decoded": true
+  },
+  {
+    "file": "SWDC-a3a828.png",
+    "width": 826,
+    "height": 189,
+    "bytes": 37153,
+    "sha256": "4CC2FC49378A52448E92499D19098B23AEC5B3850939C4938F5DCAE7E8380FA9",
+    "decoded": true
+  }
+]

@@ -1,2 +1,6 @@
 # Keep dated public evidence byte-for-byte, including captured whitespace.
 docs/discovery/evidence/** -text -whitespace
+# Preserve captured browser text and the unmodified upstream font license.
+docs/qa/milestone-3/*.ax.txt -text -whitespace
+src/fonts/livvic/OFL.txt -text -whitespace
+public/licenses/livvic-OFL.txt -text -whitespace

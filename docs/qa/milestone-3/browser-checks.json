@@ -1,0 +1,2046 @@
+[
+  {
+    "name": "desktop-initial",
+    "at": "2026-10-09T09:59:32.357Z",
+    "dialogOpen": false,
+    "expanded": [],
+    "focus": {
+      "name": null,
+      "offset": "0px",
+      "outline": "lab(7.78673 1.82346 -15.0537) none 2.4px",
+      "tag": "BODY",
+      "text": "[document body; no focused control]"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 74.80000305175781,
+      "height": 74.80000305175781,
+      "left": 0,
+      "right": 1440,
+      "top": 0,
+      "width": 1440,
+      "x": 0,
+      "y": 0
+    },
+    "links": [
+      {
+        "href": "/",
+        "label": "Sterling & Wilson Data Center home",
+        "target": null
+      },
+      {
+        "href": "/",
+        "label": "Home",
+        "target": null
+      },
+      {
+        "href": "/about-us/",
+        "label": "About Us",
+        "target": null
+      },
+      {
+        "href": "/projects/",
+        "label": "Projects",
+        "target": null
+      },
+      {
+        "href": "/careers/",
+        "label": "Careers",
+        "target": null
+      },
+      {
+        "href": "/contact/",
+        "label": "Contact",
+        "target": null
+      },
+      {
+        "href": "/",
+        "label": "Sterling & Wilson Data Center home",
+        "target": null
+      },
+      {
+        "href": "/about-us/",
+        "label": "Overview",
+        "target": null
+      },
+      {
+        "href": "/awards-recognitions/",
+        "label": "Awards & Recognitions",
+        "target": null
+      },
+      {
+        "href": "/leadership/",
+        "label": "Leadership",
+        "target": null
+      },
+      {
+        "href": "/industry-memberships-and-recognitions/",
+        "label": "Industry Memberships and Recognitions",
+        "target": null
+      },
+      {
+        "href": "/projects/",
+        "label": "Projects",
+        "target": null
+      },
+      {
+        "href": "/design-build/",
+        "label": "Design & Build",
+        "target": null
+      },
+      {
+        "href": "/modular-construction/",
+        "label": "Modular Construction",
+        "target": null
+      },
+      {
+        "href": "/smart-operations/",
+        "label": "Smart Operations",
+        "target": null
+      },
+      {
+        "href": "/sustainable-execution/",
+        "label": "Sustainable Execution",
+        "target": null
+      },
+      {
+        "href": "/om-services/",
+        "label": "O&M Services",
+        "target": null
+      },
+      {
+        "href": "/news-press-release/",
+        "label": "News & Press Release",
+        "target": null
+      },
+      {
+        "href": "/events/",
+        "label": "Events",
+        "target": null
+      },
+      {
+        "href": "/careers/",
+        "label": "Careers",
+        "target": null
+      },
+      {
+        "href": "/contact/",
+        "label": "Contact",
+        "target": null
+      },
+      {
+        "href": "https://www.linkedin.com/company/sterling-and-wilson-data-center/",
+        "label": "LinkedIn (opens in a new tab)",
+        "target": "_blank"
+      },
+      {
+        "href": "/privacy-policy/",
+        "label": "Privacy Policy",
+        "target": null
+      },
+      {
+        "href": "https://sterlingandwilsondc.com/wp-content/uploads/2025/12/SW-HSE-Policy-June-2025.pdf",
+        "label": "HSE Policy",
+        "target": "_blank"
+      }
+    ],
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/",
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "name": "desktop-About Us submenu-Enter",
+    "at": "2026-10-09T09:59:47.090Z",
+    "dialogOpen": false,
+    "expanded": [
+      {
+        "controlledExists": true,
+        "controls": "inline-submenu-1",
+        "name": "About Us submenu"
+      }
+    ],
+    "focus": {
+      "name": "About Us submenu",
+      "offset": "2.4px",
+      "outline": "rgb(232, 76, 9) solid 2.4px",
+      "tag": "BUTTON",
+      "text": "+"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 74.80000305175781,
+      "height": 74.80000305175781,
+      "left": 0,
+      "right": 1440,
+      "top": 0,
+      "width": 1440,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/",
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "name": "desktop-About Us submenu-children",
+    "sequence": [
+      "Overview",
+      "Awards & Recognitions",
+      "Leadership",
+      "Industry Memberships and Recognitions",
+      "Corporate Governance"
+    ]
+  },
+  {
+    "name": "desktop-About Us submenu-Escape",
+    "at": "2026-10-09T09:59:47.859Z",
+    "dialogOpen": false,
+    "expanded": [],
+    "focus": {
+      "name": "About Us submenu",
+      "offset": "2.4px",
+      "outline": "rgb(35, 31, 32) solid 2.4px",
+      "tag": "BUTTON",
+      "text": "+"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 74.80000305175781,
+      "height": 74.80000305175781,
+      "left": 0,
+      "right": 1440,
+      "top": 0,
+      "width": 1440,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/",
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "name": "desktop-About Us submenu-Space",
+    "at": "2026-10-09T09:59:48.091Z",
+    "dialogOpen": false,
+    "expanded": [
+      {
+        "controlledExists": true,
+        "controls": "inline-submenu-1",
+        "name": "About Us submenu"
+      }
+    ],
+    "focus": {
+      "name": "About Us submenu",
+      "offset": "2.4px",
+      "outline": "rgb(232, 76, 9) solid 2.4px",
+      "tag": "BUTTON",
+      "text": "+"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 74.80000305175781,
+      "height": 74.80000305175781,
+      "left": 0,
+      "right": 1440,
+      "top": 0,
+      "width": 1440,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/",
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "name": "desktop-Services-Enter",
+    "at": "2026-10-09T09:59:48.592Z",
+    "dialogOpen": false,
+    "expanded": [
+      {
+        "controlledExists": true,
+        "controls": "inline-submenu-3",
+        "name": "Services+"
+      }
+    ],
+    "focus": {
+      "name": null,
+      "offset": "2.4px",
+      "outline": "rgb(232, 76, 9) solid 2.4px",
+      "tag": "BUTTON",
+      "text": "Services+"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 74.80000305175781,
+      "height": 74.80000305175781,
+      "left": 0,
+      "right": 1440,
+      "top": 0,
+      "width": 1440,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/",
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "name": "desktop-Services-children",
+    "sequence": [
+      "Design & Build",
+      "Modular Construction",
+      "Smart Operations",
+      "Sustainable Execution",
+      "O&M Services"
+    ]
+  },
+  {
+    "name": "desktop-Services-Escape",
+    "at": "2026-10-09T09:59:49.479Z",
+    "dialogOpen": false,
+    "expanded": [],
+    "focus": {
+      "name": null,
+      "offset": "2.4px",
+      "outline": "rgb(35, 31, 32) solid 2.4px",
+      "tag": "BUTTON",
+      "text": "Services+"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 74.80000305175781,
+      "height": 74.80000305175781,
+      "left": 0,
+      "right": 1440,
+      "top": 0,
+      "width": 1440,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/",
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "name": "desktop-Services-Space",
+    "at": "2026-10-09T09:59:49.797Z",
+    "dialogOpen": false,
+    "expanded": [
+      {
+        "controlledExists": true,
+        "controls": "inline-submenu-3",
+        "name": "Services+"
+      }
+    ],
+    "focus": {
+      "name": null,
+      "offset": "2.4px",
+      "outline": "rgb(232, 76, 9) solid 2.4px",
+      "tag": "BUTTON",
+      "text": "Services+"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 74.80000305175781,
+      "height": 74.80000305175781,
+      "left": 0,
+      "right": 1440,
+      "top": 0,
+      "width": 1440,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/",
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "name": "desktop-Media-Enter",
+    "at": "2026-10-09T09:59:50.315Z",
+    "dialogOpen": false,
+    "expanded": [
+      {
+        "controlledExists": true,
+        "controls": "inline-submenu-4",
+        "name": "Media+"
+      }
+    ],
+    "focus": {
+      "name": null,
+      "offset": "2.4px",
+      "outline": "rgb(232, 76, 9) solid 2.4px",
+      "tag": "BUTTON",
+      "text": "Media+"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 74.80000305175781,
+      "height": 74.80000305175781,
+      "left": 0,
+      "right": 1440,
+      "top": 0,
+      "width": 1440,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/",
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "name": "desktop-Media-children",
+    "sequence": [
+      "News & Press Release",
+      "Events",
+      "Blogs"
+    ]
+  },
+  {
+    "name": "desktop-Media-Escape",
+    "at": "2026-10-09T09:59:51.058Z",
+    "dialogOpen": false,
+    "expanded": [],
+    "focus": {
+      "name": null,
+      "offset": "2.4px",
+      "outline": "rgb(35, 31, 32) solid 2.4px",
+      "tag": "BUTTON",
+      "text": "Media+"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 74.80000305175781,
+      "height": 74.80000305175781,
+      "left": 0,
+      "right": 1440,
+      "top": 0,
+      "width": 1440,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/",
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "name": "desktop-Media-Space",
+    "at": "2026-10-09T09:59:51.392Z",
+    "dialogOpen": false,
+    "expanded": [
+      {
+        "controlledExists": true,
+        "controls": "inline-submenu-4",
+        "name": "Media+"
+      }
+    ],
+    "focus": {
+      "name": null,
+      "offset": "2.4px",
+      "outline": "rgb(232, 76, 9) solid 2.4px",
+      "tag": "BUTTON",
+      "text": "Media+"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 74.80000305175781,
+      "height": 74.80000305175781,
+      "left": 0,
+      "right": 1440,
+      "top": 0,
+      "width": 1440,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/",
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "name": "desktop-pointer-Services",
+    "at": "2026-10-09T10:00:03.837Z",
+    "dialogOpen": false,
+    "expanded": [],
+    "focus": {
+      "name": null,
+      "offset": "0px",
+      "outline": "rgb(232, 76, 9) none 2.4px",
+      "tag": "BUTTON",
+      "text": "Services+"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 74.80000305175781,
+      "height": 74.80000305175781,
+      "left": 0,
+      "right": 1440,
+      "top": 0,
+      "width": 1440,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/",
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "name": "desktop-outside-close",
+    "at": "2026-10-09T10:00:04.519Z",
+    "dialogOpen": false,
+    "expanded": [],
+    "focus": {
+      "name": null,
+      "offset": "0px",
+      "outline": "lab(7.78673 1.82346 -15.0537) none 2.4px",
+      "tag": "MAIN",
+      "text": "Development previewApplication foundationThis neutral page is ready for local review. Website content and design will be added in separately approved milestones."
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 74.80000305175781,
+      "height": 74.80000305175781,
+      "left": 0,
+      "right": 1440,
+      "top": 0,
+      "width": 1440,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/",
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "name": "skip-link-activation",
+    "at": "2026-10-09T10:00:05.644Z",
+    "dialogOpen": false,
+    "expanded": [],
+    "focus": {
+      "name": null,
+      "offset": "0px",
+      "outline": "lab(7.78673 1.82346 -15.0537) none 2.4px",
+      "tag": "MAIN",
+      "text": "Development previewApplication foundationThis neutral page is ready for local review. Website content and design will be added in separately approved milestones."
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 74.80000305175781,
+      "height": 74.80000305175781,
+      "left": 0,
+      "right": 1440,
+      "top": 0,
+      "width": 1440,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/#content",
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "name": "tablet-open-final",
+    "at": "2026-10-09T10:01:48.138Z",
+    "dialogOpen": false,
+    "expanded": [
+      {
+        "controlledExists": true,
+        "controls": "compact-navigation mobile-navigation",
+        "name": "Close menu"
+      }
+    ],
+    "focus": {
+      "name": "Close menu",
+      "offset": "2.4px",
+      "outline": "rgb(51, 55, 61) solid 2.4px",
+      "tag": "BUTTON",
+      "text": "\u00d7"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 89.1500015258789,
+      "height": 89.1500015258789,
+      "left": 0,
+      "right": 752.7999877929688,
+      "top": 0,
+      "width": 752.7999877929688,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/#content",
+    "viewport": [
+      768,
+      1024
+    ]
+  },
+  {
+    "name": "tablet-About Us submenu-Enter",
+    "at": "2026-10-09T10:01:48.215Z",
+    "dialogOpen": false,
+    "expanded": [
+      {
+        "controlledExists": true,
+        "controls": "compact-navigation mobile-navigation",
+        "name": "Close menu"
+      },
+      {
+        "controlledExists": true,
+        "controls": "inline-submenu-1",
+        "name": "About Us submenu"
+      }
+    ],
+    "focus": {
+      "name": "About Us submenu",
+      "offset": "2.4px",
+      "outline": "rgb(232, 76, 9) solid 2.4px",
+      "tag": "BUTTON",
+      "text": "+"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 89.1500015258789,
+      "height": 89.1500015258789,
+      "left": 0,
+      "right": 752.7999877929688,
+      "top": 0,
+      "width": 752.7999877929688,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/#content",
+    "viewport": [
+      768,
+      1024
+    ]
+  },
+  {
+    "name": "tablet-About Us submenu-children",
+    "sequence": [
+      "Overview",
+      "Awards & Recognitions",
+      "Leadership",
+      "Industry Memberships and Recognitions",
+      "Corporate Governance"
+    ]
+  },
+  {
+    "name": "tablet-About Us submenu-Escape",
+    "at": "2026-10-09T10:01:48.436Z",
+    "dialogOpen": false,
+    "expanded": [
+      {
+        "controlledExists": true,
+        "controls": "compact-navigation mobile-navigation",
+        "name": "Close menu"
+      }
+    ],
+    "focus": {
+      "name": "About Us submenu",
+      "offset": "2.4px",
+      "outline": "rgb(35, 31, 32) solid 2.4px",
+      "tag": "BUTTON",
+      "text": "+"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 89.1500015258789,
+      "height": 89.1500015258789,
+      "left": 0,
+      "right": 752.7999877929688,
+      "top": 0,
+      "width": 752.7999877929688,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/#content",
+    "viewport": [
+      768,
+      1024
+    ]
+  },
+  {
+    "name": "tablet-Services-Enter",
+    "at": "2026-10-09T10:01:48.511Z",
+    "dialogOpen": false,
+    "expanded": [
+      {
+        "controlledExists": true,
+        "controls": "compact-navigation mobile-navigation",
+        "name": "Close menu"
+      },
+      {
+        "controlledExists": true,
+        "controls": "inline-submenu-3",
+        "name": "Services+"
+      }
+    ],
+    "focus": {
+      "name": null,
+      "offset": "2.4px",
+      "outline": "rgb(232, 76, 9) solid 2.4px",
+      "tag": "BUTTON",
+      "text": "Services+"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 89.1500015258789,
+      "height": 89.1500015258789,
+      "left": 0,
+      "right": 752.7999877929688,
+      "top": 0,
+      "width": 752.7999877929688,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/#content",
+    "viewport": [
+      768,
+      1024
+    ]
+  },
+  {
+    "name": "tablet-Services-children",
+    "sequence": [
+      "Design & Build",
+      "Modular Construction",
+      "Smart Operations",
+      "Sustainable Execution",
+      "O&M Services"
+    ]
+  },
+  {
+    "name": "tablet-Services-Escape",
+    "at": "2026-10-09T10:01:48.774Z",
+    "dialogOpen": false,
+    "expanded": [
+      {
+        "controlledExists": true,
+        "controls": "compact-navigation mobile-navigation",
+        "name": "Close menu"
+      }
+    ],
+    "focus": {
+      "name": null,
+      "offset": "2.4px",
+      "outline": "rgb(35, 31, 32) solid 2.4px",
+      "tag": "BUTTON",
+      "text": "Services+"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 89.1500015258789,
+      "height": 89.1500015258789,
+      "left": 0,
+      "right": 752.7999877929688,
+      "top": 0,
+      "width": 752.7999877929688,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/#content",
+    "viewport": [
+      768,
+      1024
+    ]
+  },
+  {
+    "name": "tablet-Media-Enter",
+    "at": "2026-10-09T10:01:48.878Z",
+    "dialogOpen": false,
+    "expanded": [
+      {
+        "controlledExists": true,
+        "controls": "compact-navigation mobile-navigation",
+        "name": "Close menu"
+      },
+      {
+        "controlledExists": true,
+        "controls": "inline-submenu-4",
+        "name": "Media+"
+      }
+    ],
+    "focus": {
+      "name": null,
+      "offset": "2.4px",
+      "outline": "rgb(232, 76, 9) solid 2.4px",
+      "tag": "BUTTON",
+      "text": "Media+"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 89.1500015258789,
+      "height": 89.1500015258789,
+      "left": 0,
+      "right": 752.7999877929688,
+      "top": 0,
+      "width": 752.7999877929688,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/#content",
+    "viewport": [
+      768,
+      1024
+    ]
+  },
+  {
+    "name": "tablet-Media-children",
+    "sequence": [
+      "News & Press Release",
+      "Events",
+      "Blogs"
+    ]
+  },
+  {
+    "name": "tablet-Media-Escape",
+    "at": "2026-10-09T10:01:49.118Z",
+    "dialogOpen": false,
+    "expanded": [
+      {
+        "controlledExists": true,
+        "controls": "compact-navigation mobile-navigation",
+        "name": "Close menu"
+      }
+    ],
+    "focus": {
+      "name": null,
+      "offset": "2.4px",
+      "outline": "rgb(35, 31, 32) solid 2.4px",
+      "tag": "BUTTON",
+      "text": "Media+"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 89.1500015258789,
+      "height": 89.1500015258789,
+      "left": 0,
+      "right": 752.7999877929688,
+      "top": 0,
+      "width": 752.7999877929688,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/#content",
+    "viewport": [
+      768,
+      1024
+    ]
+  },
+  {
+    "name": "tablet-close-Escape",
+    "at": "2026-10-09T10:01:49.250Z",
+    "dialogOpen": false,
+    "expanded": [],
+    "focus": {
+      "name": "Open menu",
+      "offset": "2.4px",
+      "outline": "rgb(51, 55, 61) solid 2.4px",
+      "tag": "BUTTON",
+      "text": "\u2630"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 89.1500015258789,
+      "height": 89.1500015258789,
+      "left": 0,
+      "right": 752.7999877929688,
+      "top": 0,
+      "width": 752.7999877929688,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/#content",
+    "viewport": [
+      768,
+      1024
+    ]
+  },
+  {
+    "name": "tablet-Space-open",
+    "at": "2026-10-09T10:02:04.337Z",
+    "dialogOpen": false,
+    "expanded": [
+      {
+        "controlledExists": true,
+        "controls": "compact-navigation mobile-navigation",
+        "name": "Close menu"
+      }
+    ],
+    "focus": {
+      "name": "Close menu",
+      "offset": "2.4px",
+      "outline": "rgb(51, 55, 61) solid 2.4px",
+      "tag": "BUTTON",
+      "text": "\u00d7"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 89.1500015258789,
+      "height": 89.1500015258789,
+      "left": 0,
+      "right": 752.7999877929688,
+      "top": 0,
+      "width": 752.7999877929688,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/#content",
+    "viewport": [
+      768,
+      1024
+    ]
+  },
+  {
+    "name": "tablet-dismissal-trial-hit-overlaid-Contact-pending-route-404",
+    "at": "2026-10-09T10:02:04.780Z",
+    "dialogOpen": false,
+    "expanded": [],
+    "focus": {
+      "name": null,
+      "offset": "0px",
+      "outline": "lab(7.78673 1.82346 -15.0537) none 2.4px",
+      "tag": "BODY",
+      "text": "[document body; no focused control]"
+    },
+    "h1Count": 1,
+    "mainCount": 1,
+    "noindex": "noindex",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/contact",
+    "viewport": [
+      768,
+      1024
+    ]
+  },
+  {
+    "name": "tablet-outside-footer-close",
+    "at": "2026-10-09T10:02:30.913Z",
+    "dialogOpen": false,
+    "expanded": [],
+    "focus": {
+      "name": null,
+      "offset": "0px",
+      "outline": "lab(7.78673 1.82346 -15.0537) none 2.4px",
+      "tag": "BODY",
+      "text": "[document body; no focused control]"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 89.1500015258789,
+      "height": 89.1500015258789,
+      "left": 0,
+      "right": 752.7999877929688,
+      "top": 0,
+      "width": 752.7999877929688,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/",
+    "viewport": [
+      768,
+      1024
+    ]
+  },
+  {
+    "name": "tablet-footer-sticky",
+    "at": "2026-10-09T10:02:31.138Z",
+    "dialogOpen": false,
+    "expanded": [],
+    "focus": {
+      "name": null,
+      "offset": "0px",
+      "outline": "rgb(255, 255, 255) none 2.4px",
+      "tag": "A",
+      "text": "HSE Policy"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 89.1500015258789,
+      "height": 89.1500015258789,
+      "left": 0,
+      "right": 752.7999877929688,
+      "top": 0,
+      "width": 752.7999877929688,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/",
+    "viewport": [
+      768,
+      1024
+    ]
+  },
+  {
+    "name": "mobile-open",
+    "at": "2026-10-09T10:02:31.675Z",
+    "dialogOpen": true,
+    "expanded": [
+      {
+        "controlledExists": true,
+        "controls": "compact-navigation mobile-navigation",
+        "name": "Close menu"
+      }
+    ],
+    "focus": {
+      "name": "Close menu",
+      "offset": "2.4px",
+      "outline": "rgb(35, 31, 32) solid 2.4px",
+      "tag": "BUTTON",
+      "text": "\u00d7"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 60,
+      "height": 60,
+      "left": 0,
+      "right": 390.3999938964844,
+      "top": 0,
+      "width": 390.3999938964844,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "name": "mobile-About Us submenu-Enter",
+    "at": "2026-10-09T10:02:43.499Z",
+    "dialogOpen": true,
+    "expanded": [
+      {
+        "controlledExists": true,
+        "controls": "compact-navigation mobile-navigation",
+        "name": "Close menu"
+      },
+      {
+        "controlledExists": true,
+        "controls": "mobile-submenu-1",
+        "name": "About Us submenu"
+      }
+    ],
+    "focus": {
+      "name": "About Us submenu",
+      "offset": "2.4px",
+      "outline": "rgb(232, 76, 9) solid 2.4px",
+      "tag": "BUTTON",
+      "text": "+"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 60,
+      "height": 60,
+      "left": 0,
+      "right": 390.3999938964844,
+      "top": 0,
+      "width": 390.3999938964844,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "name": "mobile-About Us submenu-children",
+    "sequence": [
+      "Overview",
+      "Awards & Recognitions",
+      "Leadership",
+      "Industry Memberships and Recognitions",
+      "Corporate Governance"
+    ]
+  },
+  {
+    "name": "mobile-About Us submenu-Escape",
+    "at": "2026-10-09T10:02:43.857Z",
+    "dialogOpen": true,
+    "expanded": [
+      {
+        "controlledExists": true,
+        "controls": "compact-navigation mobile-navigation",
+        "name": "Close menu"
+      }
+    ],
+    "focus": {
+      "name": "About Us submenu",
+      "offset": "2.4px",
+      "outline": "rgb(35, 31, 32) solid 2.4px",
+      "tag": "BUTTON",
+      "text": "+"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 60,
+      "height": 60,
+      "left": 0,
+      "right": 390.3999938964844,
+      "top": 0,
+      "width": 390.3999938964844,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "name": "mobile-Services-Enter",
+    "at": "2026-10-09T10:02:43.976Z",
+    "dialogOpen": true,
+    "expanded": [
+      {
+        "controlledExists": true,
+        "controls": "compact-navigation mobile-navigation",
+        "name": "Close menu"
+      },
+      {
+        "controlledExists": true,
+        "controls": "mobile-submenu-3",
+        "name": "Services+"
+      }
+    ],
+    "focus": {
+      "name": null,
+      "offset": "2.4px",
+      "outline": "rgb(232, 76, 9) solid 2.4px",
+      "tag": "BUTTON",
+      "text": "Services+"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 60,
+      "height": 60,
+      "left": 0,
+      "right": 390.3999938964844,
+      "top": 0,
+      "width": 390.3999938964844,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "name": "mobile-Services-children",
+    "sequence": [
+      "Design & Build",
+      "Modular Construction",
+      "Smart Operations",
+      "Sustainable Execution",
+      "O&M Services"
+    ]
+  },
+  {
+    "name": "mobile-Services-Escape",
+    "at": "2026-10-09T10:02:44.393Z",
+    "dialogOpen": true,
+    "expanded": [
+      {
+        "controlledExists": true,
+        "controls": "compact-navigation mobile-navigation",
+        "name": "Close menu"
+      }
+    ],
+    "focus": {
+      "name": null,
+      "offset": "2.4px",
+      "outline": "rgb(35, 31, 32) solid 2.4px",
+      "tag": "BUTTON",
+      "text": "Services+"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 60,
+      "height": 60,
+      "left": 0,
+      "right": 390.3999938964844,
+      "top": 0,
+      "width": 390.3999938964844,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "name": "mobile-Media-Enter",
+    "at": "2026-10-09T10:02:44.524Z",
+    "dialogOpen": true,
+    "expanded": [
+      {
+        "controlledExists": true,
+        "controls": "compact-navigation mobile-navigation",
+        "name": "Close menu"
+      },
+      {
+        "controlledExists": true,
+        "controls": "mobile-submenu-4",
+        "name": "Media+"
+      }
+    ],
+    "focus": {
+      "name": null,
+      "offset": "2.4px",
+      "outline": "rgb(232, 76, 9) solid 2.4px",
+      "tag": "BUTTON",
+      "text": "Media+"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 60,
+      "height": 60,
+      "left": 0,
+      "right": 390.3999938964844,
+      "top": 0,
+      "width": 390.3999938964844,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "name": "mobile-Media-children",
+    "sequence": [
+      "News & Press Release",
+      "Events",
+      "Blogs"
+    ]
+  },
+  {
+    "name": "mobile-Media-Escape",
+    "at": "2026-10-09T10:02:44.920Z",
+    "dialogOpen": true,
+    "expanded": [
+      {
+        "controlledExists": true,
+        "controls": "compact-navigation mobile-navigation",
+        "name": "Close menu"
+      }
+    ],
+    "focus": {
+      "name": null,
+      "offset": "2.4px",
+      "outline": "rgb(35, 31, 32) solid 2.4px",
+      "tag": "BUTTON",
+      "text": "Media+"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 60,
+      "height": 60,
+      "left": 0,
+      "right": 390.3999938964844,
+      "top": 0,
+      "width": 390.3999938964844,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "name": "mobile-Space-open",
+    "at": "2026-10-09T10:02:45.222Z",
+    "dialogOpen": true,
+    "expanded": [
+      {
+        "controlledExists": true,
+        "controls": "compact-navigation mobile-navigation",
+        "name": "Close menu"
+      },
+      {
+        "controlledExists": true,
+        "controls": "mobile-submenu-3",
+        "name": "Services+"
+      }
+    ],
+    "focus": {
+      "name": null,
+      "offset": "2.4px",
+      "outline": "rgb(232, 76, 9) solid 2.4px",
+      "tag": "BUTTON",
+      "text": "Services+"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 60,
+      "height": 60,
+      "left": 0,
+      "right": 390.3999938964844,
+      "top": 0,
+      "width": 390.3999938964844,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "name": "mobile-focus-wrap-forward",
+    "at": "2026-10-09T10:02:56.445Z",
+    "dialogOpen": true,
+    "expanded": [
+      {
+        "controlledExists": true,
+        "controls": "compact-navigation mobile-navigation",
+        "name": "Close menu"
+      }
+    ],
+    "focus": {
+      "name": null,
+      "offset": "0px",
+      "outline": "lab(7.78673 1.82346 -15.0537) none 2.4px",
+      "tag": "BODY",
+      "text": "[document body; no focused control]"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 60,
+      "height": 60,
+      "left": 0,
+      "right": 390.3999938964844,
+      "top": 0,
+      "width": 390.3999938964844,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "name": "mobile-tab-sequence-native-dialog",
+    "sequence": [
+      {
+        "name": null,
+        "tag": "A",
+        "text": "Home"
+      },
+      {
+        "name": null,
+        "tag": "A",
+        "text": "About Us"
+      },
+      {
+        "name": "About Us submenu",
+        "tag": "BUTTON",
+        "text": "+"
+      },
+      {
+        "name": null,
+        "tag": "A",
+        "text": "Projects"
+      },
+      {
+        "name": null,
+        "tag": "BUTTON",
+        "text": "Services+"
+      },
+      {
+        "name": null,
+        "tag": "BUTTON",
+        "text": "Media+"
+      },
+      {
+        "name": null,
+        "tag": "A",
+        "text": "Careers"
+      },
+      {
+        "name": null,
+        "tag": "A",
+        "text": "Contact"
+      },
+      {
+        "name": null,
+        "tag": "BODY",
+        "text": "(globalThis[\"TURBOPACK\"] || (globalThis[\"TURBOPACK\"] = [])).push({\"oth"
+      }
+    ]
+  },
+  {
+    "name": "mobile-panel-Escape",
+    "at": "2026-10-09T10:04:54.641Z",
+    "dialogOpen": false,
+    "expanded": [],
+    "focus": {
+      "name": "Open menu",
+      "offset": "2.4px",
+      "outline": "rgb(51, 55, 61) solid 2.4px",
+      "tag": "BUTTON",
+      "text": "\u2630"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 60,
+      "height": 60,
+      "left": 0,
+      "right": 375.2000122070313,
+      "top": 0,
+      "width": 375.2000122070313,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "name": "mobile-footer-sticky",
+    "at": "2026-10-09T10:04:54.734Z",
+    "dialogOpen": false,
+    "expanded": [],
+    "focus": {
+      "name": null,
+      "offset": "2.4px",
+      "outline": "rgb(255, 255, 255) solid 2.4px",
+      "tag": "A",
+      "text": "HSE Policy"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 60,
+      "height": 60,
+      "left": 0,
+      "right": 375.2000122070313,
+      "top": 0,
+      "width": 375.2000122070313,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "name": "delivered-mobile-reverse-wrap",
+    "at": "2026-10-09T10:08:54.709Z",
+    "dialogOpen": true,
+    "expanded": [
+      {
+        "controlledExists": true,
+        "controls": "compact-navigation mobile-navigation",
+        "name": "Close menu"
+      }
+    ],
+    "focus": {
+      "name": null,
+      "offset": "2.4px",
+      "outline": "rgb(35, 31, 32) solid 2.4px",
+      "tag": "A",
+      "text": "Contact"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 60,
+      "height": 60,
+      "left": 0,
+      "right": 390.3999938964844,
+      "top": 0,
+      "width": 390.3999938964844,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "name": "delivered-mobile-forward-wrap",
+    "at": "2026-10-09T10:08:54.762Z",
+    "dialogOpen": true,
+    "expanded": [
+      {
+        "controlledExists": true,
+        "controls": "compact-navigation mobile-navigation",
+        "name": "Close menu"
+      }
+    ],
+    "focus": {
+      "name": "Close menu",
+      "offset": "2.4px",
+      "outline": "rgb(35, 31, 32) solid 2.4px",
+      "tag": "BUTTON",
+      "text": "\u00d7"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 60,
+      "height": 60,
+      "left": 0,
+      "right": 390.3999938964844,
+      "top": 0,
+      "width": 390.3999938964844,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "name": "delivered-mobile-close",
+    "at": "2026-10-09T10:08:54.827Z",
+    "dialogOpen": false,
+    "expanded": [],
+    "focus": {
+      "name": "Open menu",
+      "offset": "2.4px",
+      "outline": "rgb(51, 55, 61) solid 2.4px",
+      "tag": "BUTTON",
+      "text": "\u2630"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 60,
+      "height": 60,
+      "left": 0,
+      "right": 375.2000122070313,
+      "top": 0,
+      "width": 375.2000122070313,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "name": "delivered-mobile-footer",
+    "at": "2026-10-09T10:08:54.927Z",
+    "dialogOpen": false,
+    "expanded": [],
+    "focus": {
+      "name": null,
+      "offset": "2.4px",
+      "outline": "rgb(255, 255, 255) solid 2.4px",
+      "tag": "A",
+      "text": "HSE Policy"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 60,
+      "height": 60,
+      "left": 0,
+      "right": 375.2000122070313,
+      "top": 0,
+      "width": 375.2000122070313,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "name": "delivered-tablet-open",
+    "at": "2026-10-09T10:09:32.033Z",
+    "dialogOpen": false,
+    "expanded": [
+      {
+        "controlledExists": true,
+        "controls": "compact-navigation mobile-navigation",
+        "name": "Close menu"
+      }
+    ],
+    "focus": {
+      "name": "Close menu",
+      "offset": "0px",
+      "outline": "rgb(51, 55, 61) none 2.4px",
+      "tag": "BUTTON",
+      "text": "\u00d7"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 89.1500015258789,
+      "height": 89.1500015258789,
+      "left": 0,
+      "right": 752.7999877929688,
+      "top": 0,
+      "width": 752.7999877929688,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/",
+    "viewport": [
+      768,
+      1024
+    ]
+  },
+  {
+    "name": "delivered-tablet-footer",
+    "at": "2026-10-09T10:09:32.453Z",
+    "dialogOpen": false,
+    "expanded": [],
+    "focus": {
+      "name": null,
+      "offset": "0px",
+      "outline": "rgb(255, 255, 255) none 2.4px",
+      "tag": "A",
+      "text": "HSE Policy"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 89.1500015258789,
+      "height": 89.1500015258789,
+      "left": 0,
+      "right": 752.7999877929688,
+      "top": 0,
+      "width": 752.7999877929688,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/",
+    "viewport": [
+      768,
+      1024
+    ]
+  },
+  {
+    "name": "delivered-desktop-pointer-open",
+    "at": "2026-10-09T10:09:33.010Z",
+    "dialogOpen": false,
+    "expanded": [
+      {
+        "controlledExists": true,
+        "controls": "inline-submenu-3",
+        "name": "Services+"
+      }
+    ],
+    "focus": {
+      "name": null,
+      "offset": "0px",
+      "outline": "rgb(232, 76, 9) none 2.4px",
+      "tag": "BUTTON",
+      "text": "Services+"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 74.80000305175781,
+      "height": 74.80000305175781,
+      "left": 0,
+      "right": 1440,
+      "top": 0,
+      "width": 1440,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/",
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "name": "delivered-desktop-pointer-toggle-close",
+    "at": "2026-10-09T10:09:33.348Z",
+    "dialogOpen": false,
+    "expanded": [],
+    "focus": {
+      "name": null,
+      "offset": "0px",
+      "outline": "rgb(232, 76, 9) none 2.4px",
+      "tag": "BUTTON",
+      "text": "Services+"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 74.80000305175781,
+      "height": 74.80000305175781,
+      "left": 0,
+      "right": 1440,
+      "top": 0,
+      "width": 1440,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/",
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "name": "delivered-desktop-footer",
+    "at": "2026-10-09T10:09:33.451Z",
+    "dialogOpen": false,
+    "expanded": [],
+    "focus": {
+      "name": null,
+      "offset": "0px",
+      "outline": "rgb(255, 255, 255) none 2.4px",
+      "tag": "A",
+      "text": "HSE Policy"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 74.80000305175781,
+      "height": 74.80000305175781,
+      "left": 0,
+      "right": 1440,
+      "top": 0,
+      "width": 1440,
+      "x": 0,
+      "y": 0
+    },
+    "links": [
+      {
+        "href": "/",
+        "label": "Sterling & Wilson Data Center home",
+        "target": null
+      },
+      {
+        "href": "/",
+        "label": "Home",
+        "target": null
+      },
+      {
+        "href": "/about-us/",
+        "label": "About Us",
+        "target": null
+      },
+      {
+        "href": "/projects/",
+        "label": "Projects",
+        "target": null
+      },
+      {
+        "href": "/careers/",
+        "label": "Careers",
+        "target": null
+      },
+      {
+        "href": "/contact/",
+        "label": "Contact",
+        "target": null
+      },
+      {
+        "href": "/",
+        "label": "Sterling & Wilson Data Center home",
+        "target": null
+      },
+      {
+        "href": "/about-us/",
+        "label": "Overview",
+        "target": null
+      },
+      {
+        "href": "/awards-recognitions/",
+        "label": "Awards & Recognitions",
+        "target": null
+      },
+      {
+        "href": "/leadership/",
+        "label": "Leadership",
+        "target": null
+      },
+      {
+        "href": "/industry-memberships-and-recognitions/",
+        "label": "Industry Memberships and Recognitions",
+        "target": null
+      },
+      {
+        "href": "/projects/",
+        "label": "Projects",
+        "target": null
+      },
+      {
+        "href": "/design-build/",
+        "label": "Design & Build",
+        "target": null
+      },
+      {
+        "href": "/modular-construction/",
+        "label": "Modular Construction",
+        "target": null
+      },
+      {
+        "href": "/smart-operations/",
+        "label": "Smart Operations",
+        "target": null
+      },
+      {
+        "href": "/sustainable-execution/",
+        "label": "Sustainable Execution",
+        "target": null
+      },
+      {
+        "href": "/om-services/",
+        "label": "O&M Services",
+        "target": null
+      },
+      {
+        "href": "/news-press-release/",
+        "label": "News & Press Release",
+        "target": null
+      },
+      {
+        "href": "/events/",
+        "label": "Events",
+        "target": null
+      },
+      {
+        "href": "/careers/",
+        "label": "Careers",
+        "target": null
+      },
+      {
+        "href": "/contact/",
+        "label": "Contact",
+        "target": null
+      },
+      {
+        "href": "https://www.linkedin.com/company/sterling-and-wilson-data-center/",
+        "label": "LinkedIn (opens in a new tab)",
+        "target": "_blank"
+      },
+      {
+        "href": "/privacy-policy/",
+        "label": "Privacy Policy",
+        "target": null
+      },
+      {
+        "href": "https://sterlingandwilsondc.com/wp-content/uploads/2025/12/SW-HSE-Policy-June-2025.pdf",
+        "label": "HSE Policy",
+        "target": "_blank"
+      }
+    ],
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/",
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "name": "delivered-mobile-to-desktop-resize",
+    "at": "2026-10-09T10:12:27.280Z",
+    "dialogOpen": false,
+    "expanded": [],
+    "focus": {
+      "name": null,
+      "offset": "0px",
+      "outline": "rgb(232, 76, 9) none 2.4px",
+      "tag": "A",
+      "text": "Home"
+    },
+    "h1Count": 1,
+    "header": {
+      "bottom": 74.80000305175781,
+      "height": 74.80000305175781,
+      "left": 0,
+      "right": 1440,
+      "top": 0,
+      "width": 1440,
+      "x": 0,
+      "y": 0
+    },
+    "mainCount": 1,
+    "noindex": "noindex, nofollow",
+    "overflow": false,
+    "url": "http://127.0.0.1:3101/",
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "name": "delivered-dev-route-isolated",
+    "footers": 0,
+    "headers": 0,
+    "main": 1,
+    "noindex": "noindex, nofollow"
+  }
+]

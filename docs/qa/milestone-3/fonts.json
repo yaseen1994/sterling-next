@@ -1,0 +1,126 @@
+{
+  "checked_at": "2026-10-09T09:57:58.004191+00:00",
+  "method": "Python stdlib SFNT directory/name/OS2 inspection; no malware scanner; initial family-name check refined to include typographic family ID16 for Medium/SemiBold",
+  "fonts": [
+    {
+      "file": "src/fonts/livvic/Livvic-Bold.ttf",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/livvic/Livvic-Bold.ttf",
+      "bytes": 104788,
+      "sha256": "f2e3a5952c0fe465778a2eb93a8a4fd1f27fb6a9f8080f9aa2c7f085212dcf3f",
+      "weight": 700,
+      "names": [
+        {
+          "id": 1,
+          "text": "Livvic"
+        },
+        {
+          "id": 2,
+          "text": "Bold"
+        },
+        {
+          "id": 13,
+          "text": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+        },
+        {
+          "id": 14,
+          "text": "http://scripts.sil.org/OFL"
+        }
+      ],
+      "tableBoundsValid": true
+    },
+    {
+      "file": "src/fonts/livvic/Livvic-Medium.ttf",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/livvic/Livvic-Medium.ttf",
+      "bytes": 104384,
+      "sha256": "78f9277de8b8734cf172288fb44f359c85f3a38a6f98f2333f8e103ce1acdcf4",
+      "weight": 500,
+      "names": [
+        {
+          "id": 1,
+          "text": "Livvic Medium"
+        },
+        {
+          "id": 2,
+          "text": "Regular"
+        },
+        {
+          "id": 13,
+          "text": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+        },
+        {
+          "id": 14,
+          "text": "http://scripts.sil.org/OFL"
+        },
+        {
+          "id": 16,
+          "text": "Livvic"
+        },
+        {
+          "id": 17,
+          "text": "Medium"
+        }
+      ],
+      "tableBoundsValid": true
+    },
+    {
+      "file": "src/fonts/livvic/Livvic-Regular.ttf",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/livvic/Livvic-Regular.ttf",
+      "bytes": 104416,
+      "sha256": "778e7577cf8ed8f0a97eb657bbf4d4f05bc0c6e8eb0ac8458f25a0eaa6ca16e8",
+      "weight": 400,
+      "names": [
+        {
+          "id": 1,
+          "text": "Livvic"
+        },
+        {
+          "id": 2,
+          "text": "Regular"
+        },
+        {
+          "id": 13,
+          "text": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+        },
+        {
+          "id": 14,
+          "text": "http://scripts.sil.org/OFL"
+        }
+      ],
+      "tableBoundsValid": true
+    },
+    {
+      "file": "src/fonts/livvic/Livvic-SemiBold.ttf",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/livvic/Livvic-SemiBold.ttf",
+      "bytes": 104560,
+      "sha256": "93cf062cf28cfff0359f38dd93a75f46dcf5ba514483bb557069a89b7b3c4e0c",
+      "weight": 600,
+      "names": [
+        {
+          "id": 1,
+          "text": "Livvic SemiBold"
+        },
+        {
+          "id": 2,
+          "text": "Regular"
+        },
+        {
+          "id": 13,
+          "text": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+        },
+        {
+          "id": 14,
+          "text": "http://scripts.sil.org/OFL"
+        },
+        {
+          "id": 16,
+          "text": "Livvic"
+        },
+        {
+          "id": 17,
+          "text": "SemiBold"
+        }
+      ],
+      "tableBoundsValid": true
+    }
+  ]
+}

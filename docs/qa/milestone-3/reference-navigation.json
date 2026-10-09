@@ -1,0 +1,269 @@
+[
+  {
+    "label": "desktop-services-Tab",
+    "at": "2026-10-09T09:50:16.511Z",
+    "expanded": [
+      {
+        "controls": "sm-17915393482456448-4",
+        "text": "Services"
+      },
+      {
+        "controls": null,
+        "text": "Design & Build\n\tModular Construction\n\tSmart Operations\n\tSustainable Execution\n\tO&M Services"
+      }
+    ],
+    "focus": {
+      "href": "https://sterlingandwilsondc.com/design-build/",
+      "outline": "rgb(0, 0, 0) solid 1.6px",
+      "tag": "A",
+      "text": "Design & Build"
+    },
+    "scrollY": 0
+  },
+  {
+    "label": "desktop-Escape",
+    "at": "2026-10-09T09:50:17.471Z",
+    "expanded": [],
+    "focus": {
+      "href": "#",
+      "outline": "rgb(0, 0, 0) solid 1.6px",
+      "tag": "A",
+      "text": "Services"
+    },
+    "scrollY": 0
+  },
+  {
+    "label": "tablet-services-open",
+    "at": "2026-10-09T09:50:35.270Z",
+    "expanded": [
+      {
+        "controls": null,
+        "text": ""
+      },
+      {
+        "controls": "sm-17915393482497288-4",
+        "text": "Services"
+      },
+      {
+        "controls": null,
+        "text": "Design & Build\n\tModular Construction\n\tSmart Operations\n\tSustainable Execution\n\tO&M Services"
+      }
+    ],
+    "focus": {
+      "href": "#",
+      "outline": "rgb(0, 0, 0) solid 1.6px",
+      "tag": "A",
+      "text": "Services"
+    },
+    "scrollY": 0
+  },
+  {
+    "label": "tablet-first-child",
+    "at": "2026-10-09T09:50:36.085Z",
+    "expanded": [
+      {
+        "controls": null,
+        "text": ""
+      },
+      {
+        "controls": "sm-17915393482497288-6",
+        "text": "Media"
+      },
+      {
+        "controls": null,
+        "text": "News & Press Release\n\tEvents\n\tBlogs"
+      }
+    ],
+    "focus": {
+      "href": "#",
+      "outline": "rgb(0, 0, 0) solid 1.6px",
+      "tag": "A",
+      "text": "Media"
+    },
+    "scrollY": 0
+  },
+  {
+    "label": "tablet-escape",
+    "at": "2026-10-09T09:50:37.213Z",
+    "expanded": [
+      {
+        "controls": null,
+        "text": ""
+      },
+      {
+        "controls": "sm-17915393482497288-6",
+        "text": "Media"
+      },
+      {
+        "controls": null,
+        "text": "News & Press Release\n\tEvents\n\tBlogs"
+      }
+    ],
+    "focus": {
+      "href": "https://sterlingandwilsondc.com/design-build/",
+      "outline": "rgb(0, 0, 0) solid 1.6px",
+      "tag": "A",
+      "text": "Design & Build"
+    },
+    "scrollY": 3728
+  },
+  {
+    "label": "mobile-Tab-from-close",
+    "at": "2026-10-09T09:51:42.754Z",
+    "expanded": [],
+    "focus": {
+      "href": "https://sterlingandwilsondc.com/",
+      "outline": "rgb(241, 90, 34) none 2.4px",
+      "tag": "A",
+      "text": "Home"
+    },
+    "scrollY": 0
+  },
+  {
+    "label": "mobile-Escape",
+    "at": "2026-10-09T09:51:43.410Z",
+    "expanded": [],
+    "focus": {
+      "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1ODYzIiwidG9nZ2xlIjpmYWxzZX0%3D",
+      "outline": "rgb(0, 0, 0) solid 1.6px",
+      "tag": "A",
+      "text": ""
+    },
+    "scrollY": 0
+  },
+  {
+    "label": "mobile-forward-traversal",
+    "at": "2026-10-09T09:55:54.729Z",
+    "sequence": [
+      {
+        "href": "https://sterlingandwilsondc.com/",
+        "inPanel": true,
+        "tag": "A",
+        "text": "Home"
+      },
+      {
+        "href": "https://sterlingandwilsondc.com/about-us/",
+        "inPanel": true,
+        "tag": "A",
+        "text": "About Us"
+      },
+      {
+        "href": "https://sterlingandwilsondc.com/projects/",
+        "inPanel": true,
+        "tag": "A",
+        "text": "Projects"
+      },
+      {
+        "href": "#",
+        "inPanel": true,
+        "tag": "A",
+        "text": "Services"
+      },
+      {
+        "href": "#",
+        "inPanel": true,
+        "tag": "A",
+        "text": "Media"
+      },
+      {
+        "href": "https://sterlingandwilsondc.com/careers/",
+        "inPanel": true,
+        "tag": "A",
+        "text": "Careers"
+      },
+      {
+        "href": "https://sterlingandwilsondc.com/contact/",
+        "inPanel": true,
+        "tag": "A",
+        "text": "Contact"
+      },
+      {
+        "href": "https://sterlingandwilsondc.com/contact/",
+        "inPanel": true,
+        "tag": "A",
+        "text": "Contact"
+      },
+      {
+        "href": "https://sterlingandwilsondc.com/contact/",
+        "inPanel": true,
+        "tag": "A",
+        "text": "Contact"
+      },
+      {
+        "href": "https://sterlingandwilsondc.com/contact/",
+        "inPanel": true,
+        "tag": "A",
+        "text": "Contact"
+      }
+    ]
+  },
+  {
+    "label": "mobile-pointer-close",
+    "at": "2026-10-09T09:55:55.820Z",
+    "expanded": [],
+    "focus": {
+      "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1ODYzIiwidG9nZ2xlIjpmYWxzZX0%3D",
+      "outline": "rgb(204, 51, 102) none 2.4px",
+      "tag": "A",
+      "text": ""
+    },
+    "scrollY": 6376
+  },
+  {
+    "label": "desktop-about-arrowdown",
+    "at": "2026-10-09T09:58:37.948Z",
+    "expanded": [],
+    "focus": {
+      "href": "https://sterlingandwilsondc.com/about-us/",
+      "outline": "rgb(0, 0, 0) solid 1.6px",
+      "tag": "A",
+      "text": "About Us"
+    },
+    "scrollY": 40
+  },
+  {
+    "label": "desktop-about-enter",
+    "at": "2026-10-09T09:58:52.156Z",
+    "expanded": [
+      {
+        "controls": "sm-17915393482456448-2",
+        "text": "About Us"
+      },
+      {
+        "controls": null,
+        "text": "Overview\n\tAwards & Recognitions\n\tLeadership\n\tIndustry Memberships and Recognitions\n\tCorporate Governance"
+      }
+    ],
+    "focus": {
+      "href": "https://sterlingandwilsondc.com/about-us/",
+      "outline": "rgb(0, 0, 0) solid 1.6px",
+      "tag": "A",
+      "text": "About Us"
+    },
+    "scrollY": 40
+  },
+  {
+    "label": "desktop-media-enter",
+    "at": "2026-10-09T09:58:53.250Z",
+    "expanded": [],
+    "focus": {
+      "href": "#",
+      "outline": "rgb(0, 0, 0) solid 1.6px",
+      "tag": "A",
+      "text": "Media"
+    },
+    "scrollY": 0
+  },
+  {
+    "label": "desktop-media-escape",
+    "at": "2026-10-09T09:58:54.173Z",
+    "expanded": [],
+    "focus": {
+      "href": "#",
+      "outline": "rgb(0, 0, 0) solid 1.6px",
+      "tag": "A",
+      "text": "Media"
+    },
+    "scrollY": 0
+  }
+]

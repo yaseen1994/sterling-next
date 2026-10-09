@@ -1,0 +1,45 @@
+Browser tab: 6, Title: "Sterling & Wilson Data Center – Your trusted partner in designing, building and managing world-class data centers", URL: "https://sterlingandwilsondc.com/".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 209-214, 221-222
+~			208 container Description: Sterling & Wilson Data Center Video, ID: widget2
++				226 AXWebArea Sterling & Wilson Data Center Video - YouTube, URL: youtube.com/embed/lavuRd5ff0o?controls=1&rel=0&playsinline=0&cc_load_policy=1&autoplay=0&start=0&end=5.51&enablejsapi=1&origin=https%3A%2F%2Fsterlingandwilsondc.com&widgetid=1&forigin=https%3A%2F%2Fsterlingandwilsondc.com%2F&aoriginsup=1&vf=1
++					227 container
++						228 container Description: YouTube Video Player, ID: movie_player
++						229 container
++							230 button Play video
++							231 button Description: Hide player controls, ID: player-controls-a11y-toggle
++							232 container player-control-overlay
++								233 container
++									234 link Description: Sterling & Wilson Data Center Video, Value: youtube.com/watch?v=lavuRd5ff0o
++									235 link Description: Sterling and Wilson, Value: youtube.com/channel/UCvFadiu7TayHykHao3jeeCA
++									236 button
++									237 container
++										238 text Sterling and Wilson 1.19K subscribers
++								239 container
++									240 button Share
++									241 link Description: Watch on YouTube, Value: youtube.com/watch?v=lavuRd5ff0o
++					242 text 30 +
++					243 text 112  +MW
++					244 text 20  Million+
++					245 text 80 + 
++					246 text 500 +
++						247 link Description: Platinum-Award, Value: sterlingandwilsondc.com/wp-content/uploads/2025/07/Platinum-Award-1.png
++						248 link Description: Gold-Award, Value: sterlingandwilsondc.com/wp-content/uploads/2025/07/Gold-Award-1.png
+~			224 container Description: SWDC Client Testimonials, ID: widget4
++				249 AXWebArea SWDC Client Testimonials - YouTube, URL: youtube.com/embed/wH9Gvp4LRAg?controls=1&rel=0&playsinline=0&cc_load_policy=1&autoplay=0&start=0&end=5.51&enablejsapi=1&origin=https%3A%2F%2Fsterlingandwilsondc.com&widgetid=3&forigin=https%3A%2F%2Fsterlingandwilsondc.com%2F&aoriginsup=1&vf=3
++					250 container
++						251 container Description: YouTube Video Player, ID: movie_player
++						252 container
++							253 button Play video
++							254 button Description: Hide player controls, ID: player-controls-a11y-toggle
++							255 container player-control-overlay
++								256 container
++									257 link Description: SWDC Client Testimonials, Value: youtube.com/watch?v=wH9Gvp4LRAg
++									258 link Description: Sterling and Wilson, Value: youtube.com/channel/UCvFadiu7TayHykHao3jeeCA
++									259 button
++									260 container
++										261 text Sterling and Wilson 1.19K subscribers
++								262 container
++									263 button Copy link
++									264 link Description: Watch on YouTube, Value: youtube.com/watch?v=wH9Gvp4LRAg
+The focused UI element is 185 link Description: HSE Policy, URL: sterlingandwilsondc.com/wp-content/uploads/2025/12/SW-HSE-Policy-June-2025.pdf

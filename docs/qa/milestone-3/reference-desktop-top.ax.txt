@@ -1,0 +1,20 @@
+Browser tab: 6, Title: "Sterling & Wilson Data Center – Your trusted partner in designing, building and managing world-class data centers", URL: "https://sterlingandwilsondc.com/".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 104-109, 124-126
+~						103 container swiper-wrapper-f0d28aa1486b4f76
++							186 container 5 / 6
++								187 link Description: Edgnex Data Center Dammam, KSA, 2021, Value: sterlingandwilsondc.com/portfolios/edgnex-data-center-dammam-ksa-2021/
++							188 container 6 / 6
++								189 link Description: Telecom Egypt Cloud Hub DC Cairo, Egypt, 2021, Value: sterlingandwilsondc.com/portfolios/telecom-egypt-cloud-hub-dc-cairo-egypt/
++							190 container 1 / 6
++								191 link Description: Global Colocation Data Center Pune, India, 2021, Value: sterlingandwilsondc.com/portfolios/global-colocation-data-center-pune-india-2021/
++							192 container 2 / 6
++								193 link Description: Bhamashah State Data Center Jaipur, India, 2019, Value: sterlingandwilsondc.com/portfolios/bhamashah-state-data-center-jaipur-india/
++							194 container 3 / 6
++								195 link Description: Raxio Data Center Kinshasa, DR Congo, 2024, Value: sterlingandwilsondc.com/portfolios/raxio-dr-congo/
+~					110 button Previous slide
+~					112 button Next slide
++						196 link Description: 9, Value: sterlingandwilsondc.com/wp-content/uploads/2025/06/1-Million_BSDC.jpeg
++						197 link Description: Platinum-Award, Value: sterlingandwilsondc.com/wp-content/uploads/2025/07/Platinum-Award-1.png
++						198 link Description: Gold-Award, Value: sterlingandwilsondc.com/wp-content/uploads/2025/07/Gold-Award-1.png
+The focused UI element is 0 AXWebArea URL: sterlingandwilsondc.com/, Sterling & Wilson Data Center – Your trusted partner in designing, building and managing world-class data centers

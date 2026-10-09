@@ -1,0 +1,14 @@
+Browser tab: 6, Title: "Sterling & Wilson Data Center – Your trusted partner in designing, building and managing world-class data centers", URL: "https://sterlingandwilsondc.com/".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 186
++			265 container
++				266 button (expanded) Description: Menu Toggle, Secondary Actions: Collapse
++				267 content list menu-2-7cec98b
++					268 link Description: Home, Value: sterlingandwilsondc.com/
++					269 link (collapsed) Description: About Us, Value: sterlingandwilsondc.com/about-us/, ID: sm-17915393482497288-1, Secondary Actions: Expand
++					270 link Description: Projects, Value: sterlingandwilsondc.com/projects/
++					271 link (collapsed) Description: Services, Value: sterlingandwilsondc.com/#, ID: sm-17915393482497288-3, Secondary Actions: Expand
++					272 link (collapsed) Description: Media, Value: sterlingandwilsondc.com/#, ID: sm-17915393482497288-5, Secondary Actions: Expand
++					273 link Description: Careers, Value: sterlingandwilsondc.com/careers/
++					274 link Description: Contact, Value: sterlingandwilsondc.com/contact/
+The focused UI element is 266 button (expanded) Description: Menu Toggle, Secondary Actions: Collapse

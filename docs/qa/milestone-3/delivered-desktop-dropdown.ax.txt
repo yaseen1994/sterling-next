@@ -1,0 +1,12 @@
+Browser tab: 7, Title: "Development foundation", URL: "http://127.0.0.1:3101/".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 53
++				57 container
++					58 button (expanded) Services, Secondary Actions: Collapse
++					59 content list inline-submenu-3
++						60 link Description: Design & Build, Value: 127.0.0.1:3101/design-build/
++						61 link Description: Modular Construction, Value: 127.0.0.1:3101/modular-construction/
++						62 link Description: Smart Operations, Value: 127.0.0.1:3101/smart-operations/
++						63 link Description: Sustainable Execution, Value: 127.0.0.1:3101/sustainable-execution/
++						64 link Description: O&M Services, Value: 127.0.0.1:3101/om-services/
+The focused UI element is 58 button (expanded) Services, Secondary Actions: Collapse

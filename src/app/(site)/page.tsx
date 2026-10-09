@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <main className="mx-auto flex min-h-screen max-w-3xl flex-col justify-center px-6 py-16 sm:px-10">
+    <div className="mx-auto flex min-h-[60vh] max-w-3xl flex-col justify-center px-6 py-16 sm:px-10">
       <p className="mb-4 text-sm font-semibold tracking-wide text-slate-600">
         Development preview
       </p>
@@ -11,6 +11,6 @@ export default function Home() {
         This neutral page is ready for local review. Website content and design
         will be added in separately approved milestones.
       </p>
-    </main>
+    </div>
   );
 }

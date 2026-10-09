@@ -1,0 +1,47 @@
+Browser tab: 7, Title: "Development foundation", URL: "http://127.0.0.1:3101/".
+1 AXWebArea Development foundation, URL: 127.0.0.1:3101/
+	2 container
+		3 link Description: Skip to content, Value: 127.0.0.1:3101/#content
+		4 link Description: Sterling & Wilson Data Center home, Value: 127.0.0.1:3101/
+		5 button (collapsed) Description: Open menu, Secondary Actions: Expand
+		6 container content
+			7 text Development preview
+			8 heading Application foundation, Value: 1
+				9 text Application foundation
+			10 text This neutral page is ready for local review. Website content and design will be added in separately approved milestones.
+		11 link Description: Sterling & Wilson Data Center home, Value: 127.0.0.1:3101/
+		12 text Your trusted partner in designing, building and managing world-class data centers
+		13 heading About Us, Value: 2
+			14 text About Us
+		15 content list
+			16 link Description: Overview, Value: 127.0.0.1:3101/about-us/
+			17 link Description: Awards & Recognitions, Value: 127.0.0.1:3101/awards-recognitions/
+			18 link Description: Leadership, Value: 127.0.0.1:3101/leadership/
+			19 link Description: Industry Memberships and Recognitions, Value: 127.0.0.1:3101/industry-memberships-and-recognitions/
+		20 heading Projects, Value: 2
+			21 link Description: Projects, Value: 127.0.0.1:3101/projects/
+		22 heading Services, Value: 2
+			23 text Services
+		24 content list
+			25 link Description: Design & Build, Value: 127.0.0.1:3101/design-build/
+			26 link Description: Modular Construction, Value: 127.0.0.1:3101/modular-construction/
+			27 link Description: Smart Operations, Value: 127.0.0.1:3101/smart-operations/
+			28 link Description: Sustainable Execution, Value: 127.0.0.1:3101/sustainable-execution/
+			29 link Description: O&M Services, Value: 127.0.0.1:3101/om-services/
+		30 heading Media, Value: 2
+			31 text Media
+		32 content list
+			33 link Description: News & Press Release, Value: 127.0.0.1:3101/news-press-release/
+			34 link Description: Events, Value: 127.0.0.1:3101/events/
+		35 heading Careers, Value: 2
+			36 link Description: Careers, Value: 127.0.0.1:3101/careers/
+		37 heading Contact, Value: 2
+			38 link Description: Contact, Value: 127.0.0.1:3101/contact/
+		39 heading Let’s Connect, Value: 2
+			40 text Let’s Connect
+		41 link Description: LinkedIn (opens in a new tab), Value: linkedin.com/company/sterling-and-wilson-data-center/
+		42 content list
+			43 link Description: Privacy Policy, Value: 127.0.0.1:3101/privacy-policy/
+			44 link Description: HSE Policy, Value: sterlingandwilsondc.com/wp-content/uploads/2025/12/SW-HSE-Policy-June-2025.pdf
+
+The focused UI element is 5 button (collapsed) Description: Open menu, Secondary Actions: Expand

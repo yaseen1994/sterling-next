@@ -28,3 +28,7 @@ Browser-pass review, 2026-10-07: no explicit D1–D8 answers received. D8 should
 - **D8 — Visual/accessibility acceptance:** Approve comparison viewports 1440×900, 768×1024 and 390×844 or specify alternatives/tolerances. Decide accessible menu/FAQ/carousel corrections, reduced motion, tablet/mobile differences and sticky-award treatment. Review the dated reference captures; no migrated UI exists yet.
 
 Phase 0 acceptance needs these decisions or an explicitly accepted deferred sourcing/evidence plan, plus closure or recorded acceptance of material engineering gaps. Commit status does not mean owner acceptance.
+
+## Demo scope/asset answer — 2026-10-09
+
+Yaseen explicitly authorized suitable supplied repository assets for the client demonstration. Milestone 3 uses the supplied header/footer logos and mobile menu icon only. D2 is partially answered for this demo use; remaining media/production rights are not resolved. Licensed Livvic was sourced independently under SIL OFL 1.1. CMS, form delivery, other pages, comprehensive SEO and production cutover are deferred until client approval, not cancelled or accepted. No D item or browser acceptance is marked wholly resolved.

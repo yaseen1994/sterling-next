@@ -1,0 +1,123 @@
+/* Shell measurements: docs/qa/milestone-3/reference-shell.json. */
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 40;
+  background: var(--color-site-surface);
+  color: var(--color-site-dark);
+}
+.headerInner {
+  display: grid;
+  grid-template-columns: 20fr 80fr;
+  align-items: center;
+  gap: 28.8px;
+  padding: 1% 8%;
+}
+.logo {
+  display: flex;
+  flex: 0 0 174px;
+  width: 174px;
+  height: 40px;
+  align-items: center;
+  justify-content: center;
+  color: inherit;
+}
+.logo img { width: 100%; height: auto; }
+.navigationRoot { flex: 1; min-width: 0; }
+.menu { display: flex; justify-content: center; list-style: none; margin: 0; padding: 0; }
+.menuItem { position: relative; }
+.menuRow { display: flex; align-items: stretch; }
+.menuRow a, .menuRow button {
+  display: flex;
+  align-items: center;
+  min-height: 46px;
+  padding: 13px 20px;
+  color: inherit;
+  background: transparent;
+  border: 0;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 20px;
+  text-decoration: none;
+  white-space: nowrap;
+  cursor: pointer;
+}
+.menuRow:has(.submenuToggle) a { padding-right: 0; }
+.menuRow .submenuToggle { padding: 13px 16px 13px 8px; }
+.indicator { margin-left: 10px; font: 600 18px/1 Arial, sans-serif; }
+.submenuToggle .indicator { margin-left: 0; }
+.menuRow a[aria-current="page"], .menuRow a:hover, .menuRow button:hover, .menuRow button[aria-expanded="true"] { color: #e84c09; }
+.submenu { position: absolute; top: 100%; left: 0; width: max-content; max-width: 280px; background: white; list-style: none; padding: 0; margin: 0; }
+.submenu a { display: block; padding: 13px 20px; font: 400 13px/20px var(--font-livvic), sans-serif; color: var(--color-site-dark); text-decoration: none; }
+.submenu a:hover { background: #f1f1f1; color: #e84c09; }
+.menuToggle, .mobilePanel { display: none; }
+.header :is(a, button):focus-visible, .footer a:focus-visible, .mobilePanel :is(a,button):focus-visible { outline: 3px solid currentColor; outline-offset: 3px; }
+.skipLink { position: fixed; top: 8px; left: 8px; z-index: 60; transform: translateY(-150%); background: white; color: black; padding: 12px 20px; }
+.skipLink:focus { transform: none; outline: 3px solid black; }
+.main { scroll-margin-top: 100px; }
+.main:focus { outline: none; }
+.footer { background: var(--color-site-dark); color: white; padding: 3% 8%; }
+.footerInner { display: grid; grid-template-columns: 30fr 19fr 19fr 18fr 14fr; gap: 28.8px; }
+.footerBrand { min-width: 0; }
+.footerBrand .logo { width: 60%; height: auto; aspect-ratio: 4.37; min-height: 40px; }
+.footerBrand p { font-size: 16px; line-height: 24px; margin-top: 10px; }
+.footerColumn { min-width: 0; }
+.footer h2 { font-size: 19px; line-height: 19px; font-weight: 600; margin: 0; }
+.footer ul { list-style: none; padding: 0; margin: 7px 0 0; }
+.footer li { font-size: 16px; line-height: 24px; margin-top: 5px; }
+.footer a { text-decoration: none; color: inherit; }
+.footer a:hover { text-decoration: underline; }
+.footer .following { margin-top: 7px; }
+.social { display: inline-flex; width: 36px; height: 36px; align-items: center; justify-content: center; margin: 10px 0 0; border-radius: 50%; background: #e9e9e9; }
+.social span { color: var(--color-site-accent); font: 700 22px/1 Arial, sans-serif; }
+
+@media (max-width: 1024px) {
+  .headerInner { display: flex; padding: 3% 5%; gap: 0; justify-content: space-between; }
+  .logo { width: 168px; flex-basis: 168px; height: 38px; }
+  .navigationRoot { flex: none; }
+  .menuToggle { display: flex; width: 44px; height: 44px; align-items: center; justify-content: center; background: #f2f2f2; color: #33373d; border: 0; border-radius: 3px; cursor: pointer; }
+  .hamburger { font: 28px/1 Arial, sans-serif; }
+  .dots { display: none; }
+  .desktopNavigation { display: none; position: absolute; inset: calc(100% - 22px) 0 auto; background: white; max-height: calc(100dvh - 90px); overflow-y: auto; }
+  .desktopNavigation.tabletOpen { display: block; }
+  .menu { display: block; }
+  .menuRow a, .menuRow button { min-height: 43px; padding: 10px 7%; font-weight: 400; }
+  .menuRow .submenuToggle { padding: 10px 16px 10px 8px; }
+  .menuRow > a:only-child, .groupToggle { width: 100%; }
+  .submenu { position: static; width: 100%; max-width: none; }
+  .submenu a { padding: 10px 9%; }
+  .footer { padding: 5% 4%; }
+  .footerInner { grid-template-columns: 33% 32.5% 29%; gap: 44px 15px; }
+  .footerBrand { grid-column: span 2; }
+  .footerBrand .logo { width: 45%; }
+}
+@media (max-width: 767px) {
+  .taglineBreak { display: none; }
+  .headerInner { padding: 8px 5%; }
+  .logo { width: 186px; flex-basis: 186px; height: 43px; }
+  .menuToggle { background: none; }
+  .hamburger { display: none; }
+  .dots { display: block; width: 33px; height: 32px; }
+  .desktopNavigation.tabletOpen { display: none; }
+  .mobilePanel[open] { display: block; }
+  .mobilePanel { position: fixed; inset: 0 0 0 auto; margin: 0; width: min(300px, 100%); max-width: 100%; height: 100dvh; max-height: 100dvh; padding: 60px 30px 24px; border: 0; background: white; color: var(--color-site-dark); overflow-y: auto; }
+  .mobilePanel::backdrop { background: rgb(0 0 0 / 80%); }
+  .close { position: absolute; top: 8px; right: 8px; width: 44px; height: 44px; background: transparent; border: 0; font: 30px/1 Arial, sans-serif; cursor: pointer; }
+  .mobilePanel .menuRow { border-bottom: 1px solid #f5bca6; }
+  .mobilePanel .menuItem:last-child > .menuRow { border-bottom: 0; }
+  .mobilePanel .menuRow a, .mobilePanel .menuRow button { font-size: 14px; font-weight: 600; min-height: 50px; padding: 14px 20px; }
+  .mobilePanel .menuRow a { flex: 1; padding-right: 0; }
+  .mobilePanel .menuRow .submenuToggle { padding-left: 12px; }
+  .mobilePanel .groupToggle { justify-content: space-between; }
+  .mobilePanel .indicator { width: 7px; height: 7px; border-right: 2px solid; border-bottom: 2px solid; transform: rotate(45deg); font-size: 0; margin-bottom: 4px; }
+  .mobilePanel [aria-expanded="true"] .indicator { transform: rotate(225deg); margin-bottom: 0; }
+  .mobilePanel .submenu a { padding: 10px 20px; min-height: 41px; font-size: 13px; font-weight: 600; border-bottom: 1px solid #f5bca6; }
+  .footer { padding: 10% 4%; }
+  .footerInner { display: block; }
+  .footerBrand .logo { width: 60%; }
+  .footerColumn { margin-top: 25px; }
+  .footer li { margin-top: 0; }
+  .footer ul { margin-top: 11px; }
+  .footer .following { margin-top: 10px; }
+  .social { margin-top: 20px; margin-bottom: 10px; }
+}

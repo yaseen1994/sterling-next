@@ -1,0 +1,15 @@
+Browser tab: 7, Title: "Development foundation", URL: "http://127.0.0.1:3101/".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 5
++		46 container Primary
++			47 content list
++				48 link Description: Home, Value: 127.0.0.1:3101/
++				49 container
++					50 link Description: About Us, Value: 127.0.0.1:3101/about-us/
++					51 button (collapsed) Description: About Us submenu, Secondary Actions: Expand
++				52 link Description: Projects, Value: 127.0.0.1:3101/projects/
++				53 button (collapsed) Services, Secondary Actions: Expand
++				54 button (collapsed) Media, Secondary Actions: Expand
++				55 link Description: Careers, Value: 127.0.0.1:3101/careers/
++				56 link Description: Contact, Value: 127.0.0.1:3101/contact/
+The focused UI element is 45 link Description: HSE Policy, URL: sterlingandwilsondc.com/wp-content/uploads/2025/12/SW-HSE-Policy-June-2025.pdf

@@ -1,0 +1,7 @@
+Browser tab: 6, Title: "Sterling & Wilson Data Center – Your trusted partner in designing, building and managing world-class data centers", URL: "https://sterlingandwilsondc.com/".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 326-328
++						336 link Description: Platinum-Award, Value: sterlingandwilsondc.com/wp-content/uploads/2025/07/Platinum-Award-1.png
++						337 link Description: Gold-Award, Value: sterlingandwilsondc.com/wp-content/uploads/2025/07/Gold-Award-1.png
++						338 link Description: OHSSAI-Safety-Awards, Value: sterlingandwilsondc.com/wp-content/uploads/2026/06/OHSSAI-Safety-Awards.png
+The focused UI element is 289 link (collapsed) Description: About Us, URL: sterlingandwilsondc.com/about-us/, ID: sm-17915393482456448-1, Secondary Actions: Expand

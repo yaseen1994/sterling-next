@@ -1,0 +1,17 @@
+Browser tab: 7, Title: "Development foundation", URL: "http://127.0.0.1:3101/".
+1 AXWebArea Development foundation, URL: 127.0.0.1:3101/
+	2 container Description: Website navigation, ID: mobile-navigation
+		3 button Close menu
+		4 container Primary
+			5 content list
+				6 link Description: Home, Value: 127.0.0.1:3101/
+				7 container
+					8 link Description: About Us, Value: 127.0.0.1:3101/about-us/
+					9 button (collapsed) Description: About Us submenu, Secondary Actions: Expand
+				10 link Description: Projects, Value: 127.0.0.1:3101/projects/
+				11 button (collapsed) Services, Secondary Actions: Expand
+				12 button (collapsed) Media, Secondary Actions: Expand
+				13 link Description: Careers, Value: 127.0.0.1:3101/careers/
+				14 link Description: Contact, Value: 127.0.0.1:3101/contact/
+
+The focused UI element is 3 button Close menu

@@ -1,0 +1,11 @@
+Browser tab: 6, Title: "Sterling & Wilson Data Center – Your trusted partner in designing, building and managing world-class data centers", URL: "https://sterlingandwilsondc.com/".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 103, 147-149, 215-220, 223, 248, 282-283
++			286 link sterlingandwilsondc.com/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM1ODYzIiwidG9nZ2xlIjpmYWxzZX0%3D
++						287 container 1 / 6
++							288 link Description: Global Colocation Data Center Pune, India, 2021, Value: sterlingandwilsondc.com/portfolios/global-colocation-data-center-pune-india-2021/
++					289 button Previous
++					290 link Description: britishes, Value: sterlingandwilsondc.com/wp-content/uploads/2026/06/britishes.png
++					291 button Next
++				292 text Your trusted partner in designing, building and managing world-class data centers
+The focused UI element is 185 link Description: HSE Policy, URL: sterlingandwilsondc.com/wp-content/uploads/2025/12/SW-HSE-Policy-June-2025.pdf

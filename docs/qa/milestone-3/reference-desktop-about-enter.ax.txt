@@ -1,0 +1,15 @@
+Browser tab: 6, Title: "Sterling & Wilson Data Center – Your trusted partner in designing, building and managing world-class data centers", URL: "https://sterlingandwilsondc.com/".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 289, 336-338
++					336 container
++						337 link (expanded) Description: About Us, Value: sterlingandwilsondc.com/about-us/, ID: sm-17915393482456448-1, Secondary Actions: Collapse
++						338 container Description: About Us, ID: sm-17915393482456448-2
++							339 link Description: Overview, Value: sterlingandwilsondc.com/about-us/
++							340 link Description: Awards & Recognitions, Value: sterlingandwilsondc.com/awards-recognitions/
++							341 link Description: Leadership, Value: sterlingandwilsondc.com/leadership/
++							342 link Description: Industry Memberships and Recognitions, Value: sterlingandwilsondc.com/industry-memberships-and-recognitions/
++							343 link Description: Corporate Governance, Value: sterlingandwilsondc.com/corporate-governance/
++						344 link Description: britishes, Value: sterlingandwilsondc.com/wp-content/uploads/2026/06/britishes.png
++						345 link Description: SWDC-Awards, Value: sterlingandwilsondc.com/wp-content/uploads/2026/09/SWDC-Awards.png
++						346 link Description: 2, Value: sterlingandwilsondc.com/wp-content/uploads/2025/06/Midmax-Qatar.jpg
+The focused UI element is 337 link (expanded) Description: About Us, URL: sterlingandwilsondc.com/about-us/, ID: sm-17915393482456448-1, Secondary Actions: Collapse

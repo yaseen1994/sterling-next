@@ -29,18 +29,18 @@ npm.cmd run start
 
 The production server uses the already-built `.next` output; open http://localhost:3000 and an unknown URL such as http://localhost:3000/foundation-missing. The latter must show the custom not-found page with HTTP 404. For an alternate port use `npm.cmd run dev -- --port 3100` or `npm.cmd run start -- --port 3101`.
 
-`lint` uses ESLint's flat configuration and CLI, independently of build. `typecheck` runs `next typegen` then strict `tsc --noEmit`, so generated route types are available on a fresh checkout. Generated `.next/`, next-env.d.ts, node_modules/ and TypeScript incremental files are ignored. Tailwind 4 scans application source under src/, including components; discovery evidence, dependencies and generated output are outside that source base. System fonts avoid remote font requests. Next-specific lint rules remain deferred because of the unresolved vulnerable glob chain; the compatible Hooks plugin brings a mandatory prerelease dependency, conflicting with the existing version policy. Neither framework nor Hooks rule coverage is claimed; see docs/milestone-2.md.
+`lint` uses ESLint's flat configuration and CLI, independently of build. `typecheck` runs `next typegen` then strict `tsc --noEmit`, so generated route types are available on a fresh checkout. Generated `.next/`, next-env.d.ts, node_modules/ and TypeScript incremental files are ignored. Tailwind 4 scans application source under src/, including components; discovery evidence, dependencies and generated output are outside that source base. Livvic is self-hosted through next/font/local with its OFL notice. Hooks 7.1.1 enables rules-of-hooks and exhaustive-deps; gensync 1.0.0-beta.2 is the explicitly authorized transitive exception. Next-specific lint remains deferred because of the unresolved vulnerable glob chain; see docs/milestone-3.md.
 
 GitHub Actions (`.github/workflows/checks.yml`) uses the documented Node/npm baseline and runs npm ci, lint, typecheck and build on main pushes and pull requests. It requires no configured secrets and does not deploy. A local pass does not claim a GitHub-hosted run passed.
 
 ## Structure and handoff
 
-Milestone 2 local review: http://localhost:3000/dev/design-system (or your selected port). [Milestone 2](docs/milestone-2.md) records reference-derived tokens, Container/Section/Button/link-button/Heading primitives and provisional differences. The root foundation page remains available. The development demonstration inherits noindex and must be removed or access-restricted before production launch; noindex is not access control. No header/footer/homepage migration, font/media import or CMS integration is included.
+Milestone 2 local review: http://localhost:3000/dev/design-system (or your selected port). [Milestone 2](docs/milestone-2.md) records reference-derived tokens, Container/Section/Button/link-button/Heading primitives and provisional differences. The root foundation page remains available. The development demonstration inherits noindex and must be removed or access-restricted before production launch; noindex is not access control. Milestone 3 adds the shared header/footer to `/`, with supplied shell assets and licensed Livvic; this development route remains without marketing chrome.
 
 - `src/app/layout.tsx`: semantic HTML root and temporary noindex metadata.
-- `src/app/page.tsx`: neutral server-rendered development page styled with Tailwind.
+- `src/app/(site)/page.tsx`: neutral page; the route-group layout supplies the shared shell and one main landmark.
 - `src/app/not-found.tsx`: accessible 404 with a keyboard-visible home link.
-- `src/app/globals.css`: Tailwind import and system-font baseline.
+- `src/app/globals.css`: Tailwind import and Livvic font token.
 - `next.config.ts`: disables Next's automatic AGENTS.md additions, preserving the existing repository instructions.
 - AGENTS.md, PROJECT.md and STATUS.md: workflow, scope and progress; `docs/decisions.md`: consequential history.
 - [Milestone 1](docs/milestone-1.md): exact package versions, official compatibility sources and actual checks.

@@ -1,0 +1,17 @@
+Browser tab: 6, Title: "Sterling & Wilson Data Center – Your trusted partner in designing, building and managing world-class data centers", URL: "https://sterlingandwilsondc.com/".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 10, 196-198
++					196 container
++						197 link (expanded) Description: Services, Value: sterlingandwilsondc.com/#, ID: sm-17915393482456448-3, Secondary Actions: Collapse
++						198 container Description: Services, ID: sm-17915393482456448-4
++							199 link Description: Design & Build, Value: sterlingandwilsondc.com/design-build/
++							200 link Description: Modular Construction, Value: sterlingandwilsondc.com/modular-construction/
++							201 link Description: Smart Operations, Value: sterlingandwilsondc.com/smart-operations/
++							202 link Description: Sustainable Execution, Value: sterlingandwilsondc.com/sustainable-execution/
++							203 link Description: O&M Services, Value: sterlingandwilsondc.com/om-services/
++							204 container 4 / 6
++								205 link Description: Hyperscaler Data Center Hyderabad, India, Value: sterlingandwilsondc.com/portfolios/hyperscaler-data-center-hyderabad-india/
++						206 link Description: 2, Value: sterlingandwilsondc.com/wp-content/uploads/2025/06/Midmax-Qatar.jpg
++						207 link Description: 3, Value: sterlingandwilsondc.com/wp-content/uploads/2025/06/Damman-Data-Centre.jpg
++						208 link Description: 5, Value: sterlingandwilsondc.com/wp-content/uploads/2025/06/BSDC-4-Million-Safe-Man-Hours.jpg
+The focused UI element is 197 link (expanded) Description: Services, URL: sterlingandwilsondc.com/#, ID: sm-17915393482456448-3, Secondary Actions: Collapse

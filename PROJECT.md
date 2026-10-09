@@ -47,3 +47,7 @@ Persist progress in STATUS.md and consequential decisions in docs/decisions.md. 
 ## Approval boundaries
 
 Yaseen accepts scope, ambiguous URL dispositions and visual differences. The site owner confirms content legitimacy, media permission, form recipients, hosting/domain authority and release readiness. Routine implementation proceeds within the accepted milestone.
+
+## Client demonstration scope update — 2026-10-09
+
+Yaseen targets a client demonstration in approximately two days. Finish Milestone 3 only; next supplied priorities are homepage, About and Contact. Other pages, CMS, form delivery, comprehensive SEO migration and production cutover are deferred until client approval and remain in eventual migration scope. Keep noindex. Suitable supplied assets may be used for the demo; this does not resolve all production media rights or imply browser acceptance.

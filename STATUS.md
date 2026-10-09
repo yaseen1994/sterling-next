@@ -1,8 +1,18 @@
 # Current state
 
-Updated: 2026-10-08
+Updated: 2026-10-09
 
-## Milestone 2 — current implementation handoff
+## Milestone 3 — client-demo shell handoff
+
+Implemented: shared sticky header, desktop dropdowns, tablet dropdown and mobile modal navigation; structured link content, responsive footer, skip link and one main landmark. Neutral root remains; `/dev/design-system` stays separate. Supplied header/footer logos and mobile icon are used; other newly supplied assets remain untouched and outside this commit. Livvic is locally hosted under SIL OFL 1.1. Noindex remains.
+
+Checks: lint/typecheck/build and focused three-width browser checks; details and limitations in [Milestone 3](docs/milestone-3.md). Hooks 7.1.1 rules are enabled with the authorized gensync 1.0.0-beta.2 exception, zero audit vulnerabilities; the separate Next lint gap remains. Historical discovery evidence/manifests have no diff.
+
+Review: ChatGPT technical review COMPLETE for Milestone 2’s limited source/configuration scope at 7a052c5119d88956ff5a1c85449a0a028e490503; GitHub CI success independently confirmed per supplied outcome. Milestone 3 implementation/self-verification complete at handoff; ChatGPT review and Yaseen browser acceptance remain pending. Earlier delivery-time entries below retain their historical status.
+
+Demo scope update, 2026-10-09: approximately two-day client demonstration target. Next priorities supplied by Yaseen are homepage, About and Contact. Other pages, CMS, form delivery, comprehensive SEO migration and production cutover are deferred until client approval, not completed or removed from eventual scope. Codex stops after this milestone’s commit/push; no next-page work begins.
+
+## Milestone 2 — earlier implementation handoff
 
 Implemented: src/ Tailwind scanning (including components, excluding root discovery/generated/dependency trees); reference-derived semantic color/type/width/gutter/spacing/radius tokens; Container, Section, native Button/LinkButton and Heading in four src/components/ui files; noindex `/dev/design-system` demonstration with one local client disclosure. Root foundation retained. No client branding/media/font import, site header/footer/homepage migration, CMS/forms/animation dependency, deployment/domain changes or W1–W4 execution.
 

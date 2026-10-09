@@ -32,8 +32,8 @@
   --color-site-surface: #ffffff;
   --color-site-dark: #231f20;
   --color-site-inverse: #ffffff;
-  /* Livvic is evidenced, but not integrated until provenance/license checks. */
-  --font-site: Arial, Helvetica, sans-serif;
+  /* Clean OFL-licensed Livvic, integrated in Milestone 3. */
+  --font-site: var(--font-livvic), Arial, Helvetica, sans-serif;
   --container-site: 75rem;
   --spacing-section: clamp(3rem, 5vw, 4.5rem);
   --spacing-site-gap: 1.8rem;
@@ -49,5 +49,5 @@
 }
 
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-livvic), Arial, Helvetica, sans-serif;
 }

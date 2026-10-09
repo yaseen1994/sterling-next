@@ -1,0 +1,59 @@
+{
+  "at": "2026-10-09T10:13:00.946Z",
+  "result": [
+    {
+      "path": "/",
+      "status": 200,
+      "location": null,
+      "noindex": true
+    },
+    {
+      "path": "/dev/design-system",
+      "status": 200,
+      "location": null,
+      "noindex": true
+    },
+    {
+      "path": "/about-us/",
+      "status": 404,
+      "location": null,
+      "noindex": true
+    },
+    {
+      "path": "/contact/",
+      "status": 404,
+      "location": null,
+      "noindex": true
+    },
+    {
+      "path": "/milestone-3-missing",
+      "status": 404,
+      "location": null,
+      "noindex": true
+    },
+    {
+      "path": "/licenses/livvic-OFL.txt",
+      "status": 200,
+      "location": null,
+      "noindex": null
+    },
+    {
+      "url": "http://127.0.0.1:3101/_next/image?url=%2Fassets%2Fimages%2FSWDC-cd7cd5.jpg&w=256&q=75",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 3449
+    },
+    {
+      "url": "http://127.0.0.1:3101/_next/image?url=%2Fassets%2Fimages%2Fmobile-menu1-e3a366.webp&w=48&q=75",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 722
+    },
+    {
+      "url": "http://127.0.0.1:3101/_next/image?url=%2Fassets%2Fimages%2FSWDC-a3a828.png&w=256&q=75",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 2700
+    }
+  ]
+}
