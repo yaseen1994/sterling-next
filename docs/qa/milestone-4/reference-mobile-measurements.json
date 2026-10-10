@@ -1,0 +1,205 @@
+{
+  "date": "2026-10-09",
+  "url": "https://sterlingandwilsondc.com/",
+  "cards": [
+    {
+      "html": "Design & Build\nHigh availability infrastructure across Civil, MEP, HVAC, IBMS, and Fire Systems. Engineered for speed, scalability, and flawless delivery from design to handover.\n\n\nKnow more",
+      "style": [
+        {
+          "cl": "csr-cards",
+          "font": "16px",
+          "margin": "0px",
+          "rect": {
+            "bottom": -5391.175201416016,
+            "height": 281.0874938964844,
+            "left": 15.612500190734863,
+            "right": 374.3874940872192,
+            "top": -5672.2626953125,
+            "width": 358.7749938964844,
+            "x": 15.612500190734863,
+            "y": -5672.2626953125
+          },
+          "top": "0px"
+        },
+        {
+          "cl": "csr-icon",
+          "font": "16px",
+          "margin": "0px",
+          "rect": {
+            "bottom": -5505.53759765625,
+            "height": 130,
+            "left": 130,
+            "right": 260,
+            "top": -5635.53759765625,
+            "width": 130,
+            "x": 130,
+            "y": -5635.53759765625
+          },
+          "top": "35.136px"
+        },
+        {
+          "cl": "csr-content",
+          "font": "16px",
+          "margin": "78.08px 0px 0px",
+          "rect": {
+            "bottom": -5396.250091552734,
+            "height": 203.8500061035156,
+            "left": 37.212501525878906,
+            "right": 352.78751373291016,
+            "top": -5600.10009765625,
+            "width": 315.57501220703125,
+            "x": 37.212501525878906,
+            "y": -5600.10009765625
+          },
+          "top": "0px"
+        },
+        {
+          "cl": "",
+          "font": "16px",
+          "margin": "0px",
+          "rect": {
+            "bottom": -5550.10009765625,
+            "height": 50,
+            "left": 170,
+            "right": 220,
+            "top": -5600.10009765625,
+            "width": 50,
+            "x": 170,
+            "y": -5600.10009765625
+          },
+          "top": "auto"
+        },
+        {
+          "cl": "csr-card-head",
+          "font": "16px",
+          "margin": "78.08px 0px 0px",
+          "rect": {
+            "bottom": -5436.887401580811,
+            "height": 35.13750076293945,
+            "left": 37.212501525878906,
+            "right": 352.78751373291016,
+            "top": -5472.02490234375,
+            "width": 315.57501220703125,
+            "x": 37.212501525878906,
+            "y": -5472.02490234375
+          },
+          "top": "auto"
+        },
+        {
+          "cl": "text-block-7",
+          "font": "23.424px",
+          "margin": "0px",
+          "rect": {
+            "bottom": -5436.887401580811,
+            "height": 35.13750076293945,
+            "left": 37.212501525878906,
+            "right": 352.78751373291016,
+            "top": -5472.02490234375,
+            "width": 315.57501220703125,
+            "x": 37.212501525878906,
+            "y": -5472.02490234375
+          },
+          "top": "auto"
+        },
+        {
+          "cl": "body-text",
+          "font": "4.6848px",
+          "margin": "0px",
+          "rect": {
+            "bottom": -5376.250194549561,
+            "height": 33.63750076293945,
+            "left": 37.212501525878906,
+            "right": 352.78751373291016,
+            "top": -5409.8876953125,
+            "width": 315.57501220703125,
+            "x": 37.212501525878906,
+            "y": -5409.8876953125
+          },
+          "top": "auto"
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "rect": {
+        "bottom": 0,
+        "height": 0,
+        "left": 0,
+        "right": 0,
+        "top": 0,
+        "width": 0,
+        "x": 0,
+        "y": 0
+      },
+      "src": "https://sterlingandwilsondc.com/wp-content/uploads/2026/02/Map-F-1.jpg"
+    },
+    {
+      "rect": {
+        "bottom": -59.899993896484375,
+        "height": 484.0375061035156,
+        "left": 15.612500190734863,
+        "right": 374.3874940872192,
+        "top": -543.9375,
+        "width": 358.7749938964844,
+        "x": 15.612500190734863,
+        "y": -543.9375
+      },
+      "src": "https://sterlingandwilsondc.com/wp-content/uploads/2025/07/Global-Presence-Map-M.jpg"
+    },
+    {
+      "rect": {
+        "bottom": 764.0000114440918,
+        "height": 41.04999923706055,
+        "left": 300.13751220703125,
+        "right": 370.3875122070313,
+        "top": 722.9500122070312,
+        "width": 70.25,
+        "x": 300.13751220703125,
+        "y": 722.9500122070312
+      },
+      "src": "https://sterlingandwilsondc.com/wp-content/uploads/2026/09/Construction-Week-Awards-Badge.png"
+    }
+  ],
+  "media": [
+    {
+      "rect": {
+        "bottom": -3506.075088500977,
+        "height": 202.02500915527344,
+        "left": 15.612500190734863,
+        "right": 374.78751850128174,
+        "top": -3708.10009765625,
+        "width": 359.1750183105469,
+        "x": 15.612500190734863,
+        "y": -3708.10009765625
+      },
+      "src": "https://www.youtube.com/embed/lavuRd5ff0o?controls=1&rel=0&playsinline=0&cc_load_policy=1&autoplay=0&start=0&end=5.51&enablejsapi=1&origin=https%3A%2F%2Fsterlingandwilsondc.com&widgetid=1&forigin=https%3A%2F%2Fsterlingandwilsondc.com%2F&aoriginsup=1&vf=6"
+    }
+  ],
+  "stats": [
+    {
+      "h": 48,
+      "text": "30\n\t\t\t\t+"
+    },
+    {
+      "h": 48,
+      "text": "112\n\t\t\t\t +MW"
+    },
+    {
+      "h": 48,
+      "text": "20\n\t\t\t\t Million+"
+    },
+    {
+      "h": 48,
+      "text": "80\n\t\t\t\t+"
+    },
+    {
+      "h": 48,
+      "text": "500\n\t\t\t\t+"
+    }
+  ],
+  "viewport": [
+    390,
+    844
+  ]
+}
