@@ -2,6 +2,14 @@
 
 Updated: 2026-10-10
 
+## Services — implementation for review
+
+Implemented the five navigation service routes in the existing shell: `/design-build/`, `/modular-construction/`, `/smart-operations/`, `/sustainable-execution/`, and `/om-services/`. Copy and section order follow the public pages and the 2026-10-07 discovery records. Local images already in `public/assets/images/` are used. `noindex` remains. Header, footer, homepage, corporate pages, and Contact were not rewritten. `PageBanner` gained optional ink text and a title placed under the image so the Sustainable Execution partnership logos stay visible; existing callers keep the previous overlay.
+
+Shared layout covers the four EPC-style pages: banner, intro, icon cards, and the Enquire Now band to `/contact/`. Design & Build also reuses the homepage project carousel. Smart Operations is its own page: hero, delivery cards, capabilities, sectors, impact titles, SmartSense, geography, five native FAQ disclosures, and Request a Demo. Hidden “Our Journey” lifecycle text is in the source HTML of these pages and was not visible in the rendered reference, so it is omitted. The source spelling “maintainance” is kept. No capability or statistic was added beyond the reference copy.
+
+Checks, 2026-10-10 final pass: lint, typecheck, and production build passed. On the current development server, all five service routes returned 200 with `noindex, nofollow` and one server-rendered `h1`. The 60 referenced service images are already tracked under `public/assets/images/` and each returned 200. At 390px, Sustainable Execution had no page overflow: the mobile partnership banner loaded, the title sat 28px below that image in black, ESG copy stayed readable, and the six service cards stacked in one column. About Us, Awards & Recognitions, Leadership, Industry Memberships, Corporate Governance, and Contact kept the white overlay title on an absolutely positioned banner, with the previous heading levels (Contact’s banner remains an `h2` and its `h1` is “Connect With Our Experts”). Enquire Now and a footer Design & Build link changed the URL on the same document. Request a Demo points at `/contact/` through the same link component. No banner regression needed a code change. Project card links still point at portfolio routes that are not built yet. The IAQ service has no matching local icon. Visual polish of Smart Operations icon pairing and the geography band remains for review.
+
 ## Internal navigation — implementation for review
 
 Header, footer, and logo links to application routes were plain anchors, so those clicks loaded a new document. They now use `next/link`. External, mailto, telephone, in-page, and file links stay anchors. Open menus close when the route changes. Server rendering and development `noindex` are unchanged. Not committed.

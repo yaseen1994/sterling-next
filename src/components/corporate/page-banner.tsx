@@ -8,17 +8,49 @@ type PageBannerProps = {
   image: string;
   mobileImage?: string;
   level?: 1 | 2;
+  tone?: "inverse" | "ink";
+  titlePlacement?: "overlay" | "below";
 };
 
-export function PageBanner({ id, title, image, mobileImage, level = 1 }: PageBannerProps) {
+export function PageBanner({
+  id,
+  title,
+  image,
+  mobileImage,
+  level = 1,
+  tone = "inverse",
+  titlePlacement = "overlay",
+}: PageBannerProps) {
+  const titleClass = tone === "ink" ? styles.bannerTitleInk : styles.bannerTitle;
+  const picture = (
+    <picture>
+      {mobileImage ? <source media="(max-width: 767px)" srcSet={mobileImage} /> : null}
+      <img
+        className={titlePlacement === "below" ? styles.bannerStackImage : styles.bannerImage}
+        src={image}
+        alt=""
+      />
+    </picture>
+  );
+
+  if (titlePlacement === "below") {
+    return (
+      <header className={styles.bannerStack}>
+        {picture}
+        <Container className={styles.bannerStackContent}>
+          <Heading level={level} id={id} className={titleClass}>
+            {title}
+          </Heading>
+        </Container>
+      </header>
+    );
+  }
+
   return (
     <header className={styles.banner}>
-      <picture>
-        {mobileImage ? <source media="(max-width: 767px)" srcSet={mobileImage} /> : null}
-        <img className={styles.bannerImage} src={image} alt="" />
-      </picture>
+      {picture}
       <Container className={styles.bannerContent}>
-        <Heading level={level} id={id} className={styles.bannerTitle}>
+        <Heading level={level} id={id} className={titleClass}>
           {title}
         </Heading>
       </Container>

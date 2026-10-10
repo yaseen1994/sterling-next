@@ -28,10 +28,29 @@
   padding-block: 2.5rem;
 }
 
-.bannerTitle {
+.bannerTitle,
+.bannerTitleInk {
   max-width: 40rem;
+}
+
+.bannerTitle {
   color: var(--color-site-inverse);
   text-shadow: 0 1px 8px rgb(0 0 0 / 45%);
+}
+
+.bannerTitleInk {
+  color: var(--color-site-ink);
+  text-shadow: none;
+}
+
+.bannerStackImage {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.bannerStackContent {
+  padding-top: 1.75rem;
 }
 
 .split,

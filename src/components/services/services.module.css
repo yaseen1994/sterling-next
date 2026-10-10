@@ -1,0 +1,322 @@
+.page {
+  background: var(--color-site-surface);
+  color: var(--color-site-text);
+  overflow-x: clip;
+}
+
+.intro,
+.introMedia,
+.projectLayout,
+.platform,
+.panels {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.introTitle {
+  color: var(--color-site-ink);
+  font-weight: 500;
+}
+
+.emphasis {
+  color: var(--color-site-accent);
+  font-weight: 700;
+}
+
+.intro p,
+.lead,
+.card p,
+.sector p,
+.panel p,
+.faq p {
+  margin-top: 0.85rem;
+  font-size: var(--text-site-body);
+  line-height: 1.45;
+}
+
+.sectionTitle {
+  color: var(--color-site-accent);
+}
+
+.photo {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.features,
+.deliverables,
+.capabilities,
+.sectors,
+.impacts {
+  display: grid;
+  gap: 1.25rem;
+  margin: 1.5rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.card,
+.sector,
+.impact {
+  min-width: 0;
+}
+
+.icon {
+  width: 4.5rem;
+  height: 4.5rem;
+  object-fit: contain;
+}
+
+.card h3,
+.sector h3,
+.impact h3,
+.panel h2 {
+  margin-top: 0.75rem;
+  color: var(--color-site-ink);
+  font-size: 1.2rem;
+  line-height: 1.3;
+}
+
+.notes {
+  margin: 0.75rem 0 0;
+  padding-left: 1.2rem;
+}
+
+.notes li + li {
+  margin-top: 0.4rem;
+}
+
+.projectLayout p {
+  margin-top: 1rem;
+  font-size: 1.05rem;
+  line-height: 1.5;
+}
+
+.textLink {
+  display: inline-flex;
+  min-height: 2.75rem;
+  align-items: center;
+  margin-top: 1.25rem;
+  border: 1.6px solid currentColor;
+  border-radius: 3px;
+  padding: 0.7rem 1.4rem;
+  color: inherit;
+  font-size: 0.95rem;
+  text-decoration: none;
+}
+
+.textLink:focus-visible,
+.projectCard:focus-visible,
+.filled:focus-visible,
+.faq summary:focus-visible {
+  outline: 3px solid var(--color-site-accent);
+  outline-offset: 4px;
+}
+
+.projectCard {
+  display: block;
+  min-width: 0;
+  color: inherit;
+  text-decoration: none;
+  background: var(--color-site-surface);
+}
+
+.projectCard img,
+.sector img {
+  display: block;
+  width: 100%;
+  height: 11.5rem;
+  object-fit: cover;
+}
+
+.projectCard h3 {
+  margin: 0.75rem 0 0;
+  color: var(--color-site-ink);
+  font-size: 1.05rem;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.projectCard p {
+  margin: 0.2rem 0 0;
+  font-size: 0.95rem;
+}
+
+.filled {
+  border-color: var(--color-site-accent);
+  background: var(--color-site-accent);
+  color: var(--color-site-inverse);
+}
+
+.filled:hover {
+  background: transparent;
+  color: var(--color-site-accent);
+}
+
+.hero,
+.band {
+  position: relative;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  color: var(--color-site-inverse);
+}
+
+.hero {
+  min-height: 28rem;
+}
+
+.band {
+  min-height: 18rem;
+}
+
+.heroMedia,
+.heroShade {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.heroShade {
+  background: rgb(8 16 32 / 62%);
+}
+
+.heroContent,
+.bandContent {
+  position: relative;
+  z-index: 1;
+  padding-block: 3rem;
+}
+
+.heroContent h1,
+.bandContent h2,
+.ctaTitle {
+  color: var(--color-site-inverse);
+}
+
+.heroLead,
+.band p,
+.ctaSubtitle {
+  max-width: 46rem;
+  margin-top: 1rem;
+  color: var(--color-site-inverse);
+  font-size: var(--text-site-body);
+  line-height: 1.45;
+}
+
+.pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin: 1.5rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.pills li {
+  border: 1px solid rgb(255 255 255 / 70%);
+  border-radius: 999px;
+  padding: 0.55rem 0.9rem;
+  font-weight: 600;
+}
+
+.diagram,
+.monitor {
+  width: 100%;
+  height: auto;
+}
+
+.panel {
+  min-width: 0;
+  padding: 1.25rem;
+  background: #f7f7f7;
+}
+
+.panel ul {
+  margin: 0.85rem 0 0;
+  padding-left: 1.2rem;
+}
+
+.panel li + li {
+  margin-top: 0.45rem;
+}
+
+.faqs {
+  display: grid;
+  gap: 0.75rem;
+  margin-top: 1.5rem;
+}
+
+.faq {
+  border: 1px solid #e4e4e4;
+  border-radius: 3px;
+  background: var(--color-site-surface);
+}
+
+.faq summary {
+  min-height: 2.75rem;
+  padding: 0.85rem 1rem;
+  cursor: pointer;
+  color: var(--color-site-ink);
+  font-weight: 600;
+}
+
+.faq p {
+  margin: 0;
+  padding: 0 1rem 1rem;
+}
+
+.ctaSubtitle {
+  font-size: var(--text-site-subheading);
+  font-weight: 500;
+  line-height: 1.3;
+}
+
+@media (min-width: 48rem) {
+  .features,
+  .deliverables,
+  .capabilities,
+  .impacts {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .sectors {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 64rem) {
+  .intro,
+  .introMedia,
+  .projectLayout,
+  .panels {
+    grid-template-columns: minmax(16rem, 0.9fr) minmax(0, 1.1fr);
+    gap: 2.5rem;
+    align-items: start;
+  }
+
+  .features,
+  .capabilities {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .deliverables {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .sectors {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .impacts {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .photo {
+    height: 100%;
+    max-height: 28rem;
+  }
+}
