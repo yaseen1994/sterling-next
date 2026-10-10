@@ -2,6 +2,12 @@
 
 Updated: 2026-10-10
 
+## About Us and corporate pages — implementation for review
+
+Implemented the verified About navigation routes in the existing shell: `/about-us/`, `/awards-recognitions/`, `/leadership/`, `/industry-memberships-and-recognitions/`, and `/corporate-governance/`. Copy comes from the public pages. Local images are used where a matching file already existed. `noindex` remains. Header, footer, homepage components, and the design system were not changed. Not committed.
+
+Checks: lint, typecheck, and one production build passed. Production routes returned 200 with and without a trailing slash. Referenced local images returned 200. Desktop and mobile checks found no page-level horizontal overflow. Homepage sections still render, and “View awards” opens the awards route. Limitations are in the milestone handoff: award and HSSE carousels are static grids, leadership profiles use native disclosures, governance PDFs stay on the public reference URLs, and the governance thumbnail plus any untitled duplicate slides were not invented locally.
+
 ## Homepage — implementation for review
 
 Implemented the eight reference homepage sections in the existing shell: ticker and hero film, services, company, measurable impact, projects, awards, testimonials, and presence. Copy and statistics match the public homepage. The hero uses the reference file `mainfinalvideo.mp4` (valid ISO MP4, 872,920 bytes), saved locally because it was not in the supplied asset folder. Service symbols are simplified white icons in the reference orange circles; the live icons are large traced SVGs. Counters are the static end values 30+, 112+ MW, 20 Million+, 80+, and 500+. Project, award, and testimonial motion is a scroll-snap carousel or the reference YouTube film. The presence map is shown; lifecycle stage copy exists in the source HTML but was not visible in the rendered desktop page, so it is not presented as tabs. `noindex` remains. Not committed.
