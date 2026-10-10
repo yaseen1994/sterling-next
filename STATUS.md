@@ -1,6 +1,10 @@
 # Current state
 
-Updated: 2026-10-09
+Updated: 2026-10-10
+
+## Homepage — implementation for review
+
+Implemented the eight reference homepage sections in the existing shell: ticker and hero film, services, company, measurable impact, projects, awards, testimonials, and presence. Copy and statistics match the public homepage. The hero uses the reference file `mainfinalvideo.mp4` (valid ISO MP4, 872,920 bytes), saved locally because it was not in the supplied asset folder. Service symbols are simplified white icons in the reference orange circles; the live icons are large traced SVGs. Counters are the static end values 30+, 112+ MW, 20 Million+, 80+, and 500+. Project, award, and testimonial motion is a scroll-snap carousel or the reference YouTube film. The presence map is shown; lifecycle stage copy exists in the source HTML but was not visible in the rendered desktop page, so it is not presented as tabs. `noindex` remains. Not committed.
 
 ## Milestone 3 — client-demo shell handoff
 

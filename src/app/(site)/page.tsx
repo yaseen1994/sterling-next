@@ -1,16 +1,32 @@
+import type { Metadata } from "next";
+import { Awards } from "@/components/home/awards";
+import { Company } from "@/components/home/company";
+import { Hero } from "@/components/home/hero";
+import { Impact } from "@/components/home/impact";
+import { Presence } from "@/components/home/presence";
+import { Projects } from "@/components/home/projects";
+import { Services } from "@/components/home/services";
+import { Testimonials } from "@/components/home/testimonials";
+import styles from "@/components/home/home.module.css";
+import { homeMeta } from "@/content/home";
+
+export const metadata: Metadata = {
+  title: homeMeta.title,
+  description: homeMeta.description,
+  robots: { index: false, follow: false },
+};
+
 export default function Home() {
   return (
-    <div className="mx-auto flex min-h-[60vh] max-w-3xl flex-col justify-center px-6 py-16 sm:px-10">
-      <p className="mb-4 text-sm font-semibold tracking-wide text-slate-600">
-        Development preview
-      </p>
-      <h1 className="text-3xl font-bold tracking-tight sm:text-5xl">
-        Application foundation
-      </h1>
-      <p className="mt-6 max-w-xl text-lg leading-8 text-slate-700">
-        This neutral page is ready for local review. Website content and design
-        will be added in separately approved milestones.
-      </p>
+    <div className={styles.page}>
+      <Hero />
+      <Services />
+      <Company />
+      <Impact />
+      <Projects />
+      <Awards />
+      <Testimonials />
+      <Presence />
     </div>
   );
 }
