@@ -2,6 +2,16 @@
 
 Updated: 2026-10-10
 
+## Careers — visual fidelity for review
+
+Brought `/careers/` closer to the public page measured on 2026-10-10. Comparison used the live reference and the local development server at 1440×900, 768×1024, and 390×844. Captures are in `docs/qa/careers-visual-2026-10-10/` and are not committed. Copy, the Darwinbox Apply Now URL, routing, and development `noindex` are unchanged. Header, footer, and other pages were not restyled. Not committed.
+
+The page now uses a Careers-only layout: a 428px desktop hero (315px at 768, 423px at 390) with the existing banner, a 48% black overlay, and the title at the top of the image; an orange accent rule; the Life at Sterling & Wilson heading at the reference sizes; four light-gray cards with orange number badges; one shared light-gray statistics panel; and a dark Current Opportunities band. The recruitment photo is on the left from 1025px up, hidden at tablet width, and stacked above the copy on mobile. Apply Now is a coral pill to the existing Darwinbox URL.
+
+Checks, 2026-10-10: targeted eslint and typecheck passed. No production build. At 1440, 768, and 390 the page had no horizontal overflow, one `h1`, `noindex, nofollow`, and no broken local images. Apply Now still opens `https://sterlingone.darwinbox.in/ms/candidatev2/a688b512869b6c/careers/home` in a new tab. Header and footer links still point at the existing internal routes, LinkedIn, and the HSE PDF.
+
+Limitations: the reference mobile hero file `Untitled-design-2.png` is not in the local asset set, so mobile uses the existing desktop banner at the reference height. The local recruitment photo is wider than the reference file, so the mobile image is shorter. Statistics panel height is a few pixels under the reference. Hidden template job cards and the unrendered resume form stay omitted.
+
 ## Remaining public pages — implementation for review
 
 Implemented the public routes that were linked from the current header and footer and missing from the app: `/careers/`, `/privacy-policy/`, `/news-press-release/`, `/events/`, `/blogs/`, and `/the-ai-infrastructure-race-why-future-data-centres-must-be-ai-ready/`. The root not-found page now uses the site header and footer and still returns HTTP 404. Copy follows the public pages observed on 2026-10-10. `noindex` remains. Homepage, services, projects, corporate pages, header, and footer were not rewritten. Not committed.

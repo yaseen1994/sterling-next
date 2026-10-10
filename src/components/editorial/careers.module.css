@@ -1,0 +1,360 @@
+.hero {
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  overflow: hidden;
+  padding: 2% 0 0;
+  background: #441717;
+  color: #fff;
+}
+
+.heroImage {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.heroShade {
+  position: absolute;
+  inset: 0;
+  background: rgb(0 0 0 / 48%);
+}
+
+.heroInner {
+  position: relative;
+  z-index: 1;
+  min-height: 400px;
+}
+
+.hero h2 {
+  margin: 0;
+  max-width: none;
+  color: #fff;
+  font-size: 2.8vw;
+  font-weight: 500;
+  line-height: 1;
+  text-shadow: none;
+}
+
+.life {
+  padding: 5% 0 0;
+  background: #fff;
+  color: #000;
+}
+
+.rule {
+  width: 100px;
+  height: 6px;
+  margin: 10px 0;
+  border: 0;
+  background: #f15a22;
+}
+
+.life h1 {
+  margin: 0;
+  max-width: none;
+  color: #000;
+  font-size: 2.6vw;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.life .sub {
+  margin: 10px 0 0;
+  max-width: none;
+  color: #000;
+  font-size: 1.8vw;
+  font-weight: 500;
+  line-height: 1;
+}
+
+.intro {
+  margin: 1.15rem 0 0;
+  max-width: none;
+  color: #000;
+  font-size: 1.4vw;
+  font-weight: 400;
+  line-height: 1.4;
+}
+
+.pillars {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 2.4rem;
+  margin-top: 2.75rem;
+}
+
+.pillar {
+  position: relative;
+  min-width: 0;
+  margin: 0;
+  padding: 2.65rem 1.25rem 1.25rem;
+  border-radius: 5px;
+  background: #f5f6f9;
+  text-align: center;
+}
+
+.pillar .badge {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  display: grid;
+  width: 50px;
+  height: 50px;
+  margin: 0;
+  place-items: center;
+  transform: translate(-50%, -50%);
+  border-radius: 50px;
+  background: #f15a22;
+  color: #fff;
+  font-size: 0.9vw;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.pillar h3 {
+  margin: 0 0 9px;
+  color: #0a0a0a;
+  font-size: 1vw;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+.pillar p {
+  margin: 0;
+  color: #333;
+  font-size: 0.9vw;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+.stats {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 1.6rem 1rem;
+  margin-top: 2.25rem;
+  padding: 3% 2%;
+  background: #f5f6f9;
+  text-align: center;
+}
+
+.stat {
+  min-width: 0;
+  margin: 0;
+}
+
+.stat strong {
+  display: block;
+  color: #f15a22;
+  font-size: 69px;
+  font-weight: 600;
+  letter-spacing: -1px;
+  line-height: 1;
+}
+
+.stat span {
+  display: block;
+  margin-top: 0.45rem;
+  color: #1f1f1f;
+  font-size: 1.3vw;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+.opportunities {
+  padding: 5% 0;
+  background: #13171c;
+  color: #fff;
+}
+
+.oppLayout {
+  display: grid;
+  align-items: center;
+  gap: 1.25rem;
+}
+
+.oppPhoto {
+  display: none;
+  width: 100%;
+  height: auto;
+}
+
+.opportunities h2 {
+  margin: 0;
+  max-width: 22rem;
+  color: #fff;
+  font-size: 2vw;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.opportunities p {
+  margin: 0.85rem 0 0;
+  max-width: 27rem;
+  color: #fff;
+  font-size: 1.4vw;
+  font-weight: 400;
+  line-height: 1.4;
+}
+
+.apply {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 2.5rem;
+  margin-top: 1.15rem;
+  padding: 12px 24px;
+  border-radius: 24px;
+  background: #f6906a;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1;
+  text-decoration: none;
+}
+
+.apply:hover {
+  background: #e57b52;
+}
+
+.apply:focus-visible {
+  outline: 3px solid #fff;
+  outline-offset: 4px;
+}
+
+@media (min-width: 48rem) {
+  .pillars {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.15rem 1rem;
+  }
+
+  .stats {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    padding: 3% 1.5%;
+  }
+}
+
+@media (min-width: 64.0625rem) {
+  .pillars {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 28px;
+  }
+
+  .pillar {
+    min-height: 241px;
+    padding: 3rem 1.15rem 1.35rem;
+  }
+
+  .oppLayout {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    gap: 0;
+  }
+
+  .oppPhoto {
+    display: block;
+    width: 100%;
+    height: 100%;
+    min-height: 411px;
+    object-fit: cover;
+    object-position: left center;
+  }
+
+  .oppCopy {
+    padding: 2.5rem 4.5rem 2.5rem 4.375rem;
+  }
+}
+
+@media (max-width: 64rem) {
+  .pillar .badge {
+    font-size: 2vw;
+  }
+
+  .stat strong {
+    font-size: 6.5vw;
+  }
+}
+
+@media (max-width: 47.99rem) {
+  .hero {
+    padding-top: 6%;
+  }
+
+  .heroInner {
+    min-height: 400px;
+  }
+
+  .hero h2 {
+    font-size: 8.3vw;
+  }
+
+  .life {
+    padding-top: 10%;
+  }
+
+  .rule {
+    width: 50px;
+  }
+
+  .life h1 {
+    font-size: 8vw;
+    line-height: 1;
+  }
+
+  .life .sub {
+    font-size: 6vw;
+    line-height: 1.2;
+  }
+
+  .intro {
+    font-size: 4vw;
+  }
+
+  .pillars {
+    gap: 2.35rem;
+  }
+
+  .pillar .badge,
+  .pillar p {
+    font-size: 3.8vw;
+  }
+
+  .pillar h3 {
+    font-size: 3.9vw;
+  }
+
+  .stats {
+    padding: 2.25rem 1.5rem;
+  }
+
+  .stat strong {
+    font-size: 3rem;
+  }
+
+  .stat span {
+    font-size: 1rem;
+  }
+
+  .oppPhoto {
+    display: block;
+  }
+
+  .opportunities h2 {
+    max-width: none;
+    font-size: 6vw;
+    line-height: 1.35;
+  }
+
+  .opportunities p {
+    max-width: none;
+    font-size: 4vw;
+  }
+}
+
+@media (max-width: 64rem) and (min-width: 48rem) {
+  .heroInner {
+    min-height: 300px;
+  }
+}

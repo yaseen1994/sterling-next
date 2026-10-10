@@ -1,11 +1,11 @@
 import type { Metadata } from "next";
-import styles from "@/components/editorial/editorial.module.css";
-import { PageBanner } from "@/components/corporate/page-banner";
+import styles from "@/components/editorial/careers.module.css";
 import pageStyles from "@/components/corporate/corporate.module.css";
 import { Container } from "@/components/ui/container";
 import { Heading } from "@/components/ui/heading";
-import { Section } from "@/components/ui/section";
 import { applyUrl, careersPage, developmentRobots } from "@/content/editorial";
+
+const opportunitiesImage = "/assets/images/careers-team-opportunities.png";
 
 export const metadata: Metadata = {
   title: careersPage.title,
@@ -16,20 +16,29 @@ export const metadata: Metadata = {
 export default function CareersPage() {
   return (
     <div className={pageStyles.page}>
-      <PageBanner id="careers-banner-title" level={2} title={careersPage.banner.title} image={careersPage.banner.image} />
-      <Section aria-labelledby="careers-title">
+      <header className={styles.hero}>
+        <img className={styles.heroImage} src={careersPage.banner.image} alt="" />
+        <div className={styles.heroShade} aria-hidden="true" />
+        <Container className={styles.heroInner}>
+          <Heading level={2} id="careers-banner-title">
+            {careersPage.banner.title}
+          </Heading>
+        </Container>
+      </header>
+      <section className={styles.life} aria-labelledby="careers-title">
         <Container>
+          <div className={styles.rule} aria-hidden="true" />
           <Heading level={1} id="careers-title">
             {careersPage.heading}
           </Heading>
-          <Heading level={3} className={styles.lead}>
+          <Heading level={3} className={styles.sub}>
             {careersPage.subheading}
           </Heading>
-          <p className={styles.prose}>{careersPage.intro}</p>
+          <p className={styles.intro}>{careersPage.intro}</p>
           <div className={styles.pillars}>
             {careersPage.pillars.map((pillar) => (
               <article className={styles.pillar} key={pillar.title}>
-                <p className={styles.number}>{pillar.number}</p>
+                <p className={styles.badge}>{pillar.number}</p>
                 <Heading level={3}>{pillar.title}</Heading>
                 <p>{pillar.body}</p>
               </article>
@@ -44,21 +53,24 @@ export default function CareersPage() {
             ))}
           </div>
         </Container>
-      </Section>
-      <Section id="join-our-team" aria-labelledby="opportunities-title">
+      </section>
+      <section className={styles.opportunities} id="join-our-team" aria-labelledby="opportunities-title">
         <Container>
-          <div className={styles.opportunities}>
-            <Heading level={2} id="opportunities-title" className={pageStyles.accent}>
-              {careersPage.opportunities.title}
-            </Heading>
-            <p className={styles.lead}>{careersPage.opportunities.body}</p>
-            <a className={styles.apply} href={applyUrl} target="_blank" rel="noopener noreferrer">
-              {careersPage.opportunities.cta}
-              <span className="sr-only"> (opens in a new tab)</span>
-            </a>
+          <div className={styles.oppLayout}>
+            <img className={styles.oppPhoto} src={opportunitiesImage} alt="" />
+            <div className={styles.oppCopy}>
+              <Heading level={2} id="opportunities-title">
+                {careersPage.opportunities.title}
+              </Heading>
+              <p>{careersPage.opportunities.body}</p>
+              <a className={styles.apply} href={applyUrl} target="_blank" rel="noopener noreferrer">
+                {careersPage.opportunities.cta}
+                <span className="sr-only"> (opens in a new tab)</span>
+              </a>
+            </div>
           </div>
         </Container>
-      </Section>
+      </section>
     </div>
   );
 }
