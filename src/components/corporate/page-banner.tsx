@@ -7,9 +7,10 @@ type PageBannerProps = {
   title: string;
   image: string;
   mobileImage?: string;
+  level?: 1 | 2;
 };
 
-export function PageBanner({ id, title, image, mobileImage }: PageBannerProps) {
+export function PageBanner({ id, title, image, mobileImage, level = 1 }: PageBannerProps) {
   return (
     <header className={styles.banner}>
       <picture>
@@ -17,7 +18,7 @@ export function PageBanner({ id, title, image, mobileImage }: PageBannerProps) {
         <img className={styles.bannerImage} src={image} alt="" />
       </picture>
       <Container className={styles.bannerContent}>
-        <Heading level={1} id={id} className={styles.bannerTitle}>
+        <Heading level={level} id={id} className={styles.bannerTitle}>
           {title}
         </Heading>
       </Container>

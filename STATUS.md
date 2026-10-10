@@ -2,6 +2,14 @@
 
 Updated: 2026-10-10
 
+## Contact page — implementation for review
+
+Implemented `/contact/` in the existing shell: banner, Mumbai head office, enquiry form, and five international offices. Copy matches the public page observed on 2026-10-10. Banner images are the existing local `Contact-Us_V2` desktop and mobile files. `noindex` remains. Header, footer, homepage, and the other corporate pages were not rewritten. Not committed.
+
+The reference has no breadcrumb. A map shortcode and a second form shortcode are present in the page source with no rendered map or extra fields, so neither is shown. Enquiry submission is disabled because no mail backend is approved. The reference “Media Queries” icon and heading link to `datacenters@sterlingwilson.com` while the visible address is `corpcomm@sterlingwilson.com`; this page links that address to `mailto:corpcomm@sterlingwilson.com`. The head-office phone is linked as `tel:+912225485488` and still displays `+91 22-25485488 / 300`.
+
+Checks: lint, typecheck, and production build passed. `/contact` and `/contact/` returned 200, as did the homepage and the five corporate routes. Both banner images returned 200. Desktop 1440 and mobile 390 had no page-level horizontal overflow. Submitting the filled form stayed on `/contact/` and showed no success message. Homepage sections still render.
+
 ## About Us and corporate pages — implementation for review
 
 Implemented the verified About navigation routes in the existing shell: `/about-us/`, `/awards-recognitions/`, `/leadership/`, `/industry-memberships-and-recognitions/`, and `/corporate-governance/`. Copy comes from the public pages. Local images are used where a matching file already existed. `noindex` remains. Header, footer, homepage components, and the design system were not changed. Not committed.

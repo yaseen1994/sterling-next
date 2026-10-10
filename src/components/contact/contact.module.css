@@ -1,0 +1,175 @@
+.intro,
+.offices,
+.fields,
+.form {
+  display: grid;
+  gap: 1.25rem;
+}
+
+.intro {
+  align-items: start;
+}
+
+.headOffice {
+  padding: 2rem 1.5rem;
+  border-radius: 1.25rem;
+  background: linear-gradient(180deg, #ff8a4c 0%, var(--color-site-accent) 100%);
+  color: var(--color-site-inverse);
+}
+
+.headOffice h2,
+.headOffice h3 {
+  color: inherit;
+}
+
+.detail + .detail {
+  margin-top: 1.25rem;
+}
+
+.address {
+  margin-top: 0.35rem;
+  font-style: normal;
+  font-size: var(--text-site-body);
+  line-height: 1.45;
+}
+
+.line {
+  display: block;
+  overflow-wrap: anywhere;
+}
+
+.headOffice a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+.headOffice a:focus-visible,
+.consent a:focus-visible,
+.field input:focus-visible,
+.field select:focus-visible,
+.field textarea:focus-visible {
+  outline: 3px solid var(--color-site-accent);
+  outline-offset: 3px;
+}
+
+.headOffice a:focus-visible {
+  outline-color: var(--color-site-inverse);
+}
+
+.lead {
+  margin-top: 0.75rem;
+  font-size: var(--text-site-body);
+  line-height: 1.45;
+}
+
+.fields {
+  margin-top: 1.5rem;
+}
+
+.field {
+  display: grid;
+  gap: 0.35rem;
+  min-width: 0;
+}
+
+.field span {
+  font-weight: 600;
+}
+
+.field input,
+.field select,
+.field textarea {
+  width: 100%;
+  min-height: 2.75rem;
+  padding: 0.65rem 0.75rem;
+  border: 1px solid #c8c8c8;
+  border-radius: var(--radius-control);
+  background: var(--color-site-surface);
+  color: var(--color-site-ink);
+  font: inherit;
+}
+
+.field textarea {
+  min-height: 8rem;
+  resize: vertical;
+}
+
+.consent {
+  display: flex;
+  gap: 0.75rem;
+  align-items: flex-start;
+  min-height: 2.75rem;
+  font-size: var(--text-site-body);
+  line-height: 1.4;
+}
+
+.consent input {
+  width: 1.15rem;
+  height: 1.15rem;
+  margin-top: 0.2rem;
+  accent-color: var(--color-site-accent);
+}
+
+.consent a {
+  color: var(--color-site-accent);
+  font-weight: 600;
+}
+
+.status {
+  margin: 0;
+  color: var(--color-site-ink);
+  font-size: var(--text-site-body);
+  line-height: 1.45;
+}
+
+.sectionLabel {
+  color: var(--color-site-ink);
+}
+
+.sectionLabel::before {
+  content: "";
+  display: block;
+  width: 2.5rem;
+  height: 0.2rem;
+  margin-bottom: 0.75rem;
+  background: var(--color-site-accent);
+}
+
+.location {
+  color: var(--color-site-accent);
+}
+
+.company {
+  margin-top: 0.75rem;
+  color: var(--color-site-ink);
+}
+
+.office p {
+  margin-top: 0.45rem;
+  color: var(--color-site-text);
+  font-size: var(--text-site-body);
+  line-height: 1.45;
+}
+
+@media (min-width: 48rem) {
+  .fields {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .wide {
+    grid-column: 1 / -1;
+  }
+}
+
+@media (min-width: 64rem) {
+  .intro {
+    grid-template-columns: minmax(16rem, 0.85fr) minmax(0, 1.15fr);
+    gap: 2.5rem;
+  }
+
+  .offices {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 2rem 1.5rem;
+  }
+}
