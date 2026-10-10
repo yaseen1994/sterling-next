@@ -95,14 +95,15 @@
 
 .textLink {
   display: inline-flex;
-  min-height: 2.75rem;
   align-items: center;
   margin-top: 1.25rem;
   border: 1.6px solid currentColor;
   border-radius: 3px;
-  padding: 0.7rem 1.4rem;
+  padding: 12px 24px;
   color: inherit;
-  font-size: 0.95rem;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 15px;
   text-decoration: none;
 }
 
@@ -145,13 +146,13 @@
 
 .filled {
   border-color: var(--color-site-accent);
-  background: var(--color-site-accent);
-  color: var(--color-site-inverse);
+  background: transparent;
+  color: var(--color-site-accent);
 }
 
 .filled:hover {
-  background: transparent;
-  color: var(--color-site-accent);
+  background: var(--color-site-accent);
+  color: var(--color-site-inverse);
 }
 
 .hero,

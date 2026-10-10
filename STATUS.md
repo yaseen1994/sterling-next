@@ -2,6 +2,26 @@
 
 Updated: 2026-10-10
 
+## Phase 2A — shared visual system for review
+
+Compared the live reference and local development server at 1440×900, 768×1024, and 390×844 on `/`, `/about-us/`, `/design-build/`, `/projects/`, `/careers/`, `/news-press-release/`, and `/contact/`. Header, footer, and container geometry were already close. Shared corrections below are not committed. Page-specific section redesigns were not started.
+
+Measured shared mismatches, desktop unless noted:
+
+- Page-banner titles were 37.44px, weight 700, line-height 1.2, and vertically centered. Reference About, Design & Build, and News titles are Livvic 40.32px, weight 500, line-height 1, sitting 2% below the header (y 103). Tablet is 21.504px. Mobile is 32.4032px.
+- Shared outline controls were about 15.2px, weight 400, padding 11.2×22.4, and at least 44px tall. Reference Know more, View projects, Enquire Now, and Explore Our Leadership Team are 15px, weight 500, padding 12×24, a 1.6px border, 3px radius, and 42.2px tall. Enquire Now and the leadership link are orange outline, not a solid fill. Dark-surface Know more stays white outline.
+- The header logo sat 3px lower than the reference (y 17.2 vs 14.2) at the same 174×40 size. Mobile logo was 186×43 in a 60px header; the reference is 193×44 in a 63px header.
+- Tablet and mobile used a 44px hamburger. The reference menu control is the existing 33×32 image.
+- Dropdown links were Livvic 400 and `#231f20`. The reference dropdown is 13px, weight 500, `#33373d`. Its family is Roboto, which is not in the local font files, so the menu stays on Livvic.
+- The footer LinkedIn mark was orange 22px. The reference circle is `#e9e9e9` with a `#69727d` 18px mark.
+- The document background was slate. The reference body is white.
+
+Corrections: `PageBanner` titles use the measured sizes, weight 500, line-height 1, and top alignment. Shared `Button`/`LinkButton` and homepage/service outline links use the measured padding, type, border, and radius. Enquire Now is an orange outline. The company Know more stays a white outline on the dark band. Logo alignment, mobile logo size, compact menu icon, dropdown weight and color, footer mark color, and the white body background were updated. Careers keeps its own hero, cards, statistics, and Apply Now pill.
+
+Checks, 2026-10-10: targeted eslint on the changed TypeScript files and `tsc --noEmit` passed. No production build. After the corrections, About, Design & Build, News, and Contact banner titles matched the reference sizes and top position at 1440, and News matched 40.32px/500 on the reference. Tablet titles were 21.504px. Mobile titles were 32.4032px. Enquire Now matched the reference outline. Header height stayed 74.5px and the logo returned to y 14.2. Careers at 1440 still had a 428.5px hero, four pillars, the coral Apply Now control, and no page overflow. Client navigation from Home to `/projects/` stayed in the app. The mobile menu opened, listed Home, and a Contact link moved to `/contact/` and closed the menu. Checked routes had no page overflow and no broken local images.
+
+Remaining for later phases: About’s banner is still the shared 288px desktop minimum, while the reference About banner is 428px; Design & Build’s reference image is about 297px, so one shared height would miss one of them. Homepage section headings still use line-height 1.2 where the reference orange titles use 1. About intro headings on the reference already use 1.2 and weight 600, so heading weight was not changed globally. Homepage View awards is still gray outline rather than orange. Service-card Know more controls are still 16px/400. The projects video banner is separate from `PageBanner`. Tablet header height is 83px versus 78px. Dropdown text is Livvic rather than Roboto.
+
 ## Careers — visual fidelity for review
 
 Brought `/careers/` closer to the public page measured on 2026-10-10. Comparison used the live reference and the local development server at 1440×900, 768×1024, and 390×844. Captures are in `docs/qa/careers-visual-2026-10-10/` and are not committed. Copy, the Darwinbox Apply Now URL, routing, and development `noindex` are unchanged. Header, footer, and other pages were not restyled. Not committed.

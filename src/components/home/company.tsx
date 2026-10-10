@@ -24,7 +24,7 @@ export function Company() {
               tone="dark"
             />
             <p>{companyContent.body}</p>
-            <Link className={`${styles.textLink} ${styles.filled}`} href={companyContent.cta.href}>
+            <Link className={styles.textLink} href={companyContent.cta.href}>
               {companyContent.cta.label}
             </Link>
           </div>

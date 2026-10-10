@@ -7,7 +7,7 @@
 .banner {
   position: relative;
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   min-height: 11rem;
   overflow: hidden;
   color: var(--color-site-inverse);
@@ -25,17 +25,21 @@
 .bannerContent {
   position: relative;
   z-index: 1;
-  padding-block: 2.5rem;
+  padding-top: 2%;
+  padding-bottom: 1.5rem;
 }
 
 .bannerTitle,
 .bannerTitleInk {
-  max-width: 40rem;
+  max-width: none;
+  font-size: 32.4032px;
+  font-weight: 500;
+  line-height: 1;
 }
 
 .bannerTitle {
   color: var(--color-site-inverse);
-  text-shadow: 0 1px 8px rgb(0 0 0 / 45%);
+  text-shadow: none;
 }
 
 .bannerTitleInk {
@@ -221,6 +225,11 @@
     min-height: 18rem;
   }
 
+  .bannerTitle,
+  .bannerTitleInk {
+    font-size: 21.504px;
+  }
+
   .cards,
   .awards,
   .profiles,
@@ -230,6 +239,11 @@
 }
 
 @media (min-width: 64rem) {
+  .bannerTitle,
+  .bannerTitleInk {
+    font-size: 40.32px;
+  }
+
   .split {
     grid-template-columns: minmax(16rem, 0.8fr) minmax(0, 1.2fr);
     gap: 2.5rem;
