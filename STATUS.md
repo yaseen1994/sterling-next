@@ -2,6 +2,14 @@
 
 Updated: 2026-10-10
 
+## Projects — implementation for review
+
+Implemented `/projects/` and the 20 reference portfolio routes under `/portfolios/`. Listing order, titles, places, and detail copy follow the public pages observed on 2026-10-10. Local images and the projects banner film were hash-matched to the reference files already in `public/assets/images/`. `noindex` remains. Header, footer, homepage, services, corporate pages, and Contact were not rewritten. Homepage and Design & Build project links already pointed at these portfolio routes. Not committed.
+
+The listing uses the reference video banner and a 20-card grid. Each detail page uses one shared layout: gallery, previous/next project links, title and place, scope, highlights, certification or other information, the marquee stamp from tablet width upward, and the existing Enquire Now band to `/contact/`. Multi-image galleries use previous/next controls. A single image is shown without inactive carousel controls. The reference “i” heading beside the stamp and a contact box hidden at every breakpoint are omitted. Etisalat’s Key Highlights heading is present with an empty list, as on the reference. Source spellings such as “Architectual”, “Containarised”, “infrastucture”, and “Maintainance” are kept. No project name, location, or specification was added beyond the reference copy.
+
+Checks, 2026-10-10: lint, typecheck, and one production build passed. Production routes for `/projects`, `/projects/`, all 20 portfolio URLs with and without a trailing slash, `/`, and `/design-build/` returned 200 with `noindex` and one `h1` on the new pages. At 1440px the listing was three columns with no page overflow and loaded card images. At 390px the listing and Pune detail were one column, the stamp was hidden, and headings stayed inside the viewport. At 768px the listing was two columns and the Vodafone detail showed the stamp, a 1-of-3 gallery, and no page overflow. A project card, Next project, gallery Next image, and Enquire Now moved to the expected routes. Homepage and Design & Build still link the same six portfolio URLs.
+
 ## Services — implementation for review
 
 Implemented the five navigation service routes in the existing shell: `/design-build/`, `/modular-construction/`, `/smart-operations/`, `/sustainable-execution/`, and `/om-services/`. Copy and section order follow the public pages and the 2026-10-07 discovery records. Local images already in `public/assets/images/` are used. `noindex` remains. Header, footer, homepage, corporate pages, and Contact were not rewritten. `PageBanner` gained optional ink text and a title placed under the image so the Sustainable Execution partnership logos stay visible; existing callers keep the previous overlay.
