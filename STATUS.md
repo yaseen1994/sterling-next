@@ -2,6 +2,14 @@
 
 Updated: 2026-10-10
 
+## Vercel deployment — approved main
+
+Deployed the clean `main` commit `0ce228316f0535da29ac0741d61f4c039935572f` (`fix(about): match reference banner height`) to the new Vercel project `yaseen20/sterling-next`. No existing Sterling project was present; unrelated projects in that team were left unchanged. Framework preset is Next.js, root directory is the repository root, and Node.js is 24.x. The GitHub repository `https://github.com/yaseen1994/sterling-next.git` is connected. No custom domain or DNS change. No commit or push in this step.
+
+Vercel assigned this first deployment to Production (`dpl_6aQvCyKhM5VRGADreaqp8qyPWcGu`, Ready). There is no separate Preview deployment. Public production URLs: `https://sterling-next-henna.vercel.app` and `https://sterling-next-yaseen20.vercel.app`. The deployment-specific URL redirects to Vercel SSO.
+
+Live checks on the public production alias: homepage, About Us, the five service routes, Projects, Careers, Contact, News, Events, Blogs, and Privacy Policy returned HTTP 200 with `noindex, nofollow`. An unknown route returned HTTP 404 and still includes `noindex, nofollow`. Logo, Design & Build, and Contact images returned HTTP 200. In-app navigation reached About Us, Design & Build, Projects, Careers, Contact, News, Events, Blogs, and Privacy Policy, with no broken images on those pages. No local rebuild and no visual-QA repeat.
+
 ## Phase 2A — shared visual system for review
 
 Compared the live reference and local development server at 1440×900, 768×1024, and 390×844 on `/`, `/about-us/`, `/design-build/`, `/projects/`, `/careers/`, `/news-press-release/`, and `/contact/`. Header, footer, and container geometry were already close. Shared corrections below are not committed. Page-specific section redesigns were not started.
