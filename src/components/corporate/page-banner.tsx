@@ -8,6 +8,7 @@ type PageBannerProps = {
   image: string;
   mobileImage?: string;
   level?: 1 | 2;
+  size?: 1 | 2;
   tone?: "inverse" | "ink";
   titlePlacement?: "overlay" | "below";
 };
@@ -18,6 +19,7 @@ export function PageBanner({
   image,
   mobileImage,
   level = 1,
+  size,
   tone = "inverse",
   titlePlacement = "overlay",
 }: PageBannerProps) {
@@ -38,7 +40,7 @@ export function PageBanner({
       <header className={styles.bannerStack}>
         {picture}
         <Container className={styles.bannerStackContent}>
-          <Heading level={level} id={id} className={titleClass}>
+          <Heading level={level} size={size} id={id} className={titleClass}>
             {title}
           </Heading>
         </Container>
@@ -50,7 +52,7 @@ export function PageBanner({
     <header className={styles.banner}>
       {picture}
       <Container className={styles.bannerContent}>
-        <Heading level={level} id={id} className={titleClass}>
+        <Heading level={level} size={size} id={id} className={titleClass}>
           {title}
         </Heading>
       </Container>
