@@ -239,6 +239,10 @@
 }
 
 @media (min-width: 64rem) {
+  .bannerTall {
+    min-height: 428px;
+  }
+
   .bannerTitle,
   .bannerTitleInk {
     font-size: 40.32px;

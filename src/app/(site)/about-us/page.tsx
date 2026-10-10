@@ -16,7 +16,12 @@ export const metadata: Metadata = {
 export default function AboutPage() {
   return (
     <div className={styles.page}>
-      <PageBanner id="about-title" title={aboutPage.banner.title} image={aboutPage.banner.image} />
+      <PageBanner
+        id="about-title"
+        title={aboutPage.banner.title}
+        image={aboutPage.banner.image}
+        variant="tall"
+      />
       <Section aria-labelledby="about-intro-title">
         <Container>
           <div className={styles.split}>

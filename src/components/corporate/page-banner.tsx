@@ -11,6 +11,7 @@ type PageBannerProps = {
   size?: 1 | 2;
   tone?: "inverse" | "ink";
   titlePlacement?: "overlay" | "below";
+  variant?: "default" | "tall";
 };
 
 export function PageBanner({
@@ -22,6 +23,7 @@ export function PageBanner({
   size,
   tone = "inverse",
   titlePlacement = "overlay",
+  variant = "default",
 }: PageBannerProps) {
   const titleClass = tone === "ink" ? styles.bannerTitleInk : styles.bannerTitle;
   const picture = (
@@ -49,7 +51,7 @@ export function PageBanner({
   }
 
   return (
-    <header className={styles.banner}>
+    <header className={variant === "tall" ? `${styles.banner} ${styles.bannerTall}` : styles.banner}>
       {picture}
       <Container className={styles.bannerContent}>
         <Heading level={level} size={size} id={id} className={titleClass}>
