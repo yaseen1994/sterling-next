@@ -1,9 +1,17 @@
+import Link from "next/link";
 import { footerColumns, footerContent, type SiteLink } from "@/content/navigation";
 import { Logo } from "./logo";
 import styles from "./shell.module.css";
 
+function isAppRoute(href: string) {
+  return href.startsWith("/") && !href.startsWith("//");
+}
+
 function FooterLink({ link }: { link: SiteLink }) {
-  return <a href={link.href} target={link.newTab ? "_blank" : undefined} rel={link.newTab ? "noopener noreferrer" : undefined}>{link.label}</a>;
+  if (link.newTab || !isAppRoute(link.href)) {
+    return <a href={link.href} target={link.newTab ? "_blank" : undefined} rel={link.newTab ? "noopener noreferrer" : undefined}>{link.label}</a>;
+  }
+  return <Link href={link.href}>{link.label}</Link>;
 }
 
 export function Footer() {

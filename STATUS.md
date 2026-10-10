@@ -2,6 +2,12 @@
 
 Updated: 2026-10-10
 
+## Internal navigation — implementation for review
+
+Header, footer, and logo links to application routes were plain anchors, so those clicks loaded a new document. They now use `next/link`. External, mailto, telephone, in-page, and file links stay anchors. Open menus close when the route changes. Server rendering and development `noindex` are unchanged. Not committed.
+
+Checks: lint, typecheck, and production build passed. In development and production, Home, About, Leadership, Contact, and Awards transitions kept the same document while the URL, title, and heading updated. Desktop hover opened the About submenu, and the mobile menu opened, expanded, navigated, and closed. Development Back and Forward stayed on that same document. Production routes returned 200 with `noindex, nofollow` and a server-rendered `h1`. A Grammarly extension attribute mismatch was already present in the development log and is not an application hydration defect.
+
 ## Contact page — implementation for review
 
 Implemented `/contact/` in the existing shell: banner, Mumbai head office, enquiry form, and five international offices. Copy matches the public page observed on 2026-10-10. Banner images are the existing local `Contact-Us_V2` desktop and mobile files. `noindex` remains. Header, footer, homepage, and the other corporate pages were not rewritten. Not committed.

@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
+import Link from "next/link";
 import { usePathname } from "next/navigation";
 import Image from "next/image";
 import { navigation } from "@/content/navigation";
@@ -10,15 +11,27 @@ export function Navigation() {
   const pathname = usePathname();
   const [panel, setPanel] = useState<"tablet" | "mobile" | null>(null);
   const [expanded, setExpanded] = useState<string | null>(null);
+  const [menuPath, setMenuPath] = useState(pathname);
   const root = useRef<HTMLDivElement>(null);
   const trigger = useRef<HTMLButtonElement>(null);
   const dialog = useRef<HTMLDialogElement>(null);
   const hoverOpened = useRef<string | null>(null);
 
+  if (menuPath !== pathname) {
+    setMenuPath(pathname);
+    setPanel(null);
+    setExpanded(null);
+  }
+
   function closePanel() {
     setPanel(null);
     setExpanded(null);
     trigger.current?.focus();
+  }
+
+  function dismissMenus() {
+    setPanel(null);
+    setExpanded(null);
   }
 
   useEffect(() => {
@@ -93,7 +106,7 @@ export function Navigation() {
                   }
                 }}>
                 <div className={styles.menuRow}>
-                  {item.href && <a href={item.href} aria-current={pathname === item.href || `${pathname}/` === item.href ? "page" : undefined}>{item.label}</a>}
+                  {item.href && <Link href={item.href} aria-current={pathname === item.href || `${pathname}/` === item.href ? "page" : undefined} onClick={dismissMenus}>{item.label}</Link>}
                   {item.children && <button type="button" aria-label={item.href ? `${item.label} submenu` : undefined} aria-expanded={open} aria-controls={controls}
                     className={item.href ? styles.submenuToggle : styles.groupToggle}
                     onClick={(event) => {
@@ -106,7 +119,7 @@ export function Navigation() {
                   </button>}
                 </div>
                 {item.children && <ul id={controls} className={styles.submenu} hidden={!open}>
-                  {item.children.map((link) => <li key={link.href}><a href={link.href}>{link.label}</a></li>)}
+                  {item.children.map((link) => <li key={link.href}><Link href={link.href} onClick={dismissMenus}>{link.label}</Link></li>)}
                 </ul>}
               </li>
             );
