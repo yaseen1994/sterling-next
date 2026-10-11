@@ -369,7 +369,10 @@
   place-items: center;
   min-height: 0;
   padding: 0;
+  border: 0;
   background: transparent;
+  cursor: pointer;
+  font: inherit;
 }
 
 .awardCard img {
@@ -378,6 +381,56 @@
   max-width: 100%;
   height: auto;
   max-height: 7.875rem;
+  object-fit: contain;
+}
+
+.awardPreview {
+  margin: auto;
+  max-width: min(42rem, calc(100vw - 2rem));
+  max-height: calc(100vh - 2rem);
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: inherit;
+}
+
+.awardPreview::backdrop {
+  background: rgb(0 0 0 / 72%);
+}
+
+.awardPreviewPanel {
+  position: relative;
+  padding: 2.5rem 1.25rem 1.25rem;
+  border-radius: 3px;
+  background: var(--color-site-surface);
+  box-shadow: 0 12px 40px rgb(0 0 0 / 28%);
+}
+
+.awardPreviewClose {
+  position: absolute;
+  top: 0.35rem;
+  right: 0.35rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  border: 0;
+  border-radius: 3px;
+  background: transparent;
+  color: var(--color-site-ink);
+  font-size: 1.75rem;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.awardPreviewClose:focus-visible {
+  outline: 3px solid var(--color-site-accent);
+  outline-offset: 2px;
+}
+
+.awardPreviewImage {
+  display: block;
+  width: 100%;
+  max-height: min(70vh, 32rem);
+  height: auto;
   object-fit: contain;
 }
 

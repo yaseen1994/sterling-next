@@ -2,6 +2,12 @@
 
 Updated: 2026-10-11
 
+## Navigation follow-up — homepage award card interaction
+
+Confirmed WordPress reference opens homepage award carousel images in an Elementor lightbox (same page; no document navigation). Replaced local raw `<a href="/assets/...">` award cards with buttons that open an accessible `<dialog>` image preview (Escape, close button, backdrop dismiss, focus restore). Carousel layout/controls and award content/styling preserved. No `next/link` for PNG assets. No commit, push, or deploy. Untracked plans and Phase 3A QA evidence preserved.
+
+Checks, 2026-10-11: targeted eslint and `npm run typecheck` passed. Local browser: award preview opens without hard navigation; Escape/close restore focus; awards Next scrolls on mobile; header Contact soft-navigates (marker survives, one navigation timing entry); LinkedIn/HSE remain `target="_blank"`; no horizontal overflow at 1440 and ~390. Remaining: full production re-matrix after deploy (investigation todo `regress-nav-matrix`).
+
 ## Phase 3D — corporate and services page fidelity
 
 Implemented Batch 6-style corporate/services fidelity from [docs/qa/phase-3a/FIDELITY-AUDIT.md](docs/qa/phase-3a/FIDELITY-AUDIT.md): `F-021` default PageBanner height, `F-041` awards carousel, About section treatments, EPC-style service feature bands, Design & Build projects band, and Smart Operations visual polish (`F-051`). Preserved the approved About Us tall banner at **428px**. No commit, push, or deploy. Preserved untracked plans and Phase 3A QA evidence.
