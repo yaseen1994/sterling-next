@@ -79,7 +79,7 @@ export function SmartOperationsPage() {
 
       <Section aria-labelledby={page.transform.id}>
         <Container>
-          <Heading level={2} id={page.transform.id} className={styles.sectionTitle}>
+          <Heading level={2} id={page.transform.id} className={styles.smartTitle}>
             {page.transform.title}
           </Heading>
           {page.transform.paragraphs.map((paragraph) => (
@@ -92,35 +92,43 @@ export function SmartOperationsPage() {
 
       <Section aria-labelledby={page.delivers.id}>
         <Container>
-          <Heading level={2} id={page.delivers.id} className={styles.sectionTitle}>
+          <Heading level={2} id={page.delivers.id} className={styles.smartTitle}>
             {page.delivers.title}
           </Heading>
           <p className={styles.lead}>{page.delivers.lead}</p>
-          <Cards items={page.delivers.items} className={styles.deliverables} />
+          <Cards
+            items={page.delivers.items}
+            className={styles.deliverables}
+            imageClass={styles.deliverableIcon}
+          />
         </Container>
       </Section>
 
-      <Section aria-labelledby={page.capabilities.id}>
+      <section className={styles.capabilitiesBand} aria-labelledby={page.capabilities.id}>
         <Container>
-          <Heading level={2} id={page.capabilities.id} className={styles.sectionTitle}>
+          <Heading level={2} id={page.capabilities.id} className={styles.smartTitle}>
             {page.capabilities.title}
           </Heading>
-          <Cards items={page.capabilities.items} className={styles.capabilities} />
+          <Cards
+            items={page.capabilities.items}
+            className={styles.capabilities}
+            imageClass={styles.capabilityIcon}
+          />
         </Container>
-      </Section>
+      </section>
 
       <Section aria-labelledby={page.sectors.id}>
         <Container>
-          <Heading level={2} id={page.sectors.id} className={styles.sectionTitle}>
+          <Heading level={2} id={page.sectors.id} className={styles.smartTitle}>
             {page.sectors.title}
           </Heading>
-          <Cards items={page.sectors.items} className={styles.sectors} imageClass={styles.photo} />
+          <Cards items={page.sectors.items} className={styles.sectors} imageClass={styles.sectorPhoto} />
         </Container>
       </Section>
 
       <Section aria-labelledby={page.impact.id}>
         <Container>
-          <Heading level={2} id={page.impact.id} className={styles.sectionTitle}>
+          <Heading level={2} id={page.impact.id} className={styles.smartTitle}>
             {page.impact.title}
           </Heading>
           <p className={styles.lead}>{page.impact.lead}</p>
@@ -175,7 +183,7 @@ export function SmartOperationsPage() {
 
       <Section aria-labelledby={page.faqs.id}>
         <Container>
-          <Heading level={2} id={page.faqs.id} className={styles.sectionTitle}>
+          <Heading level={2} id={page.faqs.id} className={styles.smartTitle}>
             {page.faqs.title}
           </Heading>
           <div className={styles.faqs}>

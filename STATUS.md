@@ -2,6 +2,18 @@
 
 Updated: 2026-10-11
 
+## Phase 3D — corporate and services page fidelity
+
+Implemented Batch 6-style corporate/services fidelity from [docs/qa/phase-3a/FIDELITY-AUDIT.md](docs/qa/phase-3a/FIDELITY-AUDIT.md): `F-021` default PageBanner height, `F-041` awards carousel, About section treatments, EPC-style service feature bands, Design & Build projects band, and Smart Operations visual polish (`F-051`). Preserved the approved About Us tall banner at **428px**. No commit, push, or deploy. Preserved untracked plans and Phase 3A QA evidence.
+
+Shared: default overlay `PageBanner` desktop `min-height` **297px** (tablet remains 18rem / 288px); About `variant="tall"` unchanged at 428px.
+
+Corporate: About intro title weight 600 / `#454545`; “What sets us apart” dark band with gray `#e0dfdf` cards and orange 21.6px titles; HSSE dark split layout with carousel; Leading with Purpose gray title; Awards page uses horizontal carousel (12 slides); leadership profile summary weight aligned.
+
+Services: Design & Build / Modular / Sustainable / O&M use black icon-list feature bands with 34px icons; Design & Build projects section uses `Review-Final` dark band with overlay captions; Smart Operations uses navy `#011a3b` titles/capabilities band, ~82px deliverable icons, ~75px capability icons, and sector photo height ~10rem. Smart Operations remains its own template.
+
+Checks, 2026-10-11: targeted eslint on changed TypeScript files and `tsc --noEmit` passed; one production build passed (42 static pages). Visual/metric compare vs reference at 1440×900, 768×1024, and 390×844 on representative templates (About, Design & Build, Awards, Smart Operations) plus full-route content checks on the other corporate/service routes: About banner stayed 428px / title 40.32px/500/y103; Design & Build banner 297px with 34px icons and orange Enquire Now; no page overflow; no broken content images; homepage sticky award and Careers Apply Now still present. Remaining gaps: About difference card widths still follow the 1200px container (wider than reference ~497px image boxes); awards page slide width follows the shared homepage awards track (~178px vs reference ~226px); memberships/governance micro-spacing and Smart Ops FAQ chrome remain polish backlog; governance PDFs stay on reference URLs.
+
 ## Phase 3C — Services cards and floating award
 
 Implemented `F-SS-02` (homepage Services cards) and `F-SS-03` (Construction Week floating award) from [docs/qa/phase-3a/FIDELITY-AUDIT.md](docs/qa/phase-3a/FIDELITY-AUDIT.md). Phase 3B work remains uncommitted in the working tree (STATUS previously recorded “No commit”); this milestone also does not commit, push, or deploy. Preserved untracked plans, QA reports, and screenshots.

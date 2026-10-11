@@ -22,7 +22,9 @@ export default function LeadershipPage() {
             {leadershipPage.people.map((person) => (
               <article className={styles.profile} id={person.id} key={person.id}>
                 <img src={person.image} alt="" />
-                <Heading level={2}>{person.name}</Heading>
+                <Heading level={2} className={styles.sectionTitle}>
+                  {person.name}
+                </Heading>
                 <p className={styles.role}>{person.role}</p>
                 <details>
                   <summary>View profile</summary>

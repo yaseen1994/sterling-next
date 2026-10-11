@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { PageBanner } from "@/components/corporate/page-banner";
 import styles from "@/components/corporate/corporate.module.css";
+import { Carousel } from "@/components/home/carousel";
 import { Container } from "@/components/ui/container";
 import { Section } from "@/components/ui/section";
 import { awardsPage, developmentRobots } from "@/content/corporate";
@@ -22,13 +23,15 @@ export default function AwardsPage() {
       />
       <Section aria-labelledby="awards-page-title">
         <Container>
-          <div className={styles.awards}>
-            {awardsPage.items.map((item) => (
-              <figure className={styles.award} key={item.image}>
-                <img src={item.image} alt="" />
-                <figcaption>{item.title}</figcaption>
-              </figure>
-            ))}
+          <div className={styles.awardTrack}>
+            <Carousel label="Awards and recognitions" variant="awards">
+              {awardsPage.items.map((item) => (
+                <figure className={styles.awardSlide} key={item.image}>
+                  <img src={item.image} alt="" />
+                  <figcaption>{item.title}</figcaption>
+                </figure>
+              ))}
+            </Carousel>
           </div>
         </Container>
       </Section>

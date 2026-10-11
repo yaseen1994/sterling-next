@@ -43,21 +43,52 @@ function escapeRegExp(value: string) {
   return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 }
 
-function FeatureList({ items }: { items: readonly ServiceFeature[] }) {
+function FeatureList({
+  items,
+  layout = "iconList",
+}: {
+  items: readonly ServiceFeature[];
+  layout?: "iconList" | "cards";
+}) {
+  if (layout === "cards") {
+    return (
+      <ul className={styles.features}>
+        {items.map((item) => (
+          <li className={styles.card} key={item.title}>
+            {item.image ? <img className={styles.icon} src={item.image} alt="" /> : null}
+            <Heading level={3}>{item.title}</Heading>
+            {item.body ? <p>{item.body}</p> : null}
+            {item.notes ? (
+              <ul className={styles.notes}>
+                {item.notes.map((note) => (
+                  <li key={note}>{note}</li>
+                ))}
+              </ul>
+            ) : null}
+          </li>
+        ))}
+      </ul>
+    );
+  }
+
   return (
-    <ul className={styles.features}>
+    <ul className={styles.iconList}>
       {items.map((item) => (
-        <li className={styles.card} key={item.title}>
-          {item.image ? <img className={styles.icon} src={item.image} alt="" /> : null}
-          <Heading level={3}>{item.title}</Heading>
-          {item.body ? <p>{item.body}</p> : null}
-          {item.notes ? (
-            <ul className={styles.notes}>
-              {item.notes.map((note) => (
-                <li key={note}>{note}</li>
-              ))}
-            </ul>
-          ) : null}
+        <li className={styles.iconRow} key={item.title}>
+          {item.image ? <img className={styles.listIcon} src={item.image} alt="" /> : null}
+          <div>
+            <Heading level={3}>
+              {item.title}
+              {item.body ? <span className={styles.iconBody}> {item.body}</span> : null}
+            </Heading>
+            {item.notes ? (
+              <ul className={styles.notes}>
+                {item.notes.map((note) => (
+                  <li key={note}>{note}</li>
+                ))}
+              </ul>
+            ) : null}
+          </div>
         </li>
       ))}
     </ul>
@@ -90,14 +121,20 @@ export function EnquireBand({
 
 function ServiceProjects() {
   return (
-    <Section aria-labelledby="service-projects-title">
+    <Section
+      tone="dark"
+      aria-labelledby="service-projects-title"
+      className={styles.projects}
+      style={{ backgroundImage: `url(${projectsContent.image})` }}
+    >
+      <div className={styles.shade} />
       <Container>
         <div className={styles.projectLayout}>
           <div>
-            <Heading level={2} id="service-projects-title">
+            <Heading level={2} id="service-projects-title" className={styles.projectsTitle}>
               From Vision to Reality
             </Heading>
-            <Heading level={3} className="mt-3">
+            <Heading level={3} className={styles.projectsSubtitle}>
               Explore the data centers we’ve brought to life
             </Heading>
             <p>{projectsContent.body}</p>
@@ -105,12 +142,14 @@ function ServiceProjects() {
               {projectsContent.cta.label}
             </Link>
           </div>
-          <Carousel label="Featured projects">
+          <Carousel label="Featured projects" variant="projects">
             {projectsContent.items.map((project) => (
               <Link className={styles.projectCard} href={project.href} key={project.href}>
                 <img src={project.image} alt="" width={project.width} height={project.height} />
-                <h3>{project.title}</h3>
-                <p>{project.place}</p>
+                <div className={styles.projectCaption}>
+                  <h3>{project.title}</h3>
+                  <p>{project.place}</p>
+                </div>
               </Link>
             ))}
           </Carousel>
@@ -122,6 +161,7 @@ function ServiceProjects() {
 
 export function ServiceDetail({ page }: { page: ServicePageContent }) {
   const bannerId = `${page.intro.id}-banner`;
+  const featuresLayout = page.features.layout ?? "iconList";
 
   return (
     <div className={styles.page}>
@@ -152,14 +192,14 @@ export function ServiceDetail({ page }: { page: ServicePageContent }) {
           </div>
         </Container>
       </Section>
-      <Section aria-labelledby={page.features.id}>
+      <section className={styles.featureBand} aria-labelledby={page.features.id}>
         <Container>
-          <Heading level={2} id={page.features.id} className={styles.sectionTitle}>
+          <Heading level={2} id={page.features.id} className={styles.featureBandTitle}>
             {page.features.title}
           </Heading>
-          <FeatureList items={page.features.items} />
+          <FeatureList items={page.features.items} layout={featuresLayout} />
         </Container>
-      </Section>
+      </section>
       {page.showProjects ? <ServiceProjects /> : null}
       <EnquireBand {...page.cta} />
     </div>

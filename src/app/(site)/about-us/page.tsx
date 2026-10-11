@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { PageBanner } from "@/components/corporate/page-banner";
 import styles from "@/components/corporate/corporate.module.css";
+import { Carousel } from "@/components/home/carousel";
 import { LinkButton } from "@/components/ui/button";
 import { Container } from "@/components/ui/container";
 import { Heading } from "@/components/ui/heading";
@@ -25,7 +26,7 @@ export default function AboutPage() {
       <Section aria-labelledby="about-intro-title">
         <Container>
           <div className={styles.split}>
-            <Heading level={2} id="about-intro-title" className={styles.sectionTitle}>
+            <Heading level={2} id="about-intro-title" className={styles.introTitle}>
               {aboutPage.intro.title}
             </Heading>
             <div>
@@ -53,14 +54,14 @@ export default function AboutPage() {
           </div>
         </Container>
       </Section>
-      <Section aria-labelledby="about-difference-title">
+      <section className={styles.difference} aria-labelledby="about-difference-title">
         <Container>
-          <Heading level={2} id="about-difference-title" className={styles.accent}>
+          <Heading level={2} id="about-difference-title" className={styles.differenceTitle}>
             {aboutPage.difference.title}
           </Heading>
-          <div className={`${styles.cards} mt-8`}>
+          <div className={styles.differenceGrid}>
             {aboutPage.difference.items.map((item) => (
-              <article className={styles.card} key={item.title}>
+              <article className={styles.differenceCard} key={item.title}>
                 <img src={item.image} alt="" />
                 <Heading level={3}>{item.title}</Heading>
                 <p>{item.body}</p>
@@ -68,34 +69,34 @@ export default function AboutPage() {
             ))}
           </div>
         </Container>
-      </Section>
-      <Section aria-labelledby="about-hsse-title">
+      </section>
+      <section className={styles.hsse} aria-labelledby="about-hsse-title">
         <Container>
-          <Heading level={2} id="about-hsse-title" className={styles.accent}>
-            {aboutPage.hsse.title}
-          </Heading>
-          <Heading level={3} className="mt-4">
-            {aboutPage.hsse.subtitle}
-          </Heading>
-          {aboutPage.hsse.paragraphs.map((paragraph) => (
-            <p className={styles.closing} key={paragraph}>
-              {paragraph}
-            </p>
-          ))}
-          <div className={`${styles.cards} mt-8`}>
-            {aboutPage.hsse.images.map((image, index) => (
-              <img
-                key={image}
-                src={image}
-                alt={`HSSE gallery image ${index + 1}`}
-              />
-            ))}
+          <div className={styles.hsseLayout}>
+            <div>
+              <Heading level={2} id="about-hsse-title" className={styles.hsseTitle}>
+                {aboutPage.hsse.title}
+              </Heading>
+              <Heading level={3} className={styles.hsseSubtitle}>
+                {aboutPage.hsse.subtitle}
+              </Heading>
+              {aboutPage.hsse.paragraphs.map((paragraph) => (
+                <p key={paragraph}>{paragraph}</p>
+              ))}
+            </div>
+            <Carousel label="HSSE gallery">
+              {aboutPage.hsse.images.map((image, index) => (
+                <div className={styles.hsseSlide} key={image}>
+                  <img src={image} alt={`HSSE gallery image ${index + 1}`} />
+                </div>
+              ))}
+            </Carousel>
           </div>
         </Container>
-      </Section>
+      </section>
       <Section aria-labelledby="about-leadership-title">
         <Container>
-          <Heading level={2} id="about-leadership-title" className={styles.accent}>
+          <Heading level={2} id="about-leadership-title" className={styles.purposeTitle}>
             {aboutPage.leadership.title}
           </Heading>
           <Heading level={3} className="mt-4">

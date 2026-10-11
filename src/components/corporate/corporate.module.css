@@ -88,7 +88,7 @@
   min-height: 2.75rem;
   cursor: pointer;
   color: var(--color-site-accent);
-  font-weight: 600;
+  font-weight: 500;
 }
 
 .more summary:focus-visible,
@@ -220,6 +220,140 @@
   max-width: 22rem;
 }
 
+.introTitle {
+  color: #454545;
+  font-weight: 600;
+}
+
+.difference {
+  padding-block: var(--spacing-section);
+  background: #636363;
+  color: var(--color-site-inverse);
+}
+
+.differenceTitle {
+  color: var(--color-site-inverse);
+  font-weight: 600;
+  line-height: 1;
+}
+
+.differenceGrid {
+  display: grid;
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.differenceCard {
+  display: grid;
+  gap: 0;
+  min-width: 0;
+  background: #e0dfdf;
+}
+
+.differenceCard img {
+  width: 100%;
+  aspect-ratio: 497 / 281;
+  object-fit: cover;
+  background: #d0d0d0;
+}
+
+.differenceCard h3 {
+  margin: 0;
+  padding: 1.1rem 1.15rem 0.35rem;
+  color: var(--color-site-accent);
+  font-size: 21.6px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+.differenceCard p {
+  margin: 0;
+  padding: 0 1.15rem 1.25rem;
+  color: #535353;
+  font-size: 15.84px;
+  line-height: 1.45;
+}
+
+.hsse {
+  padding-block: var(--spacing-section);
+  background: rgb(99 99 99 / 0.92);
+  color: var(--color-site-inverse);
+}
+
+.hsseTitle,
+.hsseSubtitle,
+.hsse p {
+  color: var(--color-site-inverse);
+}
+
+.hsseTitle {
+  font-weight: 600;
+  line-height: 1;
+}
+
+.hsseSubtitle {
+  margin-top: 1rem;
+  font-weight: 500;
+}
+
+.hsse p {
+  margin-top: 0.85rem;
+  font-size: 1.26rem;
+  line-height: 1.45;
+}
+
+.hsseLayout {
+  display: grid;
+  gap: 2rem;
+  align-items: start;
+}
+
+.hsseSlide {
+  display: block;
+  min-width: 0;
+}
+
+.hsseSlide img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+  background: #000;
+}
+
+.purposeTitle {
+  color: #454545;
+  font-weight: 600;
+}
+
+.awardTrack {
+  margin-top: 0.5rem;
+}
+
+.awardSlide {
+  display: grid;
+  gap: 0.75rem;
+  min-width: 0;
+  color: inherit;
+  text-align: center;
+}
+
+.awardSlide img {
+  display: block;
+  width: 100%;
+  height: 9.875rem;
+  margin-inline: auto;
+  object-fit: contain;
+  background: var(--color-site-surface);
+}
+
+.awardSlide figcaption {
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.35;
+}
+
 @media (min-width: 48rem) {
   .banner {
     min-height: 18rem;
@@ -233,12 +367,23 @@
   .cards,
   .awards,
   .profiles,
-  .memberships {
+  .memberships,
+  .differenceGrid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .hsseLayout {
+    grid-template-columns: minmax(16rem, 1fr) minmax(18rem, 1fr);
+    gap: 2.5rem;
+    align-items: center;
   }
 }
 
 @media (min-width: 64rem) {
+  .banner {
+    min-height: 297px;
+  }
+
   .bannerTall {
     min-height: 428px;
   }

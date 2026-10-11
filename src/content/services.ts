@@ -27,6 +27,8 @@ export type ServiceDetailContent = {
     id: string;
     title: string;
     items: readonly ServiceFeature[];
+    /** Dark icon+copy rows (EPC-style). Default for ServiceDetail pages. */
+    layout?: "iconList" | "cards";
   };
   showProjects?: boolean;
 };
