@@ -2,6 +2,16 @@
 
 Updated: 2026-10-11
 
+## Phase 3C — Services cards and floating award
+
+Implemented `F-SS-02` (homepage Services cards) and `F-SS-03` (Construction Week floating award) from [docs/qa/phase-3a/FIDELITY-AUDIT.md](docs/qa/phase-3a/FIDELITY-AUDIT.md). Phase 3B work remains uncommitted in the working tree (STATUS previously recorded “No commit”); this milestone also does not commit, push, or deploy. Preserved untracked plans, QA reports, and screenshots.
+
+F-SS-02: Services section background `#f6f7f9`; cards use reference padding `33×20×44`, `2px` orange border, `14px` radius, desktop height `23vw`, gap `27px`; orange 150px icon orb at `top: 4vw` with hover scale ×6; resting description collapsed until hover/focus; Know more is white outline on the orange fill. Replaced simplified glyphs with reference-traced SVGs from `docs/qa/milestone-4/reference-icons.json` written to `public/assets/icons/services/` (55/60/65/60/50px). Destinations unchanged.
+
+F-SS-03: Homepage-only client `StickyAward` using validated local `Construction-Week-Awards-Badge-65ab55.png` (1080×631, SHA-256 `E2C247B8…`). Fixed `bottom: 80px; right: 20px; width: 18%; z-index: 1000` on desktop; accessible Close (`aria-label="Close"`) dismisses for the current page view only (matches reference `display: none`, no storage). Absent on `/about-us/` and `/design-build/`. Close kept visible on tablet/mobile (reference hides `.sticky-close` ≤768 while leaving the badge); mobile width capped to reduce nav/CTA obstruction.
+
+Checks, 2026-10-11: targeted eslint on changed TypeScript files and `tsc --noEmit` passed. No production build. Visual/metric compare vs reference at 1440×900, 768×1024, and 390×844: section bg and card geometry aligned; icons match traced artwork; sticky box ≈256.5×149.6 at 1440; no page overflow; service Know more hrefs preserved; Close dismisses; widget not on interior pages. Remaining deferred gaps unchanged from Phase 3B (testimonials video frame, projects section height, awards slide count).
+
 ## Phase 3B — shared styles and homepage fidelity
 
 Implemented the first focused fidelity batch from [docs/qa/phase-3a/FIDELITY-AUDIT.md](docs/qa/phase-3a/FIDELITY-AUDIT.md): shared home section heading line-height (`F-001`), accent outline View awards (`F-022` / `F-SS-06`), and homepage corrections `F-SS-01`, `F-SS-04`, `F-SS-05`, `F-SS-06`, `F-SS-07`. Excluded per milestone: `F-SS-02` services cards/icons, `F-SS-03` floating award widget, corporate/services/portfolio detail polish, Careers/Contact/editorial changes, contact backend, and new routes. No commit, push, or deploy.

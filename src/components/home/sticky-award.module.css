@@ -1,0 +1,49 @@
+.wrap {
+  position: fixed;
+  right: 20px;
+  bottom: 80px;
+  z-index: 1000;
+  width: 18%;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.close {
+  position: absolute;
+  top: 0;
+  right: -10px;
+  z-index: 1001;
+  display: grid;
+  width: 30px;
+  height: 30px;
+  place-items: center;
+  border: none;
+  border-radius: 50%;
+  padding: 0;
+  background: #000;
+  color: #fff;
+  font-size: 15px;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.close:hover {
+  background: #333;
+}
+
+.close:focus-visible {
+  outline: 3px solid var(--color-site-accent);
+  outline-offset: 2px;
+}
+
+@media (max-width: 768px) {
+  .wrap {
+    right: 12px;
+    bottom: 72px;
+    width: min(30%, 7.5rem);
+  }
+}

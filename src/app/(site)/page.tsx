@@ -6,6 +6,7 @@ import { Impact } from "@/components/home/impact";
 import { Presence } from "@/components/home/presence";
 import { Projects } from "@/components/home/projects";
 import { Services } from "@/components/home/services";
+import { StickyAward } from "@/components/home/sticky-award";
 import { Testimonials } from "@/components/home/testimonials";
 import styles from "@/components/home/home.module.css";
 import { homeMeta } from "@/content/home";
@@ -27,6 +28,7 @@ export default function Home() {
       <Awards />
       <Testimonials />
       <Presence />
+      <StickyAward />
     </div>
   );
 }
