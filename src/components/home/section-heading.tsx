@@ -20,7 +20,7 @@ export function SectionHeading({
       <Heading
         level={1}
         id={id}
-        className={tone === "dark" ? "text-site-inverse" : "text-site-accent"}
+        className={`${styles.sectionTitle} ${tone === "dark" ? "text-site-inverse" : "text-site-accent"}`}
       >
         {title}
       </Heading>

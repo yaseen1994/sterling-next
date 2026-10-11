@@ -84,6 +84,7 @@ export const projectsContent = {
   title: "Projects",
   subtitle: "From Blueprint to Reality",
   body: "Explore our success stories – see how we’ve transformed complex challenges into state-of-the-art, high-performance data centers.",
+  image: "/assets/images/Review-Final-40c3b5.jpg",
   cta: { label: "View projects", href: "/projects/" },
   items: [
     {
@@ -183,7 +184,7 @@ export const awardsContent = {
 export const testimonialsContent = {
   title: "Client Testimonials",
   subtitle: "Hear from the businesses that trust us to power their digital backbone",
-  image: "/assets/images/Review-Final-b9ae20.jpg",
+  image: "/assets/images/review-637caa.jpg",
   videoId: "wH9Gvp4LRAg",
   videoTitle: "Client testimonial",
 };

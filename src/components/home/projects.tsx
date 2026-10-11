@@ -8,7 +8,13 @@ import styles from "./home.module.css";
 
 export function Projects() {
   return (
-    <Section aria-labelledby="projects-title">
+    <Section
+      tone="dark"
+      aria-labelledby="projects-title"
+      className={styles.projects}
+      style={{ backgroundImage: `url(${projectsContent.image})` }}
+    >
+      <div className={styles.shade} />
       <Container>
         <div className={styles.projectLayout}>
           <div>
@@ -16,13 +22,14 @@ export function Projects() {
               id="projects-title"
               title={projectsContent.title}
               subtitle={projectsContent.subtitle}
+              tone="dark"
             />
             <p>{projectsContent.body}</p>
             <Link className={styles.textLink} href={projectsContent.cta.href}>
               {projectsContent.cta.label}
             </Link>
           </div>
-          <Carousel label="Featured projects">
+          <Carousel label="Featured projects" variant="projects">
             {projectsContent.items.map((project) => (
               <Link className={styles.projectCard} href={project.href} key={project.href}>
                 <img
@@ -31,10 +38,10 @@ export function Projects() {
                   width={project.width}
                   height={project.height}
                 />
-                <h3>
-                  {project.title}
-                </h3>
-                <p>{project.place}</p>
+                <div className={styles.projectCaption}>
+                  <h3>{project.title}</h3>
+                  <p>{project.place}</p>
+                </div>
               </Link>
             ))}
           </Carousel>

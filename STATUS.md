@@ -1,6 +1,18 @@
 # Current state
 
-Updated: 2026-10-10
+Updated: 2026-10-11
+
+## Phase 3B — shared styles and homepage fidelity
+
+Implemented the first focused fidelity batch from [docs/qa/phase-3a/FIDELITY-AUDIT.md](docs/qa/phase-3a/FIDELITY-AUDIT.md): shared home section heading line-height (`F-001`), accent outline View awards (`F-022` / `F-SS-06`), and homepage corrections `F-SS-01`, `F-SS-04`, `F-SS-05`, `F-SS-06`, `F-SS-07`. Excluded per milestone: `F-SS-02` services cards/icons, `F-SS-03` floating award widget, corporate/services/portfolio detail polish, Careers/Contact/editorial changes, contact backend, and new routes. No commit, push, or deploy.
+
+Corrections: ticker strip `#e0dfdf` and ~56px height with contained marquee; home orange section titles `line-height: 1`; impact stats left-aligned with intrinsic column widths and desktop nowrap for `20 Million+`; Projects section uses `Review-Final-40c3b5.jpg` with inverse type, overlay captions, and project-specific carousel chrome; awards slides ~178×124 with orange arrow controls and orange View awards CTA; testimonials use `review-637caa.jpg` with ~479px desktop band. Design & Build continues to use the default carousel variant and its own project-card styles.
+
+Checks, 2026-10-11: targeted eslint on changed TypeScript files and `tsc --noEmit` passed. No production build. Visual compare vs reference at 1440×900, 768×1024, and 390×844 on `/`: no page overflow after carousel/`min-width` and mobile nowrap fixes; award and project Next arrows scroll when content overflows; About Us banner title remained 40.32px/500/lh 1; Design & Build Enquire Now stayed orange outline; Careers and Projects listing returned HTTP 200 with layout intact. Remaining deferred gaps: services cards (`F-SS-02`), sticky award (`F-SS-03`), testimonials video frame slightly narrower than reference (~557×313 vs ~598×337 at 1440), projects section height a few dozen pixels under reference, and local awards inventory has five slides vs more on the reference track.
+
+## Phase 3A — fidelity audit (read-only)
+
+Completed the amended Phase 3A exhaustive fidelity audit against the live WordPress reference and local `http://localhost:3000/` (git HEAD `d58e812` at audit start). No application source edits, production builds, commits, pushes, or deploys. Deliverable: [docs/qa/phase-3a/FIDELITY-AUDIT.md](docs/qa/phase-3a/FIDELITY-AUDIT.md) with evidence screenshots under `docs/qa/phase-3a/screenshots/`. All seven owner screenshot checkpoints (F-SS-01…07) are explicit measured findings. Sticky Construction Week badge is homepage-only on the reference and missing in Next. About tall banner already matches 428px; remaining high-visibility gaps are homepage ticker/services/projects/impact/awards/testimonials and the floating award widget. Suggested next step: ChatGPT-scoped Batch 1 (shared tokens/CTAs) + Batch 3 (homepage CSS), then sticky award and services icons after asset validation.
 
 ## Vercel deployment — approved main
 

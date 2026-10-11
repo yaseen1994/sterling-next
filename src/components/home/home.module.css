@@ -4,8 +4,12 @@
 }
 
 .ticker {
+  display: flex;
+  align-items: center;
+  min-height: 3.4125rem;
+  max-width: 100%;
   overflow: hidden;
-  background: var(--color-site-surface);
+  background: #e0dfdf;
   color: var(--color-site-ink);
 }
 
@@ -16,11 +20,15 @@
 }
 
 .tickerTrack span {
-  padding: 0.7rem 2.5rem;
+  padding: 1rem 2.5rem;
   font-size: 0.99rem;
   font-weight: 500;
-  line-height: 1.4;
+  line-height: 1.5;
   white-space: nowrap;
+}
+
+.sectionTitle {
+  line-height: 1;
 }
 
 .hero {
@@ -167,12 +175,21 @@
 }
 
 .company,
+.projects,
 .testimonials {
   position: relative;
   color: var(--color-site-inverse);
   background-color: var(--color-site-dark);
   background-position: center;
   background-size: cover;
+}
+
+.projects {
+  background-position: 0% 50%;
+}
+
+.testimonials {
+  min-height: 29.95rem;
 }
 
 .shade {
@@ -191,8 +208,14 @@
   align-items: center;
 }
 
+.companyGrid > *,
+.projectLayout > *,
+.testimonialGrid > * {
+  min-width: 0;
+}
+
 .company p,
-.projectLayout p {
+.projectLayout > div > p {
   margin-top: 1rem;
   font-size: 1.05rem;
   line-height: 1.5;
@@ -200,16 +223,25 @@
 
 .frame {
   width: 100%;
+  max-width: 37.375rem;
   aspect-ratio: 16 / 9;
   border: 0;
   background: #000;
+  justify-self: stretch;
 }
 
 .stats {
-  display: grid;
-  gap: 1.75rem 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.75rem 1.25rem;
   margin-top: 2.2rem;
-  text-align: center;
+  text-align: left;
+}
+
+.stats > * {
+  flex: 1 1 9rem;
+  min-width: 9rem;
+  max-width: 15.5rem;
 }
 
 .statValue {
@@ -228,6 +260,7 @@
 .scroller {
   display: flex;
   gap: 1.1rem;
+  max-width: 100%;
   overflow-x: auto;
   scroll-snap-type: x mandatory;
   padding-bottom: 0.35rem;
@@ -248,27 +281,41 @@
   display: block;
   color: inherit;
   text-decoration: none;
-  background: var(--color-site-surface);
+}
+
+.projectCard {
+  position: relative;
+  overflow: hidden;
+  background: transparent;
 }
 
 .projectCard img {
   display: block;
   width: 100%;
-  height: 11.5rem;
+  height: 10.9375rem;
   object-fit: cover;
 }
 
+.projectCaption {
+  position: absolute;
+  inset: auto 0 0;
+  padding: 0.65rem 0.75rem 0.55rem;
+  background: linear-gradient(180deg, transparent, rgb(0 0 0 / 72%));
+}
+
 .projectCard h3 {
-  margin: 0.75rem 0 0;
-  color: var(--color-site-ink);
-  font-size: 1.05rem;
-  font-weight: 600;
-  line-height: 1.3;
+  margin: 0;
+  color: var(--color-site-inverse);
+  font-size: 0.9rem;
+  font-weight: 500;
+  line-height: 1.25;
 }
 
 .projectCard p {
-  margin: 0.2rem 0 0;
-  font-size: 0.95rem;
+  margin: 0.15rem 0 0;
+  color: #808080;
+  font-size: 0.9rem;
+  line-height: 1.25;
 }
 
 .projectCard:focus-visible,
@@ -279,17 +326,18 @@
 
 .awardCard {
   display: grid;
-  min-height: 15rem;
   place-items: center;
-  border: 1px solid #ececec;
-  padding: 1rem;
+  min-height: 0;
+  padding: 0;
+  background: transparent;
 }
 
 .awardCard img {
-  width: auto;
+  display: block;
+  width: 11.125rem;
   max-width: 100%;
   height: auto;
-  max-height: 12rem;
+  max-height: 7.875rem;
   object-fit: contain;
 }
 
@@ -316,6 +364,49 @@
   color: var(--color-site-inverse);
 }
 
+.projectControl {
+  width: 2.4375rem;
+  height: 2.4375rem;
+  border: 0;
+  border-radius: 0;
+  background: rgb(99 100 99 / 33%);
+  color: var(--color-site-inverse);
+  font-size: 1.3125rem;
+}
+
+.projectControl:hover {
+  background: rgb(99 100 99 / 55%);
+  color: var(--color-site-inverse);
+}
+
+.awardControl {
+  width: 4rem;
+  height: 4rem;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  color: var(--color-site-accent);
+  font-size: 2rem;
+}
+
+.awardControl:hover {
+  background: transparent;
+  color: var(--color-site-accent);
+  opacity: 0.8;
+}
+
+.projectScroller > * {
+  flex-basis: min(16.625rem, 100%);
+}
+
+.awardScroller {
+  gap: 1.5rem;
+}
+
+.awardScroller > * {
+  flex: 0 0 11.125rem;
+}
+
 .map {
   display: block;
   width: 100%;
@@ -336,18 +427,31 @@
   text-decoration: none;
 }
 
+.textLinkAccent {
+  border-color: var(--color-site-accent);
+  color: var(--color-site-accent);
+}
+
 @media (min-width: 48rem) {
-  .serviceGrid,
-  .stats {
+  .serviceGrid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
-  .stats {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
+  .stats > * {
+    flex: 1 1 11rem;
+    max-width: 15.55rem;
   }
 
   .scroller > * {
     flex-basis: calc(50% - 0.55rem);
+  }
+
+  .projectScroller > * {
+    flex-basis: min(16.625rem, calc(50% - 0.55rem));
+  }
+
+  .awardScroller > * {
+    flex-basis: 11.125rem;
   }
 }
 
@@ -405,17 +509,44 @@
   }
 
   .stats {
-    grid-template-columns: repeat(5, minmax(0, 1fr));
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    gap: 0.75rem 1rem;
+  }
+
+  .stats > * {
+    flex: 0 1 auto;
+    width: auto;
+    min-width: 0;
+    max-width: 15.55rem;
+  }
+
+  .statValue {
+    white-space: nowrap;
   }
 
   .scroller > * {
     flex-basis: calc(33.333% - 0.74rem);
+  }
+
+  .projectScroller > * {
+    flex-basis: 16.625rem;
+  }
+
+  .awardScroller > * {
+    flex-basis: 11.125rem;
+  }
+
+  .frame {
+    width: 100%;
+    max-width: none;
   }
 }
 
 @media (prefers-reduced-motion: reduce) {
   .ticker {
     overflow: visible;
+    min-height: 0;
   }
 
   .tickerTrack {

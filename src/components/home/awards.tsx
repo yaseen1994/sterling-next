@@ -16,7 +16,7 @@ export function Awards() {
           subtitle={awardsContent.subtitle}
         />
         <div className="mt-8">
-          <Carousel label="Awards and recognitions">
+          <Carousel label="Awards and recognitions" variant="awards">
             {awardsContent.items.map((award) => (
               <a className={styles.awardCard} href={award.href} key={award.href}>
                 <img
@@ -29,7 +29,7 @@ export function Awards() {
             ))}
           </Carousel>
         </div>
-        <Link className={styles.textLink} href={awardsContent.cta.href}>
+        <Link className={`${styles.textLink} ${styles.textLinkAccent}`} href={awardsContent.cta.href}>
           {awardsContent.cta.label}
         </Link>
       </Container>
