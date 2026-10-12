@@ -101,7 +101,8 @@ export function EnquireBand({
   subtitle,
   label,
   href,
-}: ServicePageContent["cta"]) {
+  buttonClassName,
+}: ServicePageContent["cta"] & { buttonClassName?: string }) {
   return (
     <Section tone="dark" aria-labelledby={id}>
       <Container>
@@ -110,7 +111,7 @@ export function EnquireBand({
         </Heading>
         <p className={styles.ctaSubtitle}>{subtitle}</p>
         <div className="mt-6">
-          <LinkButton className={styles.filled} href={href}>
+          <LinkButton className={buttonClassName ?? styles.filled} href={href}>
             {label}
           </LinkButton>
         </div>
