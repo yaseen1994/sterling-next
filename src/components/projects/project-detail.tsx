@@ -1,9 +1,7 @@
 import Link from "next/link";
 import { EnquireBand } from "@/components/services/service-detail";
 import { Container } from "@/components/ui/container";
-import { Section } from "@/components/ui/section";
 import {
-  projectBullet,
   projectEnquiry,
   projectHref,
   projectStamp,
@@ -33,15 +31,12 @@ function ProjectFact({ text }: { text: string }) {
   const lines = text.split("\n");
   return (
     <li className={styles.item}>
-      <img src={projectBullet} alt="" width={22} height={22} />
-      <span>
-        {lines.map((line, index) => (
-          <span key={line}>
-            {index > 0 ? <br /> : null}
-            <LinkedLine text={line} />
-          </span>
-        ))}
-      </span>
+      {lines.map((line, index) => (
+        <span key={line}>
+          {index > 0 ? <br /> : null}
+          <LinkedLine text={line} />
+        </span>
+      ))}
     </li>
   );
 }
@@ -60,7 +55,7 @@ export function ProjectDetail({
 
   return (
     <div className={styles.page}>
-      <Section aria-labelledby="project-title">
+      <section className={styles.detailSection} aria-labelledby="project-title">
         <Container>
           {project.gallery.length > 1 ? (
             <ProjectGallery images={project.gallery} label={label} />
@@ -90,7 +85,7 @@ export function ProjectDetail({
             ) : null}
           </nav>
           <div className={styles.detail}>
-            <div>
+            <div className={styles.detailCopy}>
               <h1 id="project-title" className={styles.title}>
                 {project.title}
                 <span className={styles.place}>{project.place}</span>
@@ -117,8 +112,8 @@ export function ProjectDetail({
             />
           </div>
         </Container>
-      </Section>
-      <EnquireBand {...projectEnquiry} />
+      </section>
+      <EnquireBand {...projectEnquiry} buttonClassName={styles.enquireCta} />
     </div>
   );
 }

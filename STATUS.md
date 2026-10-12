@@ -1,6 +1,27 @@
 # Current state
 
-Updated: 2026-10-11
+Updated: 2026-10-12
+
+## Phase 3E final corrections — portfolio Enquire and text column
+
+Two scoped reference-fidelity fixes on the existing Phase 3E portfolio detail layout. No Projects listing re-audit. No commit, push, or deploy. Preserved untracked plans and Phase 3A QA evidence. HEAD remained `a5b0091`.
+
+1. Portfolio Enquire Now: dark-band CTA uses white outline (`border`/`color` `#fff`) via portfolio-scoped `enquireCta` class passed into shared `EnquireBand` optional `buttonClassName`. Services pages keep orange `.filled`. Destination remains `/contact/` with Next.js client navigation.
+2. Portfolio text column: copy column capped at **40.825rem (653.2px)** with centered flex row (gap **1.8rem**) beside the **231.8px** stamp. Gallery/photo stays full container width (~1200). At 768 the copy flexes (~447px) beside the stamp without overflow; at 390 the stamp stays hidden and copy is full width.
+
+Checks, 2026-10-12: targeted eslint on projects TypeScript + `service-detail.tsx` and `npm run typecheck` passed. Measured at 1440 vs reference Pune (text **653.2** at x **255.5**, stamp **231.8** at x **937.5**, Enquire white **1.6px**). Local Pune/Bhamashah matched those metrics; no overflow at 1440/768/390. Gallery Next advanced 1→2 of 6; Next project soft-nav preserved marker (one navigation entry); Enquire soft-nav reached `/contact/`. Design & Build Enquire stayed orange; homepage View awards stayed orange and sticky Close remained.
+
+Remaining from Phase 3E listing polish: card height a few dozen px under reference on some titles.
+
+## Phase 3E — Projects and portfolio visual fidelity
+
+Implemented Batch 7-style projects/portfolio fidelity from [docs/qa/phase-3a/FIDELITY-AUDIT.md](docs/qa/phase-3a/FIDELITY-AUDIT.md) finding `F-062` (and related portfolio polish), without repeating the site-wide Phase 3A audit. Shared corrections only in `src/components/projects/`. No commit, push, or deploy. Preserved untracked plans and Phase 3A QA evidence. Navigation/lightbox fix remained at HEAD `a5b0091`.
+
+Projects listing: video banner height matched reference (**428.5** desktop / **315.4** tablet / **423.4** mobile); title Livvic **40.32px / 500 / lh 1** top-aligned (y≈103 at 1440); grid gap **35×30**; cards `#f5f5f5`, radius **3px**, shadow `0 0 10px / 15%`; card title **21px/600** (mobile **24.2px**); place **14.4px/600** gray; Know more **14.4px/500**; section top padding ≈**43px**. Destinations unchanged.
+
+Portfolio details (shared layout for all 20 routes): gallery geometry ≈1200×437; title **31.68px/600**; section headings **20px/700**; bullets via `list-style-image` Bullet-Points asset at **14.4px**; prev/next **30px** gray chevrons (not orange circles); stamp ≈**232px**; Enquire Now band preserved to `/contact/`. Content/identity verified HTTP 200 for all 20 slugs; Etisalat empty Key Highlights and Vodafone Other Information URL retained.
+
+Checks, 2026-10-12: targeted eslint on projects TypeScript files and `npm run typecheck` passed; one production build passed (42 static pages). Visual/metric compare vs reference at 1440×900, 768×1024, and 390×844 on `/projects/` plus deep checks on Pune (single image) and Bhamashah (6-image gallery). Soft-nav: project card and Next project kept one navigation timing entry; gallery Next advanced 1→2 of 6; homepage sticky award Close still present; no page overflow at three widths. Later closed by Phase 3E final corrections: white Enquire outline and ~653px text column. Remaining: card height a few dozen px under reference on some titles.
 
 ## Navigation follow-up — homepage award card interaction
 

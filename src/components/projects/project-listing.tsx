@@ -1,8 +1,6 @@
 import Link from "next/link";
 import { HeroVideo } from "@/components/home/hero-video";
 import { Container } from "@/components/ui/container";
-import { Heading } from "@/components/ui/heading";
-import { Section } from "@/components/ui/section";
 import { projectHref, projects, projectsListing } from "@/content/projects";
 import styles from "./projects.module.css";
 
@@ -13,12 +11,12 @@ export function ProjectListing() {
         <HeroVideo src={projectsListing.video} />
         <div className={styles.shade} aria-hidden="true" />
         <Container className={styles.bannerContent}>
-          <Heading level={1} id="projects-page-title" className={styles.bannerTitle}>
+          <h1 id="projects-page-title" className={styles.bannerTitle}>
             {projectsListing.heading}
-          </Heading>
+          </h1>
         </Container>
       </header>
-      <Section aria-labelledby="projects-page-title">
+      <section className={styles.listing} aria-labelledby="projects-page-title">
         <Container>
           <ul className={styles.grid}>
             {projects.map((project) => (
@@ -37,7 +35,7 @@ export function ProjectListing() {
             ))}
           </ul>
         </Container>
-      </Section>
+      </section>
     </div>
   );
 }
