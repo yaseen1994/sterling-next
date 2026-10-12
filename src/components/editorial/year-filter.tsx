@@ -31,10 +31,12 @@ export function YearFilter({
       </div>
       <ul className={styles.newsList}>
         {visible.map((item) => (
-          <li key={`${item.date}-${item.href}`}>
-            <p className={styles.newsDate}>{item.date}</p>
-            <h2>{item.title}</h2>
-            <a href={item.href} target="_blank" rel="noopener noreferrer">
+          <li className={styles.newsCard} key={`${item.date}-${item.href}`}>
+            <h2 className={styles.newsTitle}>
+              <span className={styles.newsDate}>{item.date}</span>
+              {item.title}
+            </h2>
+            <a className={styles.readMore} href={item.href} target="_blank" rel="noopener noreferrer">
               Read More
               <span className="sr-only">, {item.title} (opens in a new tab)</span>
             </a>

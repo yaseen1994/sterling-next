@@ -8,6 +8,7 @@ import { Heading } from "@/components/ui/heading";
 import { Section } from "@/components/ui/section";
 import { developmentRobots, newsPage, yearsFor } from "@/content/editorial";
 
+
 export const metadata: Metadata = {
   title: newsPage.title,
   description: newsPage.description,
@@ -17,8 +18,15 @@ export const metadata: Metadata = {
 export default function NewsPage() {
   return (
     <div className={pageStyles.page}>
-      <PageBanner id="news-banner-title" level={1} size={2} title={newsPage.banner.title} image={newsPage.banner.image} />
-      <Section aria-label="News sections">
+      <PageBanner
+        id="news-banner-title"
+        level={1}
+        size={2}
+        title={newsPage.banner.title}
+        image={newsPage.banner.image}
+        variant="tall"
+      />
+      <Section className={styles.editorialSection} aria-label="News sections">
         <Container>
           <ul className={styles.sectionNav}>
             {newsPage.sections.map((section) => (
@@ -30,9 +38,14 @@ export default function NewsPage() {
         </Container>
       </Section>
       {newsPage.sections.map((section) => (
-        <Section id={section.id} key={section.id} aria-labelledby={`${section.id}-title`}>
+        <Section
+          className={styles.editorialSection}
+          id={section.id}
+          key={section.id}
+          aria-labelledby={`${section.id}-title`}
+        >
           <Container>
-            <Heading level={2} id={`${section.id}-title`} className={pageStyles.accent}>
+            <Heading level={2} id={`${section.id}-title`} className={styles.sectionHeading}>
               {section.title}
             </Heading>
             <YearFilter label={section.title} years={yearsFor(section.items)} items={section.items} />

@@ -15,13 +15,13 @@ export const metadata: Metadata = {
 export default function ArticlePage() {
   return (
     <div className={pageStyles.page}>
-      <Section aria-labelledby="article-title">
+      <Section className={styles.editorialSection} aria-labelledby="article-title">
         <Container>
           <article className={styles.article}>
-            <Heading level={1} id="article-title">
+            <Heading level={1} id="article-title" className={styles.articleHeading}>
               {articlePage.heading}
             </Heading>
-            <img src={articlePage.image.src} alt={articlePage.image.alt} />
+            <img className={styles.articleHero} src={articlePage.image.src} alt={articlePage.image.alt} />
             <div className={styles.prose}>
               {articlePage.paragraphs.map((paragraph, index) => (
                 <p className={index === articlePage.paragraphs.length - 1 ? styles.byline : undefined} key={paragraph}>

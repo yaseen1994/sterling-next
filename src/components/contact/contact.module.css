@@ -1,3 +1,8 @@
+.contactSection,
+.officesSection {
+  padding-block: 2.5rem !important;
+}
+
 .intro,
 .offices,
 .fields,
@@ -8,29 +13,58 @@
 
 .intro {
   align-items: start;
+  gap: 2rem;
 }
 
 .headOffice {
-  padding: 2rem 1.5rem;
-  border-radius: 1.25rem;
-  background: linear-gradient(180deg, #ff8a4c 0%, var(--color-site-accent) 100%);
-  color: var(--color-site-inverse);
+  padding: 3.625rem 2.5rem;
+  border-radius: 5px;
+  background: linear-gradient(250deg, #f15a22 5%, #f6906a 51%);
+  color: #fff;
 }
 
-.headOffice h2,
-.headOffice h3 {
-  color: inherit;
+.headOfficeTitle {
+  margin: 0 0 1.25rem;
+  color: #fff;
+  font-size: 1.44rem;
+  font-weight: 600;
+  line-height: 1;
+}
+
+.detail {
+  display: grid;
+  grid-template-columns: 2.5625rem minmax(0, 1fr);
+  gap: 0.75rem;
+  align-items: start;
 }
 
 .detail + .detail {
-  margin-top: 1.25rem;
+  margin-top: 0.85rem;
+}
+
+.detailIcon {
+  display: grid;
+  width: 2.5625rem;
+  height: 2.5625rem;
+  place-items: center;
+  border-radius: 50%;
+  background: #fff;
+  color: #f15a22;
+}
+
+.detailLabel {
+  margin: 0;
+  color: #fff;
+  font-size: 0.99rem;
+  font-weight: 600;
+  line-height: 1.2;
 }
 
 .address {
-  margin-top: 0.35rem;
+  margin-top: 0.2rem;
   font-style: normal;
-  font-size: var(--text-site-body);
-  line-height: 1.45;
+  font-size: 1rem;
+  line-height: 1.5;
 }
 
 .line {
@@ -40,6 +74,10 @@
 
 .headOffice a {
   color: inherit;
+  text-decoration: none;
+}
+
+.headOffice a:hover {
   text-decoration: underline;
   text-underline-offset: 0.15em;
 }
@@ -49,22 +87,40 @@
 .field input:focus-visible,
 .field select:focus-visible,
 .field textarea:focus-visible {
-  outline: 3px solid var(--color-site-accent);
+  outline: 3px solid #fff;
   outline-offset: 3px;
 }
 
-.headOffice a:focus-visible {
-  outline-color: var(--color-site-inverse);
+.field input:focus-visible,
+.field select:focus-visible,
+.field textarea:focus-visible,
+.consent a:focus-visible {
+  outline-color: var(--color-site-accent);
+}
+
+.formColumn {
+  min-width: 0;
+}
+
+.formTitle {
+  margin: 0;
+  color: #f14a22;
+  font-size: 2.34rem;
+  font-weight: 700;
+  line-height: 1;
 }
 
 .lead {
-  margin-top: 0.75rem;
-  font-size: var(--text-site-body);
-  line-height: 1.45;
+  margin-top: 0.65rem;
+  color: #000;
+  font-size: 1.26rem;
+  font-weight: 400;
+  line-height: 1.4;
 }
 
 .fields {
-  margin-top: 1.5rem;
+  margin-top: 1.25rem;
+  gap: 1rem;
 }
 
 .field {
@@ -74,20 +130,30 @@
 }
 
 .field span {
-  font-weight: 600;
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
 }
 
 .field input,
 .field select,
 .field textarea {
   width: 100%;
-  min-height: 2.75rem;
-  padding: 0.65rem 0.75rem;
-  border: 1px solid #c8c8c8;
-  border-radius: var(--radius-control);
-  background: var(--color-site-surface);
+  min-height: 3.75rem;
+  padding: 15px 20px;
+  border: 0;
+  border-radius: 5px;
+  background: #e0dfdf;
   color: var(--color-site-ink);
   font: inherit;
+  font-size: 0.9rem;
+  line-height: 1.2;
 }
 
 .field textarea {
@@ -124,32 +190,65 @@
 }
 
 .sectionLabel {
-  color: var(--color-site-ink);
+  margin: 0;
+  color: #0a0a0a;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.39;
 }
 
 .sectionLabel::before {
-  content: "";
-  display: block;
-  width: 2.5rem;
-  height: 0.2rem;
-  margin-bottom: 0.75rem;
-  background: var(--color-site-accent);
+  content: none;
 }
 
 .location {
-  color: var(--color-site-accent);
+  margin: 0;
+  color: #f15a22;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1;
 }
 
 .company {
   margin-top: 0.75rem;
-  color: var(--color-site-ink);
+  color: #454545;
+  font-size: 0.875rem;
+  font-weight: 600;
+  line-height: 1.2;
 }
 
 .office p {
   margin-top: 0.45rem;
   color: var(--color-site-text);
-  font-size: var(--text-site-body);
+  font-size: 1rem;
   line-height: 1.45;
+}
+
+.offices {
+  margin-top: 1.25rem;
+  gap: 1.75rem 1.5rem;
+}
+
+@media (max-width: 47.99rem) {
+  .headOffice {
+    padding: 2.25rem 1.5rem;
+  }
+
+  .formTitle {
+    font-size: 1.8rem;
+  }
+
+  .lead {
+    font-size: 1.05rem;
+  }
+
+  .location {
+    font-size: 1.5rem;
+  }
+
+  .sectionLabel {
+    font-size: 1.5rem;
+  }
 }
 
 @media (min-width: 48rem) {
@@ -160,16 +259,19 @@
   .wide {
     grid-column: 1 / -1;
   }
+
+  .offices {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
 }
 
 @media (min-width: 64rem) {
   .intro {
-    grid-template-columns: minmax(16rem, 0.85fr) minmax(0, 1.15fr);
-    gap: 2.5rem;
+    grid-template-columns: minmax(16rem, 26.9rem) minmax(0, 1fr);
+    gap: 2.25rem;
   }
 
   .offices {
     grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 2rem 1.5rem;
   }
 }

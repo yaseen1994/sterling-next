@@ -12,6 +12,7 @@ export const careersPage = {
   banner: {
     title: "Careers",
     image: "/assets/images/Careers-Banner-36060a.jpg",
+    mobileImage: "/assets/images/Untitled-design-2-f59b59.png",
   },
   heading: "Life at Sterling & Wilson Data Center",
   subheading: "Join a team that’s building data centers across the world.",

@@ -24,20 +24,23 @@ export default function BlogsPage() {
         title={blogsPage.banner.title}
         image={blogsPage.banner.image}
         mobileImage={blogsPage.banner.mobileImage}
+        variant="tall"
       />
-      <Section aria-labelledby="blogs-banner-title">
+      <Section className={styles.editorialSection} aria-labelledby="blogs-banner-title">
         <Container>
           <ul className={styles.blogList}>
             {blogsPage.items.map((item) => (
               <li key={item.href}>
                 <article className={styles.articleCard}>
-                  <Link href={item.href}>
+                  <Link className={styles.articleCardMedia} href={item.href}>
                     <img src={item.image.src} alt={item.image.alt} />
                   </Link>
-                  <Heading level={2}>
+                  <Heading level={2} className={styles.articleCardTitle}>
                     <Link href={item.href}>{item.title}</Link>
                   </Heading>
-                  <Link href={item.href}>Read More</Link>
+                  <Link className={styles.readMore} href={item.href}>
+                    Read More
+                  </Link>
                 </article>
               </li>
             ))}

@@ -2,6 +2,14 @@
 
 Updated: 2026-10-12
 
+## Phase 3F — remaining interior page fidelity
+
+Completed visual/content/responsive fidelity corrections for Careers, Contact, News, Events, Blogs, the AI article, and Privacy Policy from [docs/qa/phase-3a/FIDELITY-AUDIT.md](docs/qa/phase-3a/FIDELITY-AUDIT.md) findings `F-070` / `F-072` (Contact submit `F-071` remains owner-gated). No commit, push, or deploy. Preserved untracked plans and Phase 3A QA evidence. Started from HEAD `b06b5e7` (Phase 3E committed).
+
+Careers: wired local mobile hero `Untitled-design-2-f59b59.png` at ≤767px; preserved approved desktop Careers styling and Darwinbox Apply Now. Contact: tall **428px** banner; head-office card gradient/radius/padding/typography + icon rows; gray **60px** form fields; international office type scale; form remains disabled. Editorial: tall banners; News 2-column cards with combined date/title, pink section nav, year select chrome; Events image **479×360**, orange titles, gray meta; Blogs/article card crop and type; Privacy content width and disclosure type. Legal wording unchanged.
+
+Checks, 2026-10-12: targeted eslint on changed TypeScript files and `npm run typecheck` passed; one production build passed (42 static pages). Measured at 1440×900 vs reference (Contact banner **428**, head office **431×** gradient **250deg**, News cards ~**590** wide / title **18.72/400**, Events image **478.8×360**). Mobile 390: Careers hero uses Untitled-design-2 at **423.4** height; no overflow on scoped routes. Tablet 768: Careers desktop banner **315.4**; no overflow. Soft checks: homepage, Projects, Design & Build HTTP 200. Remaining: Contact submit blocked; careers stats panel still a few px under reference; news year control is native `<select>` (not EAEL dropdown chrome); reference Events keeps carousel chrome on some single-image items.
+
 ## Phase 3E final corrections — portfolio Enquire and text column
 
 Two scoped reference-fidelity fixes on the existing Phase 3E portfolio detail layout. No Projects listing re-audit. No commit, push, or deploy. Preserved untracked plans and Phase 3A QA evidence. HEAD remained `a5b0091`.

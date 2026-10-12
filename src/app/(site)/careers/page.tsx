@@ -17,7 +17,10 @@ export default function CareersPage() {
   return (
     <div className={pageStyles.page}>
       <header className={styles.hero}>
-        <img className={styles.heroImage} src={careersPage.banner.image} alt="" />
+        <picture>
+          <source media="(max-width: 767px)" srcSet={careersPage.banner.mobileImage} />
+          <img className={styles.heroImage} src={careersPage.banner.image} alt="" />
+        </picture>
         <div className={styles.heroShade} aria-hidden="true" />
         <Container className={styles.heroInner}>
           <Heading level={2} id="careers-banner-title">

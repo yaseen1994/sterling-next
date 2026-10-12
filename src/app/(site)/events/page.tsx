@@ -23,19 +23,22 @@ export default function EventsPage() {
         title={eventsPage.banner.title}
         image={eventsPage.banner.image}
         mobileImage={eventsPage.banner.mobileImage}
+        variant="tall"
       />
-      <Section aria-labelledby="events-banner-title">
+      <Section className={styles.editorialSection} aria-labelledby="events-banner-title">
         <Container>
           <div className={styles.events}>
             {eventsPage.items.map((item) => (
               <article className={styles.event} key={item.title}>
                 <MediaGallery images={item.images} label={item.title} />
-                <div>
-                  <h2>{item.title}</h2>
+                <div className={styles.eventCopy}>
+                  <h2 className={styles.eventTitle}>{item.title}</h2>
                   <p className={styles.meta}>{item.date}</p>
                   <p className={styles.meta}>{item.place}</p>
                   {item.paragraphs.map((paragraph) => (
-                    <p key={paragraph}>{paragraph}</p>
+                    <p className={styles.eventBody} key={paragraph}>
+                      {paragraph}
+                    </p>
                   ))}
                 </div>
               </article>

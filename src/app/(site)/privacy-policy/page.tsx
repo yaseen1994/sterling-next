@@ -22,42 +22,45 @@ export default function PrivacyPolicyPage() {
         title={privacyPage.banner.title}
         image={privacyPage.banner.image}
         mobileImage={privacyPage.banner.mobileImage}
+        variant="tall"
       />
-      <Section aria-labelledby="privacy-title">
+      <Section className={styles.editorialSection} aria-labelledby="privacy-title">
         <Container>
-          <Heading level={1} id="privacy-title">
-            {privacyPage.heading}
-          </Heading>
-          <div className={styles.disclosures}>
-            {privacyPage.sections.map((section) => (
-              <details className={styles.disclosure} key={section.title}>
-                <summary>{section.title}</summary>
-                {section.blocks.map((block) => {
-                  if (block.kind === "list") {
-                    return (
-                      <div key={block.intro}>
-                        <p>{block.intro}</p>
-                        <ul>
-                          {block.items.map((item) => (
-                            <li key={item}>{item}</li>
-                          ))}
-                        </ul>
-                      </div>
-                    );
-                  }
-                  if (block.kind === "email") {
-                    return (
-                      <p key={block.email}>
-                        {block.text}
-                        <br />
-                        <a href={`mailto:${block.email}`}>{block.email}</a>
-                      </p>
-                    );
-                  }
-                  return block.text.map((paragraph) => <p key={paragraph}>{paragraph}</p>);
-                })}
-              </details>
-            ))}
+          <div className={styles.privacy}>
+            <Heading level={1} id="privacy-title" className={styles.privacyHeading}>
+              {privacyPage.heading}
+            </Heading>
+            <div className={styles.disclosures}>
+              {privacyPage.sections.map((section) => (
+                <details className={styles.disclosure} key={section.title}>
+                  <summary>{section.title}</summary>
+                  {section.blocks.map((block) => {
+                    if (block.kind === "list") {
+                      return (
+                        <div key={block.intro}>
+                          <p>{block.intro}</p>
+                          <ul>
+                            {block.items.map((item) => (
+                              <li key={item}>{item}</li>
+                            ))}
+                          </ul>
+                        </div>
+                      );
+                    }
+                    if (block.kind === "email") {
+                      return (
+                        <p key={block.email}>
+                          {block.text}
+                          <br />
+                          <a href={`mailto:${block.email}`}>{block.email}</a>
+                        </p>
+                      );
+                    }
+                    return block.text.map((paragraph) => <p key={paragraph}>{paragraph}</p>);
+                  })}
+                </details>
+              ))}
+            </div>
           </div>
         </Container>
       </Section>
