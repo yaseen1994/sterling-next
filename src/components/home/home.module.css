@@ -1,6 +1,7 @@
 .page {
   background: var(--color-site-surface);
   color: var(--color-site-text);
+  overflow-x: clip;
 }
 
 .ticker {
@@ -28,6 +29,11 @@
 }
 
 .sectionTitle {
+  line-height: 1;
+}
+
+.sectionSubtitle {
+  margin-top: 0.625rem;
   line-height: 1;
 }
 
@@ -79,7 +85,7 @@
 .barInverse {
   width: 100px;
   height: 6.4px;
-  margin-bottom: 0.85rem;
+  margin-bottom: 0.625rem;
   background: var(--color-site-accent);
 }
 
@@ -88,10 +94,11 @@
 }
 
 .intro {
-  max-width: 52rem;
+  max-width: none;
 }
 
 .services {
+  scroll-margin-top: 5rem;
   background: #f6f7f9;
 }
 
@@ -232,10 +239,14 @@
   min-height: 29.95rem;
 }
 
+.impact {
+  background: #f6f7f9;
+}
+
 .shade {
   position: absolute;
   inset: 0;
-  background: rgb(8 12 20 / 68%);
+  background: rgb(99 99 99 / 84%);
 }
 
 .companyGrid,
@@ -261,9 +272,18 @@
   line-height: 1.5;
 }
 
+.company p {
+  font-size: 1.26rem;
+  line-height: 1.4;
+}
+
+.companyCopy {
+  max-width: 80%;
+}
+
 .frame {
   width: 100%;
-  max-width: 37.375rem;
+  max-width: none;
   aspect-ratio: 16 / 9;
   border: 0;
   background: #000;
@@ -281,20 +301,22 @@
 .stats > * {
   flex: 1 1 9rem;
   min-width: 9rem;
-  max-width: 15.5rem;
+  max-width: 15.55rem;
 }
 
 .statValue {
   color: var(--color-site-accent);
   font-size: 2.79rem;
   font-weight: 500;
-  line-height: 1.1;
+  line-height: 1;
 }
 
 .statLabel {
-  margin-top: 0.45rem;
-  font-size: 1rem;
-  line-height: 1.35;
+  margin-top: 2.275rem;
+  color: #1f1f1f;
+  font-size: 1.35rem;
+  font-weight: 500;
+  line-height: 1.2;
 }
 
 .scroller {
@@ -304,6 +326,7 @@
   overflow-x: auto;
   scroll-snap-type: x mandatory;
   padding-bottom: 0.35rem;
+  scrollbar-width: thin;
 }
 
 .scroller:focus-visible {
@@ -367,10 +390,12 @@
 .awardCard {
   display: grid;
   place-items: center;
-  min-height: 0;
-  padding: 0;
+  box-sizing: border-box;
+  width: 100%;
+  min-height: 12.8rem;
+  padding: 44px 84px 35px 83px;
   border: 0;
-  background: transparent;
+  background: #fff;
   cursor: pointer;
   font: inherit;
 }
@@ -380,7 +405,7 @@
   width: 11.125rem;
   max-width: 100%;
   height: auto;
-  max-height: 7.875rem;
+  max-height: 7.8625rem;
   object-fit: contain;
 }
 
@@ -488,16 +513,20 @@
   opacity: 0.8;
 }
 
+.projectScroller {
+  gap: 1.875rem;
+}
+
 .projectScroller > * {
   flex-basis: min(16.625rem, 100%);
 }
 
 .awardScroller {
-  gap: 1.5rem;
+  gap: 3.375rem;
 }
 
 .awardScroller > * {
-  flex: 0 0 11.125rem;
+  flex: 0 0 21.5625rem;
 }
 
 .map {
@@ -588,6 +617,24 @@
   .card:focus-within .cardTitle {
     color: #fff;
   }
+
+  .companyCopy {
+    max-width: none;
+  }
+
+  .statLabel {
+    margin-top: 1.25rem;
+    font-size: 1.125rem;
+  }
+
+  .awardCard {
+    min-height: 0;
+    padding: 1.5rem 1.25rem;
+  }
+
+  .awardScroller > * {
+    flex-basis: min(16rem, 85%);
+  }
 }
 
 @media (min-width: 48rem) {
@@ -605,11 +652,11 @@
   }
 
   .projectScroller > * {
-    flex-basis: min(16.625rem, calc(50% - 0.55rem));
+    flex-basis: min(16.625rem, calc(50% - 0.9375rem));
   }
 
   .awardScroller > * {
-    flex-basis: 11.125rem;
+    flex-basis: 21.5625rem;
   }
 }
 
@@ -634,9 +681,16 @@
   }
 
   .companyGrid,
-  .projectLayout,
   .testimonialGrid {
-    grid-template-columns: 1.05fr 0.95fr;
+    grid-template-columns: 1fr 1fr;
+    gap: 0 1.875rem;
+  }
+
+  .projectLayout {
+    grid-template-columns: 32.775rem minmax(0, 1fr);
+    gap: 1.1rem 0;
+    width: calc(100% + (100vw - 100%) / 2);
+    margin-right: calc((100% - 100vw) / 2);
   }
 
   .stats {
@@ -665,7 +719,7 @@
   }
 
   .awardScroller > * {
-    flex-basis: 11.125rem;
+    flex-basis: 21.5625rem;
   }
 
   .frame {

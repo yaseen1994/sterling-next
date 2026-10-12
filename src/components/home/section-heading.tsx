@@ -27,7 +27,7 @@ export function SectionHeading({
       {subtitle ? (
         <Heading
           level={3}
-          className={tone === "dark" ? "mt-3 text-site-inverse" : "mt-3 text-site-ink"}
+          className={`${styles.sectionSubtitle} ${tone === "dark" ? "text-site-inverse" : "text-site-ink"}`}
         >
           {subtitle}
         </Heading>

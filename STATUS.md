@@ -2,6 +2,14 @@
 
 Updated: 2026-10-12
 
+## Phase 3I — Homepage final visual refinement
+
+Scoped homepage visual-fidelity corrections from remaining owner screenshot discrepancies versus the WordPress reference, using Phase 3A/3B/3C as baseline. No redesign, no new carousel dependencies, no commit/push/deploy. Preserved untracked plans and Phase 3A QA evidence. Started from HEAD `900ebfc` (Phase 3H committed).
+
+Services heading: measured matched scroll (title ≈82px under 74.5 sticky header) — no clipping vs reference; added `scroll-margin-top: 5rem` and tightened bar/subtitle spacing (`10px`, subtitle `lh 1`). Our Company: overlay `rgb(99 99 99 / 84%)`; equal 50/50 columns; body **20.16px / lh 1.4 / max-width 80%**; video ≈**585×329**. Impact: section bg `#f6f7f9`; numbers `lh 1`; labels **21.6px/500/#1f1f1f** with **36.4px** gap. Projects: text column **524.4**, carousel breakout ≈**796** with **3** visible cards and **30px** gap. Awards: white padded cards **345×204.8**, images **178×124**, gap **54**; lightbox Escape/close preserved. Testimonials: same gray overlay and equal columns / ≈**585×329** video. Presence: removed `.intro` max-width so subtitle stays one line at 1440 (**1200×25.9**). Sticky award unchanged (**256.5×149.6**, home-only).
+
+Checks, 2026-10-12: targeted eslint on changed TypeScript and `npm run typecheck` passed; no production build (CSS-scoped). Measured at 1440×900 vs reference; soft checks at 768 and 390 with no page overflow. Award lightbox open/Escape; projects Next scrolls; sticky Close present on `/` and absent on `/design-build/`; soft HTTP 200 for About, Design & Build, Projects, Careers; Design & Build Enquire stayed orange. Remaining accepted: local award inventory still 5 slides vs reference’s larger track; company/testimonial video a few px under reference column width (container); projects section height still a few dozen px under reference; Presence subtitle wraps at tablet/mobile as viewport requires.
+
 ## Phase 3H — Contact and Careers final visual refinement
 
 Scoped typography/alignment/spacing corrections on `/contact/` and `/careers/` from owner screenshot discrepancies versus the WordPress reference. No redesign. Form remains disabled with the development notice. Careers hero, benefit cards, mobile hero asset, and Darwinbox Apply Now preserved. No commit, push, or deploy. Preserved untracked plans and Phase 3A QA evidence. Started from HEAD `0b7e789` (Phase 3F committed).

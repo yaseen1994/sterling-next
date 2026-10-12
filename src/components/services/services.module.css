@@ -170,7 +170,7 @@
 .shade {
   position: absolute;
   inset: 0;
-  background: rgb(8 12 20 / 68%);
+  background: rgb(99 99 99 / 84%);
 }
 
 .projectsTitle {
@@ -428,13 +428,24 @@
 }
 
 @media (min-width: 64rem) {
+  .page {
+    overflow-x: clip;
+  }
+
   .intro,
   .introMedia,
-  .projectLayout,
   .panels {
     grid-template-columns: minmax(16rem, 0.9fr) minmax(0, 1.1fr);
     gap: 2.5rem;
     align-items: start;
+  }
+
+  .projectLayout {
+    grid-template-columns: 32.775rem minmax(0, 1fr);
+    gap: 1.1rem 0;
+    align-items: center;
+    width: calc(100% + (100vw - 100%) / 2);
+    margin-right: calc((100% - 100vw) / 2);
   }
 
   .features,

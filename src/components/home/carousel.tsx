@@ -32,7 +32,7 @@ export function Carousel({
     const card = node.firstElementChild;
     const width =
       card instanceof HTMLElement ? card.getBoundingClientRect().width : node.clientWidth;
-    const gap = variant === "awards" ? 24 : 18;
+    const gap = variant === "awards" ? 54 : variant === "projects" ? 30 : 18;
     const reduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
     node.scrollBy({ left: direction * (width + gap), behavior: reduced ? "auto" : "smooth" });
   }

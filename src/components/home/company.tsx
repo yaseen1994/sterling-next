@@ -23,7 +23,7 @@ export function Company() {
               subtitle={companyContent.subtitle}
               tone="dark"
             />
-            <p>{companyContent.body}</p>
+            <p className={styles.companyCopy}>{companyContent.body}</p>
             <Link className={styles.textLink} href={companyContent.cta.href}>
               {companyContent.cta.label}
             </Link>

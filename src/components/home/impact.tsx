@@ -6,7 +6,7 @@ import styles from "./home.module.css";
 
 export function Impact() {
   return (
-    <Section aria-labelledby="impact-title">
+    <Section aria-labelledby="impact-title" className={styles.impact}>
       <Container>
         <SectionHeading
           id="impact-title"
