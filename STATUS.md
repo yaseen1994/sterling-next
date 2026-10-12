@@ -2,6 +2,14 @@
 
 Updated: 2026-10-12
 
+## Phase 3H — Contact and Careers final visual refinement
+
+Scoped typography/alignment/spacing corrections on `/contact/` and `/careers/` from owner screenshot discrepancies versus the WordPress reference. No redesign. Form remains disabled with the development notice. Careers hero, benefit cards, mobile hero asset, and Darwinbox Apply Now preserved. No commit, push, or deploy. Preserved untracked plans and Phase 3A QA evidence. Started from HEAD `0b7e789` (Phase 3F committed).
+
+Contact: intro columns **431×626** with **90px** gap; Head Office panel stretches to form column height; form title/lead spacing **10px** / lead-to-fields **35px**; field grid gap **15×10**, fields **60×308**, textarea **94.6**; consent **14.4px/#7a7a7a**, checkbox **13×13**, privacy link **#cc3366**; submit intrinsic **155.6** (not full-bleed). Careers: life section **5%** bottom padding restores **71.2px** white gap before dark opportunities; stats labels **#102b3e** with wrap-friendly column width; opportunities heading/copy max-width **428.5**, Apply Now **130.2×40**.
+
+Checks, 2026-10-12: targeted eslint on Contact TypeScript and `npm run typecheck` passed; no production build (CSS-scoped). Measured at 1440×900 vs reference. Soft checks at 768 and 390: no overflow on Contact/Careers; form disabled; Darwinbox Apply Now present. Remaining accepted: Contact panel height follows local form (includes disabled-notice block, taller than reference); stats panel a few px over reference when the last label wraps; Contact submit stays owner-gated (`F-071`).
+
 ## Phase 3F — remaining interior page fidelity
 
 Completed visual/content/responsive fidelity corrections for Careers, Contact, News, Events, Blogs, the AI article, and Privacy Policy from [docs/qa/phase-3a/FIDELITY-AUDIT.md](docs/qa/phase-3a/FIDELITY-AUDIT.md) findings `F-070` / `F-072` (Contact submit `F-071` remains owner-gated). No commit, push, or deploy. Preserved untracked plans and Phase 3A QA evidence. Started from HEAD `b06b5e7` (Phase 3E committed).

@@ -61,7 +61,7 @@ export function ContactForm() {
       <p id="contact-form-status" className={styles.status}>
         {form.unavailable}
       </p>
-      <Button type="submit" disabled aria-describedby="contact-form-status">
+      <Button type="submit" className={styles.submit} disabled aria-describedby="contact-form-status">
         {form.submit}
       </Button>
     </form>

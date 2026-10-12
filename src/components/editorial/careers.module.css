@@ -40,7 +40,7 @@
 }
 
 .life {
-  padding: 5% 0 0;
+  padding: 5% 0;
   background: #fff;
   color: #000;
 }
@@ -136,14 +136,15 @@
   grid-template-columns: minmax(0, 1fr);
   gap: 1.6rem 1rem;
   margin-top: 2.25rem;
-  padding: 3% 2%;
+  padding: 2.24375rem 0;
   background: #f5f6f9;
   text-align: center;
 }
 
 .stat {
   min-width: 0;
-  margin: 0;
+  max-width: 16.25rem;
+  margin: 0 auto;
 }
 
 .stat strong {
@@ -158,7 +159,7 @@
 .stat span {
   display: block;
   margin-top: 0.45rem;
-  color: #1f1f1f;
+  color: #102b3e;
   font-size: 1.3vw;
   font-weight: 500;
   line-height: 1.2;
@@ -184,16 +185,16 @@
 
 .opportunities h2 {
   margin: 0;
-  max-width: 22rem;
+  max-width: 26.78125rem;
   color: #fff;
   font-size: 2vw;
   font-weight: 600;
-  line-height: 1.4;
+  line-height: 1.3889;
 }
 
 .opportunities p {
-  margin: 0.85rem 0 0;
-  max-width: 27rem;
+  margin: 0.75rem 0 0;
+  max-width: 26.78125rem;
   color: #fff;
   font-size: 1.4vw;
   font-weight: 400;
@@ -205,7 +206,7 @@
   align-items: center;
   justify-content: center;
   min-height: 2.5rem;
-  margin-top: 1.15rem;
+  margin-top: 1.0625rem;
   padding: 12px 24px;
   border-radius: 24px;
   background: #f6906a;
@@ -233,7 +234,8 @@
 
   .stats {
     grid-template-columns: repeat(4, minmax(0, 1fr));
-    padding: 3% 1.5%;
+    padding: 2.24375rem 0;
+    justify-items: center;
   }
 }
 
@@ -295,7 +297,7 @@
   }
 
   .life {
-    padding-top: 10%;
+    padding: 10% 0;
   }
 
   .rule {
